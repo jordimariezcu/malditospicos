@@ -1,0 +1,28 @@
+﻿---
+title: "Over grip: una ayuda para evitar que te resbale la pala con el sudor"
+pubDate: "2025-02-21"
+updatedDate: "2025-08-13"
+category: "materiales"
+tags: ["Materiales"]
+draft: false
+---
+
+![Mango con over grip](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWuEw8B2WiLQYkg1dpi0QlzG0DL-PT1PMkglyXezpYa7vabJVO1OvxtPit3VkvUJhaLlrCs9BfwXNc22g0N7XIKU4ohH67uwGFGaznQqqnpE8K_2eAOnfjC-H1u8WJiRtjLktPAliVS-9Fljyv7GibtQn1SzUquJLQgOZEvKS4bMkNheLMcps04pFFzDo5/w400-h311/grip%20mango%20pala%20tenis%20mesa.jpg)
+|  |
+| --- |
+| Mango con over grip |
+
+Todos hemos vivido ese momento incómodo: estás en pleno punto importante, sudas como si estuvieras en una sauna finlandesa, y de repente tu pala intenta escapar de tu mano como si fuera un pez vivo. Aquí es donde entra el héroe no reconocido del tenis de mesa: el over grip.
+
+El over grip es una cinta fina que se coloca alrededor del mango de la pala. Su misión: mejorar el agarre, absorber el sudor y darte una sensación más cómoda en la mano. Lo hay de colores, texturas y grosores distintos, y hasta con dibujitos, por si quieres que tu pala tenga más personalidad que algunos jugadores del club.
+
+Además de evitar que la pala salga volando, el over grip también puede cambiar ligeramente el grosor del mango, algo útil si sientes que la empuñadura original es demasiado fina. Y, por supuesto, prolonga la vida del mango original, evitando que se manche, se desgaste o acabe oliendo a calcetín olvidado.
+
+Colocarlo es sencillo: se empieza desde la base del mango, envolviendo en espiral hacia arriba, y se fija con una pequeña cinta adhesiva. Algunos lo cambian cada pocas semanas, otros lo llevan hasta que el over grip parece más una reliquia que un accesorio deportivo.
+
+En definitiva: si quieres mantener el control en cada punto, evitar sustos y presumir de estilo, el over grip es tu mejor aliado. Y recuerda: una pala bien agarrada es media victoria… la otra media ya depende de tu revés.
+
+![Overgrip Butterfly](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiJyreeYDRghsnvyuU0z2BrfLjeWfHgyglbBiIF77mvy997Aa5vuDujrkSDRb5VcsEuueKqqglJyycbCQKIBYZ5Mne1KOdRPz-Gtb-m7sh0FJlBs6M6HVzWo4ZD3V9N1BsntgHRhEf5umZitNFf0F9Bfh63NpatSZoJiG9WEsWXCmMrq3aakVdStWQf1Pm/w224-h320/overgrip%20butterfly.jpg)
+|  |
+| --- |
+| Overgrip Butterfly |

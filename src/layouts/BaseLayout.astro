@@ -1,0 +1,198 @@
+---
+import '../styles/global.css';
+const { title, description, image, type = 'website', pubDate, updatedDate, category } = Astro.props;
+const siteTitle = 'Malditos Picos';
+const siteDesc = 'Todo sobre el tenis de mesa: gomas, maderas, palas y técnica.';
+const fullTitle = title ? `${title} · ${siteTitle}` : siteTitle;
+const metaDesc = description || siteDesc;
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+---
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{fullTitle}</title>
+  <meta name="description" content={metaDesc} />
+  <link rel="canonical" href={canonicalURL} />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content={fullTitle} />
+  <meta property="og:description" content={metaDesc} />
+  <meta property="og:type" content={type} />
+  <meta property="og:url" content={canonicalURL} />
+  <meta property="og:site_name" content={siteTitle} />
+  {image && <meta property="og:image" content={image} />}
+
+  <!-- Article specific -->
+  {type === 'article' && pubDate && <meta property="article:published_time" content={pubDate} />}
+  {type === 'article' && updatedDate && <meta property="article:modified_time" content={updatedDate} />}
+  {type === 'article' && category && <meta property="article:section" content={category} />}
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={fullTitle} />
+  <meta name="twitter:description" content={metaDesc} />
+
+  <!-- Sitemap & RSS -->
+  <link rel="sitemap" href="/sitemap-index.xml" />
+
+  <!-- Schema: WebSite -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": siteTitle,
+    "url": "https://www.malditospicos.com",
+    "description": siteDesc,
+    "inLanguage": "es"
+  })} />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="/" class="logo">
+        <span class="logo-main">Malditos</span>
+        <span class="logo-accent">Picos</span>
+      </a>
+      <nav class="main-nav">
+        <a href="/gomas/">Gomas</a>
+        <a href="/maderas/">Maderas</a>
+        <a href="/palas/">Palas</a>
+        <a href="/tecnica/">Técnica</a>
+        <a href="/jugadores/">Jugadores</a>
+        <a href="/guias/">Guías</a>
+      </nav>
+      <button class="nav-toggle" aria-label="Menú" id="navToggle">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <main>
+    <slot />
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div class="footer-brand">
+        <a href="/" class="logo"><span class="logo-main">Malditos</span><span class="logo-accent">Picos</span></a>
+        <p>Todo sobre el tenis de mesa</p>
+      </div>
+      <nav class="footer-nav">
+        <a href="/gomas/">Gomas</a>
+        <a href="/maderas/">Maderas</a>
+        <a href="/palas/">Palas</a>
+        <a href="/tecnica/">Técnica</a>
+        <a href="/jugadores/">Jugadores</a>
+        <a href="/guias/">Guías</a>
+      </nav>
+      <p class="footer-copy">© {new Date().getFullYear()} Malditos Picos · <a href="mailto:malditospicos@gmail.com">Contacto</a></p>
+    </div>
+  </footer>
+
+  <script>
+    const toggle = document.getElementById('navToggle');
+    const nav = document.querySelector('.main-nav');
+    toggle?.addEventListener('click', () => nav?.classList.toggle('open'));
+  </script>
+</body>
+</html>
+
+<style>
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: var(--header-bg);
+  border-bottom: 2px solid var(--accent-bright);
+}
+.header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 64px;
+  gap: 24px;
+}
+.logo {
+  font-family: var(--font-display);
+  font-size: 1.45rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  flex-shrink: 0;
+}
+.logo-main { color: #ffffff; }
+.logo-accent { color: var(--accent-bright); margin-left: 5px; }
+.main-nav {
+  display: flex;
+  gap: 2px;
+  flex-wrap: wrap;
+}
+.main-nav a {
+  font-family: var(--font-display);
+  font-size: 0.92rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.75);
+  padding: 6px 12px;
+  border-radius: var(--radius);
+  transition: all 0.15s;
+}
+.main-nav a:hover { color: #ffffff; background: rgba(255,255,255,0.1); }
+.nav-toggle {
+  display: none;
+  flex-direction: column;
+  gap: 5px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 4px;
+}
+.nav-toggle span {
+  display: block;
+  width: 22px;
+  height: 2px;
+  background: #ffffff;
+  border-radius: 2px;
+  transition: 0.2s;
+}
+.site-footer {
+  margin-top: 80px;
+  background: var(--header-bg);
+  border-top: 2px solid var(--accent-bright);
+}
+.footer-inner {
+  padding: 48px 24px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: center;
+  text-align: center;
+}
+.footer-brand p { font-size: 0.85rem; color: rgba(255,255,255,0.5); margin-top: 4px; }
+.footer-nav { display: flex; gap: 16px; flex-wrap: wrap; justify-content: center; }
+.footer-nav a { font-size: 0.82rem; font-family: var(--font-display); font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; color: rgba(255,255,255,0.65); }
+.footer-nav a:hover { color: #ffffff; }
+.footer-copy { font-size: 0.8rem; color: rgba(255,255,255,0.4); }
+.footer-copy a { color: rgba(255,255,255,0.65); }
+.footer-copy a:hover { color: #fff; }
+
+@media (max-width: 768px) {
+  .nav-toggle { display: flex; }
+  .main-nav {
+    display: none;
+    position: absolute;
+    top: 66px;
+    left: 0;
+    right: 0;
+    background: var(--header-bg);
+    border-bottom: 2px solid var(--accent-bright);
+    padding: 16px 24px;
+    flex-direction: column;
+    gap: 4px;
+  }
+  .main-nav.open { display: flex; }
+  .main-nav a { padding: 10px 12px; font-size: 1rem; }
+}
+</style>

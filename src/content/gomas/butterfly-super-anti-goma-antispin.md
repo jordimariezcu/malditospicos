@@ -1,0 +1,30 @@
+﻿---
+title: "Butterfly Super Anti - Goma antispin"
+pubDate: "2026-03-15"
+updatedDate: "2026-03-29"
+category: "gomas"
+tags: ["Gomas"]
+draft: false
+---
+
+![Butterfly Super Anti](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0en2YXyDJ5cpWpxeRJfZyyZ2JTzMUq_08RvYUtVolHaqtTzqnplenfOqew4J5JkelnNETAo_o4GNbw-GyZN1WyfUa7pDlQmtdYtjKqtXabKu8uUsmjC8RdAdCRxpj6EmMGxFBK9y75P4CeesGW_jhLqSV83NVe86qi5nkdUQ9U-1VoYwy7scL-ONN7jVM/w303-h320/Butterfly%20Super%20Anti.png)
+|  |
+| --- |
+| Butterfly Super Anti |
+
+La Super Anti es una goma de tipo antispin diseñada para neutralizar el juego del rival. A diferencia de las gomas ofensivas modernas, su superficie tiene muy poca fricción y una esponja muy blanda, lo que hace que absorba gran parte de la velocidad y del efecto de la pelota. El resultado es una devolución muy lenta y con poco o ningún efecto, lo que dificulta que el oponente ataque con comodidad .
+
+Su dureza es baja (esponja blanda), lo que aporta mucho control, pero prácticamente no genera spin propio. Es una goma pensada más para bloquear, amortiguar y variar el ritmo que para atacar. Permite devolver bolas “muertas” y jugar con cambios de efecto (o ausencia de él), confundiendo al rival .
+
+Su precio suele situarse aproximadamente entre 20 y 30 euros.
+
+Está dirigida a jugadores con un estilo defensivo o táctico, que buscan romper el ritmo del rival, bloquear con control o combinarla con una goma ofensiva en la otra cara de la pala. Es más habitual en jugadores experimentados que saben usar la variación de efectos y el cambio de pala durante el punto. 
+
+De las gomas antispin que he probado es la que genera un menor efecto. Es perfecta para adormecer el jugo, moviendo al rival con pelotas lentas pero muy precisas, y con efectos raros o sin efecto, y cuando menos se lo espere puedes atacar rápidamente con la otra goma.  
+
+ 
+
+![Butterfly Super Anti](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6vdSY2zSTC3o20woe273TP-pXSI9gtYqO00pqJjlkyyAjuo3y9IjaaDXWVj6-o5T11WC-06SKjp_An_3A6cNsZyGi7l9w9tVjQM4pedT2Ik9D1le_YxBRFgSbAca1eBVlHWt1e3d5TippagSqHyXMxWPmPU_btmxwE6L9ztb73A8AxQibwjOKPffLGtlZ/w320-h240/Goma%20Butterfly%20Super%20Anti.jpg)
+|  |
+| --- |
+| Butterfly Super Anti |

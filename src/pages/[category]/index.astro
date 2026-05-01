@@ -1,0 +1,61 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const collections = ['gomas','maderas','palas','tecnica','guias','jugadores','materiales','recursos'] as const;
+  const categoryMeta: Record<string, { label: string; description: string }> = {
+    gomas: { label: 'Gomas', description: 'Reseñas y análisis de gomas de tenis de mesa: lisas, picos cortos, medianos, largos, antispin y más.' },
+    maderas: { label: 'Maderas', description: 'Análisis de maderas de tenis de mesa: ofensivas, defensivas y allround para todos los niveles.' },
+    palas: { label: 'Configuraciones de Palas', description: 'Configuraciones de palas completas para jugadores profesionales y amateur.' },
+    tecnica: { label: 'Técnica', description: 'Saques, golpes, efectos y fundamentos técnicos del tenis de mesa.' },
+    guias: { label: 'Guías', description: 'Guías completas para entender el tenis de mesa: materiales, reglas y fundamentos.' },
+    jugadores: { label: 'Jugadores', description: 'Perfil y equipamiento de los mejores jugadores de tenis de mesa del mundo.' },
+    materiales: { label: 'Materiales', description: 'Todo sobre los materiales de tenis de mesa: gomas especiales, pelotas y accesorios.' },
+    recursos: { label: 'Recursos', description: 'Recursos y referencias para mejorar tu tenis de mesa.' },
+  };
+  return await Promise.all(
+    collections.map(async (col) => {
+      const posts = await getCollection(col);
+      return {
+        params: { category: col },
+        props: {
+          posts: posts.filter((p: any) => !p.data.draft).sort((a: any,b: any) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime()),
+          collection: col,
+          meta: categoryMeta[col]
+        }
+      };
+    })
+  );
+}
+const { posts, collection, meta } = Astro.props;
+---
+<BaseLayout title={meta.label} description={meta.description}>
+  <div class="cat-page">
+    <div class="container">
+      <div class="cat-header">
+        <a href="/" class="breadcrumb">Inicio</a>
+        <span> / </span>
+        <span>{meta.label}</span>
+      </div>
+      <h1 class="cat-title">{meta.label}</h1>
+      <p class="cat-desc">{meta.description}</p>
+      <div class="posts-count">{posts.length} artículos</div>
+      <div class="posts-grid">
+        {posts.map((post: any) => (
+          <PostCard post={post} collection={collection} />
+        ))}
+      </div>
+    </div>
+  </div>
+</BaseLayout>
+<style>
+.cat-page { padding: 40px 0 80px; }
+.cat-header { font-size: 0.85rem; color: var(--text-muted); margin-bottom: 24px; }
+.cat-header a:hover { color: var(--accent); }
+.cat-title { font-size: clamp(2rem, 4vw, 3rem); letter-spacing: -0.03em; margin-bottom: 12px; }
+.cat-desc { font-size: 1rem; color: var(--text-secondary); max-width: 560px; margin-bottom: 8px; }
+.posts-count { font-size: 0.82rem; color: var(--text-muted); margin-bottom: 40px; }
+.posts-grid { display: grid; gap: 10px; }
+</style>

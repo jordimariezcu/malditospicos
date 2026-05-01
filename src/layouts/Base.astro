@@ -1,0 +1,109 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+  image?: string;
+  type?: string;
+  canonicalURL?: string;
+  schema?: object;
+}
+
+const {
+  title,
+  description = 'Blog especializado en tenis de mesa: reseñas de gomas, maderas, picos y guías técnicas.',
+  image = '/og-default.jpg',
+  type = 'website',
+  canonicalURL = Astro.url.href,
+  schema,
+} = Astro.props;
+
+const siteTitle = title.includes('Malditos Picos') ? title : `${title} | Malditos Picos`;
+
+const navLinks = [
+  { href: '/gomas/', label: 'Gomas' },
+  { href: '/maderas/', label: 'Maderas' },
+  { href: '/palas/', label: 'Configuraciones' },
+  { href: '/tecnica/', label: 'Técnica' },
+  { href: '/jugadores/', label: 'Jugadores' },
+  { href: '/materiales/', label: 'Materiales' },
+];
+
+const currentPath = Astro.url.pathname;
+---
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{siteTitle}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonicalURL} />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content={type} />
+  <meta property="og:title" content={siteTitle} />
+  <meta property="og:description" content={description} />
+  <meta property="og:image" content={new URL(image, Astro.site)} />
+  <meta property="og:url" content={canonicalURL} />
+  <meta property="og:site_name" content="Malditos Picos" />
+  <meta property="og:locale" content="es_ES" />
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={siteTitle} />
+  <meta name="twitter:description" content={description} />
+  <meta name="twitter:image" content={new URL(image, Astro.site)} />
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Lora:wght@400;600;700&display=swap" rel="stylesheet" />
+
+  <!-- Schema -->
+  {schema && <script type="application/ld+json" set:html={JSON.stringify(schema)} />}
+
+  <!-- Umami Analytics (sin cookies) -->
+  <!-- <script defer src="https://TU-UMAMI-URL/script.js" data-website-id="TU-ID"></script> -->
+</head>
+<body>
+  <nav class="nav">
+    <div class="nav-inner">
+      <a href="/" class="nav-logo">Malditos<span>Picos</span></a>
+      <ul class="nav-links">
+        {navLinks.map(link => (
+          <li>
+            <a
+              href={link.href}
+              class={currentPath.startsWith(link.href) ? 'active' : ''}
+            >
+              {link.label}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </nav>
+
+  <main>
+    <slot />
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+      <span class="footer-logo">Malditos<span>Picos</span></span>
+      <ul class="footer-links">
+        <li><a href="/sobre-malditos-picos/">Sobre nosotros</a></li>
+        <li><a href="/sitemap-index.xml">Sitemap</a></li>
+        <li><a href="mailto:malditospicos@gmail.com">Contacto</a></li>
+      </ul>
+      <p class="footer-copy">© {new Date().getFullYear()} Malditos Picos</p>
+    </div>
+  </footer>
+</body>
+</html>

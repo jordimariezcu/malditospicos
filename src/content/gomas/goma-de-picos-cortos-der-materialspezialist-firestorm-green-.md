@@ -1,0 +1,26 @@
+﻿---
+title: "Goma de picos cortos: Der-Materialspezialist Firestorm Green Edition"
+pubDate: "2026-02-25"
+updatedDate: "2026-03-07"
+category: "gomas"
+tags: ["Gomas"]
+draft: false
+---
+
+![Der-Materialspezialist Firestorm Green Edition](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkm7hwqNPUdCigg3OLEcy71aZGiUBEv3hdOoN3UUqlrsbK0zkWHl1-scDcGFkrV7RYB6I_XRSVFzE8miD9kTpbR3SQKYJ50goGuv4rZKjX7JaBXlHHx0XVqd1ngFgPF-fRO5HQMfhZi008Wlwe6IwiwFVM2dkw5KQxyetrfcLfBGT-YrKITveFg2jsLu3O/w400-h400/Der-Materialspezialist%20firestorm%20green%20edition.jpg)
+|  |
+| --- |
+| Der-Materialspezialist Firestorm Green Edition |
+
+Vamos a analizar la Der-Materialspezialist Firestorm Green Edition, una nueva edición de la Firestorm únicamente de color verde, que añade algunos otros cambios.
+
+Nos encontramos ante una goma de picos cortos muy ofensiva. Tiene los picos bastante juntos y anchos, y tiene forma de cono con la parte superior completamente lisa, sin estrías. Su esponja tiene un importante efecto catapulta, algo que no encontrábamos en la versión original. 
+
+Esta combinación de factores da como resultado una goma muy ofensiva. Por un lado, la parte lisa del pico nos ayuda a neutralizar por completo el efecto entrante, por lo que no tenemos que leer el efecto que trae la bola. Cabe añadir su gran velocidad, debido a que la dureza del caucho y el efecto catapulta de la esponja hacen que la pelota salga disparada. 
+
+En mi caso me gusta utilizarla de drive, sin duda, y con una goma en el revés que sea lenta e incómoda (antitop, picos largos OX, ...). De esta forma tenemos con el revés un juego lento y pesado para el rival, pero en cuanto se despistan les llega un misil de drive.
+
+Especialmente útil para jugar contra rivales que utilicen también picos, así nos ahorramos tener que calcular como viene cada bola.![Der-Materialspezialist Firestorm Green Edition](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMfPcYr25jdismcVnHL-GTlYMPaawQh5jEicIIYo7bu4XHro_9DcZQfthSCctFzeqAUoITXtC9C4LjggZDpaQqyBtVBn_gQ_aoHQ7lhVPW_tI_mWTi75O5pq1OYc9H6bGtC0-iUTKkhI5c5vNYBIEJhR_Jgledd-HFAgBYFt0bTCW6CSYm0hLEc2AZN8sp/w400-h285/firestorm%20green%20edition%20picos%20cortos.jpg)
+|  |
+| --- |
+| Der-Materialspezialist Firestorm Green Edition |

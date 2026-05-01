@@ -1,0 +1,161 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from '../components/PostCard.astro';
+import { getCollection } from 'astro:content';
+
+const collections = ['gomas','maderas','palas','tecnica','guias','jugadores','materiales','recursos'] as const;
+const allPosts = (await Promise.all(
+  collections.map(async (col) => {
+    const posts = await getCollection(col);
+    return posts.map(p => ({ ...p, collection: col }));
+  })
+)).flat().filter(p => !p.data.draft)
+  .sort((a,b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime());
+
+const recentPosts = allPosts.slice(0, 9);
+
+const categories = [
+  { slug: 'gomas', label: 'Gomas', desc: 'Lisas, picos, antispin y más', icon: '🏓' },
+  { slug: 'maderas', label: 'Maderas', desc: 'Allround, ofensivas, defensivas', icon: '🪵' },
+  { slug: 'palas', label: 'Configuraciones', desc: 'Palas pro y amateur', icon: '⚙️' },
+  { slug: 'tecnica', label: 'Técnica', desc: 'Saques, golpes y efectos', icon: '📐' },
+  { slug: 'jugadores', label: 'Jugadores', desc: 'Los mejores del mundo', icon: '🏆' },
+  { slug: 'guias', label: 'Guías', desc: 'Todo lo que necesitas saber', icon: '📖' },
+];
+---
+<BaseLayout>
+  <!-- Hero -->
+  <section class="hero">
+    <div class="container">
+      <div class="hero-inner">
+        <div class="hero-label">Blog de tenis de mesa</div>
+        <h1 class="hero-title">Material, técnica<br/>y mucho más</h1>
+        <p class="hero-desc">Guías, reseñas y análisis para jugadores de todos los niveles. Especialistas en gomas de picos.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Categories -->
+  <section class="section-categories">
+    <div class="container">
+      <div class="categories-grid">
+        {categories.map(cat => (
+          <a href={`/${cat.slug}/`} class="cat-card">
+            <span class="cat-icon">{cat.icon}</span>
+            <div>
+              <strong>{cat.label}</strong>
+              <span>{cat.desc}</span>
+            </div>
+            <span class="cat-arrow">→</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Recent posts -->
+  <section class="section-posts">
+    <div class="container">
+      <div class="section-header">
+        <h2>Últimas entradas</h2>
+      </div>
+      <div class="posts-grid">
+        {recentPosts.map(post => (
+          <PostCard post={post} collection={post.collection} />
+        ))}
+      </div>
+      <div class="view-all-wrap">
+        <a href="/archivo/" class="view-all">Ver todos los artículos →</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+.hero {
+  padding: 80px 0 64px;
+  border-bottom: 3px solid var(--accent);
+  background: linear-gradient(135deg, var(--accent) 0%, var(--accent-bright) 100%);
+  color: white;
+}
+.hero-inner { max-width: 640px; }
+.hero-label {
+  font-family: var(--font-display);
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  color: rgba(255,255,255,0.7);
+  font-weight: 600;
+  margin-bottom: 16px;
+}
+.hero-title {
+  font-family: var(--font-display);
+  font-size: clamp(2.8rem, 6vw, 5rem);
+  font-weight: 800;
+  line-height: 1.0;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  color: white;
+}
+.hero-desc {
+  font-size: 1.05rem;
+  color: rgba(255,255,255,0.82);
+  line-height: 1.6;
+  max-width: 480px;
+  font-weight: 300;
+}
+.section-categories { padding: 48px 0; border-bottom: 1px solid var(--border); }
+.categories-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 12px;
+}
+.cat-card {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 18px 20px;
+  border: 2px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
+  transition: all 0.2s;
+}
+.cat-card:hover {
+  border-color: var(--accent-bright);
+  box-shadow: var(--shadow);
+  transform: translateY(-2px);
+}
+.cat-icon { font-size: 1.4rem; flex-shrink: 0; }
+.cat-card div { flex: 1; }
+.cat-card strong { display: block; font-family: var(--font-display); font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em; color: var(--text); }
+.cat-card span { font-size: 0.82rem; color: var(--text-muted); }
+.cat-arrow { color: var(--text-muted); transition: transform 0.15s, color 0.15s; font-size: 1.1rem; }
+.cat-card:hover .cat-arrow { transform: translateX(4px); color: var(--accent-bright); }
+.section-posts { padding: 56px 0 80px; }
+.section-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 28px;
+  padding-bottom: 16px;
+  border-bottom: 3px solid var(--accent);
+}
+.section-header h2 { font-size: 1.6rem; color: var(--accent); }
+.posts-grid { display: grid; gap: 10px; }
+.view-all-wrap { margin-top: 32px; text-align: center; }
+.view-all {
+  font-family: var(--font-display);
+  font-size: 0.95rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: white;
+  background: var(--accent);
+  padding: 12px 32px;
+  border-radius: var(--radius);
+  transition: all 0.15s;
+  border: 2px solid var(--accent);
+}
+.view-all:hover { background: var(--accent-bright); border-color: var(--accent-bright); }
+</style>

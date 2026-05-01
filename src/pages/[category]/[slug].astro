@@ -1,0 +1,23 @@
+---
+import PostLayout from '../../layouts/PostLayout.astro';
+import { getCollection, getEntry } from 'astro:content';
+
+export async function getStaticPaths() {
+  const collections = ['gomas','maderas','palas','tecnica','guias','jugadores','materiales','recursos'] as const;
+  const paths = [];
+  for (const col of collections) {
+    const posts = await getCollection(col);
+    for (const post of posts) {
+      if (!post.data.draft) {
+        paths.push({ params: { category: col, slug: post.slug }, props: { post, collection: col } });
+      }
+    }
+  }
+  return paths;
+}
+const { post, collection } = Astro.props;
+const { Content } = await post.render();
+---
+<PostLayout post={post}>
+  <Content />
+</PostLayout>

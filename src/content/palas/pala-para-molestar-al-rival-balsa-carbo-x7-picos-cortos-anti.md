@@ -1,0 +1,54 @@
+﻿---
+title: "Pala \"para molestar\" al rival: Balsa Carbo x7 + picos cortos + antitop"
+pubDate: "2025-08-05"
+updatedDate: "2025-08-14"
+category: "palas"
+tags: ["Configuraciones de palas"]
+draft: false
+---
+
+![Butterfly Balsa Carbo x7](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiz0tt5iI6XflafK8KIuOsTmvu-kXR13427O2ZIuPhXCqS3lEK8Liy8apOmEbNi6_S74AU9X0u2Fb4rGFDTEvOouDvx-_EzUFOT-TKkMCIgq04AbjhTzhXmH0oLsLknmIHwKwTaBqJdy1Hqlbmfxrrb1PXpM-JiUSWzJDBEx7RFFPO0YD7KR5cwhSC5ac9/w400-h300/Butterfly%20Balsa%20carbo%20x7.jpg)
+|  |
+| --- |
+| Butterfly Balsa Carbo x7 |
+
+Os presento esta combinación de pala rara, para molestar al rival. La utilizo como mi pala suplente o como pala experimental. Se trata de una madera que no utilizábamos, montada con una goma de picos cortos en el drive i una antitop en el revés. Luego os cuento mi experiencia con ella.
+
+Presupuesto aproximado: 70€ + 45€ + 27€ = 142 euros
+
+La madera es una Butterfly Balsa Carbo x7, catalogada como OFF (ofensiva). Tiene 5 capas de madera y 2 capas de carbono.
+Las
+ capas de carbono le confieren velocidad, pero a cambio es una madera 
+relativamente gruesa. En nuestro caso, acabamos sin utilizarla, porque 
+parece que le falta algo de tacto. Por eso le di una segunda vida con este experimento.
+
+En
+ el drive lleva una goma Der-Materialspezialist Firestorm Green, una goma de picos cortos, con un grosor de 1,8mm. Este tipo de goma es ofensiva, puesto que los picos cortos están pensados para atacar, neutralizando el efecto que te llegue del rival. 
+
+En el revés lleva la goma Butterfly Super Anti de 1,5mm, una goma para molestar al rival. Es defensiva, y este tipo de gomas le devuelven al rival una pelota "blanda" y sin efecto.
+
+Para jugar con esta pala hay que cambiar el chip. En primer lugar, tienes un drive ofensivo. Los picos cortos van bien para atacar cualquier cosa: si te llega una bola con mucho backspin, la puedes atacar pegando casi plano que la pelota irá a su sitio. En cambio, cuando quieres hacer mucho efecto o un topspin pronunciado, no responde. No está hecha para hacer efectos, si no para suavizar los que te llegan del rival.
+
+En segundo lugar, vas con una antitop en el revés. Eso significa que no debes atacar nunca de revés, ya que la pelota irá completamente recta según el ángulo de la pala. Si haces el gesto del topspin, caerá contra tu parte de la mesa. Por lo tanto, a jugar con toques planos y flojos. Absorbe mucho el golpe, por lo que deja la pelota más débil y cercana a la red de lo que espera el rival. Y si simulas un corte, en el saque por ejemplo, reaccionan como si llevase efecto, por lo que te tirarán una bola más alta de lo que esperan.
+Hay que ir alternando con algún toque plano pero con impulso, que vaya bien largo. Va plana y sin efecto, pero molesta mucho al rival porque no saben que hacer.
+Pensad que el rival os lanza una bola con mucho efecto, pero les llega una bola floja y recta, lo que les confunde mucho. 
+
+Es muy recomendable, cuando ya controlas bien las dos gomas, jugar aún más al despiste: hacer algún saque de revés y largo, con las gomas giradas. Es decir, con picos cortos, dar un revés rápido y con efecto. No se esperan que del revés venga nada con efecto ni velocidad. 
+También se puede cambiar a medio punto, se ponen los picos al revés para poder atacar sin que se lo esperen.
+
+Algunos artículos que os pueden ayudar si no habéis entendido algo de lo que os he escrito:
+- [Gomas de picos cortos]()
+- [Gomas antitop]()
+- [Tipos de mango para tu pala]()
+- [Qué es la madera OFF]()
+- [Pala estilo raro o al despiste]()
+
+![Goma Der-Materialspezialist Firestorm Green](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpckpvq1rCjiJpmMrdeOISShQHcm2esysPEmHYscEVO6lmvYMR00RTdFZsY3uivlOFil8hVbepZ-yPLeFdTLwtidg4PzqJk-d42kknYic7bOz811NPX0P_w0lwMZp1cgZ8q9BeYx3dyPbMagBFlespYaRMLzaJU5dhyphenhyphenospd-eYChq3WzkM4hU3UtD7kO4p/w400-h300/Goma%20Der-Materialspezialist%20Firestorm%20Green.jpg)
+|  |
+| --- |
+| Goma Der-Materialspezialist Firestorm Green |
+
+![Goma Butterfly Super Anti](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrzLDg99_qZVnpcm7jO5UAUIhobRU3XDYXd5rRA6eVkB6DE9WUciR_o9f4rdZAFJ-3lnlI1CawHEKImeJPTi82yJNjBaptwvybVKA1Mns0ZjEUrkMcwZbQy_J9vj1hCUIN_Lbxvw79CJjJy9p2izVgAqb_YY9epTH6n1zItyG5FCdK5T1MppG8pLjIUWfY/w400-h300/Goma%20Butterfly%20Super%20Anti.jpg)
+|  |
+| --- |
+| Goma Butterfly Super Anti |

@@ -1,0 +1,132 @@
+---
+import BaseLayout from './BaseLayout.astro';
+const { post } = Astro.props;
+const { title, description, pubDate, updatedDate, category, tags } = post.data;
+
+const categoryLabels: Record<string, string> = {
+  gomas: 'Gomas', maderas: 'Maderas', palas: 'Palas', tecnica: 'Técnica',
+  guias: 'Guías', jugadores: 'Jugadores', materiales: 'Materiales', recursos: 'Recursos'
+};
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": title,
+  "description": description || '',
+  "datePublished": pubDate,
+  "dateModified": updatedDate || pubDate,
+  "author": { "@type": "Organization", "name": "Malditos Picos" },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Malditos Picos",
+    "url": "https://www.malditospicos.com"
+  },
+  "inLanguage": "es",
+  "articleSection": categoryLabels[category] || category
+};
+---
+<BaseLayout title={title} description={description} type="article" pubDate={pubDate} updatedDate={updatedDate} category={categoryLabels[category]}>
+  <script type="application/ld+json" set:html={JSON.stringify(schema)} slot="head" />
+
+  <article class="post-wrapper">
+    <div class="container">
+      <div class="post-header">
+        <div class="post-meta">
+          <a href={`/${category}/`} class="category-tag">{categoryLabels[category] || category}</a>
+          <time datetime={pubDate}>{new Date(pubDate).toLocaleDateString('es-ES', { year: 'numeric', month: 'long', day: 'numeric' })}</time>
+        </div>
+        <h1 class="post-title">{title}</h1>
+        {description && <p class="post-description">{description}</p>}
+      </div>
+
+      <div class="post-body">
+        <div class="prose">
+          <slot />
+        </div>
+      </div>
+
+      {tags && tags.length > 0 && (
+        <div class="post-tags">
+          {tags.map(tag => <span class="tag">{tag}</span>)}
+        </div>
+      )}
+
+      <div class="post-footer">
+        <a href={`/${category}/`} class="back-link">← Volver a {categoryLabels[category] || category}</a>
+      </div>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+.post-wrapper { padding: 48px 0 80px; }
+.post-header {
+  max-width: var(--max-w-content);
+  margin: 0 auto 48px;
+  padding-bottom: 32px;
+  border-bottom: 1px solid var(--border);
+}
+.post-meta {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 16px;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+.category-tag {
+  background: var(--accent);
+  color: white;
+  padding: 4px 12px;
+  border-radius: var(--radius);
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  transition: 0.15s;
+}
+.category-tag:hover { background: var(--accent-bright); }
+.post-title {
+  font-size: clamp(1.8rem, 4vw, 2.8rem);
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  margin-bottom: 16px;
+}
+.post-description {
+  font-size: 1.1rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+}
+.post-body { max-width: var(--max-w-content); margin: 0 auto; }
+.post-tags {
+  max-width: var(--max-w-content);
+  margin: 48px auto 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.tag {
+  font-size: 0.8rem;
+  padding: 4px 12px;
+  background: var(--bg-secondary);
+  border-radius: 20px;
+  color: var(--text-secondary);
+}
+.post-footer {
+  max-width: var(--max-w-content);
+  margin: 40px auto 0;
+  padding-top: 32px;
+  border-top: 1px solid var(--border);
+}
+.back-link {
+  font-family: var(--font-display);
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--accent);
+  transition: color 0.15s;
+}
+.back-link:hover { color: var(--accent-bright); }
+</style>

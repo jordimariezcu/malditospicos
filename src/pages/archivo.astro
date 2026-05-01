@@ -1,0 +1,41 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const allPosts = await getCollection('posts');
+const posts = allPosts
+  .filter(p => !p.data.draft)
+  .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+
+const sectionNames: Record<string, string> = {
+  gomas: 'Gomas', maderas: 'Maderas', palas: 'Configuraciones',
+  tecnica: 'Técnica', jugadores: 'Jugadores', materiales: 'Materiales',
+  recursos: 'Recursos', guias: 'Guías',
+};
+
+function formatDate(d: string) {
+  return new Date(d).toLocaleDateString('es-ES', { day: 'numeric', month: 'short', year: 'numeric' });
+}
+---
+
+<Base title="Archivo" description="Todos los artículos de Malditos Picos sobre tenis de mesa.">
+  <div class="container">
+    <div class="category-hero">
+      <h1>Archivo</h1>
+      <p class="category-count">{posts.length} artículos</p>
+    </div>
+    <div class="card-grid">
+      {posts.map(post => (
+        <article class="card">
+          <div class="card-body">
+            <span class="card-label">{sectionNames[post.data.section] || post.data.section}</span>
+            <h2 class="card-title">
+              <a href={`/${post.data.section}/${post.slug}/`}>{post.data.title}</a>
+            </h2>
+            <time class="card-date" datetime={post.data.date}>{formatDate(post.data.date)}</time>
+          </div>
+        </article>
+      ))}
+    </div>
+  </div>
+</Base>
