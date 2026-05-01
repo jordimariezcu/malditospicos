@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import Analytics from '@vercel/analytics/astro';
 const { title, description, image, type = 'website', pubDate, updatedDate, category } = Astro.props;
 const siteTitle = 'Malditos Picos';
 const siteDesc = 'Todo sobre el tenis de mesa: gomas, maderas, palas y técnica.';
@@ -95,6 +96,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     const nav = document.querySelector('.main-nav');
     toggle?.addEventListener('click', () => nav?.classList.toggle('open'));
   </script>
+  <Analytics />
 </body>
 </html>
 
