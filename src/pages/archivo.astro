@@ -1,16 +1,20 @@
 ---
-import Base from '../layouts/Base.astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 
-const allPosts = await getCollection('posts');
-const posts = allPosts
+const collections = ['gomas','maderas','palas','tecnica','guias','jugadores','materiales','recursos'] as const;
+const allPosts = (await Promise.all(
+  collections.map(async (col) => {
+    const posts = await getCollection(col);
+    return posts.map(p => ({ ...p, collection: col }));
+  })
+)).flat()
   .filter(p => !p.data.draft)
-  .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+  .sort((a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime());
 
-const sectionNames: Record<string, string> = {
-  gomas: 'Gomas', maderas: 'Maderas', palas: 'Configuraciones',
-  tecnica: 'Técnica', jugadores: 'Jugadores', materiales: 'Materiales',
-  recursos: 'Recursos', guias: 'Guías',
+const categoryLabels: Record<string, string> = {
+  gomas: 'Gomas', maderas: 'Maderas', palas: 'Palas', tecnica: 'Técnica',
+  guias: 'Guías', jugadores: 'Jugadores', materiales: 'Materiales', recursos: 'Recursos'
 };
 
 function formatDate(d: string) {
@@ -18,24 +22,66 @@ function formatDate(d: string) {
 }
 ---
 
-<Base title="Archivo" description="Todos los artículos de Malditos Picos sobre tenis de mesa.">
-  <div class="container">
-    <div class="category-hero">
+<BaseLayout title="Archivo" description="Todos los artículos de Malditos Picos sobre tenis de mesa.">
+  <div class="container archive-wrap">
+    <div class="archive-header">
       <h1>Archivo</h1>
-      <p class="category-count">{posts.length} artículos</p>
+      <p class="archive-count">{allPosts.length} artículos</p>
     </div>
-    <div class="card-grid">
-      {posts.map(post => (
-        <article class="card">
-          <div class="card-body">
-            <span class="card-label">{sectionNames[post.data.section] || post.data.section}</span>
-            <h2 class="card-title">
-              <a href={`/${post.data.section}/${post.slug}/`}>{post.data.title}</a>
-            </h2>
-            <time class="card-date" datetime={post.data.date}>{formatDate(post.data.date)}</time>
-          </div>
-        </article>
+    <div class="archive-list">
+      {allPosts.map(post => (
+        <a href={`/${post.collection}/${post.slug}/`} class="archive-item">
+          <span class="archive-cat">{categoryLabels[post.collection] || post.collection}</span>
+          <span class="archive-title">{post.data.title}</span>
+          <time class="archive-date" datetime={post.data.pubDate}>{formatDate(post.data.pubDate)}</time>
+        </a>
       ))}
     </div>
   </div>
-</Base>
+</BaseLayout>
+
+<style>
+.archive-wrap { padding: 56px 0 80px; }
+.archive-header {
+  display: flex;
+  align-items: baseline;
+  gap: 16px;
+  margin-bottom: 32px;
+  padding-bottom: 16px;
+  border-bottom: 3px solid var(--accent);
+}
+.archive-header h1 { font-size: 2rem; color: var(--accent); }
+.archive-count { font-size: 0.9rem; color: var(--text-muted); }
+.archive-list { display: flex; flex-direction: column; gap: 0; }
+.archive-item {
+  display: grid;
+  grid-template-columns: 100px 1fr auto;
+  align-items: center;
+  gap: 16px;
+  padding: 14px 0;
+  border-bottom: 1px solid var(--border-light);
+  transition: background 0.1s;
+}
+.archive-item:hover { background: var(--bg-secondary); margin: 0 -16px; padding: 14px 16px; border-radius: var(--radius); }
+.archive-cat {
+  font-family: var(--font-display);
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--accent);
+  background: var(--accent-bg);
+  padding: 3px 8px;
+  border-radius: var(--radius);
+  white-space: nowrap;
+  text-align: center;
+}
+.archive-title { font-size: 0.95rem; color: var(--text); }
+.archive-item:hover .archive-title { color: var(--accent-bright); }
+.archive-date { font-size: 0.8rem; color: var(--text-muted); white-space: nowrap; }
+
+@media (max-width: 600px) {
+  .archive-item { grid-template-columns: 1fr; gap: 4px; }
+  .archive-date { font-size: 0.75rem; }
+}
+</style>

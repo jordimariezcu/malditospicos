@@ -1,7 +1,8 @@
 ---
 import BaseLayout from './BaseLayout.astro';
 const { post } = Astro.props;
-const { title, description, pubDate, updatedDate, category, tags } = post.data;
+const { title, description, pubDate, updatedDate, category, tags, image } = post.data;
+const imageUrl = image ? new URL(image, Astro.site).href : undefined;
 
 const categoryLabels: Record<string, string> = {
   gomas: 'Gomas', maderas: 'Maderas', palas: 'Palas', tecnica: 'Técnica',
@@ -22,10 +23,11 @@ const schema = {
     "url": "https://www.malditospicos.com"
   },
   "inLanguage": "es",
-  "articleSection": categoryLabels[category] || category
+  "articleSection": categoryLabels[category] || category,
+  ...(imageUrl && { "image": imageUrl })
 };
 ---
-<BaseLayout title={title} description={description} type="article" pubDate={pubDate} updatedDate={updatedDate} category={categoryLabels[category]}>
+<BaseLayout title={title} description={description} image={imageUrl} type="article" pubDate={pubDate} updatedDate={updatedDate} category={categoryLabels[category]}>
   <script type="application/ld+json" set:html={JSON.stringify(schema)} slot="head" />
 
   <article class="post-wrapper">
