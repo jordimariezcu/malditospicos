@@ -5,6 +5,8 @@ updatedDate: "2025-08-11"
 category: "maderas"
 tags: ["Maderas"]
 draft: false
+brand: "Yasaka"
+rating: 4
 ---
 
 ![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ7r3G_2TSKP_OwZK3NSYPDlFqsJRON_MD43g1_Uz54x56e-yzko_tJ041RAvKGOVwVgG12E_isH1RzNo5TrWfYUr5CiDCbEvUmeLPtrAFquraEIG6B5eVRjRhaEmCtxmgBlF_xtqGdr7IlUS03PoJj1f07jYVA3QLdW66I59zd61VtXYiF9EsuSTWYJPW/s320/yasaka.jpg)

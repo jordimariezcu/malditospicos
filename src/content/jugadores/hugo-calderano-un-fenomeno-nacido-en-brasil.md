@@ -5,6 +5,8 @@ updatedDate: "2025-08-13"
 category: "jugadores"
 tags: ["Jugadores"]
 draft: false
+nationality: "Brasil"
+birthDate: "1996-12-22"
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/aXYtez5OSIs?si=rkwc1Y2xXzfH3BtN" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

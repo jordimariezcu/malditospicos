@@ -5,6 +5,8 @@ updatedDate: "2025-08-11"
 category: "maderas"
 tags: ["Maderas"]
 draft: false
+brand: "Nittaku"
+rating: 4.5
 ---
 
 ![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhONfXTgrlGigLkvxNVkMs0y7ihqqCmNI7BZOlvtbkBsj2Yqu2keIriq4OGZ5uS-huHNCKdxYGA3Hps02uV2OTj1JV5JI721bcalH9JH9IT9OoExcnGPbCACrz1cPbEA0TKT268FrY_4s3T4amZRYojVrlCkopGJP-hYeaBmWpm96edIK1k-2Xdw4KkF3dz/s320/nittaku.jpg)

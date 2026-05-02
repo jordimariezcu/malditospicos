@@ -5,6 +5,8 @@ updatedDate: "2025-08-14"
 category: "palas"
 tags: ["Configuraciones de palas"]
 draft: false
+brand: "Butterfly"
+rating: 4
 ---
 
 ![Madera Butterfly Timo Boll ALC](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsBRgixf9b0zRMnO1tFfThmaPGr5W9DoUxi8DSQ-RdZYiv0NCmpUbc5I8wHs8pVNk_54PfgxCMhjuY6Av4iigGbLOw9yn4s_2r4EQNIgG-UkSpAdBnIDYjfNwyZqeOt_Vy-nFUhW9Xk5YJ_E1Gjf1UTbwu9LoGwO9da416rezNHgdqOTzFat7dKjvw6GTL/w234-h400/Madera%20Butterfly%20Timo%20Boll%20ALC.JPG)

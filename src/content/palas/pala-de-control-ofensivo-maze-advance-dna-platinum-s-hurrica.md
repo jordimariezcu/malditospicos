@@ -5,6 +5,8 @@ updatedDate: "2025-08-14"
 category: "palas"
 tags: ["Configuraciones de palas"]
 draft: false
+brand: "Andro"
+rating: 4
 ---
 
 ![Maze Advance + Hurricane III](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvgHIfQPfDBs9xV4fJALNpH-fquptn0ls-Eqrqc_ps2YetZbDgdFKSupXRJhkoZ9k3pOnsdWSa6KkHAzX1vbTAxWjbIeBoUkO2p2PKJaWNsOSrndrAXXebopi-THy7zBQEpWueEyXbbKMyXYQLWhoZj0j67iTbrVYus5wDU5wRPg9HoLJT425iH2DI2kwo/w234-h400/Madera%20Butterfly%20Maze%20Advance.jpg)

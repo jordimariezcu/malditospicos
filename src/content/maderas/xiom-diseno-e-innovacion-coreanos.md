@@ -5,6 +5,8 @@ updatedDate: "2025-08-11"
 category: "maderas"
 tags: ["Maderas"]
 draft: false
+brand: "Xiom"
+rating: 4
 ---
 
 ![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLb30kjtMDVxkicfmY_GRjGv1wweOC0Ps-MiWOG05LzpMbPEYN3GFJY0OE3uD1QJs9MScnb8c344LBhwKns0TxAmzZlIMUUVRF6MxfZzddpqrLkeAcUzsL35vgujc1B-5PDUGnx01XlUq2T1rneVUNI17XioG1lD5ryS-webVjMnaZ5zMeFACuYUZJb4in/s320/XIOM.jpg)

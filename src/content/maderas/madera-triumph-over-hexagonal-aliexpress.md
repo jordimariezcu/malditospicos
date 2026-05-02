@@ -5,6 +5,8 @@ updatedDate: "2026-03-29"
 category: "maderas"
 tags: ["Maderas"]
 draft: false
+brand: "Triumph"
+rating: 3.5
 ---
 
 ![Madera Triumph Over hexagonal](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaDtU7aM_HaNEpSMrNtDS98fqhjo5tMZ_Ucyph6uHs3lGDd66fcJI1HS2Wfq78sJ7r8PtnX6bmDU8RuRrsC0Td6qC61ShG1iEE6WHCIGV9AtDY40zhShBI9gu0HPFyqP5_pI813YqrdQusLPvuqb3HIObYzv32Aubtqu8ApD14bCy51e56FM15M0_StUYC/w266-h400/madera%20Triumph%20Hexagonal.jpeg)

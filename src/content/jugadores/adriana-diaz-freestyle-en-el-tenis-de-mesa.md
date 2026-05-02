@@ -5,6 +5,8 @@ updatedDate: "2025-08-10"
 category: "jugadores"
 tags: ["Jugadores"]
 draft: false
+nationality: "Puerto Rico"
+birthDate: "2000-04-20"
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/s11r5c_vdUw?si=SXVmiEVeMrrKhvwn" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

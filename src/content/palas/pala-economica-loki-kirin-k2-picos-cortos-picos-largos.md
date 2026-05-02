@@ -5,6 +5,8 @@ updatedDate: "2026-03-07"
 category: "palas"
 tags: ["Configuraciones de palas"]
 draft: false
+brand: "Loki"
+rating: 3.5
 ---
 
 ![Loki Kirin K2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhep6QhpjczlEQTOTuodZvPzslJKDtINFdBOJQeuocPpgbYEzBQfrwOD0W1G2pvbMoKGxsPg9xfNM3n6FalWDse_cWVt0cE0qgynsnt9ONIjI7QWTMR3dGPB4oV4H8cJtzn-F2NG4qNik_Q7Hr1ask5V2fK9SJMqhKc_9v2dAw0IqCH9AD8vaADTlmAiNyG/w244-h400/Yinhe%20955%20-%20Loki%20Kirin%20K2.jpeg)

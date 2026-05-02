@@ -5,6 +5,8 @@ updatedDate: "2026-03-07"
 category: "maderas"
 tags: ["Maderas"]
 draft: false
+brand: "Loki"
+rating: 3.5
 ---
 
 ![Loki Kirin K2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPY3Wn0hyphenhyphens3dWkMMJXMdJRabk4DkQ5siyDYjvOI5je4KrfyoxkGheO771DXRvchxwePmtoQN3ieqpsPNsDD8CRf5FSP7iLGhMjnF5ZQ3nbR6uVvdJd6oIeUNVLeU045Et5x2G9uzQ1FUzpRTxwhn8b8Afy-5Lkqtd2ERU7hgoiiO4lQM3SvQ1xBmwoReGa/w251-h400/madera%20Loki%20Kirin%20K2.jpeg) 

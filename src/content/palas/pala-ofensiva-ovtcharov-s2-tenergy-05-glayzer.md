@@ -5,6 +5,8 @@ updatedDate: "2026-03-07"
 category: "palas"
 tags: ["Configuraciones de palas"]
 draft: false
+brand: "Donic"
+rating: 4.5
 ---
 
 ![Butterfly OVTCHAROV S2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF_BXtKuDX6Rm0G81Tya5MHb3vv_8kw8E3nhHoWqhzJiJ_OiaZ9-a2VJJXMgDfZ1nVntL3qyZP60wGU-7TxZebKrdmVb2IQBK0ZxFnH-ivU1VnpnLsLRBezjfkzkHKFdSOJCRAK1nb7xlDtGH4kSmeqfun0CXu3op6s2tT0Fcrz9c3uSBqpRhRbNVeGUmr/w254-h400/Ovtcharov%20S2%20-Tenergy%2005.jpg)

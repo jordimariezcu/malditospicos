@@ -5,6 +5,8 @@ updatedDate: "2025-08-14"
 category: "palas"
 tags: ["Configuraciones de palas"]
 draft: false
+brand: "Joola"
+rating: 4
 ---
 
 ![Butterfly Balsa Carbo x7](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiz0tt5iI6XflafK8KIuOsTmvu-kXR13427O2ZIuPhXCqS3lEK8Liy8apOmEbNi6_S74AU9X0u2Fb4rGFDTEvOouDvx-_EzUFOT-TKkMCIgq04AbjhTzhXmH0oLsLknmIHwKwTaBqJdy1Hqlbmfxrrb1PXpM-JiUSWzJDBEx7RFFPO0YD7KR5cwhSC5ac9/w400-h300/Butterfly%20Balsa%20carbo%20x7.jpg)

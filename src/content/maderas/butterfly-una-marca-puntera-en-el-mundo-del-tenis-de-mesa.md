@@ -5,6 +5,8 @@ updatedDate: "2025-08-11"
 category: "maderas"
 tags: ["Maderas"]
 draft: false
+brand: "Butterfly"
+rating: 5
 ---
 
 ![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRmp3B5b0XDMJ58HbrMkAcyupH80dbBNAPD4z36IY4js2u4BcJdMWCXecpA4Nmnzpx76foP3HM5QFwkWA2yhtzEm62vZnFurhY6u80PzSk-RqpFw_zFxZBt0HbnANFtd7r7Du_cHOvB6bBlvIBCKS7b8IDvhb5cNmk64KloV39laVbgy5xsqQvF0iyb5Wb/s320/butterfly.jpg)

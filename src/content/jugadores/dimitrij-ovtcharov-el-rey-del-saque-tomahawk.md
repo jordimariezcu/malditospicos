@@ -5,6 +5,8 @@ updatedDate: "2025-08-10"
 category: "jugadores"
 tags: ["Jugadores"]
 draft: false
+nationality: "Alemania"
+birthDate: "1988-09-02"
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/hHqUS1xCpqU?si=2tzfWTJtAaVyrBqt" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

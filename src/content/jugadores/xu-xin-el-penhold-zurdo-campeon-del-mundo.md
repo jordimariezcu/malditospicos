@@ -5,6 +5,8 @@ updatedDate: "2025-08-10"
 category: "jugadores"
 tags: ["Jugadores"]
 draft: false
+nationality: "China"
+birthDate: "1990-01-26"
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/yaLrnXBOjkQ?si=lpolYQIAaN8IWBUw" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

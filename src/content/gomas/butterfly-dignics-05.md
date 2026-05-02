@@ -5,6 +5,8 @@ updatedDate: "2026-03-29"
 category: "gomas"
 tags: ["Gomas"]
 draft: false
+brand: "Butterfly"
+rating: 5
 ---
 
 ![Butterfly Dignics 05](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8F01ChC3tG7EF8OyWWQD_5O830FrCcDe3uhORC2IRKBSBaDq7toVVYvITBxxMm2FPv4Pe27jb_T_AMyJYxvEu0O-GVZ7uu08sCEVYpJqz9FhkvSXCkxbO4wmc1QUCsrHmd_3ostts7dvQw9qUkzQVrDi2Xz-3ICiIIE8rYQ2CoUjZpf1ZoF1ayYclRNXD/w303-h320/butterfly%20dignics%2005.jpg)

@@ -5,6 +5,8 @@ updatedDate: "2025-08-10"
 category: "jugadores"
 tags: ["Jugadores"]
 draft: false
+nationality: "Estados Unidos"
+birthDate: "1998-02-04"
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/2D9vUJ_iHM4?si=KDscdz-xLPYDHd14" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

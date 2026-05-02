@@ -1,10 +1,12 @@
----
+﻿---
 title: "Bernadette Szőcs, creatividad en estado puro"
 pubDate: "2025-03-04"
 updatedDate: "2025-08-10"
 category: "jugadores"
 tags: ["Jugadores"]
 draft: false
+nationality: "Rumanía"
+birthDate: "1995-10-14"
 ---
 
 Bernadette Szőcs, nacida en 1995 en Rumanía, es una de las figuras más carismáticas del tenis de mesa europeo. 

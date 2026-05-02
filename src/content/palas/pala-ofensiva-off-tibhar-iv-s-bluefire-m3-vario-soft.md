@@ -5,6 +5,8 @@ updatedDate: "2025-08-14"
 category: "palas"
 tags: ["Configuraciones de palas"]
 draft: false
+brand: "Tibhar"
+rating: 4
 ---
 
 ![Tibhar IV S + Donic Bluefire M3](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOn-k7h11lJMj4MGvVGlT8tWpW-Fk0sqoFMMMy2UYyKLfqQ05IY8VqAQJLyxRZlEbp7rxsZdXSSVVinhuAoIwvs81DGweFuscC6lXyDN-2fL6OKEJJ6F0rYv_oJfbuk6KNwI7X9e8gh1ODLJOROEBNa6jnltf2klTmKAJg7aiBWmDPFUpP3ePFiAFl_obd/w255-h400/TIBHAR%20IV%20S.jpg)

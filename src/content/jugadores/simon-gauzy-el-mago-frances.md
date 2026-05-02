@@ -5,6 +5,8 @@ updatedDate: "2025-08-10"
 category: "jugadores"
 tags: ["Jugadores"]
 draft: false
+nationality: "Francia"
+birthDate: "1993-05-13"
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/mR2YVK9jo4Q?si=8U0DvCOSb8KxnPGS" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

@@ -5,6 +5,8 @@ updatedDate: "2025-08-10"
 category: "jugadores"
 tags: ["Jugadores"]
 draft: false
+nationality: "Alemania"
+birthDate: "1981-03-08"
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/Xh_ncRWJfME?si=Sc8WN3V5ddKL0zOY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

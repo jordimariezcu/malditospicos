@@ -5,6 +5,8 @@ updatedDate: "2025-08-10"
 category: "jugadores"
 tags: ["Jugadores"]
 draft: false
+nationality: "Suecia"
+birthDate: "1965-10-03"
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/BK9E6UoAotI?si=XFZI46QYQzAY_hjt" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

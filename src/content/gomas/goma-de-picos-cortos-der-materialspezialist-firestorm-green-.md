@@ -5,6 +5,8 @@ updatedDate: "2026-03-07"
 category: "gomas"
 tags: ["Gomas"]
 draft: false
+brand: "Der Materialspezialist"
+rating: 4
 ---
 
 ![Der-Materialspezialist Firestorm Green Edition](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkm7hwqNPUdCigg3OLEcy71aZGiUBEv3hdOoN3UUqlrsbK0zkWHl1-scDcGFkrV7RYB6I_XRSVFzE8miD9kTpbR3SQKYJ50goGuv4rZKjX7JaBXlHHx0XVqd1ngFgPF-fRO5HQMfhZi008Wlwe6IwiwFVM2dkw5KQxyetrfcLfBGT-YrKITveFg2jsLu3O/w400-h400/Der-Materialspezialist%20firestorm%20green%20edition.jpg)

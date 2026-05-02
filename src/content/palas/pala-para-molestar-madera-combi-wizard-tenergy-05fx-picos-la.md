@@ -5,6 +5,8 @@ updatedDate: "2025-09-07"
 category: "palas"
 tags: ["Configuraciones de palas"]
 draft: false
+brand: "Joola"
+rating: 4
 ---
 
 ![Madera der-materialspezialist Combi Wizard](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_L2en4V4H_2ZNBYnsdFMOjXZ_CKfOU6MXJvJTlJJA0IZf2w0xMrzanDcrmYF4Z69WTvngstmvf3rZLClVboKish-Qn3t2rUihcOTjf6gdqlxa4jY5NUZgsFNTKwUOldI9NiufOZsfRAUX8pIkvq_d-jApB3NCqZJmiQjWFwdmsg6OBK8aXLo9C23fZxSa/w238-h400/Madera%20der-materialspezialist%20Combi%20Wizard.jpg)

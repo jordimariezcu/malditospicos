@@ -5,6 +5,8 @@ updatedDate: "2025-08-14"
 category: "palas"
 tags: ["Configuraciones de palas"]
 draft: false
+brand: "Donic"
+rating: 4.5
 ---
 
 ![Madera Butterfly Korbel SK7](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRH6_zn45suNxA9jm2F3y4HRd70prj0HdtWuGXQzWjz9UuOK_gnpVY2oDdcGeW7pI9S3Gp9UqsBJd090DmqjQ_YRmJRpz2zo55Iu9xMzyMdoE9R9_btpgTEKtxxo3NpeV_aLHhFyJM-EcUYi3aUAl9MfTKHGnZgKH1qQLRt7X-IUvFBUp0NqSp71hnTDJv/w400-h300/Madera%20Butterfly%20Korbel%20SK7.jpg)

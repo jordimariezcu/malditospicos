@@ -5,6 +5,8 @@ updatedDate: "2025-08-16"
 category: "palas"
 tags: ["Configuraciones de palas"]
 draft: false
+brand: "Joola"
+rating: 4.5
 ---
 
 ![Joola Vyzaryz Freeze HDR](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-HqnrN46VCiqMVl35lsE-GkKqkoxq7_dxrORso9gqC0PlqsWOy-9O9Iwm1_Qkn-x_gqP9EiGPINLt68cxOr5JCIyn3P6oPzE82ajdX7uvrzRbNQY2gEuK0GK1UWriMsqpJJ1_0qtbfehngM_IQZ9FIkAGyQuZAxETLlBLUS4W3pJck6-4Z43P5ISvF1HO/w224-h400/joola%20vyzaryz%20Freeze%20HRD.jpg)

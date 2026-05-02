@@ -5,6 +5,8 @@ updatedDate: "2026-02-17"
 category: "palas"
 tags: ["Configuraciones de palas"]
 draft: false
+brand: "Andro"
+rating: 4
 ---
 
 ![Maze Performance + Rhyzen Ice](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh42P24d-Pl4_dmbAhWmtAIzKtL3iobxRz60lAYcULmZI_4HXMqcl4D45KDpZp8BLP-_MKr2r6F9hZsQYL_Qgm76EFFSXhJrz4wk9YyqmQO8EMVyf9wG3nxLHZNaEO4pABbW54sBLkK8YUgZPKFGGjfphbzkk0AVSee-bVG1cCJ5dsgRN2H5Ep1qvf4oJmF/w236-h400/Butterfly%20Maze%20Performance.jpg)

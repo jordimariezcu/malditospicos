@@ -5,6 +5,8 @@ updatedDate: "2026-03-29"
 category: "gomas"
 tags: ["Gomas"]
 draft: false
+brand: "Butterfly"
+rating: 4.5
 ---
 
 ![Butterfly Glayzer](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-_y5xQ6WuOEb-f9wzgg_-ZV4WpxCxGLyF55HTuqRF5rWvfkkn5ydh2NR-rp5p92WTJx_QBW5YkKbEFaw5iFuYo1GMCVy_MzuwoxFx6-GAIRteuxYYHI3provgHIcktBQUuu1oEyMEk09vq90j6myErDUddwGSoZ2u-CQF9xLfOjAM9yhsqY9aNvI_PX-M/w304-h320/butterfly%20glayzer.jpg)

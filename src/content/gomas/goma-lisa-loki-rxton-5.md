@@ -5,6 +5,8 @@ updatedDate: "2026-03-29"
 category: "gomas"
 tags: ["Gomas"]
 draft: false
+brand: "Loki"
+rating: 3.5
 ---
 
 ![Loki RXTON 5](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcIpHKcy6ThlhWEeTOiONIGuSW-Nj32SHazpKKj4gR674Ms9BdBb_ki6SEWfeR4MWYccmXOVbisIv-w9WafyYrzBvR5nAM1gtegIRyD2fEpDZ8uWQ1-QG_u8gdjJYRk7E7K5I9vzlSt4F9qlrmYlJURwOAzGjpZ48Lr0oOBKxRtCa3oNogDrCBMg4knWcP/w381-h400/16%20Loki%20Rxton%205.jpeg)

@@ -5,6 +5,8 @@ updatedDate: "2026-03-07"
 category: "gomas"
 tags: ["Gomas"]
 draft: false
+brand: "Der Materialspezialist"
+rating: 4
 ---
 
 ![Der-materialspezialist FAKIR](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW8uIZzsdT58gvVlFbF8sGGJNVZJLjBQe4FJZ2Ku-whZWRULCqx9Yw9_uy1moagnK3djTP7_V45HrChnhTh6gFugzwDP3gmLd238kutbvDTUynELq4ECb4COlSVpsPiGAPlxQlBU3hNL7m7qP7Vu11JTGci9DZWIYiBjlBxxVU0xPggC4jvhCajNVhzMT1/w400-h400/der-materialspezialist%20FAKIR.jpg)

@@ -5,6 +5,8 @@ updatedDate: "2026-03-07"
 category: "gomas"
 tags: ["Gomas"]
 draft: false
+brand: "Meteor"
+rating: 3.5
 ---
 
 ![Goma Meteor 845 picos cortos](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_98Yr25yC2e1fJvtU-ItYtZyp_WL9SEEJd2y4wqSIw4fBaJnzuw-sBlqv4vPb409-bp8N_VVo4NNDBy4kgJMmQCnmL2WTfCIhtztgssAJlhCjpNe5byeOLIjcS9q-8vMKkGFgkIjUTBPIFEhCzPrJXHyIptjFns0advwX8h6fhmsRqaUYlVVRWN6VjjOR/w400-h394/Meteor%20845%20-%20aliexpress.jpeg) 

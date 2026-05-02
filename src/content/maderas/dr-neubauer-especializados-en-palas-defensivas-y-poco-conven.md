@@ -5,6 +5,8 @@ updatedDate: "2025-08-11"
 category: "maderas"
 tags: ["Maderas"]
 draft: false
+brand: "Dr. Neubauer"
+rating: 4
 ---
 
 ![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSWy7xgo5TWFndRzebXT19xp0BEF00sw2Hfw04UBGj5z_lfUyJvVhOAoZM6f7LU6M6qqzMGKA1FjlQ6YaEWw6EnNZk-sbPUmM_7_mZ6jB2LwmuThDvnwN2DGvp1oQKD-GardaMCB_W6mbADFt4Ec0Uzb8PDiSsld1n_m6Gx_xssNavoeijm1WE1g1lyyiV/s320/dr.%20neubauer.jpg)

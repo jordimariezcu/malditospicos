@@ -5,6 +5,8 @@ updatedDate: "2025-09-03"
 category: "palas"
 tags: ["Configuraciones de palas"]
 draft: false
+brand: "Victas"
+rating: 4.5
 ---
 
 ![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD7KEi-47_7nPBinBEttQKUCSD7yyEgi-I-y8t4-5qrXH43pPmw06WLCxUgevwpoU_2xIHxFkw9WaoKSB7E3fauInKWr1ouzFBqAe-stQUJVNy39IvoN9sfw8QHcsbopM1SekkVuQp9KaJNgMbBoKeqEjQJ23Y_x2g34JQsxAGBGiQ54d5x1Di1uxAyszO/w244-h400/Madera%20VICTAS%20Koji%20Matsushita%20Special.jpg)

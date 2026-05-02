@@ -5,6 +5,8 @@ updatedDate: "2025-10-11"
 category: "palas"
 tags: ["Configuraciones de palas"]
 draft: false
+brand: "Butterfly"
+rating: 4.5
 ---
 
 ![Bruna Takahashi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGiRXpX6H9RqkhLuz-rFDAf5JbLfE9wwWz8poRo1kaPS55mYrkIH3L0dT9pT0AdlEESlJ8tX8QFHXRxJv9fFC5IXFtV4a_atCHZIOF9N-e6H3my3ighyytjyKI-q5e6yyDooYzv2UPr_mbCwLD9x0b8DNNfIP1jsS9cHtkfS8IvEHK1VwxBJq2FbmUo1Tn/w360-h400/Bruna%20Takahashi.jpg)

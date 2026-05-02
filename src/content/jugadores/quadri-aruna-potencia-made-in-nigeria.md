@@ -5,6 +5,8 @@ updatedDate: "2025-08-10"
 category: "jugadores"
 tags: ["Jugadores"]
 draft: false
+nationality: "Nigeria"
+birthDate: "1991-08-28"
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/6hV_bEr8aZg?si=Le6Lk1jiwxsceAQm" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

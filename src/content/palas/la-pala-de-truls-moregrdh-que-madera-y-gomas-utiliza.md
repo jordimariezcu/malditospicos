@@ -5,6 +5,8 @@ updatedDate: "2025-10-11"
 category: "palas"
 tags: ["Configuraciones de palas"]
 draft: false
+brand: "Andro"
+rating: 4.5
 ---
 
 ![Truls Möregårdh](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtrKML-6pM6-bhLGJryCbuG3jHMScTEpEUYe2DnR4WiLF3MpIUkEQfqicWB6Y86pEvKw-1NRENiEMpVG6ONRm4jv0w0X45W_a65hKpysxu0Ml8HxiyZkPcVqV2FNJmTQ0QumMCyxd2PVC05lIh8-QKF6z-v_CEiWrljepNlTkCxVuErHxMpbNPoj1yPz4/w400-h386/truls%20moregardh.jpg)

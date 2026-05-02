@@ -5,6 +5,8 @@ updatedDate: "2026-03-29"
 category: "gomas"
 tags: ["Gomas"]
 draft: false
+brand: "Butterfly"
+rating: 4
 ---
 
 ![Butterfly Super Anti](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0en2YXyDJ5cpWpxeRJfZyyZ2JTzMUq_08RvYUtVolHaqtTzqnplenfOqew4J5JkelnNETAo_o4GNbw-GyZN1WyfUa7pDlQmtdYtjKqtXabKu8uUsmjC8RdAdCRxpj6EmMGxFBK9y75P4CeesGW_jhLqSV83NVe86qi5nkdUQ9U-1VoYwy7scL-ONN7jVM/w303-h320/Butterfly%20Super%20Anti.png)

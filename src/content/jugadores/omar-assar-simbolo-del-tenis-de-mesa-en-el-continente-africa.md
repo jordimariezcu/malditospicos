@@ -1,10 +1,12 @@
----
+﻿---
 title: "Omar Assar, símbolo del tenis de mesa en el continente africano"
 pubDate: "2025-01-04"
 updatedDate: "2025-08-13"
 category: "jugadores"
 tags: ["Jugadores"]
 draft: false
+nationality: "Egipto"
+birthDate: "1993-02-21"
 ---
 
 Omar Assar, nacido en 1991 en Egipto, es el mejor jugador africano de la última década junto a Quadri Aruna. 

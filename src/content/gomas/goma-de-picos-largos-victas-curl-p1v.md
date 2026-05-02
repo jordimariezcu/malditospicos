@@ -5,6 +5,8 @@ updatedDate: "2026-03-07"
 category: "gomas"
 tags: ["Gomas"]
 draft: false
+brand: "Victas"
+rating: 4
 ---
 
 ![Victas Curl P1V](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_Z9LunEqDCrhWSpaulCCI3_GU-bUR5m_JU31zxhxlDg9KpfzP_Go626WhIe02X1hmzxXVQFFCjJn4MPq-onPO_uNvcrSjTNAJhaBrpCJvljBOa8n5VFfYTl7jEsvKzKDNosxTsmTgUT11ubfOok6NDPCN8Utfguti0cr4OzImpHnoi1M-b6QuLBMfpWdY/w386-h400/Victas%20Curl%20P1V.jpg)

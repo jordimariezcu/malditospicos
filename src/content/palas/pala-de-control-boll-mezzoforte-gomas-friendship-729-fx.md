@@ -5,6 +5,8 @@ updatedDate: "2025-08-14"
 category: "palas"
 tags: ["Configuraciones de palas"]
 draft: false
+brand: "Butterfly"
+rating: 4
 ---
 
 ![Madera Butterfly Boll MEZZOFORTE](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDny6Omg9wuxNRubLQSkHiMqQDZdbn2OIXQhANX4zKQvCwYOchlAxOl9H0SwVAY0KuPwnItkNraBSWI3l_VSJod_FKDPfv-9WVqoGrUDYSmjaPTl3sJGROdAmKqcoBqBMWTEbHmGTTWUcbTDIg0sWoYmiUTv90r1nRcxgpbFXOUH2Ua9-H9zeSE707Z6sG/w245-h400/Madera%20Butterfly%20Boll%20MEZZOFORTE.jpg)

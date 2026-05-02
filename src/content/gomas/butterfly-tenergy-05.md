@@ -5,6 +5,8 @@ updatedDate: "2026-03-29"
 category: "gomas"
 tags: ["Gomas"]
 draft: false
+brand: "Butterfly"
+rating: 5
 ---
 
 ![Butterfly Tenergy 05](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcEElSn48k4TMMTjd0WS07dI-3N8KR9-319-o9-9AeNpJYp_7pCjPKA45ZRrQONnTblm2Brcy46HqQwpcH94bZVNur_R9WFV4D-EIgyWC3henWYrkxddMjcmn27W08tNANXKRBA6YtQVtkv6tqLebT3gvFzDBKqdTPOXl0LPrYsPh6_5qUMeI6xlT1RSk9/w303-h320/butterfly%20tenergy%2005.jpg)

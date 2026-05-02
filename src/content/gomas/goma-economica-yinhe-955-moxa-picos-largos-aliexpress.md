@@ -5,6 +5,8 @@ updatedDate: "2026-03-07"
 category: "gomas"
 tags: ["Gomas"]
 draft: false
+brand: "Yinhe"
+rating: 3.5
 ---
 
 ![Yinhe 955 Moxa picos largos](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4HgcuslkmY4RWKOW02GrucuLb7ymQ2ySyhwyEyhE4NilrXysHQ4cO4662U_G9p0G0bYO0esmUaEieqGmJCvNPrb9ANjFxmbMtem90YHTtUXU_eTH_KT7H8-EPdWN_0KmWK2OWcdSFFBhkoOoppmptRjaMpI7UZeOcrQAqRkKHGrM_6GLtP8l39y2k8zrd/w396-h400/goma%20picos%20largos%20Yinhe%20955%20%20moxa.jpeg)

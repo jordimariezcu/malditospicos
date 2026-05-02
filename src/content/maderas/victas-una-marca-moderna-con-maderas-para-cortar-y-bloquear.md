@@ -5,6 +5,8 @@ updatedDate: "2025-08-11"
 category: "maderas"
 tags: ["Maderas"]
 draft: false
+brand: "Victas"
+rating: 4
 ---
 
 ![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2sI3GCZR8ZGafkTeqKIvaoV7S4LL2zrIQxSQBrvUscx2EDFjIutZnKcCcTB6phjoO86vW3CYQytGXNGt74VO535PEuVsnG7mo7064tXeArt9_uk5tY9edOsv5QaBVyUltyB1gEE4LP0byOBubLNJgPUOmqluX_MZEOqsz6FPsfhlDgw6TtBv5_1NVUg21/s320/victas.jpg)

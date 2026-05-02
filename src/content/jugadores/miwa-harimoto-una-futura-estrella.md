@@ -5,6 +5,8 @@ updatedDate: "2025-08-13"
 category: "jugadores"
 tags: ["Jugadores"]
 draft: false
+nationality: "Japón"
+birthDate: "2004-05-28"
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/GmH4k9vhKeo?si=cH8FT5LmEgTaxh3L" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

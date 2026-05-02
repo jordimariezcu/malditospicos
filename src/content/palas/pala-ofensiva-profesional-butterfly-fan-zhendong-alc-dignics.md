@@ -5,6 +5,8 @@ updatedDate: "2025-08-14"
 category: "palas"
 tags: ["Configuraciones de palas"]
 draft: false
+brand: "Butterfly"
+rating: 5
 ---
 
 ![Butterfly Fan Zhendong ALC + goma Dignics 09C](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1NyOmCrPxgbTcYUJxUmmsnrIFLSw5aoxa22j01_Y0IAH7Xt7NxY4cbra_2WEYyCmQp3UVPFfKdtclv_mbJbJQpeX3SngduxbaNUBJ1w73s5S65aX_IpOIIkz88FQOwv7buZBER0OzVqySgzlf4FSGU52oJO6hBsw5KM2NfujZTPD5hDakMbveTKn7jsh_/w281-h400/Madera%20Butterfly%20Fan%20Zhendong%20ALC.jpg)

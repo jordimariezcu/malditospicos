@@ -5,6 +5,8 @@ updatedDate: "2026-03-07"
 category: "gomas"
 tags: ["Gomas"]
 draft: false
+brand: "Der Materialspezialist"
+rating: 4
 ---
 
 ![der-materialspezialist ANTI-SPEED](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYaZ3EZGc5teWA-e6lq9g9lVobdFjMtFUWDUN8HvLHG3aXqCHThgODCMKfj6KDJYTy4guvvH68mqwW3pZ73VZzbnbNVQ6sf-OtyrAoScuU2ItG92CD1qerUQnaTvnNkAEb8dlFGpUSVTkOYaSrJ_4Ae2jRm5pmIka99VaXeYlP5p2TuNe4MdIKSPfRbO6i/w400-h400/der-materialspezialist%20ANTI-SPEED.jpg)

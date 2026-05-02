@@ -5,6 +5,8 @@ updatedDate: "2026-03-29"
 category: "gomas"
 tags: ["Gomas"]
 draft: false
+brand: "Der Materialspezialist"
+rating: 4
 ---
 
 ![Der-Materialspezialist Power Pipes](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwTdE-eJcu1MW1mJzQ8Dt3HBJfrCWc1e8Kc9X_MPrABiq6e1Px9tzMRIjTeqvWztKong8NIxpdXN2PAWS6DaPHUGXReUWxQSFLBLBHD7TVe2PMjpIC5ye1A7VmHWw5gbWWTfz3Dz_Fv_tH2dqaYjMeORUdbD9Vjhd6xoJdINc0JIXghhUZxOKXiVjRlrFu/w400-h400/der-materialspezialist%20Power%20Pipes.jpg)

@@ -5,6 +5,8 @@ updatedDate: "2026-03-29"
 category: "gomas"
 tags: ["Gomas"]
 draft: false
+brand: "Butterfly"
+rating: 4
 ---
 
 ![Butterfly Rozena](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiit-uMzbMXXc7CkVBeUqwDlT8iQW1aWdXV4-jDQP_n1_uaRpQ8pMY1tyGbp1ZAFfoPWnE8dtwPbkFGwGUuvumk9se0-hdPm4KL3-8XXimvc3_N_E67nAYv-AWH-Q_ajIX-g1UNo1blPDSJtGB9FJVp6u46G2jmuvlzvFzMGT56u1Q4srOetTWlXhc5REqF/w302-h320/butterfly%20rozena.jpg)

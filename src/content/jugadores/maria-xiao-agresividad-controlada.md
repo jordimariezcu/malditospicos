@@ -5,6 +5,8 @@ updatedDate: "2025-08-10"
 category: "jugadores"
 tags: ["Jugadores"]
 draft: false
+nationality: "España"
+birthDate: "1998-02-25"
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/whiVHa1wfVw?si=DJXxds9U2s1lNsp7" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

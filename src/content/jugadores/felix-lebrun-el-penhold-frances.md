@@ -5,6 +5,8 @@ updatedDate: "2025-08-10"
 category: "jugadores"
 tags: ["Jugadores"]
 draft: false
+nationality: "Francia"
+birthDate: "2006-10-06"
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/9PisEA97SoQ?si=rpKf5VmRfJsFhrkD" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

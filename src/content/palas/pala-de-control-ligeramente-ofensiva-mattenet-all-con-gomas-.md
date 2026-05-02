@@ -5,6 +5,8 @@ updatedDate: "2025-08-14"
 category: "palas"
 tags: ["Configuraciones de palas"]
 draft: false
+brand: "Donic"
+rating: 4
 ---
 
 ![Madera Joola Mattenet ALL+](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmvm8507X5mJWolRQj37mKB21ofNLGnnYyQKXjDHE8-nHicBfHfr3JBYe0jdYFuWvfeGeacmYH9csemw3e26gHW-FekyAycXf8_8pYkTtmzmeEwSNd5RQGoMyqExip8lK1BpLsXrSWTABR8tAMV6XsLtnkeeIRX-x3FfEcwFDtHqTdYogeUoih4S8aPzm5/w400-h300/Madera%20Joola%20Mattenet%20ALL+.jpg)

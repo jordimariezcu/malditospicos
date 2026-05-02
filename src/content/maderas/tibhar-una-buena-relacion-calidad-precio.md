@@ -5,6 +5,8 @@ updatedDate: "2025-08-11"
 category: "maderas"
 tags: ["Maderas"]
 draft: false
+brand: "Tibhar"
+rating: 4
 ---
 
 ![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgctWHiuLNT3EBOmS4RZmVKT_kn7YIsvBEmq6DixXs5BBV4gnxE_cSsvcgYAh19GGf6ag-Zj7ThdRc_odEkMNZ9U9Am0ccsVGukst30jehLNfOH0ZwhzJYJpSQep2mZF2ZMOHZsP7QynaYuBKr33w4SrYQxwhaF3bu1MqHd0IfMTNeIMO5fJyqM-rNHgquG/s320/Tibhar.jpg)

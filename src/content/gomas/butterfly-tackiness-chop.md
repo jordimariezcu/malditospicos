@@ -5,6 +5,8 @@ updatedDate: "2026-03-29"
 category: "gomas"
 tags: ["Gomas"]
 draft: false
+brand: "Butterfly"
+rating: 4
 ---
 
 ![Butterfly Tackiness Chop](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM8v-tRgcKwtcXbBPa0c99x1ziFTaNvNF2dbSRYxfli1WR7kw4zXsBJAR3wkgFxI2RFd9qKl7BvAIDSJstlgj1XJvK1Q5GW4cOfn_81I5NwhXFA3Sn_uZbn2hFuahTxizxneZjpN-Oxs0UMxDL7C0pSNmS4o0vfi1O6NnQDXBXCGp8tRaifJcwXqnWx3CR/w303-h320/butterfly%20Tackiness%20Chop.jpg)

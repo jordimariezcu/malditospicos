@@ -5,6 +5,8 @@ updatedDate: "2025-08-14"
 category: "palas"
 tags: ["Configuraciones de palas"]
 draft: false
+brand: "Andro"
+rating: 4.5
 ---
 
 ![Hadraw VR con coma Rozena](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHj9799sML6cmsLUGOk_3iG921W68zkdMWsdpZhiw4bqfoMHwzuPanpdNP1OCdD_c8IXddMDKLr8fPAD0Sf7F7o3B3d675QXkUyK2bw5ISvi3euzqirLsIr7LHYvPvSunh0mnuTDPDNPTivlO053MRQoy0taWRQ7ActtTXWDSIwMq5vin6lcmZ1_w4BL5W/w320-h240/hadraw%20vr.jpg)

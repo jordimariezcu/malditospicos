@@ -5,6 +5,8 @@ updatedDate: "2025-08-14"
 category: "palas"
 tags: ["Configuraciones de palas"]
 draft: false
+brand: "Tibhar"
+rating: 4
 ---
 
 ![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZo9uHqIVssj2PqiQr3VbycbBOAQCJhLH1cdsnNp0vnNYFmpYFpXojcw2rQ3P_dsUfGtwK1ZB1zmNihP2p8XlxCOS4ydKDjqwbUWW5ZyHwXu4aRM7iEhl8v_Ym3nvt3LuE8WBPeoK0W6tCaVmSVyHKQgGWI6u832Gofpx7rtWdW42KOJlcqH5pM95bIXCC/s320/Madera%20Joola%20Quattro%20Carbon.jpg)

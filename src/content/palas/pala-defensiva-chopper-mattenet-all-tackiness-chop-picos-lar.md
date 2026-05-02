@@ -5,6 +5,8 @@ updatedDate: "2026-03-07"
 category: "palas"
 tags: ["Configuraciones de palas"]
 draft: false
+brand: "Donic"
+rating: 4
 ---
 
 ![victas curl p1v - goma picos largos](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSdlplvsmSnTMMZBhHoxc7Lc_ygeK6UNFW4iaNTSdKDJ1vIUApnj05DjSCAXE37P5tCDpBJZTUd92P_7ITZ8p8qny0YdmeEdmhqMNfcp3G7tT2LmIBtkNRIm7134S3yncRhfu5hB0j7wK8UR2j3E5MdQA-aTMUOAypVN4A3nVzVTCxmVYqIFGjH1FVLU8Z/w400-h369/victas%20curl%20p1v%20-%20goma%20picos%20largos.jpg)

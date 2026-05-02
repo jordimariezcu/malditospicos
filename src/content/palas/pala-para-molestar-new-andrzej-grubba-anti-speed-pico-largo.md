@@ -5,6 +5,8 @@ updatedDate: "2026-03-07"
 category: "palas"
 tags: ["Configuraciones de palas"]
 draft: false
+brand: "Donic"
+rating: 4
 ---
 
 ![Madera Butterfly New Andrzej Grubba](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1-wjKRJx5sOnc7u2KaSRJJ0kLGENm6Lm29iQQ5TFylcJ_UuXkS43LhE7iEdYVgUFBt3uwDKhb4rWPqZogCvj1ygtEEMcz3uuWnlDKeZfwr_SZS1-XCFXx7qTpC_K79leJW1iEvgBzvskvx1bJ5bSuZlk8h5suyicdiq8Os7nShOz1tYl93LE-1JEcc8MK/w249-h400/Goma%20der-materialspezialist%20ANTI-SPEED.jpeg)

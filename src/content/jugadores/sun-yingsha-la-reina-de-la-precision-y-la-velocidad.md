@@ -5,6 +5,8 @@ updatedDate: "2025-08-10"
 category: "jugadores"
 tags: ["Jugadores"]
 draft: false
+nationality: "China"
+birthDate: "2000-11-04"
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/Rv0fdyvI0l8?si=n9zbSO4Gyj6F5tOA" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

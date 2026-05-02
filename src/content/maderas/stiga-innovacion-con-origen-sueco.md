@@ -5,6 +5,8 @@ updatedDate: "2025-08-11"
 category: "maderas"
 tags: ["Maderas"]
 draft: false
+brand: "Stiga"
+rating: 4.5
 ---
 
 ![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBgjyBHTGi8RxVwjJVPuzsTe7xRXSRa3nkAJT7T2wQhX0O_JxBtVN1sAmC4hRlEBj73CmJ-ucYsdbU4hlg4ck3pMgRiD6itEJZwp8jmxlHbmCRbIwyad5NZseN7jUcM8Vyh3XhAU9S0huBXA8Cc6CGtQEOXn4cVHza3zR_D_1529yGyT-YuuEWTR7UCLup/s320/stiga.jpg)

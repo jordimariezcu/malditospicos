@@ -5,6 +5,8 @@ updatedDate: "2025-10-11"
 category: "palas"
 tags: ["Configuraciones de palas"]
 draft: false
+brand: "Butterfly"
+rating: 4.5
 ---
 
 ![Achanta Sharath Kamal](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn8FeC1d65tYh1YCMV6sJ2fxO8Iz5vdEU1rbkNobkBbdj_vrUDXFFWyoIA7ZXB6iEQgv1cVRSc_bWrorMNSMliM1K_ulSiYEZb55pDGTOJEFgLbTpZg0b7SHXdZYfNLIxTim-Q7-km4AT9Qc7P3-HGUZM2kFqrn6XTRubg0Y2CJpjcT3nR65KawdGjl5Sk/w400-h275/Achanta%20Sharath%20Kamal.jpg)

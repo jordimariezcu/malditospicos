@@ -5,6 +5,8 @@ updatedDate: "2026-02-21"
 category: "palas"
 tags: ["Configuraciones de palas"]
 draft: false
+brand: "Butterfly"
+rating: 4.5
 ---
 
 ![Simon Gauzy](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXGmPzn71XRKizPdUVJoDJJPW7WuMxcgHERtaJdWcO5lW_rOyUNUQoR9Wkw8k52JxdQVrJQDvEeMCvzYv_mSWFTXOr1Csc7euvJlwQZrdkSwPNtMvdCPXLMFslKcusADsVaKIGBTJJvdJYS1k-vIYIT3f_6SCoZ114NSZndNRTLUxZ8Igj7UA6kUOqmOVf/w394-h400/simon%20gauzy.jpg)

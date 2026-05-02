@@ -1,10 +1,12 @@
----
+﻿---
 title: "Truls Möregårdh, la creatividad al poder"
 pubDate: "2025-01-03"
 updatedDate: "2025-08-13"
 category: "jugadores"
 tags: ["Jugadores"]
 draft: false
+nationality: "Suecia"
+birthDate: "2000-06-16"
 ---
 
 Truls Möregårdh, nacido en 2002 en Suecia, es uno de los jugadores más carismáticos y creativos del circuito internacional. 

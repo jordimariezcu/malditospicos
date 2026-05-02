@@ -5,6 +5,8 @@ updatedDate: "2025-09-14"
 category: "palas"
 tags: ["Configuraciones de palas"]
 draft: false
+brand: "Butterfly"
+rating: 4.5
 ---
 
 ![Butterfly Timo Boll ALC](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL5CtlwydxTJTqRJk3ToQzlVCEXMZF-_cIAeKSIAmTWe2DRAUn9HYswuKXm74mRxSj9jlF77chQ8KVW2-hDHFNBw2_tyDfQpDoaMaNUSMDfIwEdn4P9ke1dY5ZaVqkbQXD35W7Y2SF8Fr-n3RsDsOKhCR-l-iXmEkzPWtmd3bMg-ON-KnJ9zAUFelGfuli/w251-h400/butterfly%20timo%20boll%20%20alc.jpg)

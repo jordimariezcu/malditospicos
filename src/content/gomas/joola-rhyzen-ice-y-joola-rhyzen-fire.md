@@ -5,6 +5,8 @@ updatedDate: "2026-03-29"
 category: "gomas"
 tags: ["Gomas"]
 draft: false
+brand: "Joola"
+rating: 4.5
 ---
 
 ![Joola Rhyzen Ice](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWglvebx0PBx_CqDdIZ-SzTb8Tc3TwHG0G_gQVBRyZGVb02hc_2P7CmkUR153gBp3dphJrcmJse97kczSeURxjb3dqLNDCQVyjOTKqyalDGwEhUlIfGJ04zV7SLbiVT0Ic10kTFLfpI_00GAHGadXLwlOpujz7JeALOfw3UE4KP4n4Dw50fBff8ZTd5Jcr/w320-h310/joola%20rhyzen%20ice.jpg)

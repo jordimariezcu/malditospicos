@@ -1,10 +1,12 @@
----
+﻿---
 title: "Chen Xingtong, estilo ofensivo con una buena adaptación a la rival"
 pubDate: "2025-03-03"
 updatedDate: "2025-08-10"
 category: "jugadores"
 tags: ["Jugadores"]
 draft: false
+nationality: "China"
+birthDate: "2000-02-27"
 ---
 
 Chen Xingtong es una jugadora china nacida en 1997 que ha llegado a ocupar el número tres del ranking mundial. 

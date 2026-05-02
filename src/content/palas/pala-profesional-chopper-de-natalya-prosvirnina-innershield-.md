@@ -5,6 +5,8 @@ updatedDate: "2025-08-31"
 category: "palas"
 tags: ["Configuraciones de palas"]
 draft: false
+brand: "Butterfly"
+rating: 4.5
 ---
 
 ![Madera Innershield Layer + goma picos largos Grass D.Tecs](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwuqlKxol9tr82NFD1je4kzfbMCVL-FeMZlgp__Ki3OclS4VYGz3vObHA7a7Uw8EpYqqCLg5wLcz0NV0xG2aSOtd7Dv9_PMQ7jqzZaYuUtyCKIeLN2L1zKh-k1yRL02nlwkuVC7qyNUZquitxOFZpHaprN3QxI_2VpJFBb0HhxK1F_rYDVdjPaFnuPpkSV/w241-h400/Goma%20Tibhar%20Grass%20D.Tecs.jpg)

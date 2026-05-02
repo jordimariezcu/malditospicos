@@ -5,6 +5,8 @@ updatedDate: "2026-03-29"
 category: "gomas"
 tags: ["Gomas"]
 draft: false
+brand: "Saviga"
+rating: 3.5
 ---
 
 ![Saviga Super Block OX](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTuxkYKOQ7tCfToZnZ6vmOEswb3qcwL6_Grz9yWuvC5R3esq3lvzFM2pEEEXgkBC3x9yVk324Q3NJmcgUnGqrmnc3Lm6s0Kci2YLhVnd1M9zqXEzzfREnLuFsdffzSqNSCGeNBheXFn0-fvLONKloZzcGWqaRqRCzwkkW2YBUUcVH0hrOjVhmg-3wmMrB7/w363-h400/Saviga%20Super%20Block%20-%20aliexpress.jpeg)

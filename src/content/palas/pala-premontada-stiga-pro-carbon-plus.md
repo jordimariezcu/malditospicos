@@ -5,6 +5,8 @@ updatedDate: "2025-09-03"
 category: "palas"
 tags: ["Configuraciones de palas"]
 draft: false
+brand: "Stiga"
+rating: 4
 ---
 
 ![Pala premontada Stiga Pro Carbon Plus](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjOfLTV7NsBjzLrHsgdVdZYx7e3Y-A3iZp57-n5lBBPG-Qqo5YXfQPt0506Za3WPmaDTbRRpmg5FPmESfy1wRSvapcVTV4I1gLg1JlymW3s35u7ZFF2rMANDXobVLldAS_2JbKeAzT5O2FRBuYi5Rc2baO7w_UJIqyM63xSRT8vZ3Qk7h7e0PMRA6rgySD/w350-h400/pala%20premontada%20stiga%20pro%20carbon%20plus.jpg)

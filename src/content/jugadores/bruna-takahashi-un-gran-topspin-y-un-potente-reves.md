@@ -5,6 +5,8 @@ updatedDate: "2025-08-10"
 category: "jugadores"
 tags: ["Jugadores"]
 draft: false
+nationality: "Brasil"
+birthDate: "2000-07-21"
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/ARg0FSKXkzc?si=-3hOmDT6wewOeo0k" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

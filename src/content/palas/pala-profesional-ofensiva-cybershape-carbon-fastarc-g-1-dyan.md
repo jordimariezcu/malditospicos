@@ -5,6 +5,8 @@ updatedDate: "2025-08-14"
 category: "palas"
 tags: ["Configuraciones de palas"]
 draft: false
+brand: "Butterfly"
+rating: 5
 ---
 
 ![Stiga Cybershape Carbon](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUxWvZc5UuU7jjS7BJTvscHg0UPz57hMqzrguE1TAPHp3PYSDTueTnz3XXfMbD3NtCZ77Zw8dilTLR67RKU_oii5T9aN_rpMahFOKb-rgLrFkf_nujyftBd2e8oIlyyaBmb-i5e6__jhfuHJBndW5R6VbQt1IQr6kaAP0now3S8xEKWFOePxDP5e9RV1TH/w258-h400/Madera%20Stiga%20Cybershape%20-%20fastarc%20G1.JPG)

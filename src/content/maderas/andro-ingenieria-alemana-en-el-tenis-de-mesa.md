@@ -5,6 +5,8 @@ updatedDate: "2025-08-11"
 category: "maderas"
 tags: ["Maderas"]
 draft: false
+brand: "Andro"
+rating: 4
 ---
 
 ![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKMfZx_k7m3hb9RaeejwOpBPXPnK6Zo6C3-RH-dwFOAvKNaQ_G1BTX-9c5tDeMRbZt4jRbzPh4fV64zJOjKFYsPNhL3SDfQQgLv94qiHEoWVGZyypdXLr4VFmO5jsxd_w8IDUFNaHWgcZ_eazbpxlVad4akUM8UVgb_B-qhgvv8WKlUMtI9a0cnW91BaCG/s320/andro.jpg)

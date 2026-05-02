@@ -5,6 +5,8 @@ updatedDate: "2025-08-11"
 category: "maderas"
 tags: ["Maderas"]
 draft: false
+brand: "Joola"
+rating: 4
 ---
 
 ![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLiPQPR7JdowgfNoS-iQdOko8Zo5jFFMaIHdXilJ02ktPoooHHWOR5hZXahqEBynKdgHSZ8tQBf1WxIDHjUahER-1zNwA6_StlZMjxGcq-H2ZWzxlTNflrQP1AtoPl3s-Qh2PzYJoXt78GAq4SeMMHnh0SzQbD9txYttkBm1_Aj6uzbSPy8x0BEEBox72I/s320/Joola.jpg)

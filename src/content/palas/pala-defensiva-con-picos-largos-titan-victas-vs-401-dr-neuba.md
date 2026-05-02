@@ -5,6 +5,8 @@ updatedDate: "2025-08-14"
 category: "palas"
 tags: ["Configuraciones de palas"]
 draft: false
+brand: "Victas"
+rating: 4
 ---
 
 ![Dr. NeubauerTitan con goma Victas VS-401](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP46QwtnmMF9ps5FTrLmRLt5KH_zmsTV0XNT887QpXfEQRemQs-qvdAMIgYW1NkrANwtc0A2q8XC_YUHt3qATSM_aK0C7oieJxXzD6Nc_4i7FDP6QTi8SGQaVY6v3K1lxJ-JXz49JENiImv_OQ8bAp1QEGTVkP4a0EKTYu-lNuGGJBWnU5bgwU94YSIZgM/w260-h400/dr.%20neubauer%20titan.jpg)

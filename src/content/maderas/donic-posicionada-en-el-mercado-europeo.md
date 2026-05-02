@@ -5,6 +5,8 @@ updatedDate: "2025-08-11"
 category: "maderas"
 tags: ["Maderas"]
 draft: false
+brand: "Donic"
+rating: 4
 ---
 
 ![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjJOAnY9PaSRbfXGfjGbfsyPjBf13FumKfI8MfiuBb-WmG24WDoJCjFloybNX84qZHRHqb36S6RB-bgbQM88YG-SvkAaegsCYmpE1T_xKVyn_f_2agRwsjF99EYtiivVSvhmkNxCkCXIRUAa-OI4DusLoQMpCEiZub3xJUOr6_p6gCxcjSn3l1RtzL5mCa/s320/donic.jpg)

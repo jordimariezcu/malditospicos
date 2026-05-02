@@ -5,6 +5,8 @@ updatedDate: "2025-08-14"
 category: "palas"
 tags: ["Configuraciones de palas"]
 draft: false
+brand: "Donic"
+rating: 4
 ---
 
 ![Butterfly Petr Korbel + Rozena](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoSaazYjejqkOL_btFx7aRbLP7u9vtIcIpfv1nWwXkz2wmuHIBuSS5xK0wZ5YVTF_ac33tiwAUcmbPkEQrnDuzUqEdlM9tjZ866GGjFiyNloed2mnnphmTQFXeHugcne67fPWrKoKc-E3Jj_VhRzSnZ574H98J039Qg3E00MqtxyPLkO25a79p_La30yS4/w258-h400/Butterfly%20Petr%20Korbel.jpg)
