@@ -7,7 +7,7 @@ tags: ["Dudas básicas"]
 draft: false
 ---
 
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsHE1ClqlJ5GlSkqK304psPPBTEmvSU1GVVi9by7IvdedxT0qT4Bh-QoKv06lltNRmsri9PuRQGx_RMxckYUF9S2al9VmILi6oUD4PIeNpKYjj-xDZj1Pq8_IsU8mGJWgK-SxR8LKsFPUfsYZtpLtNPUkS9_7RTKqRJHmKMJ5EAbuu2LAZsWEIvzBpddP9/w400-h400/estiramientos%20tenis%20de%20mesa.jpg)
+![La importancia de estirar y calentar](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsHE1ClqlJ5GlSkqK304psPPBTEmvSU1GVVi9by7IvdedxT0qT4Bh-QoKv06lltNRmsri9PuRQGx_RMxckYUF9S2al9VmILi6oUD4PIeNpKYjj-xDZj1Pq8_IsU8mGJWgK-SxR8LKsFPUfsYZtpLtNPUkS9_7RTKqRJHmKMJ5EAbuu2LAZsWEIvzBpddP9/w400-h400/estiramientos%20tenis%20de%20mesa.jpg)
 
 En tenis de mesa, como en cualquier deporte, saltar a la mesa sin calentar es como intentar correr un coche sin aceite: puede funcionar un rato, pero el desgaste será enorme. El calentamiento prepara músculos, articulaciones y sistema cardiovascular para el esfuerzo, reduciendo el riesgo de lesiones y mejorando el rendimiento desde el primer punto. 
 

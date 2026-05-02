@@ -7,7 +7,7 @@ tags: ["Como tiene que ser tu pala"]
 draft: false
 ---
 
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcxLhOXCZw7Y7RwcCHnOA31OZRSg0HIFM_DMm70OO-esu89gvzSoetRlTFf6jIHwnrw42GW6sALzX8DQhF-9bXUcavQedXicgV9faljlKm21Y3LrD0bbt7jWmfrHvldc0IbuDaKAmS0Dp5QZHCLGRaxu6AnXMQGnZfykZVF2aTNrskPPC0RxPE7GLdPf31/s320/madera%20DEF%20butterfly%20diode%20pro.jpg)
+![Pala para jugar al estilo defensivo clásico (puro)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcxLhOXCZw7Y7RwcCHnOA31OZRSg0HIFM_DMm70OO-esu89gvzSoetRlTFf6jIHwnrw42GW6sALzX8DQhF-9bXUcavQedXicgV9faljlKm21Y3LrD0bbt7jWmfrHvldc0IbuDaKAmS0Dp5QZHCLGRaxu6AnXMQGnZfykZVF2aTNrskPPC0RxPE7GLdPf31/s320/madera%20DEF%20butterfly%20diode%20pro.jpg)
 
 **Descripción:**
 Un jugador de estilo defensivo clásico es un jugador que juega cerca o lejos de la mesa, buscando devolver todo con control, bloqueos, y cortes pasivos. No busca ganar puntos directamente, sino provocar el error del rival.

@@ -7,7 +7,7 @@ tags: ["Gomas"]
 draft: false
 ---
 
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBscqllwLPrh4-rOBV8ctVqRA9n8gZW8VjMNxYZPv3oeniPvEbwXkzlK7sUlA1VZPA1hDZomHwMwvrEKLjrmrWYlenV7hanixHtf2MFvy0IKcDRXjKxuYoaKV4TME5f-W9yfNzvxNh7jYdJegiRnvgCBs1qqou5Fo2H2ACwM1lYvDP6GWOiSseUSZns70k/w304-h400/goma%20antitop%20-%20butterfly%20super%20anti%20-%20pala.jpg)
+![Gomas antitop (antispin)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBscqllwLPrh4-rOBV8ctVqRA9n8gZW8VjMNxYZPv3oeniPvEbwXkzlK7sUlA1VZPA1hDZomHwMwvrEKLjrmrWYlenV7hanixHtf2MFvy0IKcDRXjKxuYoaKV4TME5f-W9yfNzvxNh7jYdJegiRnvgCBs1qqou5Fo2H2ACwM1lYvDP6GWOiSseUSZns70k/w304-h400/goma%20antitop%20-%20butterfly%20super%20anti%20-%20pala.jpg)
 |  |
 | --- |
 | Goma antitop |

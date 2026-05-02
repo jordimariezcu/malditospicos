@@ -7,7 +7,7 @@ tags: ["Dudas básicas", "Maderas"]
 draft: false
 ---
 
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimbyJ_oP-OTzYs23xkhf5sn6bcV8elPRwj60SMadEYtAtxIrLyJ8nA0YhDbvn17DOWqwc4yEfS6jCFe7IDGIfine4-qIlYwdR6kLGnMY728CimKAqukXygXwZ0LKHSz9iTNvlcZoessVy3QwQw8ltW0M20Lo0_iWaE2b3TVKWERGZ0l1f0AFKkG6j0Kmb-/w400-h300/pala%20j%C3%BAnior%20ni%C3%B1os.jpg)
+![Palas para niños: sí, existen… ¡y son más pequeñas!](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimbyJ_oP-OTzYs23xkhf5sn6bcV8elPRwj60SMadEYtAtxIrLyJ8nA0YhDbvn17DOWqwc4yEfS6jCFe7IDGIfine4-qIlYwdR6kLGnMY728CimKAqukXygXwZ0LKHSz9iTNvlcZoessVy3QwQw8ltW0M20Lo0_iWaE2b3TVKWERGZ0l1f0AFKkG6j0Kmb-/w400-h300/pala%20j%C3%BAnior%20ni%C3%B1os.jpg)
 |  |
 | --- |
 | Pala infantil (abajo) comparada con una pala normal |

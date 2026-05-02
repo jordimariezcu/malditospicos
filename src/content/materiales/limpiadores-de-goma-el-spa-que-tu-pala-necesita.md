@@ -7,7 +7,7 @@ tags: ["Materiales"]
 draft: false
 ---
 
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxzWnp5woksgPPH6ObRAJHPz0L2SP6QdS274PQLToSiYqU-XfHnLaoLXN7U97YHggGdSziHNSh8GHAkSIa-5Lb0JEQ_mtcA-_aEoCbneF05uewN9cz56pWtoSCgGexDbfs4eW_hyVcXx8CQZ5ll7x868ds5SCnetmsUyWjZCEsOS2AAWUl_fhK4tDRl-Ye/s320/limpiador%20goma%20pala%20tenis%20mesa.jpg)
+![Limpiadores de goma: el spa que tu pala necesita](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxzWnp5woksgPPH6ObRAJHPz0L2SP6QdS274PQLToSiYqU-XfHnLaoLXN7U97YHggGdSziHNSh8GHAkSIa-5Lb0JEQ_mtcA-_aEoCbneF05uewN9cz56pWtoSCgGexDbfs4eW_hyVcXx8CQZ5ll7x868ds5SCnetmsUyWjZCEsOS2AAWUl_fhK4tDRl-Ye/s320/limpiador%20goma%20pala%20tenis%20mesa.jpg)
 
 Si tu goma pudiera hablar, te diría: “¡Báñame, que estoy llena de polvo y huellas!”. Y no le faltaría razón. El polvo, el sudor y la grasa de las manos se pegan a la superficie como si fuera un imán para la suciedad. El resultado: la goma pierde agarre y, con él, tu efecto y tu dignidad en la mesa.
 

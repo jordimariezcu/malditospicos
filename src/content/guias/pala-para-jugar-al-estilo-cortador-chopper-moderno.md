@@ -7,7 +7,7 @@ tags: ["Como tiene que ser tu pala"]
 draft: false
 ---
 
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis6qOFlWaf-SciuXSmKX4wYQ9X4YpHmxddLEjRYgaWJirsy2DMVE5KhnLwgSSI-9TBOX9Oy34BYPZzOwrZuyZkonmjBrlpxoa_4P-mA3u7IsJgcjv1g54e_gsXa5f1iKnTHe_28D_8OC3Ek99ue9H7x8J3q5h4q6woAMV5X_BrsMhkN1YzySAI-v2C3jmp/s320/goma%20picos%20largos%20-%20tenis%20de%20mesa.jpg)
+![Pala para jugar al estilo cortador (chopper moderno)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis6qOFlWaf-SciuXSmKX4wYQ9X4YpHmxddLEjRYgaWJirsy2DMVE5KhnLwgSSI-9TBOX9Oy34BYPZzOwrZuyZkonmjBrlpxoa_4P-mA3u7IsJgcjv1g54e_gsXa5f1iKnTHe_28D_8OC3Ek99ue9H7x8J3q5h4q6woAMV5X_BrsMhkN1YzySAI-v2C3jmp/s320/goma%20picos%20largos%20-%20tenis%20de%20mesa.jpg)
 
 **Descripción:**
 Un cortador, o chopper, es un jugador que se posiciona a media o larga distancia de la mesa y devuelve los ataques rivales con cortes profundos llenos de backspin. Suele alternar cortes defensivos con topspins ofensivos cuando tiene oportunidad.

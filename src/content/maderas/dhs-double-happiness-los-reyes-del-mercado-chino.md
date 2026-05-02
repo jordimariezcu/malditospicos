@@ -9,7 +9,7 @@ brand: "DHS"
 rating: 4
 ---
 
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQMquVjAIfrApB79m6W2reOxPt19pSuh48wdkq_oXZoi8abkGo4-h8aSf1xtxWo7U1VO4GLFgEDsUCHkRIYGNrC11Ti7oM8yHRkkNNSfm56XgTX855wsePGmT5V_nf2bqFN7CFF0qer_NDPYJfVqprrpIw5yS2oyGxbB5qygWSbma_EVpbh5CXwtxH-Rfr/s320/DHS.jpg)
+![DHS (Double Happiness), los reyes del mercado chino](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQMquVjAIfrApB79m6W2reOxPt19pSuh48wdkq_oXZoi8abkGo4-h8aSf1xtxWo7U1VO4GLFgEDsUCHkRIYGNrC11Ti7oM8yHRkkNNSfm56XgTX855wsePGmT5V_nf2bqFN7CFF0qer_NDPYJfVqprrpIw5yS2oyGxbB5qygWSbma_EVpbh5CXwtxH-Rfr/s320/DHS.jpg)
 
 Double Happiness, más conocida como DHS, es la marca líder en China y una de las más influyentes en el tenis de mesa mundial. Fundada en Shanghái en 1959, comenzó como fabricante para el mercado nacional, pero con el tiempo se convirtió en proveedor oficial de la Federación Internacional de Tenis de Mesa (ITTF) para pelotas y material en competiciones internacionales.
 
@@ -19,4 +19,4 @@ Los modelos más prestigiosos, como el Hurricane Long 5, combinan varias capas d
 
 Su catálogo de maderas va desde modelos para principiantes, con precios accesibles y gran control, hasta maderas de gama muy alta usadas por campeones olímpicos. Su fuerte presencia en las selecciones chinas ha reforzado su reputación como una marca diseñada para el más alto rendimiento.
 
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcaG8PgJak7S1k5844MP6JnRGWpX1HoHDq2iHNjZpIq5n3uCsr3jOXJKCzMarCl0up1KQh5qPUccQXuDLCcSL0X_JfrfCbH4PXoBLhYmCsVuaE4QTlGphKOfCmMLWzxgkj_YMvWrsawtIHiFtLKsXIGHefb_oHdQLBPlzRQp-fbvQv4ajj76TPwMMCVgLt/w400-h189/dhs%20zhendong.jpg)
+![DHS (Double Happiness), los reyes del mercado chino](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcaG8PgJak7S1k5844MP6JnRGWpX1HoHDq2iHNjZpIq5n3uCsr3jOXJKCzMarCl0up1KQh5qPUccQXuDLCcSL0X_JfrfCbH4PXoBLhYmCsVuaE4QTlGphKOfCmMLWzxgkj_YMvWrsawtIHiFtLKsXIGHefb_oHdQLBPlzRQp-fbvQv4ajj76TPwMMCVgLt/w400-h189/dhs%20zhendong.jpg)

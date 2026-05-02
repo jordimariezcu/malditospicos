@@ -9,7 +9,7 @@ draft: false
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/3CAH4QVINZk?si=w7pUCUa36wcaDg3l" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
 
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSQlKsO6KxZXqzEdB9oGiDFObteOcrylDcagidN5fr8zCtEvjEPsYKk0rSPTyUL0uYtKjjZldJNwwC92a4xFH8OT_ZeqCu6F2ysPnVXEcvgLWZKs_TVtFY4IV14XWISOm1TFKbjG0vGmezi_yRbJdiAjhviIalnS0opIpDtGUPNctwpT5jtXhhMWhXpQMy/w400-h241/GeblockTT%20-%20Table%20Tennis.jpg)
+![GeblockTT - Tenis de mesa en Youtube](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSQlKsO6KxZXqzEdB9oGiDFObteOcrylDcagidN5fr8zCtEvjEPsYKk0rSPTyUL0uYtKjjZldJNwwC92a4xFH8OT_ZeqCu6F2ysPnVXEcvgLWZKs_TVtFY4IV14XWISOm1TFKbjG0vGmezi_yRbJdiAjhviIalnS0opIpDtGUPNctwpT5jtXhhMWhXpQMy/w400-h241/GeblockTT%20-%20Table%20Tennis.jpg)
 
 Os recomiendo seguir en Youtube a [GeblockTT]() , una cuenta que nos ofrece 2 cosas que nos gustan mucho: 
 

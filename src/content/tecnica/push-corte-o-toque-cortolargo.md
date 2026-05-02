@@ -5,6 +5,7 @@ updatedDate: "2025-08-06"
 category: "tecnica"
 tags: ["Tipos de golpe"]
 draft: false
+description: "El push es un golpe defensivo clave en tenis de mesa. Aprende a ejecutar el toque corto y largo, cuándo usarlo y cómo controlarlo contra pelotas con backspin."
 ---
 
 El push es un golpe defensivo que se ejecuta contra pelotas con efecto cortado (backspin) o sin efecto, especialmente cuando son cortas. Consiste en golpear la pelota con un movimiento hacia abajo, rozando por debajo para mantener o aumentar el backspin. Puede ser corto (pegado a la red) o largo (hacia el fondo).

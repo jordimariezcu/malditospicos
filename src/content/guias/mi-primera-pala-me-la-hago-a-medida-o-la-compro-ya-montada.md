@@ -7,7 +7,7 @@ tags: ["Como tiene que ser tu pala", "Dudas básicas"]
 draft: false
 ---
 
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7yXfOOg5KHVrvmB654zlTI9IxXcGqVRSTRowhHM575MVbQz01ozoPSIv0cv-0ENANvS2zPK-5dp2CWA024bF2-TY4ryeqBJWyDZU8x6iek-0L7pnwKHSRjHP38S9F0pqQLQj7iR_R5nMCNbt5G-zC_y0e5rlNRYh4ysl2KRdKLrL1YXhiGqLMkoAnUGli/w242-h400/pongori%20pala%20entera.jpg)
+![Mi primera pala: ¿Me la hago a medida o la compro ya montada? ](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7yXfOOg5KHVrvmB654zlTI9IxXcGqVRSTRowhHM575MVbQz01ozoPSIv0cv-0ENANvS2zPK-5dp2CWA024bF2-TY4ryeqBJWyDZU8x6iek-0L7pnwKHSRjHP38S9F0pqQLQj7iR_R5nMCNbt5G-zC_y0e5rlNRYh4ysl2KRdKLrL1YXhiGqLMkoAnUGli/w242-h400/pongori%20pala%20entera.jpg)
 La primera duda que siempre nos surge cuando empezamos a jugar a tenis de mesa es, evidentemente, la pala. No tengo ni idea de palas, maderas, gomas, .... ¿Qué compro?
 
 Como es lógico, aún no sabemos si vamos a jugar tenis de mesa de forma regular durante muchos años, y no queremos realizar una gran inversión, pero es importante no quedarse corto.
@@ -28,4 +28,4 @@ Si en tiendas generalistas encontráis palas de marcas buenas, también serán u
 Si optáis por comprar madera y gomas, pedid a la tienda que os monten la pala. Normalmente no ponen problemas.
 Lo que hacemos normalmente, con el tiempo, es pegar nosotros mismos las gomas. No es complicado, pero mejor si empezáis evitando este problema.
 
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpI3FJ0B27Xo9hnCk1tkKfJaB8eOee9mrWs4wv-dZwTZLDvOygu47IQs33bWH38vAocOKYSTIbojeJDZDNYMUb_zhjmOSs-HeztinqesBazwXiPYtnIQ6bPl_VK6VCPEcZOFfHhz3HYS2vd62qf8AC13fktPM6J6LLfk1lOdDuJufypLk0HZNR9COyYZFw/w245-h400/pala%20tenis%20mesa%20montada%20a%20medida.jpg)
+![Mi primera pala: ¿Me la hago a medida o la compro ya montada? ](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpI3FJ0B27Xo9hnCk1tkKfJaB8eOee9mrWs4wv-dZwTZLDvOygu47IQs33bWH38vAocOKYSTIbojeJDZDNYMUb_zhjmOSs-HeztinqesBazwXiPYtnIQ6bPl_VK6VCPEcZOFfHhz3HYS2vd62qf8AC13fktPM6J6LLfk1lOdDuJufypLk0HZNR9COyYZFw/w245-h400/pala%20tenis%20mesa%20montada%20a%20medida.jpg)

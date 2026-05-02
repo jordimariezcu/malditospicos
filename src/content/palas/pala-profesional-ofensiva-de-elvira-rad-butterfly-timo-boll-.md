@@ -9,7 +9,7 @@ brand: "Butterfly"
 rating: 4.5
 ---
 
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi643uK7PlQ6jQuRhxuCF-DCXr-dB4FE5VILHIhdTNGQeGM_LvSEwSjJwoR_6gMj1uHsARL_c2D1NcCTPFCTyuby_6iXZ3ckafy-Dcx-ZaOoxBg05r_Y9SL61u_n0fSbdJpy0FYR5jlR3m-weoFb28yxnZ5zCDW-C2BhPG_Niu3o0cOXe_RsUz46LTOC44w/w240-h400/Madera%20Butterfly%20Timo%20Boll%20ALC%20-%20dignics%2005.JPG)
+![Pala profesional ofensiva de Elvira Rad: Butterfly Timo Boll ALC + gomas Dignics 05](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi643uK7PlQ6jQuRhxuCF-DCXr-dB4FE5VILHIhdTNGQeGM_LvSEwSjJwoR_6gMj1uHsARL_c2D1NcCTPFCTyuby_6iXZ3ckafy-Dcx-ZaOoxBg05r_Y9SL61u_n0fSbdJpy0FYR5jlR3m-weoFb28yxnZ5zCDW-C2BhPG_Niu3o0cOXe_RsUz46LTOC44w/w240-h400/Madera%20Butterfly%20Timo%20Boll%20ALC%20-%20dignics%2005.JPG)
 |  |
 | --- |
 | Butterfly Timo Boll ALC |

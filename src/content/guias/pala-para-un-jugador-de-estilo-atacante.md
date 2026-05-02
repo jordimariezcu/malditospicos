@@ -7,7 +7,7 @@ tags: ["Como tiene que ser tu pala"]
 draft: false
 ---
 
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifylwDOlIffkWJIKdTAvW2zjKlddvcQdxhGLtPtw42Eg4ETBlZOMM17FTAWQK90B4O74prbBjAad9WTdsl8Wo6nY6Skg9GVDYWoxZlhPxXgSpB-QseXB7v7KxCClahZk023Ji2vR9KBqFyTbHuGWmHr2rG-DGJNk6j4pYRAbsXnSyvdDf2pVfSjsNkCkMF/s320/palas-estilo-atacante.jpg)
+![Pala para un jugador de estilo atacante](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifylwDOlIffkWJIKdTAvW2zjKlddvcQdxhGLtPtw42Eg4ETBlZOMM17FTAWQK90B4O74prbBjAad9WTdsl8Wo6nY6Skg9GVDYWoxZlhPxXgSpB-QseXB7v7KxCClahZk023Ji2vR9KBqFyTbHuGWmHr2rG-DGJNk6j4pYRAbsXnSyvdDf2pVfSjsNkCkMF/s320/palas-estilo-atacante.jpg)
 **Descripción:**
 Un jugador de estilo atacante es un jugador que toma la iniciativa del punto desde el primer golpe, buscando hacer daño con topspin rápidos, potentes y colocados, tanto de derecha como de revés.
 

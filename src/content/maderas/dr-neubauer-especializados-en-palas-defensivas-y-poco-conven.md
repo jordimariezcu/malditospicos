@@ -9,7 +9,7 @@ brand: "Dr. Neubauer"
 rating: 4
 ---
 
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSWy7xgo5TWFndRzebXT19xp0BEF00sw2Hfw04UBGj5z_lfUyJvVhOAoZM6f7LU6M6qqzMGKA1FjlQ6YaEWw6EnNZk-sbPUmM_7_mZ6jB2LwmuThDvnwN2DGvp1oQKD-GardaMCB_W6mbADFt4Ec0Uzb8PDiSsld1n_m6Gx_xssNavoeijm1WE1g1lyyiV/s320/dr.%20neubauer.jpg)
+![Dr. Neubauer, especializados en palas defensivas y poco convencionales](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSWy7xgo5TWFndRzebXT19xp0BEF00sw2Hfw04UBGj5z_lfUyJvVhOAoZM6f7LU6M6qqzMGKA1FjlQ6YaEWw6EnNZk-sbPUmM_7_mZ6jB2LwmuThDvnwN2DGvp1oQKD-GardaMCB_W6mbADFt4Ec0Uzb8PDiSsld1n_m6Gx_xssNavoeijm1WE1g1lyyiV/s320/dr.%20neubauer.jpg)
 
 Dr. Neubauer es una marca austríaca especializada en material para estilos de juego poco convencionales. Fundada por el Dr. Herbert Neubauer, un jugador e inventor que revolucionó el uso de gomas “antispin” y picos largos, la marca se ha convertido en referencia para jugadores defensivos o disruptivos.
 

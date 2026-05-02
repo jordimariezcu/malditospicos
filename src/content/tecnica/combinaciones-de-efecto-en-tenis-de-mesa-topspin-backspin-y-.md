@@ -7,7 +7,7 @@ tags: ["Tipos de golpe"]
 draft: false
 ---
 
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTbbC7uQI69GkjXGn9MkGg-Tn_11tTifxJImVuluIRPkUimhyphenhyphenRdHYkg-GP1O2m9_dc5u7uVcVNStvvixmoC4HbN5tr1UxwpKO3DoOIykgXc45c5YOKU3lTVu3bjmEhFuNEVqwj-1PH2r_ofxgPSRm0EDCR3rjq47msCTowK8MejF4hpgqaJnZjzvGRZCTb/s320/Combinaciones%20de%20efecto.jpg)
+![Combinaciones de efecto en tenis de mesa: topspin, backspin y sidespin](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTbbC7uQI69GkjXGn9MkGg-Tn_11tTifxJImVuluIRPkUimhyphenhyphenRdHYkg-GP1O2m9_dc5u7uVcVNStvvixmoC4HbN5tr1UxwpKO3DoOIykgXc45c5YOKU3lTVu3bjmEhFuNEVqwj-1PH2r_ofxgPSRm0EDCR3rjq47msCTowK8MejF4hpgqaJnZjzvGRZCTb/s320/Combinaciones%20de%20efecto.jpg)
 
 El efecto es la salsa del tenis de mesa. Si juegas sin efecto, tu rival vivirá cómodo; si aprendes a mezclarlo, le harás sudar. 
 

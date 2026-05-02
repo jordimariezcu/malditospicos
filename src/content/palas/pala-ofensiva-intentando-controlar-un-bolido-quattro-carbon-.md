@@ -9,7 +9,7 @@ brand: "Tibhar"
 rating: 4
 ---
 
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZo9uHqIVssj2PqiQr3VbycbBOAQCJhLH1cdsnNp0vnNYFmpYFpXojcw2rQ3P_dsUfGtwK1ZB1zmNihP2p8XlxCOS4ydKDjqwbUWW5ZyHwXu4aRM7iEhl8v_Ym3nvt3LuE8WBPeoK0W6tCaVmSVyHKQgGWI6u832Gofpx7rtWdW42KOJlcqH5pM95bIXCC/s320/Madera%20Joola%20Quattro%20Carbon.jpg)
+![Pala ofensiva. Intentando controlar un bólido: Quattro Carbon + 729 FX + Hurricane III](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZo9uHqIVssj2PqiQr3VbycbBOAQCJhLH1cdsnNp0vnNYFmpYFpXojcw2rQ3P_dsUfGtwK1ZB1zmNihP2p8XlxCOS4ydKDjqwbUWW5ZyHwXu4aRM7iEhl8v_Ym3nvt3LuE8WBPeoK0W6tCaVmSVyHKQgGWI6u832Gofpx7rtWdW42KOJlcqH5pM95bIXCC/s320/Madera%20Joola%20Quattro%20Carbon.jpg)
 
 Nos encontramos ante una configuración un tanto peculiar. De base, partimos de una madera muy muy rápida, y para poder controlar su velocidad se le han montado gomas de control.
 
@@ -28,4 +28,4 @@ Algunos artículos que os pueden ayudar si no habéis entendido algo de lo que o
 - [Qué son las gomas lisas]()
 - [Tipos de mango para tu pala]()
 - [Qué es la madera OFF+]()
-- [Pala para un jugador de estilo atacante]() ![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoN43e6U7KJyuYQU0RHAWvVfqNuEmvAARXhCvhcq5TZDB9U1Dak6UTmA7JkQCg9nUTve5FiZr7VuwI-k_z-aUsAsaujgrwhyBLcyqiqGTIH8eMObzlwMfW0isuPXkg4c0n6_WS4RnH5IH4D_OWAcITUdA4GisT9YAs1zyAnzOOyPonVA6y0uHMMZxCYNul/s320/DHS%20Hurricane%20III%20negra.jpg)
+- [Pala para un jugador de estilo atacante]() ![Pala ofensiva. Intentando controlar un bólido: Quattro Carbon + 729 FX + Hurricane III](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoN43e6U7KJyuYQU0RHAWvVfqNuEmvAARXhCvhcq5TZDB9U1Dak6UTmA7JkQCg9nUTve5FiZr7VuwI-k_z-aUsAsaujgrwhyBLcyqiqGTIH8eMObzlwMfW0isuPXkg4c0n6_WS4RnH5IH4D_OWAcITUdA4GisT9YAs1zyAnzOOyPonVA6y0uHMMZxCYNul/s320/DHS%20Hurricane%20III%20negra.jpg)

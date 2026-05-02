@@ -7,7 +7,7 @@ tags: ["Saques"]
 draft: false
 ---
 
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFPGUBmfSaSPE_ieeA_-4s3gMEyzwwJkFKVlfRJlZiW3Zh5BprGQfheQ0OGIDtg9FKPzYWYMIHxLfoL0aG87ZDXxNnfr2Ss219wHcMtIqzjKM6e3XKTqwGrw0T7BqBHTdqGCiZ7L2Bb5fhCG-eMI46N2nmEC_Jet__g8NwTbbM5MDxr_lqmyFcfAH2DHsp/s320/C%C3%B3mo%20leer%20el%20efecto%20del%20saque.jpg)
+![Cómo leer el efecto del saque](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFPGUBmfSaSPE_ieeA_-4s3gMEyzwwJkFKVlfRJlZiW3Zh5BprGQfheQ0OGIDtg9FKPzYWYMIHxLfoL0aG87ZDXxNnfr2Ss219wHcMtIqzjKM6e3XKTqwGrw0T7BqBHTdqGCiZ7L2Bb5fhCG-eMI46N2nmEC_Jet__g8NwTbbM5MDxr_lqmyFcfAH2DHsp/s320/C%C3%B3mo%20leer%20el%20efecto%20del%20saque.jpg)
 
 El saque es como un truco de magia: hay que fijarse bien. Observa cómo se mueve el brazo, cómo roza la pala la pelota y cómo gira ésta en el aire. 
 

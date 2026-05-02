@@ -7,7 +7,7 @@ tags: ["Gomas"]
 draft: false
 ---
 
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNavlNiCZXO8YvQXPeZgryUHZSuqzlQ8G_LuSBOEJ3JLhRqStvYjzSsisO7E4FjC81rNPxFFqucQS8nuBkE2Ll-hsB3EAAs9REhMfziY4h1UaNvIPP7QF6kihqBRTE6ToNV44UnBC5Dv9z6opCwGw9_2Pq4zyilldMfj8jNQAPF02qlVBNAJpeK-5ksbL4/s320/madera%20carbono%20tenis%20mesa.jpg)
+![El grosor de las gomas: el detalle que cambia tu juego](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNavlNiCZXO8YvQXPeZgryUHZSuqzlQ8G_LuSBOEJ3JLhRqStvYjzSsisO7E4FjC81rNPxFFqucQS8nuBkE2Ll-hsB3EAAs9REhMfziY4h1UaNvIPP7QF6kihqBRTE6ToNV44UnBC5Dv9z6opCwGw9_2Pq4zyilldMfj8jNQAPF02qlVBNAJpeK-5ksbL4/s320/madera%20carbono%20tenis%20mesa.jpg)
 
 En tenis de mesa, el grosor de la goma es como la salsa en una receta: puedes tener los mismos ingredientes, pero el resultado cambia por completo. No es solo cuestión de color o marca: hablamos de la cantidad de esponja que hay entre la superficie de golpeo y la madera, y eso define gran parte de tu estilo.
 

@@ -7,7 +7,7 @@ tags: ["Dudas básicas"]
 draft: false
 ---
 
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiynje65ghzZd1Td6YjBL9jRi0Ju0A4Nm4zEi2CmSyGjv5Oi55Hhg6fjAMdX8is1slzjh1gDJoDAZjbuGHQYdPCD_o4d-nGXmLwNs27cvUcyTugCTrPrdxrBuq6qgGYcttnU4x2NMrFPvOdRpjuXzerT6JC-nNVALdKJM7Zn2vLwBiulbyKScOG-scNhyphenhyphengI/w400-h300/palas-estilo-atacante.jpg)
+![¿Qué es el sweet spot (punto dulce) en tenis de mesa?](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiynje65ghzZd1Td6YjBL9jRi0Ju0A4Nm4zEi2CmSyGjv5Oi55Hhg6fjAMdX8is1slzjh1gDJoDAZjbuGHQYdPCD_o4d-nGXmLwNs27cvUcyTugCTrPrdxrBuq6qgGYcttnU4x2NMrFPvOdRpjuXzerT6JC-nNVALdKJM7Zn2vLwBiulbyKScOG-scNhyphenhyphengI/w400-h300/palas-estilo-atacante.jpg)
 
 El sweet spot, o punto dulce, es la zona óptima de la pala donde el golpeo de la pelota resulta más efectivo, limpio y controlado.
 

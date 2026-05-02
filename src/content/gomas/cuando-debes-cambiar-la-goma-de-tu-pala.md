@@ -7,7 +7,7 @@ tags: ["Gomas"]
 draft: false
 ---
 
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGPrTE3Oe-eprVAFVUba0urxYTNU8pqg01KTkfaewkKBmI07eaxJytyqItlGl8Z0ykcRoFQ43-f1rHMjzy-eN4MicgpPVfMF6p0zD7d-257QNUtCbm9MmVmcxC17lOJTPnU55ClDSp5AIzr4n0JpU_CwtEiKr6_vlfRaN09-qHfTlAoe1b-wu_DF_jKXfd/w400-h300/cuando%20cambiar%20goma%20pala%20tenis%20mesa.jpg) 
+![Cuándo debes cambiar la goma de tu pala](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGPrTE3Oe-eprVAFVUba0urxYTNU8pqg01KTkfaewkKBmI07eaxJytyqItlGl8Z0ykcRoFQ43-f1rHMjzy-eN4MicgpPVfMF6p0zD7d-257QNUtCbm9MmVmcxC17lOJTPnU55ClDSp5AIzr4n0JpU_CwtEiKr6_vlfRaN09-qHfTlAoe1b-wu_DF_jKXfd/w400-h300/cuando%20cambiar%20goma%20pala%20tenis%20mesa.jpg) 
 
 Las gomas de la pala tienen una vida útil limitada, especialmente si entrenas a menudo. 
 

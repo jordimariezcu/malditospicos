@@ -32,7 +32,7 @@ Abrimos la caja del pegamento, cogemos un trozo de esponja y lo sujetamos en la 
 | --- |
 | Pegamento especial |
 
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisdyfXHQJKeJgxoBcaPQ7CLmQGIcetjNYNR_7TMe40Kd2T8rVM6RfNGa7AoiFVo1ORcJ3EstfymmZD0IwVti7GI15R-9yD6CDQAdaKNuk810E6oji9-ReV-zI29F3IpHtJJDnoS49gAQot8ABl8xT97GSBoyWByxtArJnjDw-Rr5rtHVWISwB__MnyHHfC/s320/como%20montar%20pala%20tenis%20mesa%20-%2003.jpg)
+![¿Cómo montar tu propia pala de tenis de mesa?](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisdyfXHQJKeJgxoBcaPQ7CLmQGIcetjNYNR_7TMe40Kd2T8rVM6RfNGa7AoiFVo1ORcJ3EstfymmZD0IwVti7GI15R-9yD6CDQAdaKNuk810E6oji9-ReV-zI29F3IpHtJJDnoS49gAQot8ABl8xT97GSBoyWByxtArJnjDw-Rr5rtHVWISwB__MnyHHfC/s320/como%20montar%20pala%20tenis%20mesa%20-%2003.jpg)
 A continuación, **vertemos pegamento** en el centro de la parte posterior de la goma (en la esponja). Debe ser más o menos un charco del tamaño de una moneda de 2 euros.
 
 Luego se va esparciendo con la pinza y la "esponja de untar" , siempre en sentido vertical, excepto para acabar de untar bien los bordes.
@@ -52,7 +52,7 @@ Hay quien, en este momento, vuelve a untarla de nuevo con pegamento, repitiendo 
 
 Ahora ya toca pegar la goma a la madera, calculando bien para que quede centrada.
 
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5MeqQyGh4ilHAehK1zocexsFHJshcbWAhEcjWeu-1-w9XPAJp_ZOwUaGcifgj79A7I1CCHXT7_dyQonEK5KkCS6xcQndEESAKuhERah3GmmLVq50FRYjatOJDcSjI1jlZI-f1jxzf8XWpW4KI0UZHQ2wE0IQS7oT_ZsNbdU4V5gXhfm1bAtazK-3n2HVG/s320/como%20montar%20pala%20tenis%20mesa%20-%2010.jpg)
+![¿Cómo montar tu propia pala de tenis de mesa?](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5MeqQyGh4ilHAehK1zocexsFHJshcbWAhEcjWeu-1-w9XPAJp_ZOwUaGcifgj79A7I1CCHXT7_dyQonEK5KkCS6xcQndEESAKuhERah3GmmLVq50FRYjatOJDcSjI1jlZI-f1jxzf8XWpW4KI0UZHQ2wE0IQS7oT_ZsNbdU4V5gXhfm1bAtazK-3n2HVG/s320/como%20montar%20pala%20tenis%20mesa%20-%2010.jpg)
 Con unas **tijeras** fuertes, que tengan un cierre preciso, vamos a ir **recortando la goma**, a medida que reseguimos la forma de la madera. Lo haremos lo mejor posible, pero tened en cuenta que el hecho de que sea un poco irregular, o sobresalga un poco, será solo un problema estético. No afecta para nada a nuestro juego.
 
 ![Recortar goma tenis de mesa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1dtF2_0SJCpUT4x4uTpJr8lbbZ6KZH6XTSVCeDkEysmpQT36GKAOvWi3Whkav136W70Iy_EbbjO-peVi5nfs-ITa8y1jjNEdUylXSgPIxZ3sfz71FcPNvjCM3-J7bO0cD6YnQqOs_v6Z0gLjC0fzKJszfYmzlvU4RDMtv-UlQxLpUJvYY6RhIOvwAnGCz/w320-h241/como%20montar%20pala%20tenis%20mesa%20-%2011.jpg)
@@ -67,7 +67,7 @@ Pasados los 15 minutos de rigor, viendo que el pegamento ya es transparente, peg
 
 ![Goma de picos medianos](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcMtSqNNtmEPO0JQtf2eizOn5oH1DhCCAG64Ni6bzRve-rb8YYN4IDEAylh18iWSitkhV6YDQ89hx_aNq0Ha5SLoX-i_HXeyjNFljT9tPSEImLqsmposkUzEXNCm3SsC7M0_podEyKoBt49F10FVLEnLeuo1nAF3Qa_AEOZ_NL0l6nJBonQEzEN_oPivTF/w320-h263/como%20montar%20pala%20tenis%20mesa%20-%2016.jpg)
 ![Goma de picos medianos](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpqT0A-WaQ7lnsnnQ1TSykLpFytOmIdW0p0NHQKIh2uStokDoo5xGyRPayyvCdGvln9Aj2i2mytjBpMigwErz3r2px3L9zGJPMd4MQXicUKIARoJdm1fBRKfKZJcrjznl4Hjmu5rBO5OdPNOm3EkmdLjVcWkeQt2V9XqJdQ0uArTthNionyXYrp4QE9KT5/w320-h205/como%20montar%20pala%20tenis%20mesa%20-%2017.jpg)
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw3JGAMOHSFHDWir7HmpZCHoJ-k_zyTNm-0LT5XF6UVRjvP53lliJknz0Oze5ay9QwUnN7Qsamw5JzKEyVd_VDPJ9xJ77zSO9QeCuMkMrR9NyvqGw5LpPAr4dHSqcTDUGwrtrXjPfL2LLOZCtJFJ2XrdDkSU6jbyhd-2WKyoqO0hpbtYg6L-UQ_HGErhkP/s320/como%20montar%20pala%20tenis%20mesa%20-%2018.jpg)
+![¿Cómo montar tu propia pala de tenis de mesa?](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw3JGAMOHSFHDWir7HmpZCHoJ-k_zyTNm-0LT5XF6UVRjvP53lliJknz0Oze5ay9QwUnN7Qsamw5JzKEyVd_VDPJ9xJ77zSO9QeCuMkMrR9NyvqGw5LpPAr4dHSqcTDUGwrtrXjPfL2LLOZCtJFJ2XrdDkSU6jbyhd-2WKyoqO0hpbtYg6L-UQ_HGErhkP/s320/como%20montar%20pala%20tenis%20mesa%20-%2018.jpg)
 Ahora, si queremos dejarlo bien chulo, solo nos faltará ponerle la cinta cantonera. Esta cinta no es solo un embellecedor, también es útil porque en el momento de dar algún toque involuntario contra la mesa, protege la goma y evita que se levante o se rompa.
 
 ![Cinta cantonera para palas](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLcFMsGAUm6BhYyZYXma0aOc-v-zXYUCjaAjQd9GrqgM1wzlEcKRnTtHOa05bu4-NycF2EpwCR0BbWcSo9iQhExlrH-1QZA51-o1qiQ58IdAHD0xPaf578MUgcHbtPzSWwMdHxSXI_Xroiu0_j3MrkfXjoJXUHZcSVL5lUkhi-L1EThj5TLnW4N3errCJl/w320-h248/como%20montar%20pala%20tenis%20mesa%20-%2019.jpg)

@@ -7,7 +7,7 @@ tags: ["Materiales"]
 draft: false
 ---
 
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq1Jl0s-3N7Kh0dN3V_90FHRHoTvhGWn5KykpCQZNB30a9gRPh0b6sKFC28JVn-K4mENvzTcL1iII_yO1cIAzhGzYhDY2AUGuPoRAp4Wo9Mtr_uTuRvt7Tx1WVReyCNvFVcLKK5o1oNSfFM1iHGEk0QZgS4WeKQs3jE40G9DhCdh1VgyW8ziPCSYRJ3fr9/s320/cantonera%20pala%20tenis%20mesa.jpg)
+![Las cantoneras: el cinturón de seguridad de tu pala](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq1Jl0s-3N7Kh0dN3V_90FHRHoTvhGWn5KykpCQZNB30a9gRPh0b6sKFC28JVn-K4mENvzTcL1iII_yO1cIAzhGzYhDY2AUGuPoRAp4Wo9Mtr_uTuRvt7Tx1WVReyCNvFVcLKK5o1oNSfFM1iHGEk0QZgS4WeKQs3jE40G9DhCdh1VgyW8ziPCSYRJ3fr9/s320/cantonera%20pala%20tenis%20mesa.jpg)
 
 En el tenis de mesa hay héroes invisibles. No son la goma, que acapara todas las miradas, ni la madera, que presume de control y velocidad. No. Hoy hablamos de esa delgada franja que recorre el borde de tu pala: la cantonera.
 
@@ -23,4 +23,4 @@ En resumen, la cantonera no te va a dar más efecto, ni velocidad, ni control…
 
  
 
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhBPHvzLfax6PBsm_J-F1VvgdteXfCsjfFFsm3yZPBWfN1wtm9V-69k-Ej1ryoDlQwLOjZF4cGskaV2kDoQR1d_JqbWcVF66aDny9XzdsFrjKTPXzSXjEx9IZ46Glln1BEuB9gKN32opNAuyjeXSryUBchTzW_rykjIrgXa_FX7vmlqccnReY82ExI4EPY/w400-h300/cantoneras%20pala%20tenis%20de%20mesa.jpg)
+![Las cantoneras: el cinturón de seguridad de tu pala](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhBPHvzLfax6PBsm_J-F1VvgdteXfCsjfFFsm3yZPBWfN1wtm9V-69k-Ej1ryoDlQwLOjZF4cGskaV2kDoQR1d_JqbWcVF66aDny9XzdsFrjKTPXzSXjEx9IZ46Glln1BEuB9gKN32opNAuyjeXSryUBchTzW_rykjIrgXa_FX7vmlqccnReY82ExI4EPY/w400-h300/cantoneras%20pala%20tenis%20de%20mesa.jpg)

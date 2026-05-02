@@ -7,7 +7,7 @@ tags: ["Dudas básicas"]
 draft: false
 ---
 
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjquEG9AFnL1LooxBXZJjwMOY-aA6dLcLpC2beE-MaMOTOo2Htwa-KYSxjW32RzaQD3G2Ij2uf_81xUVqMMb69YQ6AxeNipAy9ynbMY2ngknqnqYORLKBvrN9peQ9kyAelOxJjJXgpdzy7ykEZiV9CIKu2CqPWW5wX-tRd4Hnm5CcCJP6KoDQQgz3iWWIzz/w400-h400/entrenamiento%20multibolas.jpg)
+![Entrenamientos multibolas, en tenis de mesa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjquEG9AFnL1LooxBXZJjwMOY-aA6dLcLpC2beE-MaMOTOo2Htwa-KYSxjW32RzaQD3G2Ij2uf_81xUVqMMb69YQ6AxeNipAy9ynbMY2ngknqnqYORLKBvrN9peQ9kyAelOxJjJXgpdzy7ykEZiV9CIKu2CqPWW5wX-tRd4Hnm5CcCJP6KoDQQgz3iWWIzz/w400-h400/entrenamiento%20multibolas.jpg)
 
 El entrenamiento multibolas es uno de los métodos más efectivos y versátiles para mejorar en tenis de mesa. 
 

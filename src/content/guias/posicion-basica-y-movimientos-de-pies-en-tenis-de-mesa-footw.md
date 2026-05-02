@@ -7,7 +7,7 @@ tags: ["Dudas básicas"]
 draft: false
 ---
 
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6KC1XibmHNEtDeMEkE31pO9e1VSsFSPvZjBcfEGZf9Ggo-7c226HNiIVk_YzsddbDpASsgbLUYHMpcK9QRtXICqg3wEtHsBFBdk-og9q1hd9TiZkgxmUcXmXioQXrDo-Gm3IANgmxF1J6DAG22R_f7cjlopxCrBMcLDRY5dz6bgojjsbreH6vfB6Ruhyphenhypheni/s320/Posici%C3%B3n%20b%C3%A1sica%20y%20movimientos%20de%20pies.jpg)
+![Posición básica y movimientos de pies en tenis de mesa (footwork)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6KC1XibmHNEtDeMEkE31pO9e1VSsFSPvZjBcfEGZf9Ggo-7c226HNiIVk_YzsddbDpASsgbLUYHMpcK9QRtXICqg3wEtHsBFBdk-og9q1hd9TiZkgxmUcXmXioQXrDo-Gm3IANgmxF1J6DAG22R_f7cjlopxCrBMcLDRY5dz6bgojjsbreH6vfB6Ruhyphenhypheni/s320/Posici%C3%B3n%20b%C3%A1sica%20y%20movimientos%20de%20pies.jpg)
 
 Si tus pies no están donde deben, tu brazo no servirá de nada. La posición básica es sencilla: rodillas ligeramente flexionadas, pies un poco más anchos que los hombros y el peso hacia delante. Imagina que estás listo para saltar sobre un trampolín, pero sin despegar.
 

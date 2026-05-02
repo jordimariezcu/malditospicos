@@ -9,7 +9,7 @@ brand: "Donic"
 rating: 4
 ---
 
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjJOAnY9PaSRbfXGfjGbfsyPjBf13FumKfI8MfiuBb-WmG24WDoJCjFloybNX84qZHRHqb36S6RB-bgbQM88YG-SvkAaegsCYmpE1T_xKVyn_f_2agRwsjF99EYtiivVSvhmkNxCkCXIRUAa-OI4DusLoQMpCEiZub3xJUOr6_p6gCxcjSn3l1RtzL5mCa/s320/donic.jpg)
+![Donic, posicionada en el mercado europeo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjJOAnY9PaSRbfXGfjGbfsyPjBf13FumKfI8MfiuBb-WmG24WDoJCjFloybNX84qZHRHqb36S6RB-bgbQM88YG-SvkAaegsCYmpE1T_xKVyn_f_2agRwsjF99EYtiivVSvhmkNxCkCXIRUAa-OI4DusLoQMpCEiZub3xJUOr6_p6gCxcjSn3l1RtzL5mCa/s320/donic.jpg)
 
 Donic es una marca alemana con una larga tradición en el tenis de mesa competitivo. Fundada en los años 70, ha estado estrechamente vinculada al desarrollo de material para jugadores ofensivos y de control, con especial atención a la calidad de las maderas europeas.
 
@@ -19,4 +19,4 @@ La tecnología Senso, característica de la marca, incorpora una cámara hueca e
 
 Además de su presencia en el circuito profesional, Donic patrocina a federaciones nacionales y organiza eventos internacionales, manteniendo un perfil muy sólido en Europa y un catálogo que cubre todos los estilos de juego.
 
- ![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5hd8rt7RIDe34XuLaP3apJjfZ6yjBOnnB0QT1mitBS-jIaNbVxEZN_kkMkNhm42S09ye-YVcQRlLg77kp_kWRXvD5RlvHzfAI9an0m-3iqf_Dsr0OXmY2N5_4zdkQB3Xp3AF_0Ou5YEAqOtORPdAZobqNASEbSaXkDUfmosfdxzshGCFVocLBmFwF94cd/w400-h297/donic%20waldner.jpg)
+ ![Donic, posicionada en el mercado europeo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5hd8rt7RIDe34XuLaP3apJjfZ6yjBOnnB0QT1mitBS-jIaNbVxEZN_kkMkNhm42S09ye-YVcQRlLg77kp_kWRXvD5RlvHzfAI9an0m-3iqf_Dsr0OXmY2N5_4zdkQB3Xp3AF_0Ou5YEAqOtORPdAZobqNASEbSaXkDUfmosfdxzshGCFVocLBmFwF94cd/w400-h297/donic%20waldner.jpg)

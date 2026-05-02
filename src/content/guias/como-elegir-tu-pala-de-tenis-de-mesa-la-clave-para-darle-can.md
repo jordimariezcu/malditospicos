@@ -7,7 +7,7 @@ tags: ["Dudas básicas"]
 draft: false
 ---
 
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8SFHec1WK3JsatNcZxo3okS5PpNw1qVdtZL8Y1016ngD2Qdd1TVLIM0KqnYd8Jng8VNy1UBCE73AjGXwYyMDv8PffxH-IYSrDubDCaUioLdxwo0wymUBkKN0vLLX0bskM_LCibCbX4D1Ajhj8BRgcCVdUAtORfopG9dOjHMvacqKdDz1x9jRjmA8Oam-S/w400-h300/como%20elegir%20tu%20pala%20tenis%20mesa.jpg)
+![Cómo elegir tu pala de tenis de mesa: la clave para darle caña a la pelota](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8SFHec1WK3JsatNcZxo3okS5PpNw1qVdtZL8Y1016ngD2Qdd1TVLIM0KqnYd8Jng8VNy1UBCE73AjGXwYyMDv8PffxH-IYSrDubDCaUioLdxwo0wymUBkKN0vLLX0bskM_LCibCbX4D1Ajhj8BRgcCVdUAtORfopG9dOjHMvacqKdDz1x9jRjmA8Oam-S/w400-h300/como%20elegir%20tu%20pala%20tenis%20mesa.jpg)
 
 Elegir pala en tenis de mesa no es solo cuestión de agarrar la primera que veas en la tienda y salir disparado a la mesa. Como en todo buen deporte, el arma que uses debe adaptarse a ti y a tu estilo. Aquí te dejo unos consejos para que no te equivoques y disfrutes más cada punto.
 

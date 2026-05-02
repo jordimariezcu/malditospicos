@@ -7,7 +7,7 @@ tags: ["Como tiene que ser tu pala"]
 draft: false
 ---
 
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDn2qJTOJ2jsKWdMBL86tS6bu3avYPac0twYWQG6Eh5Lli9Tuz_Z1Bgy1GYduu17jmWswOGcsYKe49ivRJHWzQdaJVyYrRBMcyyOIBfEjtaiyZllL88kZNJKL2u8BHqNmIycvQi_FholFw5tsm2r5AMrLvXQMAa6Oh-YuURu3tpCv90KYlxjTgJWZdlmkF/s320/goma%20antitop%20-%20butterfly%20super%20anti%20-%20pala.jpg) 
+![Pala para estilo de juego raro / al despiste (disturbing style)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDn2qJTOJ2jsKWdMBL86tS6bu3avYPac0twYWQG6Eh5Lli9Tuz_Z1Bgy1GYduu17jmWswOGcsYKe49ivRJHWzQdaJVyYrRBMcyyOIBfEjtaiyZllL88kZNJKL2u8BHqNmIycvQi_FholFw5tsm2r5AMrLvXQMAa6Oh-YuURu3tpCv90KYlxjTgJWZdlmkF/s320/goma%20antitop%20-%20butterfly%20super%20anti%20-%20pala.jpg) 
 **Descripción:**
 Hay quien prefiere jugar mezclando golpes no convencionales, efectos impredecibles y cambios de ritmo constantes. Suele usar gomas especiales como picos o antitop, buscando provocar errores por confusión.
 

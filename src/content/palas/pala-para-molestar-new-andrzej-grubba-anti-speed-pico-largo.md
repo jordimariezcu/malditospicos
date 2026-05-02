@@ -54,7 +54,7 @@ Algunos artículos que os pueden ayudar si no habéis entendido algo de lo que o
 | --- |
 | Der-materialspezialist FAKIR |
 
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPd99RnX_AaHmGTgAUEAyWOla8mVnJSAMB-cXHQRVRCMmJG45sMIFOSqFxC4fVGEXdxlqtF_nR2w8c5p8lsv5WS9sDAELT5vQjOt-74FzfuklBofVynLk04lQpBfpuqjzqWdcd8pjTpat4QzdpH8r95cimTqY8gqjPT2vRM4Qk828EBqlFKzAfPNx7m52p/w400-h300/goma%20picos%20largos.jpeg)
+![Pala para molestar: New Andrzej Grubba + Anti-speed + Pico largo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPd99RnX_AaHmGTgAUEAyWOla8mVnJSAMB-cXHQRVRCMmJG45sMIFOSqFxC4fVGEXdxlqtF_nR2w8c5p8lsv5WS9sDAELT5vQjOt-74FzfuklBofVynLk04lQpBfpuqjzqWdcd8pjTpat4QzdpH8r95cimTqY8gqjPT2vRM4Qk828EBqlFKzAfPNx7m52p/w400-h300/goma%20picos%20largos.jpeg)
 |  |
 | --- |
 | Detalle del pico largo |

@@ -7,7 +7,7 @@ tags: ["Materiales"]
 draft: false
 ---
 
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUWX4ZAtLJ4qn_hzhGaCY9UvwSQIlZsCik8a2ZbpX1LSERzbsaCJRcFtaguxreHcKpNrJ1Eg-QWgLB-0TMIxD5LM28Q54I-xC5aw5KsUjY49nrLGPLDJjkTw9UzfifR4xoFh2hjeyydAX8RbrJDYKqZQsDKsStjKG8r-VggVUxieTyAprCwLOAB_kZ5NR9/s320/Robot%20Butterfly%20Amicus%20PRIME.jpg) 
+![Robots para entrenar a tenis de mesa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUWX4ZAtLJ4qn_hzhGaCY9UvwSQIlZsCik8a2ZbpX1LSERzbsaCJRcFtaguxreHcKpNrJ1Eg-QWgLB-0TMIxD5LM28Q54I-xC5aw5KsUjY49nrLGPLDJjkTw9UzfifR4xoFh2hjeyydAX8RbrJDYKqZQsDKsStjKG8r-VggVUxieTyAprCwLOAB_kZ5NR9/s320/Robot%20Butterfly%20Amicus%20PRIME.jpg) 
 
 Los robots de tenis de mesa son como el sparring que nunca se cansa, nunca protesta y siempre te devuelve la bola… o te la lanza con todo el efecto que le programes. 
 
@@ -17,4 +17,4 @@ No hay reglamento sobre ellos porque no participan en competición, pero cuidado
 
  
 
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFuROeAqLTYPNq9VckGS1I1qm9OsCRZ4ZfCMPl1htF2xdV8KrxEGat9boOLUW6U9bwVbNRqQt7wh6370GtFvcYmrOmrdNxXAoOJbnfe5bkd76whIjEvnR4ejNmXCXNBqD3-GRgD0IDjYIcZxZUje-8GnGjl_GdYpirDtJpy1WT9hN0v3BI2o-Y0ZXl-MAK/s320/Robot%20Joola%20Buddy%20V300.jpg)
+![Robots para entrenar a tenis de mesa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFuROeAqLTYPNq9VckGS1I1qm9OsCRZ4ZfCMPl1htF2xdV8KrxEGat9boOLUW6U9bwVbNRqQt7wh6370GtFvcYmrOmrdNxXAoOJbnfe5bkd76whIjEvnR4ejNmXCXNBqD3-GRgD0IDjYIcZxZUje-8GnGjl_GdYpirDtJpy1WT9hN0v3BI2o-Y0ZXl-MAK/s320/Robot%20Joola%20Buddy%20V300.jpg)

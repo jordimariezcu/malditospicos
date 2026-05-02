@@ -9,7 +9,7 @@ brand: "Stiga"
 rating: 4
 ---
 
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGJp-pHa0foOcG5BIqjFcJyEkMnjAECXgBpXWkQrZ99KA5b1yaHdeq-IGfxIbXaO1558ERExIWJv5f56Xp17j_yVpbByJw2DpgFTWTmSg5OBOpQSkaSuT_TmSj0Yfawh1Gk1_DY_Vd9T17h_M7QQESF1rK1NKHOTKPKa3RoDraQaCBfMoAv5n_oCPoF8oK/w240-h400/stiga%20tube%20offensive.jpg)
+![Pala ofensiva: Stiga Tube Offensive + Xiom Vega Japan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGJp-pHa0foOcG5BIqjFcJyEkMnjAECXgBpXWkQrZ99KA5b1yaHdeq-IGfxIbXaO1558ERExIWJv5f56Xp17j_yVpbByJw2DpgFTWTmSg5OBOpQSkaSuT_TmSj0Yfawh1Gk1_DY_Vd9T17h_M7QQESF1rK1NKHOTKPKa3RoDraQaCBfMoAv5n_oCPoF8oK/w240-h400/stiga%20tube%20offensive.jpg)
 |  |
 | --- |
 | Stiga Tube Offensive |

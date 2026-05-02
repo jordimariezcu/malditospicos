@@ -7,7 +7,7 @@ tags: ["Saques"]
 draft: false
 ---
 
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKlNS5ti_XZPIbZC_v_TllTSLhts6jww763NhBqXsuzG7G2I18VWd93Rs4b43DpnaTY3DY1swOxD3_ELEqNtYVzgcZ4Tu8dx7E5jqBHI6TOCHlhETyQlGk3ohfp2gys5VZ5ICEC1Rnp7JcUqaroTWPMjl_oykIqb7i2NBQVrTU3rj4VPVJieFyLPHdCWHs/s320/Push,%20flick%20or%20topspin.jpg)
+![Push, flick o topspin: cómo elegir la mejor recepción](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKlNS5ti_XZPIbZC_v_TllTSLhts6jww763NhBqXsuzG7G2I18VWd93Rs4b43DpnaTY3DY1swOxD3_ELEqNtYVzgcZ4Tu8dx7E5jqBHI6TOCHlhETyQlGk3ohfp2gys5VZ5ICEC1Rnp7JcUqaroTWPMjl_oykIqb7i2NBQVrTU3rj4VPVJieFyLPHdCWHs/s320/Push,%20flick%20or%20topspin.jpg)
 
 La recepción es como responder a un mensaje: depende de lo que te manden. Si tu rival sirve con mucho backspin (corte), el push es tu mejor amigo. Mantén la pala ligeramente abierta, roza la pelota y devuélvela baja y controlada.
 

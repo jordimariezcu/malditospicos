@@ -7,7 +7,7 @@ tags: ["Gomas"]
 draft: false
 ---
 
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9G_EtcmjkWdun1b-IHmBItuhpM03dhUqpVChDeFGMP2racZAgI_TixhvYVja4MfWKERpsWTkxVrW54fzY2RFOd-B8puQT1jxHSjfPAP9t0SGztpRTtMQVzpsuGp1Fv9csDylrKtdJGL_rosZ6rKYzo2snBrWPW76Qq3_r3x-Y9HAPAJh1nUCVsa_Br7EN/w400-h310/Saviga%20Super%20Block%20-%20picos%20largos%20OX.jpeg)
+![Detalles importantes en los picos: alineación, densidad, altura, grosor, textura de superficie y dureza](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9G_EtcmjkWdun1b-IHmBItuhpM03dhUqpVChDeFGMP2racZAgI_TixhvYVja4MfWKERpsWTkxVrW54fzY2RFOd-B8puQT1jxHSjfPAP9t0SGztpRTtMQVzpsuGp1Fv9csDylrKtdJGL_rosZ6rKYzo2snBrWPW76Qq3_r3x-Y9HAPAJh1nUCVsa_Br7EN/w400-h310/Saviga%20Super%20Block%20-%20picos%20largos%20OX.jpeg)
 
 En el mundo de los picos hay muchas variables que afectan su comportamiento y, por lo tanto, la manera en que debemos jugarlos. Más allá de si se trata de unos picos largos, medianos o cortos, hay muchas cosas a tener en cuenta.
 

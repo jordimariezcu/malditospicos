@@ -7,7 +7,7 @@ tags: ["Como tiene que ser tu pala"]
 draft: false
 ---
 
-![imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUaVslICnkxIZM4oY6rJMIjKQafGIVxLfZf9vZFMU7TelwBs13e1Y_rWdGxXFCnaOevGsxcSSQzYHTRSyhoOJfQfcI6Y-wY8y3POPoGEmDjlXBbElKzb2P8zGoLaNV8C6Wv_QwVc7JuRH5B9MJ05qjZp9v5TWloQp8lKcno-C5bSv2UFzsT3XmQMGUALkN/w400-h300/pala%20control.jpg)
+![Pala para jugador de control](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUaVslICnkxIZM4oY6rJMIjKQafGIVxLfZf9vZFMU7TelwBs13e1Y_rWdGxXFCnaOevGsxcSSQzYHTRSyhoOJfQfcI6Y-wY8y3POPoGEmDjlXBbElKzb2P8zGoLaNV8C6Wv_QwVc7JuRH5B9MJ05qjZp9v5TWloQp8lKcno-C5bSv2UFzsT3XmQMGUALkN/w400-h300/pala%20control.jpg)
 
 **Descripción:**
 El jugador de control basa su juego en colocar la pelota con precisión, mantener el ritmo del intercambio y aprovechar los errores del rival. No busca la velocidad extrema, sino la consistencia, variando la colocación, la altura y la profundidad de los golpes para desgastar al oponente. Su objetivo es dominar el punto a base de seguridad y paciencia.
