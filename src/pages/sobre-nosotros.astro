@@ -1,0 +1,46 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout
+  title="Sobre nosotros"
+  description="Somos Malditos Picos, un blog español dedicado al tenis de mesa: análisis de gomas, maderas, palas y técnica para jugadores de todos los niveles."
+>
+  <div class="container about-wrap">
+    <div class="about-header">
+      <h1>Sobre nosotros</h1>
+    </div>
+    <div class="prose about-body">
+      <p>
+        <strong>Malditos Picos</strong> es un blog español dedicado al tenis de mesa. Nació de la pasión por un deporte que combina velocidad, técnica y una cantidad absurda de material que analizar.
+      </p>
+      <p>
+        Nos especializamos en gomas de picos —esas gomas raras que confunden al rival, que dan nombre al blog— pero cubrimos todo el universo del tenis de mesa: gomas lisas, maderas, configuraciones de palas, técnica y los mejores jugadores del mundo.
+      </p>
+      <h2>Qué encontrarás aquí</h2>
+      <ul>
+        <li><strong>Análisis de gomas</strong>: picos cortos, medianos, largos, antispin y gomas lisas. Con toda la info que necesitas antes de comprar.</li>
+        <li><strong>Maderas y marcas</strong>: desde Butterfly hasta marcas económicas de AliExpress, pasando por los grandes de la industria.</li>
+        <li><strong>Configuraciones de palas</strong>: combinaciones reales para distintos estilos y presupuestos.</li>
+        <li><strong>Técnica</strong>: saques, efectos, golpes y movimientos de pies explicados de forma práctica.</li>
+        <li><strong>Jugadores</strong>: los mejores del circuito mundial, su material y su estilo de juego.</li>
+        <li><strong>Guías de compra</strong>: para que no te pierdas en la jungla de materiales.</li>
+      </ul>
+      <h2>Contacto</h2>
+      <p>
+        ¿Tienes una pregunta, quieres que analicemos un producto o tienes alguna sugerencia? Escríbenos a <a href="mailto:malditospicos@gmail.com">malditospicos@gmail.com</a>.
+      </p>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+.about-wrap { padding: 56px 0 80px; }
+.about-header {
+  max-width: var(--max-w-content);
+  margin: 0 auto 40px;
+  padding-bottom: 24px;
+  border-bottom: 3px solid var(--accent);
+}
+.about-header h1 { font-size: 2.2rem; color: var(--accent); }
+.about-body { max-width: var(--max-w-content); margin: 0 auto; }
+</style>
