@@ -1,15 +1,59 @@
 ---
 import BaseLayout from './BaseLayout.astro';
 const { post } = Astro.props;
-const { title, description, pubDate, updatedDate, category, tags, image } = post.data;
+const { title, description, pubDate, updatedDate, category, tags, image,
+        nationality, birthDate, worldRanking, brand, rating } = post.data;
 const imageUrl = image ? new URL(image, Astro.site).href : undefined;
+const canonicalURL = new URL(Astro.url.pathname, Astro.site).href;
 
 const categoryLabels: Record<string, string> = {
   gomas: 'Gomas', maderas: 'Maderas', palas: 'Palas', tecnica: 'Técnica',
   guias: 'Guías', jugadores: 'Jugadores', materiales: 'Materiales', recursos: 'Recursos'
 };
 
-const schema = {
+// Extract player name: everything before the first comma (or full title if no comma)
+const playerName = title.includes(',') ? title.split(',')[0].trim() : title;
+
+const isJugador = category === 'jugadores';
+const isProduct = ['gomas', 'maderas', 'palas'].includes(category);
+
+const schema = isJugador ? {
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": playerName,
+  "url": canonicalURL,
+  "description": description || '',
+  "inLanguage": "es",
+  ...(nationality && { "nationality": { "@type": "Country", "name": nationality } }),
+  ...(birthDate && { "birthDate": birthDate }),
+  ...(worldRanking && { "identifier": { "@type": "PropertyValue", "name": "World Ranking", "value": worldRanking } }),
+  ...(imageUrl && { "image": imageUrl }),
+} : isProduct ? {
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "name": title,
+  "url": canonicalURL,
+  "description": description || '',
+  "datePublished": pubDate,
+  "dateModified": updatedDate || pubDate,
+  "author": { "@type": "Organization", "name": "Malditos Picos" },
+  "inLanguage": "es",
+  "itemReviewed": {
+    "@type": "Product",
+    "name": title,
+    ...(brand && { "brand": { "@type": "Brand", "name": brand } }),
+    ...(description && { "description": description }),
+    ...(imageUrl && { "image": imageUrl }),
+  },
+  ...(rating && {
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": rating,
+      "bestRating": 5,
+      "worstRating": 1,
+    }
+  }),
+} : {
   "@context": "https://schema.org",
   "@type": "Article",
   "headline": title,
@@ -17,14 +61,10 @@ const schema = {
   "datePublished": pubDate,
   "dateModified": updatedDate || pubDate,
   "author": { "@type": "Organization", "name": "Malditos Picos" },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Malditos Picos",
-    "url": "https://www.malditospicos.com"
-  },
+  "publisher": { "@type": "Organization", "name": "Malditos Picos", "url": "https://www.malditospicos.com" },
   "inLanguage": "es",
   "articleSection": categoryLabels[category] || category,
-  ...(imageUrl && { "image": imageUrl })
+  ...(imageUrl && { "image": imageUrl }),
 };
 ---
 <BaseLayout title={title} description={description} image={imageUrl} type="article" pubDate={pubDate} updatedDate={updatedDate} category={categoryLabels[category]}>

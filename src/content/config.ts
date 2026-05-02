@@ -9,6 +9,13 @@ const postSchema = z.object({
   tags: z.array(z.string()).optional(),
   image: z.string().optional(),
   draft: z.boolean().optional().default(false),
+  // Jugadores
+  nationality: z.string().optional(),
+  birthDate: z.string().optional(),
+  worldRanking: z.number().optional(),
+  // Gomas / Maderas / Palas
+  brand: z.string().optional(),
+  rating: z.number().min(1).max(5).optional(),
 });
 
 export const collections = {
