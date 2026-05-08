@@ -1,5 +1,6 @@
 ﻿---
 title: "Madera OFF (Offensive estándar)"
+description: "La madera OFF es la elección de los jugadores ofensivos de tenis de mesa. Rápida y potente, descubre para quién está pensada y qué modelos son referencia."
 pubDate: "2025-05-05"
 updatedDate: "2025-08-08"
 category: "maderas"

@@ -1,5 +1,6 @@
 ﻿---
 title: "¿Por qué el tenis de mesa es uno de los deportes más difíciles técnicamente?"
+description: "El tenis de mesa exige velocidad, precisión, efecto y anticipación en fracciones de segundo. Descubre por qué este deporte es técnicamente uno de los más complejos."
 pubDate: "2025-07-22"
 updatedDate: "2025-08-06"
 category: "guias"

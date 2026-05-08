@@ -1,5 +1,6 @@
 ﻿---
 title: "Tomokazu Harimoto, talento japonés"
+description: "Tomokazu Harimoto fue el jugador más joven en ganar un World Tour. Descubre su intensidad, su ataque simétrico de ambas alas y el mítico grito Cho! que le define."
 pubDate: "2025-01-05"
 updatedDate: "2025-08-13"
 category: "jugadores"

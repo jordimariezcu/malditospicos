@@ -1,5 +1,6 @@
 ﻿---
 title: "Xu Xin, el penhold zurdo campeón del mundo"
+description: "Xu Xin es el penhold zurdo más espectacular de la historia. Descubre sus topspins imposibles, su creatividad en la mesa y por qué ha sido varias veces número 1 del mundo."
 pubDate: "2025-07-10"
 updatedDate: "2025-08-10"
 category: "jugadores"

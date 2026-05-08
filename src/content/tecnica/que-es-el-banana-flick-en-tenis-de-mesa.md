@@ -1,5 +1,6 @@
 ﻿---
 title: "¿Qué es el banana flick, en tenis de mesa?"
+description: "El banana flick es el ataque de revés más efectivo contra saques cortos. Aprende cómo ejecutar este golpe envolvente, qué efecto genera y por qué lo usan los mejores jugadores del mundo."
 pubDate: "2025-07-13"
 updatedDate: "2025-08-06"
 category: "tecnica"

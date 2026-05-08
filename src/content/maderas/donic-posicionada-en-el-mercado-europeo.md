@@ -1,5 +1,6 @@
 ﻿---
 title: "Donic, posicionada en el mercado europeo"
+description: "Donic es la marca alemana con tecnología Senso y colaboraciones con Waldner y Ovtcharov. Descubre sus maderas de tenis de mesa más populares."
 pubDate: "2025-02-04"
 updatedDate: "2025-08-11"
 category: "maderas"

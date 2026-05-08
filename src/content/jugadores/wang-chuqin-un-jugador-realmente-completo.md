@@ -1,5 +1,6 @@
 ﻿---
 title: "Wang Chuqin, un jugador realmente completo"
+description: "Wang Chuqin, número 1 del mundo en tenis de mesa. Descubre su estilo de juego zurdo, sus puntos fuertes, palmarés y qué lo hace tan peligroso en la élite."
 pubDate: "2025-01-02"
 updatedDate: "2025-08-13"
 category: "jugadores"

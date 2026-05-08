@@ -1,5 +1,6 @@
 ﻿---
 title: "Madera Loki Kirin K2 económica de Aliexpress"
+description: "La madera Loki Kirin K2 cuesta unos 10 euros en Aliexpress y es clasificada como ALL. Descubre si esta madera de tenis de mesa cumple con sus expectativas."
 pubDate: "2026-01-02"
 updatedDate: "2026-03-07"
 category: "maderas"

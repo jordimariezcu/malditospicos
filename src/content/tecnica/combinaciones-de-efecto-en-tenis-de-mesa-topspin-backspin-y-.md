@@ -1,5 +1,6 @@
 ﻿---
 title: "Combinaciones de efecto en tenis de mesa: topspin, backspin y sidespin"
+description: "Mezclar topspin, backspin y sidespin es el arma secreta de los mejores. Aprende a combinar los efectos para desestabilizar a tu rival y ganar más puntos en cada partido."
 pubDate: "2025-03-26"
 updatedDate: "2025-08-10"
 category: "tecnica"

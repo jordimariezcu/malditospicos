@@ -1,5 +1,6 @@
 ﻿---
 title: "Zhu Yuling, la voz de la experiencia"
+description: "Zhu Yuling fue número 1 del mundo en 2017 y campeona mundial por equipos. Descubre su juego corto impecable, su control del ritmo y por qué sigue siendo tan respetada en el circuito."
 pubDate: "2025-01-10"
 updatedDate: "2025-08-13"
 category: "jugadores"

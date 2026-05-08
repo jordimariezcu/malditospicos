@@ -1,5 +1,6 @@
 ﻿---
 title: "Ghost serve (saque fantasma)"
+description: "El ghost serve o saque fantasma provoca que la pelota regrese sola tras botar. Descubre cómo ejecutar este backspin extremo y por qué es uno de los saques más difíciles de devolver."
 pubDate: "2025-06-08"
 updatedDate: "2025-08-06"
 category: "tecnica"

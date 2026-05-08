@@ -1,5 +1,6 @@
 ﻿---
 title: "La importancia de estirar y calentar"
+description: "Calentar y estirar antes de jugar tenis de mesa es fundamental para evitar lesiones. Descubre qué ejercicios hacer y por qué son tan importantes en este deporte."
 pubDate: "2025-03-02"
 updatedDate: "2025-08-13"
 category: "guias"

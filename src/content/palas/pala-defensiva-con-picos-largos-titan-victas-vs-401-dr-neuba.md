@@ -1,5 +1,6 @@
 ﻿---
 title: "Pala defensiva con picos largos: Titan + Victas VS-401 + Dr. Neubauer Trouble Maker Reloaded"
+description: "Pala defensiva de tenis de mesa con picos largos y goma lisa de control. Una configuración de jugador chopper puro por 230 euros: análisis completo."
 pubDate: "2025-07-29"
 updatedDate: "2025-08-14"
 category: "palas"

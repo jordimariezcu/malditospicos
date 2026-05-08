@@ -1,5 +1,6 @@
 ﻿---
 title: "Pala para molestar: Maze Performance + Rhyzen Ice + picos medianos"
+description: "La Maze Performance con Rhyzen Ice y picos medianos es una pala de tenis de mesa para molestar al rival. Una configuración personal probada en competición."
 pubDate: "2025-09-11"
 updatedDate: "2026-02-17"
 category: "palas"

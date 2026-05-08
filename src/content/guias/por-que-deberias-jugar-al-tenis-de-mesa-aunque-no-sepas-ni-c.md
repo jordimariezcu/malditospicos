@@ -1,5 +1,6 @@
 ﻿---
 title: "¿Por qué deberías jugar al tenis de mesa? (Aunque no sepas ni cómo se agarra la pala)"
+description: "El tenis de mesa mejora reflejos, coordinación y concentración. Descubre por qué este deporte es perfecto para todas las edades y por qué engancha tanto."
 pubDate: "2025-07-23"
 updatedDate: "2025-08-06"
 category: "guias"

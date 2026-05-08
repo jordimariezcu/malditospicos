@@ -1,5 +1,6 @@
 ﻿---
 title: "Stiga, innovación con origen sueco"
+description: "Stiga lleva décadas innovando en tenis de mesa con tecnologías WRB y Cybershape. Conoce sus maderas más icónicas y por qué Truls Möregårdh las usa."
 pubDate: "2025-02-09"
 updatedDate: "2025-08-11"
 category: "maderas"

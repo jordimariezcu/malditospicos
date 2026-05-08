@@ -1,5 +1,6 @@
 ﻿---
 title: "Qué es el chop block y cómo se hace"
+description: "El chop block es el golpe defensivo que rompe el ritmo del rival con un toque. Aprende cómo ejecutarlo contra topspin, qué efecto devuelve y por qué sorprende tanto en partidos de alto nivel."
 pubDate: "2025-07-17"
 updatedDate: "2025-08-12"
 category: "tecnica"

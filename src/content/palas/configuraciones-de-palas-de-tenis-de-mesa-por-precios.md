@@ -1,5 +1,6 @@
 ﻿---
 title: "Configuraciones de palas de tenis de mesa, por precios"
+description: "Encuentra tu configuración de pala de tenis de mesa ordenada por presupuesto. Desde 30 hasta más de 300 euros: hay opciones para todos los bolsillos."
 pubDate: "2025-08-21"
 updatedDate: "2026-03-03"
 category: "palas"

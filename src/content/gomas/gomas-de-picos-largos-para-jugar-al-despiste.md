@@ -1,5 +1,6 @@
 ﻿---
 title: "Gomas de picos largos, para jugar al despiste"
+description: "Las gomas de picos largos invierten el efecto y generan devoluciones impredecibles. Descubre cómo usar este arma en tu juego de tenis de mesa."
 pubDate: "2025-09-22"
 updatedDate: "2025-09-23"
 category: "gomas"

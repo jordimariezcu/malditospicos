@@ -1,5 +1,6 @@
 ﻿---
 title: "Tibhar, una buena relación calidad-precio"
+description: "Tibhar ofrece maderas de tenis de mesa de alto nivel a precios competitivos. Descubre por qué los hermanos Lebrun y Franziska confían en esta marca alemana."
 pubDate: "2025-02-10"
 updatedDate: "2025-08-11"
 category: "maderas"

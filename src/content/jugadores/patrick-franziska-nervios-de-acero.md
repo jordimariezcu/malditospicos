@@ -1,5 +1,6 @@
 ﻿---
 title: "Patrick Franziska, nervios de acero"
+description: "Patrick Franziska es el pilar defensivo del equipo alemán de tenis de mesa. Descubre su potente topspin de derecha, su solidez en los momentos decisivos y su palmarés europeo."
 pubDate: "2025-01-24"
 updatedDate: "2025-08-14"
 category: "jugadores"

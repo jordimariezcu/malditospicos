@@ -1,5 +1,6 @@
 ﻿---
-title: "¿Qué significa “cho”, “chole” o “cho-lei”, en el tenis de mesa?"
+title: “¿Qué significa “cho”, “chole” o “cho-lei”, en el tenis de mesa?”
+description: “Cho, chole o cho-lei son gritos de celebración muy habituales en el tenis de mesa. Descubre su origen, significado y por qué los jugadores de todo el mundo los usan.”
 pubDate: "2025-08-07"
 updatedDate: "2025-08-09"
 category: "guias"

@@ -1,5 +1,6 @@
 ﻿---
 title: "Madera ALL – Allround (todo terreno)"
+description: "La madera Allround es la más versátil del tenis de mesa: ideal para aprender y para estilos mixtos. Te explicamos qué la hace perfecta para principiantes."
 pubDate: "2025-05-02"
 updatedDate: "2025-08-08"
 category: "maderas"

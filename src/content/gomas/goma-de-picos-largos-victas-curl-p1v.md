@@ -1,5 +1,6 @@
 ﻿---
 title: "Goma de picos largos: Victas Curl P1V "
+description: "La Victas Curl P1V es una goma de picos largos muy popular en tenis de mesa. Analizamos sus versiones de esponja y qué tipo de juego potencia."
 pubDate: "2026-01-05"
 updatedDate: "2026-03-07"
 category: "gomas"

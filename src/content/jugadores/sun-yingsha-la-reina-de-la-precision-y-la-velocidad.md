@@ -1,5 +1,6 @@
 ﻿---
 title: "Sun Yingsha, la reina de la precisión y la velocidad"
+description: "Sun Yingsha es la número 1 del mundo y campeona olímpica. Descubre su estilo ultragresivo, sus golpes de derecha aplastantes y por qué es tan difícil de batir en cualquier superficie."
 pubDate: "2025-03-01"
 updatedDate: "2025-08-10"
 category: "jugadores"

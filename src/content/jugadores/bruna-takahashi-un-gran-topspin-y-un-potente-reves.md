@@ -1,5 +1,6 @@
 ﻿---
 title: "Bruna Takahashi, un gran topspin y un potente revés"
+description: "Bruna Takahashi es la primera brasileña en el top 20 mundial. Conoce su topspin devastador, su potente revés y cómo ha revolucionado el tenis de mesa en Latinoamérica."
 pubDate: "2025-03-05"
 updatedDate: "2025-08-10"
 category: "jugadores"

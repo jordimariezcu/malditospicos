@@ -1,5 +1,6 @@
 ﻿---
 title: "Ma Lin, el Dios del penhold"
+description: "Ma Lin es el único jugador en ganar el oro olímpico en individual, dobles y equipos. Descubre cómo su penhold y su reverse backhand revolucionaron el tenis de mesa moderno."
 pubDate: "2025-07-08"
 updatedDate: "2025-08-10"
 category: "jugadores"

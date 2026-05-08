@@ -1,5 +1,6 @@
 ﻿---
 title: "Yasaka, productos fiables y duraderos"
+description: "Yasaka lleva décadas fabricando maderas de tenis de mesa fiables y duraderas. Conoce sus modelos clásicos y por qué Ma Lin y Falck las han elegido."
 pubDate: "2025-02-12"
 updatedDate: "2025-08-11"
 category: "maderas"

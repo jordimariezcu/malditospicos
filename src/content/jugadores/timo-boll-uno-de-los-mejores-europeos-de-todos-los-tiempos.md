@@ -1,5 +1,6 @@
 ﻿---
 title: "Timo Boll, uno de los mejores europeos de todos los tiempos"
+description: "Timo Boll es el jugador europeo con más títulos continentales y siete Juegos Olímpicos. Descubre por qué este zurdo alemán es el símbolo de la inteligencia táctica en la mesa."
 pubDate: "2025-07-03"
 updatedDate: "2025-08-10"
 category: "jugadores"

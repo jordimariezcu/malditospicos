@@ -1,5 +1,6 @@
 ﻿---
 title: "Chen Xingtong, estilo ofensivo con una buena adaptación a la rival"
+description: "Chen Xingtong ha sido número 3 del mundo. Descubre su estilo ofensivo, su capacidad para adaptarse a cualquier rival y cómo toma el control desde el primer golpe."
 pubDate: "2025-03-03"
 updatedDate: "2025-08-10"
 category: "jugadores"

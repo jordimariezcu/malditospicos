@@ -1,5 +1,6 @@
 ﻿---
 title: "El saque \"The Kicker\" en tenis de mesa"
+description: "El Kicker es el saque engañoso que hace saltar la pelota de forma inesperada. Descubre cómo ejecutarlo, qué efecto lleva realmente y por qué descoloca tanto a los rivales."
 pubDate: "2025-10-06"
 updatedDate: "2025-10-06"
 category: "tecnica"

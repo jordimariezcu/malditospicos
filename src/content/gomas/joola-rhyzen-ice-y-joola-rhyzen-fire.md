@@ -1,5 +1,6 @@
 ﻿---
 title: "Joola Rhyzen Ice y Joola Rhyzen Fire"
+description: "Joola Rhyzen Ice vs Rhyzen Fire: dos gomas de tenis de mesa para estilos opuestos. Analizamos cuál encaja mejor según tu manera de jugar."
 pubDate: "2026-03-17"
 updatedDate: "2026-03-29"
 category: "gomas"

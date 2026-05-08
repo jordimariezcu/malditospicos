@@ -1,5 +1,6 @@
 ﻿---
 title: "¿Qué necesitas para empezar a jugar a tenis de mesa? (Spoiler: menos de lo que piensas)"
+description: "Empezar a jugar tenis de mesa es más sencillo de lo que crees. Descubre qué pala, pelotas, ropa y zapatillas necesitas para dar tus primeros pasos en este deporte."
 pubDate: "2025-07-24"
 updatedDate: "2025-08-06"
 category: "guias"

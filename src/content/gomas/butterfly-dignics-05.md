@@ -1,5 +1,6 @@
 ﻿---
 title: "Butterfly Dignics 05"
+description: "Analizamos la Butterfly Dignics 05, la goma lisa de élite con Spring Sponge X. Descubre si su potencia y efecto la hacen ideal para tu juego."
 pubDate: "2026-03-11"
 updatedDate: "2026-03-29"
 category: "gomas"

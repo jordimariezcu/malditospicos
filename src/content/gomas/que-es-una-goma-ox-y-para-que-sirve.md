@@ -1,5 +1,6 @@
 ﻿---
 title: "¿Qué es una goma OX y para que sirve?"
+description: "Una goma OX no tiene esponja y eso la hace única en tenis de mesa. Descubre qué ventajas y limitaciones tiene y por qué los picos la adoran."
 pubDate: "2026-03-06"
 updatedDate: "2026-03-07"
 category: "gomas"

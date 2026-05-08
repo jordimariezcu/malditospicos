@@ -1,5 +1,6 @@
 ﻿---
 title: "Saque de revés con sidespin, o efecto lateral"
+description: "El saque de revés con sidespin es rápido, sorpresivo y fácil de esconder. Aprende a ejecutarlo con la muñeca, qué efectos puede llevar y cómo usarlo para descolocar a tu rival."
 pubDate: "2025-06-05"
 updatedDate: "2025-08-06"
 category: "tecnica"

@@ -1,5 +1,6 @@
 ﻿---
 title: "¿Cómo se hace el sidespin?"
+description: "El sidespin crea trayectorias curvas que desconciertan a cualquier rival. Aprende cómo ejecutar este efecto lateral, cuándo usarlo y cómo combinarlo con topspin o backspin."
 pubDate: "2025-08-02"
 updatedDate: "2025-08-06"
 category: "tecnica"

@@ -1,5 +1,6 @@
 ﻿---
 title: "Mi primera pala: ¿Me la hago a medida o la compro ya montada? "
+description: "¿Pala premontada o a medida para empezar en tenis de mesa? Te ayudamos a decidir entre las dos opciones para que no te arrepientas de tu primera inversión."
 pubDate: "2025-08-10"
 updatedDate: "2025-08-13"
 category: "guias"

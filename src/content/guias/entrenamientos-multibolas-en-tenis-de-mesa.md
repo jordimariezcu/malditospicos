@@ -1,5 +1,6 @@
 ﻿---
 title: "Entrenamientos multibolas, en tenis de mesa"
+description: "El entrenamiento multibolas es el método más eficaz para mejorar en tenis de mesa. Descubre cómo funciona, qué necesitas y por qué acelera tanto el aprendizaje."
 pubDate: "2025-03-01"
 updatedDate: "2025-08-13"
 category: "guias"

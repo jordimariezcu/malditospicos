@@ -1,5 +1,6 @@
 ﻿---
 title: "Alexis Lebrun, el genio del lollypop"
+description: "Alexis Lebrun es la gran promesa del tenis de mesa europeo. Conoce su explosivo revés, su saque lollypop y cómo ha conquistado el número 1 mundial en dobles."
 pubDate: "2025-07-02"
 updatedDate: "2025-08-10"
 category: "jugadores"

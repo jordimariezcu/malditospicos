@@ -1,5 +1,6 @@
 ﻿---
 title: "Pala de control ofensivo: Maze Advance + DNA Platinum S + Hurricane III"
+description: "La combinación Maze Advance con DNA Platinum S y Hurricane III es una pala de tenis de mesa para jugar con control y ataque. Análisis completo a 175 euros."
 pubDate: "2025-02-15"
 updatedDate: "2025-08-14"
 category: "palas"

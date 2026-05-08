@@ -1,5 +1,6 @@
 ﻿---
 title: "Juego corto vs juego largo: cuándo usar cada uno"
+description: "El juego corto y el juego largo son dos armas clave en tenis de mesa. Descubre cuándo usar cada uno y por qué combinarlos marca la diferencia en competición."
 pubDate: "2025-03-29"
 updatedDate: "2025-08-10"
 category: "guias"

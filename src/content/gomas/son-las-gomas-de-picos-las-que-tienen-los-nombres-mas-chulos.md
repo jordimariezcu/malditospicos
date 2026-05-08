@@ -1,5 +1,6 @@
 ﻿---
 title: "¿Son las gomas de picos las que tienen los nombres más chulos?"
+description: "Power Pipes, Fakir, Firestorm... Las gomas de picos de tenis de mesa tienen los nombres más épicos del deporte. Te contamos por qué y cuáles son."
 pubDate: "2025-09-13"
 updatedDate: "2025-09-13"
 category: "gomas"

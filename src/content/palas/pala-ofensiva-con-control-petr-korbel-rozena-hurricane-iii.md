@@ -1,5 +1,6 @@
 ﻿---
 title: "Pala ofensiva con control: Petr Korbel + Rozena + Hurricane III"
+description: "La pala Petr Korbel con Rozena y Hurricane III es una opción ofensiva económica en tenis de mesa. Buena relación calidad-precio a unos 115 euros."
 pubDate: "2025-02-16"
 updatedDate: "2025-08-14"
 category: "palas"

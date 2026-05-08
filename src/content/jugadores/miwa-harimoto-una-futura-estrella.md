@@ -1,5 +1,6 @@
 ﻿---
 title: "Miwa Harimoto, una futura estrella"
+description: "Miwa Harimoto es la hermana menor de Tomokazu y ya hace temblar a rivales con mucha más experiencia. Descubre por qué se la considera la gran futura estrella del tenis de mesa."
 pubDate: "2025-01-09"
 updatedDate: "2025-08-13"
 category: "jugadores"

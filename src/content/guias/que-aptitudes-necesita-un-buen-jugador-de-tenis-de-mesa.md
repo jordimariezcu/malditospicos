@@ -1,5 +1,6 @@
 ﻿---
 title: "¿Qué aptitudes necesita un buen jugador de tenis de mesa?"
+description: "Un buen jugador de tenis de mesa necesita velocidad, coordinación, anticipación y autocontrol. Descubre qué cualidades físicas y mentales marcan la diferencia."
 pubDate: "2025-07-21"
 updatedDate: "2025-08-06"
 category: "guias"

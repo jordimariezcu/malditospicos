@@ -1,5 +1,6 @@
 ﻿---
 title: "Pala ofensiva OFF- : Tibhar IV S + Bluefire M3 + Vario Soft"
+description: "La pala Tibhar IV S con Bluefire M3 y Vario Soft es una configuración ofensiva controlable en tenis de mesa. Análisis completo a unos 118 euros."
 pubDate: "2025-02-19"
 updatedDate: "2025-08-14"
 category: "palas"

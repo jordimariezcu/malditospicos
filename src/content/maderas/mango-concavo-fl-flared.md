@@ -1,5 +1,6 @@
 ﻿---
 title: "Mango cóncavo (FL – Flared)"
+description: "El mango cóncavo FL es el más usado en tenis de mesa. Descubre por qué su base ancha da seguridad en el agarre y es ideal para el juego ofensivo."
 pubDate: "2025-05-20"
 updatedDate: "2025-08-09"
 category: "maderas"

@@ -1,5 +1,6 @@
 ﻿---
 title: "Pala de control, ligeramente ofensiva: Mattenet ALL+ con gomas Friendship 729 FX"
+description: "La Mattenet ALL+ con gomas Friendship 729 FX es una pala de control perfecta para aprender tenis de mesa con buen tacto. Montaje completo por 73 euros."
 pubDate: "2025-08-04"
 updatedDate: "2025-08-14"
 category: "palas"

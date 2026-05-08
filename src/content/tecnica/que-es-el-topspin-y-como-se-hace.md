@@ -1,5 +1,6 @@
 ﻿---
 title: "¿Qué es el topspin y cómo se hace?"
+description: "El topspin es el golpe más importante del tenis de mesa moderno. Aprende qué es, cómo se ejecuta, qué efectos produce y cómo dominarlo paso a paso."
 pubDate: "2025-09-17"
 updatedDate: "2025-09-18"
 category: "tecnica"

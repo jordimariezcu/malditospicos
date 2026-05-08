@@ -1,5 +1,6 @@
 ﻿---
 title: "Prithika Pavade, la sensación zurda"
+description: "Prithika Pavade es la zurda que ha representado a Francia en dos Juegos Olímpicos con apenas 20 años. Descubre su velocidad, madurez táctica y saque lleno de efecto."
 pubDate: "2025-03-07"
 updatedDate: "2025-08-10"
 category: "jugadores"

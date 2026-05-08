@@ -1,5 +1,6 @@
 ﻿---
 title: "Qué es el drive en tenis de mesa"
+description: "El drive es el primer golpe ofensivo que aprende cualquier jugador. Descubre cómo ejecutarlo correctamente, cuándo usarlo en partidos y por qué es la base del topspin."
 pubDate: "2025-07-29"
 updatedDate: "2025-08-06"
 category: "tecnica"

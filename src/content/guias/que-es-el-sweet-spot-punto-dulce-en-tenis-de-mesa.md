@@ -1,5 +1,6 @@
 ﻿---
 title: "¿Qué es el sweet spot (punto dulce) en tenis de mesa?"
+description: "El sweet spot o punto dulce es la zona óptima de tu pala de tenis de mesa. Golpear ahí mejora velocidad, efecto y control. Te explicamos dónde está y cómo aprovecharlo."
 pubDate: "2025-03-17"
 updatedDate: "2025-08-10"
 category: "guias"

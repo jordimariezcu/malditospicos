@@ -1,5 +1,6 @@
 ﻿---
 title: "Butterfly Glayzer"
+description: "La Butterfly Glayzer es la goma de tenis de mesa que equilibra control y velocidad. ¿Está entre Rozena y Tenergy? Te lo contamos todo."
 pubDate: "2026-03-14"
 updatedDate: "2026-03-29"
 category: "gomas"

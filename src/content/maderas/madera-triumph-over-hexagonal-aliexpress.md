@@ -1,5 +1,6 @@
 ﻿---
 title: "Madera Triumph Over hexagonal - Aliexpress"
+description: "La madera Triumph Over de Aliexpress promete mucho por poco dinero. Analizamos si esta madera de tenis de mesa vale lo que cuesta o si hay mejores opciones."
 pubDate: "2026-03-08"
 updatedDate: "2026-03-29"
 category: "maderas"

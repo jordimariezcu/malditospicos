@@ -1,5 +1,6 @@
 ﻿---
 title: "Bernadette Szőcs, creatividad en estado puro"
+description: "Bernadette Szőcs es la jugadora más carismática de Europa. Descubre su estilo creativo, sus recursos imprevisibles y por qué es tan difícil de leer en la mesa."
 pubDate: "2025-03-04"
 updatedDate: "2025-08-10"
 category: "jugadores"

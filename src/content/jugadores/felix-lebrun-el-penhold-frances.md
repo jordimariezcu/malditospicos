@@ -1,5 +1,6 @@
 ﻿---
 title: "Félix Lebrun, el penhold francés"
+description: "Félix Lebrun es medalla olímpica con tan solo 17 años. Descubre cómo este prodigio francés usa el penhold para revolucionar el tenis de mesa moderno."
 pubDate: "2025-07-04"
 updatedDate: "2025-08-10"
 category: "jugadores"

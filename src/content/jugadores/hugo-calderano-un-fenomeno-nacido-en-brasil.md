@@ -1,5 +1,6 @@
 ﻿---
 title: "Hugo Calderano, un fenómeno nacido en Brasil"
+description: "Hugo Calderano es el mejor jugador de tenis de mesa que ha dado América. Descubre cómo llegó al top 3 mundial y conquistó la Copa del Mundo con un juego brillante."
 pubDate: "2024-12-31"
 updatedDate: "2025-08-13"
 category: "jugadores"

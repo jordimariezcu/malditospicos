@@ -1,5 +1,6 @@
 ﻿---
 title: "Pala profesional ofensiva \"para molestar\": Butterfly Timo Boll ALC + picos cortos + picos medianos"
+description: "La pala de Svetlana Skobkina combina la Timo Boll ALC con picos cortos y medianos. Un arma de tenis de mesa para molestar al rival a nivel profesional."
 pubDate: "2025-08-11"
 updatedDate: "2025-08-14"
 category: "palas"

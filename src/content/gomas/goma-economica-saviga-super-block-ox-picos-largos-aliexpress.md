@@ -1,5 +1,6 @@
 ﻿---
 title: "Goma económica Saviga Super Block OX picos largos - Aliexpress"
+description: "La Saviga Super Block OX es una goma de picos largos económica que desorienta al rival. Disponible en Aliexpress por unos 15 euros: aquí nuestra opinión."
 pubDate: "2026-03-09"
 updatedDate: "2026-03-29"
 category: "gomas"

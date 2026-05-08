@@ -1,5 +1,6 @@
 ﻿---
 title: "Pala para molestar: New Andrzej Grubba + Anti-speed + Pico largo"
+description: "La pala New Andrzej Grubba con Anti-speed y picos largos es un arma de tenis de mesa para golpes impredecibles. Configuración de estratega a 124 euros."
 pubDate: "2026-02-02"
 updatedDate: "2026-03-07"
 category: "palas"

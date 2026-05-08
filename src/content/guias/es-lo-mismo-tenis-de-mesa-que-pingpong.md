@@ -1,5 +1,6 @@
 ﻿---
 title: "¿Es lo mismo tenis de mesa que pingpong?"
+description: "¿Tenis de mesa o pingpong? Aunque mucha gente los usa como sinónimos, hay diferencias de contexto y origen. Te lo explicamos de forma clara y divertida."
 pubDate: "2025-07-19"
 updatedDate: "2025-08-06"
 category: "guias"

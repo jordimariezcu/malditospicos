@@ -1,5 +1,6 @@
 ﻿---
 title: "Kuai Man, alta precisión"
+description: "Kuai Man es la nueva sensación del tenis de mesa chino. Descubre cómo esta joven campeona usa su revés activo y saques con efecto para dominar cerca de la mesa."
 pubDate: "2025-01-07"
 updatedDate: "2025-08-13"
 category: "jugadores"

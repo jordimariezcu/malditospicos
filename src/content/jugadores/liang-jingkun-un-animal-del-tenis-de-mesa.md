@@ -1,5 +1,6 @@
 ﻿---
 title: "Liang Jingkun, un animal del tenis de mesa"
+description: "Liang Jingkun es potencia pura en la mesa. Descubre cómo su golpe de derecha devastador y su físico imponente lo han convertido en un rival temido en los grandes torneos chinos."
 pubDate: "2025-01-06"
 updatedDate: "2025-08-13"
 category: "jugadores"

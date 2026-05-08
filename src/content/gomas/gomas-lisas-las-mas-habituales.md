@@ -1,5 +1,6 @@
 ﻿---
 title: "Gomas lisas, las más habituales"
+description: "Las gomas lisas son las más usadas en tenis de mesa: alta fricción, gran efecto y velocidad. Descubre por qué son la elección de la mayoría de jugadores."
 pubDate: "2025-07-18"
 updatedDate: "2025-08-05"
 category: "gomas"

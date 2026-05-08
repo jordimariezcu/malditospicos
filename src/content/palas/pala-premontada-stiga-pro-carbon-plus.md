@@ -1,5 +1,6 @@
 ﻿---
 title: "Pala premontada Stiga Pro Carbon Plus"
+description: "La pala premontada Stiga Pro Carbon Plus ofrece carbono y calidad por 110 euros. Analizamos si esta opción de tenis de mesa merece la pena frente a montar tu propia pala."
 pubDate: "2025-08-30"
 updatedDate: "2025-09-03"
 category: "palas"

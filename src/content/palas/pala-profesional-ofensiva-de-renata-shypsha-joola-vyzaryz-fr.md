@@ -1,5 +1,6 @@
 ﻿---
 title: "Pala profesional ofensiva de Renata Shypsha: Joola Vyzaryz Freeze HDR+ gomas Dynaryz ACC"
+description: "Descubre la pala de Renata Shypsha, joven promesa del tenis de mesa español. Joola Vyzaryz Freeze HDR con Dynaryz ACC para un ataque devastador."
 pubDate: "2025-08-16"
 updatedDate: "2025-08-16"
 category: "palas"

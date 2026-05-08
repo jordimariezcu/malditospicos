@@ -1,5 +1,6 @@
 ﻿---
 title: "Truls Möregårdh, la creatividad al poder"
+description: "Truls Möregårdh es el subcampeón mundial más creativo del circuito. Descubre cómo este sueco impredecible usa cambios de ritmo y golpes poco convencionales para descolocar a cualquiera."
 pubDate: "2025-01-03"
 updatedDate: "2025-08-13"
 category: "jugadores"

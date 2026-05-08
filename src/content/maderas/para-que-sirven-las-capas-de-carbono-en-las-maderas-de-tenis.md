@@ -1,5 +1,6 @@
 ﻿---
 title: "¿Para qué sirven las capas de carbono en las maderas de tenis de mesa?"
+description: "El carbono en las maderas de tenis de mesa aumenta velocidad y amplía el sweet spot. Descubre cómo afectan estas capas a tu juego y si las necesitas."
 pubDate: "2025-05-07"
 updatedDate: "2025-08-08"
 category: "maderas"

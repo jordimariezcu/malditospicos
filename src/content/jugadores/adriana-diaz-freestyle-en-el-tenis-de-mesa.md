@@ -1,5 +1,6 @@
 ﻿---
 title: "Adriana Díaz, freestyle en el tenis de mesa"
+description: "Adriana Díaz es el icono del tenis de mesa en Puerto Rico. Descubre su estilo creativo, sus saques letales y por qué es la gran referente del continente americano."
 pubDate: "2025-03-06"
 updatedDate: "2025-08-10"
 category: "jugadores"

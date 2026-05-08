@@ -1,5 +1,6 @@
 ﻿---
 title: "Pala para un jugador de estilo atacante"
+description: "El jugador atacante en tenis de mesa domina el punto desde el primer golpe con topspin potente. Descubre qué pala necesitas para desarrollar este estilo agresivo."
 pubDate: "2025-05-12"
 updatedDate: "2025-08-08"
 category: "guias"

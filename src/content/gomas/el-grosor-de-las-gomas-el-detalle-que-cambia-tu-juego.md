@@ -1,5 +1,6 @@
 ﻿---
 title: "El grosor de las gomas: el detalle que cambia tu juego"
+description: "El grosor de la goma en tenis de mesa cambia velocidad, efecto y control. Te explicamos qué espesor elegir según tu nivel y estilo de juego."
 pubDate: "2025-05-25"
 updatedDate: "2025-08-09"
 category: "gomas"

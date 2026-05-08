@@ -1,5 +1,6 @@
 ﻿---
 title: "La pala de Achanta Sharath Kamal: qué madera y gomas utiliza"
+description: "Descubre la pala de tenis de mesa de Achanta Sharath Kamal, el mejor jugador indio de la historia. Qué madera y gomas usa para competir al más alto nivel."
 pubDate: "2025-10-08"
 updatedDate: "2025-10-11"
 category: "palas"

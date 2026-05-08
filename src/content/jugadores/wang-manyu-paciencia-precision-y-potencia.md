@@ -1,5 +1,6 @@
 ﻿---
 title: "Wang Manyu: paciencia, precisión y potencia"
+description: "Wang Manyu es campeona olímpica por equipos y una de las jugadoras más físicas del circuito. Descubre su juego ofensivo desde ambas alas y su extraordinaria fortaleza mental."
 pubDate: "2025-03-02"
 updatedDate: "2025-08-10"
 category: "jugadores"

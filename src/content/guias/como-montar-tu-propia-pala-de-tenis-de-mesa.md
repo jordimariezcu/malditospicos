@@ -1,5 +1,6 @@
 ﻿---
 title: "¿Cómo montar tu propia pala de tenis de mesa?"
+description: "Aprende a montar tu propia pala de tenis de mesa paso a paso. Te explicamos qué material necesitas y cómo pegar las gomas correctamente para un resultado perfecto."
 pubDate: "2025-09-27"
 updatedDate: "2025-09-27"
 category: "guias"

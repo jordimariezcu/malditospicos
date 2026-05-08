@@ -1,5 +1,6 @@
 ﻿---
 title: "Mango Penhold chino"
+description: "El mango Penhold chino se agarra como un bolígrafo y permite un juego rapidísimo cerca de la mesa. Descubre sus características en el tenis de mesa."
 pubDate: "2025-05-22"
 updatedDate: "2025-08-09"
 category: "maderas"

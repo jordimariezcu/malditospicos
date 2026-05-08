@@ -1,5 +1,6 @@
 ﻿---
 title: "Saque tomahawk (leñador) inverso"
+description: "El tomahawk inverso gira en sentido contrario al leñador clásico. Aprende cómo ejecutarlo con el lado exterior de la pala y por qué es tan difícil de leer para el rival."
 pubDate: "2025-06-06"
 updatedDate: "2025-08-06"
 category: "tecnica"

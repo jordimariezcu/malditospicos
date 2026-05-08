@@ -1,5 +1,6 @@
 ﻿---
 title: "Goma de picos medianos: Der-Materialspezialist Power Pipes"
+description: "Los Power Pipes son una goma de picos medianos muy peculiar. Analizamos sus grosores, comportamiento en mesa y por qué hacen sufrir al rival."
 pubDate: "2026-02-28"
 updatedDate: "2026-03-29"
 category: "gomas"

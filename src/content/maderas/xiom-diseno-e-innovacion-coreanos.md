@@ -1,5 +1,6 @@
 ﻿---
 title: "Xiom, diseño e innovación coreanos"
+description: "Xiom combina diseño coreano e innovación tecnológica en sus maderas de tenis de mesa. Descubre por qué Hugo Calderano confía en sus modelos Ice Cream."
 pubDate: "2025-02-14"
 updatedDate: "2025-08-11"
 category: "maderas"

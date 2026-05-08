@@ -1,5 +1,6 @@
 ﻿---
 title: "Ma Long, uno de los mejores de la historia"
+description: "Ma Long: campeón olímpico, mundial y el jugador más laureado de la historia del tenis de mesa. Análisis de su estilo, logros y por qué es considerado el GOAT."
 pubDate: "2025-07-07"
 updatedDate: "2025-08-10"
 category: "jugadores"

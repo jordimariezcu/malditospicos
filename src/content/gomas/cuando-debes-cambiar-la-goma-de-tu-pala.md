@@ -1,5 +1,6 @@
 ﻿---
 title: "Cuándo debes cambiar la goma de tu pala"
+description: "¿Tu goma ya no agarra igual? Descubre cuándo debes cambiar la goma de tu pala de tenis de mesa y cómo detectar las señales de desgaste."
 pubDate: "2025-03-18"
 updatedDate: "2025-08-10"
 category: "gomas"

@@ -1,5 +1,6 @@
 ﻿---
 title: "Tipos de picos en las gomas de tenis de mesa: cortos, medianos y largos"
+description: "¿Picos cortos, medianos o largos? Analizamos los tipos de gomas de picos en tenis de mesa y cómo cada uno afecta a tu estilo de juego."
 pubDate: "2026-03-06"
 updatedDate: "2026-03-07"
 category: "gomas"

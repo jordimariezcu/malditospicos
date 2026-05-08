@@ -1,5 +1,6 @@
 ﻿---
 title: "Pala ofensiva: Ovtcharov S2 + Tenergy 05 + Glayzer"
+description: "La pala Ovtcharov S2 con Tenergy 05 y Glayzer combina velocidad y efecto en tenis de mesa. Una configuración ofensiva con gomas Butterfly de alto nivel."
 pubDate: "2026-01-01"
 updatedDate: "2026-03-07"
 category: "palas"

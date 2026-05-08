@@ -1,5 +1,6 @@
 ﻿---
 title: "Pala \"para molestar\" al rival: Balsa Carbo x7 + picos cortos + antitop"
+description: "La Balsa Carbo X7 con picos cortos y antitop es la pala de tenis de mesa perfecta para complicar la vida al rival. Una combinación rara y muy efectiva."
 pubDate: "2025-08-05"
 updatedDate: "2025-08-14"
 category: "palas"

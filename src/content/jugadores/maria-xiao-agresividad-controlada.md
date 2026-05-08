@@ -1,5 +1,6 @@
 ﻿---
 title: "María Xiao, agresividad controlada"
+description: "María Xiao es la zurda de la selección española con raíces chinas. Descubre su estilo agresivo y controlado, su colocación milimétrica y su trayectoria hasta los Juegos Olímpicos."
 pubDate: "2025-03-08"
 updatedDate: "2025-08-10"
 category: "jugadores"

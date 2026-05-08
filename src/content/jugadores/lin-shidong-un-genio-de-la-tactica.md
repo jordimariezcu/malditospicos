@@ -1,5 +1,6 @@
 ﻿---
 title: "Lin Shidong, un genio de la táctica"
+description: "Lin Shidong, número 1 del mundo con solo 20 años. Conoce el estilo, palmarés y claves tácticas del prodigio chino que está revolucionando el tenis de mesa."
 pubDate: "2025-01-01"
 updatedDate: "2025-08-13"
 category: "jugadores"

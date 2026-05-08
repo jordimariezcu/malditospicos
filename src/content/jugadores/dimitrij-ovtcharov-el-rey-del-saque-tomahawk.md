@@ -1,5 +1,6 @@
 ﻿---
 title: "Dimitrij Ovtcharov, el rey del saque Tomahawk"
+description: "Dimitrij Ovtcharov llegó al número 1 del mundo con seis medallas olímpicas. Descubre por qué su saque Tomahawk es una de las armas más temidas del circuito."
 pubDate: "2025-07-01"
 updatedDate: "2025-08-10"
 category: "jugadores"

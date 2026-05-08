@@ -1,5 +1,6 @@
 ﻿---
 title: "Pala para molestar: Madera combi Wizard + Tenergy 05FX + picos largos Victas Curl P2V "
+description: "La Combi Wizard con Tenergy 05FX y picos largos es una pala de tenis de mesa para desorientar al rival. Mezcla de defensa y ataque por 170 euros."
 pubDate: "2025-09-07"
 updatedDate: "2025-09-07"
 category: "palas"

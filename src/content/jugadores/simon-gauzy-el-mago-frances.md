@@ -1,5 +1,6 @@
 ﻿---
 title: "Simon Gauzy, el mago francés"
+description: "Simon Gauzy ha representado a Francia en tres Juegos Olímpicos. Descubre cómo su lectura de juego, su revés sólido y su experiencia lo hacen un rival extremadamente incómodo."
 pubDate: "2025-07-05"
 updatedDate: "2025-08-10"
 category: "jugadores"

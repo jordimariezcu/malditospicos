@@ -1,5 +1,6 @@
 ﻿---
 title: "Goma antitop: Der-materialspezialist ANTI-SPEED"
+description: "La goma antitop ANTI-SPEED de Der-materialspezialist ofrece un rebote ofensivo inusual. ¿Merece la pena para complicar la vida al rival?"
 pubDate: "2026-02-26"
 updatedDate: "2026-03-07"
 category: "gomas"

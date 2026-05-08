@@ -1,5 +1,6 @@
 ﻿---
 title: "Detalles importantes en los picos: alineación, densidad, altura, grosor, textura de superficie y dureza"
+description: "Las gomas de picos esconden muchos secretos. Analizamos cómo la alineación, densidad y altura de los picos cambian radicalmente tu juego."
 pubDate: "2026-04-12"
 updatedDate: "2026-04-12"
 category: "gomas"

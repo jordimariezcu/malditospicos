@@ -1,5 +1,6 @@
 ﻿---
 title: "Pala ofensiva: Stiga Tube Offensive + Xiom Vega Japan"
+description: "La Stiga Tube Offensive con gomas Xiom Vega Japan es una pala ofensiva de tenis de mesa equilibrada. Analizamos esta combinación de 150 euros en detalle."
 pubDate: "2025-09-12"
 updatedDate: "2025-09-14"
 category: "palas"

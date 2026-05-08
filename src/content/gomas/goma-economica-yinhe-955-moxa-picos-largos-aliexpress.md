@@ -1,5 +1,6 @@
 ﻿---
 title: "Goma económica Yinhe 955 Moxa picos largos - Aliexpress"
+description: "La Yinhe 955 Moxa es una goma de picos largos china y económica. Analizamos su comportamiento y si merece un sitio en tu pala de tenis de mesa."
 pubDate: "2026-01-04"
 updatedDate: "2026-03-07"
 category: "gomas"

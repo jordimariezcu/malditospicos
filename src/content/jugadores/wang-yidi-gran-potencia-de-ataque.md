@@ -1,5 +1,6 @@
 ﻿---
 title: "Wang Yidi, gran potencia de ataque"
+description: "Wang Yidi combina ataque potente con una sólida defensa y regularidad envidiable. Descubre cómo esta jugadora china se adapta a cualquier rival y mantiene el nivel todo el partido."
 pubDate: "2025-01-08"
 updatedDate: "2025-08-13"
 category: "jugadores"

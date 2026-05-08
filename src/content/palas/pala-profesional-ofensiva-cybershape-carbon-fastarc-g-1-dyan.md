@@ -1,5 +1,6 @@
 ﻿---
 title: "Pala profesional ofensiva: Cybershape Carbon + Fastarc G-1 + Dyanaryz ACC"
+description: "La Cybershape Carbon con Fastarc G-1 y Dynaryz ACC es un Ferrari del tenis de mesa. Pala profesional ofensiva de alta gama por unos 330 euros."
 pubDate: "2025-08-12"
 updatedDate: "2025-08-14"
 category: "palas"
