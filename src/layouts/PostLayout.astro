@@ -81,7 +81,7 @@ const breadcrumb = {
   <script type="application/ld+json" set:html={JSON.stringify(schema)} slot="head" />
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumb)} slot="head" />
 
-  <article class="post-wrapper">
+  <article class="post-wrapper" data-pagefind-body data-pagefind-meta={`category:${categoryLabels[category] || category}`}>
     <div class="container">
       <div class="post-header">
         <div class="post-meta">

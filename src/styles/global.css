@@ -22,6 +22,17 @@
   --radius: 4px;
   --shadow-sm: 0 1px 4px rgba(0,47,108,0.08);
   --shadow: 0 4px 20px rgba(0,47,108,0.12);
+
+  /* Pagefind UI */
+  --pagefind-ui-scale: 1;
+  --pagefind-ui-primary: var(--accent-bright);
+  --pagefind-ui-text: var(--text);
+  --pagefind-ui-background: var(--bg);
+  --pagefind-ui-border: var(--border);
+  --pagefind-ui-tag: var(--bg-secondary);
+  --pagefind-ui-border-width: 1px;
+  --pagefind-ui-border-radius: 4px;
+  --pagefind-ui-font: 'Barlow', system-ui, sans-serif;
 }
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
