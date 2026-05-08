@@ -1,6 +1,7 @@
 {
   "trailingSlash": true,
   "redirects": [
+    { "source": "/colaboraciones",           "destination": "/colaboraciones/",   "permanent": false },
     { "source": "/p/sobre-nosotros.html",         "destination": "/sobre-nosotros/", "permanent": true },
     { "source": "/p/sobre-nosotros",              "destination": "/sobre-nosotros/", "permanent": true },
     { "source": "/sobre-nosotros",                "destination": "/sobre-nosotros/", "permanent": true },
