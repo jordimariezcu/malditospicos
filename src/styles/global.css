@@ -1,33 +1,33 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Barlow:wght@300;400;500;600&display=swap');
 
 :root {
-  --bg: #ffffff;
-  --bg-secondary: #f0f4fa;
-  --surface: #ffffff;
-  --border: #dde5f0;
-  --border-light: #edf2fa;
-  --text: #090f1e;
-  --text-secondary: #3a4a6b;
-  --text-muted: #7a8baa;
-  --accent: #003087;
-  --accent-bright: #0047bb;
-  --accent-dark: #001f5e;
-  --accent-bg: #eef3fc;
-  --header-bg: #002f6c;
+  --bg: #080d18;
+  --bg-secondary: #101726;
+  --surface: #131d33;
+  --border: #1d2b45;
+  --border-light: #162038;
+  --text: #dde6f5;
+  --text-secondary: #7f9abf;
+  --text-muted: #4a6080;
+  --accent: #2563eb;
+  --accent-bright: #3b82f6;
+  --accent-dark: #1d4ed8;
+  --accent-bg: #0f1e3d;
+  --header-bg: #050a14;
   --header-text: #ffffff;
   --font-display: 'Barlow Condensed', 'Impact', sans-serif;
   --font-body: 'Barlow', system-ui, sans-serif;
   --max-w: 1200px;
   --max-w-content: 720px;
   --radius: 4px;
-  --shadow-sm: 0 1px 4px rgba(0,47,108,0.08);
-  --shadow: 0 4px 20px rgba(0,47,108,0.12);
+  --shadow-sm: 0 1px 4px rgba(0,0,0,0.4);
+  --shadow: 0 4px 24px rgba(0,0,0,0.5);
 
   /* Pagefind UI */
   --pagefind-ui-scale: 1;
   --pagefind-ui-primary: var(--accent-bright);
   --pagefind-ui-text: var(--text);
-  --pagefind-ui-background: var(--bg);
+  --pagefind-ui-background: var(--surface);
   --pagefind-ui-border: var(--border);
   --pagefind-ui-tag: var(--bg-secondary);
   --pagefind-ui-border-width: 1px;
