@@ -48,7 +48,7 @@ const categories = [
     <div class="container">
       <div class="hero-inner">
         <div class="hero-label">Blog de tenis de mesa</div>
-        <h1 class="hero-title">Material, técnica<br/>y <em>mucho más</em></h1>
+        <h1 class="hero-title">Material, técnica<br/>y mucho más</h1>
         <p class="hero-desc">Guías, reseñas y análisis para jugadores de todos los niveles. Especialistas en gomas de picos.</p>
       </div>
     </div>
@@ -101,64 +101,35 @@ const categories = [
 
 <style>
 .hero {
-  padding: 88px 0 72px;
-  border-bottom: 1px solid var(--border);
-  background:
-    radial-gradient(ellipse 70% 60% at 0% 50%, rgba(37,99,235,0.18) 0%, transparent 70%),
-    radial-gradient(ellipse 40% 40% at 100% 80%, rgba(59,130,246,0.08) 0%, transparent 60%),
-    var(--bg);
-  position: relative;
-  overflow: hidden;
+  padding: 80px 0 64px;
+  border-bottom: 3px solid var(--accent);
+  background: linear-gradient(135deg, var(--accent) 0%, var(--accent-bright) 100%);
+  color: white;
 }
-.hero::before {
-  content: '';
-  position: absolute;
-  inset: 0;
-  background-image:
-    linear-gradient(rgba(37,99,235,0.06) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(37,99,235,0.06) 1px, transparent 1px);
-  background-size: 48px 48px;
-  pointer-events: none;
-}
-.hero-inner { max-width: 640px; position: relative; }
+.hero-inner { max-width: 640px; }
 .hero-label {
   font-family: var(--font-display);
-  font-size: 0.78rem;
+  font-size: 0.82rem;
   text-transform: uppercase;
-  letter-spacing: 0.18em;
-  color: var(--accent-bright);
-  font-weight: 700;
-  margin-bottom: 20px;
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-}
-.hero-label::before {
-  content: '';
-  display: inline-block;
-  width: 24px;
-  height: 2px;
-  background: var(--accent-bright);
-  border-radius: 2px;
+  letter-spacing: 0.15em;
+  color: rgba(255,255,255,0.7);
+  font-weight: 600;
+  margin-bottom: 16px;
 }
 .hero-title {
   font-family: var(--font-display);
-  font-size: clamp(3rem, 6vw, 5.5rem);
+  font-size: clamp(2.8rem, 6vw, 5rem);
   font-weight: 800;
-  line-height: 0.95;
+  line-height: 1.0;
   letter-spacing: 0.02em;
   text-transform: uppercase;
-  margin-bottom: 24px;
-  color: var(--text);
-}
-.hero-title em {
-  font-style: normal;
-  color: var(--accent-bright);
+  margin-bottom: 20px;
+  color: white;
 }
 .hero-desc {
   font-size: 1.05rem;
-  color: var(--text-secondary);
-  line-height: 1.65;
+  color: rgba(255,255,255,0.82);
+  line-height: 1.6;
   max-width: 480px;
   font-weight: 300;
 }
@@ -182,8 +153,8 @@ const categories = [
 }
 .cat-card:hover {
   border-color: var(--accent-bright);
-  box-shadow: 0 0 0 1px var(--accent-bright), 0 8px 24px rgba(37,99,235,0.15);
-  transform: translateY(-2px);
+  box-shadow: var(--shadow-sm);
+  transform: translateY(-1px);
 }
 .cat-icon {
   width: 40px;
@@ -224,40 +195,25 @@ const categories = [
   justify-content: space-between;
   margin-bottom: 28px;
   padding-bottom: 16px;
-  border-bottom: 1px solid var(--border);
-  position: relative;
+  border-bottom: 3px solid var(--accent);
 }
-.section-header::after {
-  content: '';
-  position: absolute;
-  bottom: -1px;
-  left: 0;
-  width: 48px;
-  height: 2px;
-  background: var(--accent-bright);
-  border-radius: 2px;
-}
-.section-header h2 { font-size: 1.6rem; color: var(--text); }
+.section-header h2 { font-size: 1.6rem; color: var(--accent); }
 .posts-grid { display: grid; gap: 10px; }
 .view-all-wrap { margin-top: 32px; text-align: center; }
 .view-all {
   font-family: var(--font-display);
-  font-size: 0.9rem;
+  font-size: 0.95rem;
   font-weight: 700;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.06em;
   text-transform: uppercase;
-  color: var(--accent-bright);
-  background: transparent;
-  padding: 11px 32px;
-  border-radius: var(--radius);
-  transition: all 0.18s;
-  border: 1px solid var(--accent-bright);
-}
-.view-all:hover {
-  background: var(--accent-bright);
   color: white;
-  box-shadow: 0 0 24px rgba(59,130,246,0.3);
+  background: var(--accent);
+  padding: 12px 32px;
+  border-radius: var(--radius);
+  transition: all 0.15s;
+  border: 2px solid var(--accent);
 }
+.view-all:hover { background: var(--accent-bright); border-color: var(--accent-bright); }
 
 /* Newsletter */
 .section-newsletter {
