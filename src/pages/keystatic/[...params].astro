@@ -1,7 +1,16 @@
 ---
 export const prerender = false;
-import { makePage } from '@keystatic/astro/ui';
-import config from '../../../keystatic.config';
-const Page = makePage(config);
+import KeystaticApp from '../../components/KeystaticApp';
 ---
-<Page />
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Malditos Picos · Admin</title>
+    <meta name="robots" content="noindex, nofollow" />
+  </head>
+  <body>
+    <KeystaticApp client:only="react" />
+  </body>
+</html>
