@@ -19,7 +19,6 @@ const { compact = false } = Astro.props;
     class="newsletter-form"
     action={action}
     method="post"
-    target="_blank"
     data-newsletter-form
   >
     <div class="form-row">
@@ -40,6 +39,35 @@ const { compact = false } = Astro.props;
     </div>
     <p class="form-legal">Sin spam. Puedes darte de baja cuando quieras.</p>
   </form>
+
+  <div class="nl-success" id="nl-success" hidden>
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg>
+    <span>¡Apuntado! Bienvenido a Malditos Picos.</span>
+  </div>
+
+  <script define:vars={{ action }}>
+    const form = document.querySelector('[data-newsletter-form]');
+    const success = document.getElementById('nl-success');
+    if (form) {
+      form.addEventListener('submit', async (e) => {
+        e.preventDefault();
+        const btn = form.querySelector('button[type="submit"]');
+        btn.disabled = true;
+        btn.textContent = 'Enviando…';
+        try {
+          const data = new FormData(form);
+          const params = new URLSearchParams();
+          for (const [k, v] of data.entries()) params.append(k, v);
+          await fetch(action + '?' + params.toString(), { mode: 'no-cors' });
+          form.hidden = true;
+          success.hidden = false;
+        } catch {
+          btn.disabled = false;
+          btn.textContent = 'Suscribirme';
+        }
+      });
+    }
+  </script>
 </div>
 
 <style>
@@ -115,6 +143,20 @@ const { compact = false } = Astro.props;
 /* Compact variant (used in footer etc.) */
 .compact .newsletter-title { font-size: 1.15rem; }
 .compact .newsletter-desc { font-size: 0.85rem; }
+
+.nl-success {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 18px;
+  background: rgba(255,255,255,0.12);
+  border: 1px solid rgba(255,255,255,0.25);
+  border-radius: var(--radius);
+  color: white;
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+.nl-success svg { flex-shrink: 0; color: #86efac; }
 
 @media (max-width: 480px) {
   .form-row { flex-direction: column; }
