@@ -9,6 +9,6 @@ export default defineConfig({
   site: 'https://www.malditospicos.com',
   trailingSlash: 'always',
   output: 'hybrid',
-  adapter: vercel(),
+  adapter: vercel({ nodeVersion: '20' }),
   integrations: [mdx(), sitemap(), react(), keystatic()],
 });
