@@ -22,7 +22,7 @@ Se trata de una pala de tipo defensivo, pensada para jugadores tipo chopper (cor
 Presupuesto aproximado: 130€ + 70€ + 18€ = 218 euros
 
 La
- madera es una Victas Koji Matsushita Special, de tipo DEF (defensiva) de un modelo antiguo. Se ha fabricado con 5 capas de madera + 2 capas de carbono. Es una madera pensada para jugar de forma defensiva, cerca de la mesa, con poca vibración y un gran control. Tiene el mango recto (ST), habitual en jugadores con este tipo de palas, puesto que pueden dar la vuelta rápidamente y usar la goma contraria, para despistar al rival. 
+ madera es una Victas Koji Matsushita Special, de tipo DEF (defensiva) de un modelo antiguo. Lleva el nombre de [Koji Matsushita](/jugadores/koji-matsushita-el-artista-de-la-defensa/), el defensor japonés que fue uno de los referentes del estilo cortador durante décadas. Se ha fabricado con 5 capas de madera + 2 capas de carbono. Es una madera pensada para jugar de forma defensiva, cerca de la mesa, con poca vibración y un gran control. Tiene el mango recto (ST), habitual en jugadores con este tipo de palas, puesto que pueden dar la vuelta rápidamente y usar la goma contraria, para despistar al rival. 
 
 En el drive 
 lleva una goma Stiga DNA Dragon Power, un modelo con una gran agarre para realizar fuertes efectos, que funciona como una catapulta (más o menos, dependiendo del nivel de dureza que elijamos). Ideal para hacer topspin con altos arcos.

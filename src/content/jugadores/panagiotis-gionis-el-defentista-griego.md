@@ -20,4 +20,4 @@ Su juego es inteligente y variado. No se limita a cortar desde lejos: sabe jugar
 
 Entre sus logros más destacados, el bronce en el Campeonato Europeo de 2013 y múltiples participaciones olímpicas representando a Grecia. Ha competido en ligas de Alemania y Francia, dos de las más exigentes de Europa.
 
-Gionis es la prueba de que el estilo defensivo tiene futuro en el tenis de mesa moderno. Y también de que se puede ser un gran defensor y un buen dentista a la vez.
+Gionis es la prueba de que el estilo defensivo tiene futuro en el tenis de mesa moderno. Y también de que se puede ser un gran defensor y un buen dentista a la vez. Para ver hasta dónde puede llegar un defensor de élite, el referente absoluto sigue siendo [Joo Se Hyuk](/jugadores/joo-se-hyuk-el-mejor-defensor-de-la-historia/).

@@ -20,4 +20,6 @@ Alcanzó su mejor ranking mundial en el puesto 21 (2001-02), un logro extraordin
 
 Lo que hace especial a Matsushita no son solo sus resultados, sino la forma en que juega. Cada punto con él es un espectáculo: series de cortes imposibles, cambios de velocidad que confunden al atacante más experimentado, y una frialdad que hace que sus rivales acaben cometiendo los errores.
 
+Su legado también está en el material: Victas, la marca que él fundó, lleva su nombre en una de sus maderas más emblemáticas — la [Victas Koji Matsushita Special](/palas/pala-profesional-chopper-victas-koji-matsushita-special-pico/), pensada exactamente para el juego defensivo que él practicó durante décadas.
+
 Si quieres entender de verdad cómo se juega con picos largos y antispin al más alto nivel, Matsushita es el profesor definitivo.

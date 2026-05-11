@@ -18,4 +18,4 @@ Su estilo es el del defensor puro llevado al extremo. Juega con picos largos en 
 
 En 2003, en el Campeonato del Mundo de París, llegó a la final. La perdió contra Werner Schlager en un partido épico, pero esa actuación demostró al mundo entero que el estilo defensivo podía competir con los mejores. También ganó medallas de bronce en la Copa del Mundo 2011 y en los Juegos Asiáticos de 2010 y 2014.
 
-Joo Se Hyuk es el motivo por el que una generación entera de jugadores se animó a jugar con picos largos. Su legado no está solo en los títulos: está en haber demostrado que la defensa puede ser tan emocionante —y tan efectiva— como el ataque más espectacular.
+Joo Se Hyuk es el motivo por el que una generación entera de jugadores se animó a jugar con picos largos. Su legado no está solo en los títulos: está en haber demostrado que la defensa puede ser tan emocionante —y tan efectiva— como el ataque más espectacular. Si te interesa el estilo defensivo clásico, [Koji Matsushita](/jugadores/koji-matsushita-el-artista-de-la-defensa/) es otro nombre que no puedes perderte.

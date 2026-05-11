@@ -85,18 +85,52 @@ import NewsletterForm from '../components/NewsletterForm.astro';
     <section class="collab-contact">
       <div class="contact-inner">
         <h2>¿Hablamos?</h2>
-        <p>Cuéntanos tu producto y qué tipo de colaboración te interesa. Respondemos en menos de 48h.</p>
-        <div class="contact-actions">
-          <a href="mailto:malditospicos@gmail.com" class="contact-btn contact-btn--primary">
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
-            malditospicos@gmail.com
-          </a>
-          <a href="https://www.linkedin.com/in/jordi-mariezcurrena/" target="_blank" rel="noopener noreferrer" class="contact-btn contact-btn--secondary">
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 0 1-2.063-2.065 2.064 2.064 0 1 1 2.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
-            Jordi Mariezcurrena
-          </a>
-        </div>
-        <p class="contact-note">Los datos de audiencia y métricas detalladas están disponibles bajo petición.</p>
+        <p>Cuéntanos tu marca y qué tipo de colaboración te interesa. Respondemos en menos de 48h.</p>
+
+        <form
+          class="contact-form"
+          action="https://formspree.io/f/FORM_ID"
+          method="POST"
+        >
+          <!-- Honeypot anti-spam -->
+          <input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off" />
+          <input type="hidden" name="_subject" value="Nueva consulta de colaboración — Malditos Picos" />
+
+          <div class="form-row">
+            <div class="form-group">
+              <label for="cf-name">Nombre / Empresa</label>
+              <input type="text" id="cf-name" name="nombre" required placeholder="Tu nombre o marca" />
+            </div>
+            <div class="form-group">
+              <label for="cf-email">Email de contacto</label>
+              <input type="email" id="cf-email" name="email" required placeholder="hola@tumarca.com" />
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="cf-tipo">Tipo de colaboración</label>
+            <select id="cf-tipo" name="tipo">
+              <option value="">Selecciona una opción</option>
+              <option>Reseña de producto</option>
+              <option>Mención en comparativa</option>
+              <option>Newsletter patrocinada</option>
+              <option>Contenido patrocinado</option>
+              <option>Otro / no sé aún</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label for="cf-msg">Cuéntanos un poco</label>
+            <textarea id="cf-msg" name="mensaje" rows="4" placeholder="Producto, objetivo, presupuesto aproximado…"></textarea>
+          </div>
+
+          <div class="form-footer">
+            <button type="submit" class="form-submit">Enviar consulta</button>
+            <p class="contact-note">También puedes contactarnos en LinkedIn —
+              <a href="https://www.linkedin.com/in/jordi-mariezcurrena/" target="_blank" rel="noopener noreferrer">Jordi Mariezcurrena</a>.
+            </p>
+          </div>
+        </form>
       </div>
     </section>
 
@@ -235,44 +269,100 @@ import NewsletterForm from '../components/NewsletterForm.astro';
   font-size: 1rem;
   margin-bottom: 28px;
 }
-.contact-actions {
-  display: flex;
-  gap: 12px;
-  flex-wrap: wrap;
-  margin-bottom: 16px;
+
+/* Form */
+.contact-form { display: flex; flex-direction: column; gap: 16px; }
+
+.form-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
 }
-.contact-btn {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  padding: 12px 22px;
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.form-group label {
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: rgba(255,255,255,0.75);
+}
+.form-group input,
+.form-group select,
+.form-group textarea {
+  background: rgba(255,255,255,0.12);
+  border: 1px solid rgba(255,255,255,0.25);
   border-radius: var(--radius);
+  padding: 10px 14px;
+  font-size: 0.95rem;
+  font-family: var(--font-body);
+  color: white;
+  outline: none;
+  transition: border-color 0.15s, background 0.15s;
+  width: 100%;
+  box-sizing: border-box;
+}
+.form-group input::placeholder,
+.form-group textarea::placeholder {
+  color: rgba(255,255,255,0.38);
+}
+.form-group select option {
+  background: var(--accent);
+  color: white;
+}
+.form-group input:focus,
+.form-group select:focus,
+.form-group textarea:focus {
+  border-color: rgba(255,255,255,0.6);
+  background: rgba(255,255,255,0.18);
+}
+.form-group textarea { resize: vertical; min-height: 100px; }
+
+.form-footer {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-top: 4px;
+}
+.form-submit {
+  background: white;
+  color: var(--accent);
+  border: none;
+  border-radius: var(--radius);
+  padding: 12px 28px;
   font-family: var(--font-display);
   font-size: 0.9rem;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.05em;
-  transition: all 0.15s;
+  letter-spacing: 0.06em;
+  cursor: pointer;
+  transition: background 0.15s, transform 0.1s;
+  flex-shrink: 0;
 }
-.contact-btn--primary {
-  background: white;
-  color: var(--accent);
-}
-.contact-btn--primary:hover { background: var(--bg-secondary); }
-.contact-btn--secondary {
-  background: rgba(255,255,255,0.12);
-  color: white;
-  border: 1px solid rgba(255,255,255,0.25);
-}
-.contact-btn--secondary:hover { background: rgba(255,255,255,0.22); }
+.form-submit:hover { background: rgba(255,255,255,0.9); }
+.form-submit:active { transform: scale(0.98); }
+
 .contact-note {
-  font-size: 0.78rem;
-  color: rgba(255,255,255,0.45);
+  font-size: 0.82rem;
+  color: rgba(255,255,255,0.5);
   margin: 0;
+  line-height: 1.5;
 }
+.contact-note a {
+  color: rgba(255,255,255,0.75);
+  text-decoration: underline;
+}
+.contact-note a:hover { color: white; }
 
 @media (max-width: 600px) {
-  .collab-contact { padding: 32px 24px; }
+  .collab-contact { padding: 32px 20px; }
   .offer-num { font-size: 1.4rem; min-width: 32px; }
+  .form-row { grid-template-columns: 1fr; }
+  .form-footer { flex-direction: column; align-items: flex-start; }
 }
 </style>
