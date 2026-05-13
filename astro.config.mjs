@@ -7,7 +7,7 @@ import keystatic from '@keystatic/astro';
 
 export default defineConfig({
   site: 'https://www.malditospicos.com',
-  trailingSlash: 'always',
+  trailingSlash: 'ignore',
   output: 'hybrid',
   adapter: vercel({ nodeVersion: '20' }),
   integrations: [mdx(), sitemap(), react(), keystatic()],
