@@ -29,7 +29,13 @@ const productSchema = {
 };
 
 // Campo de contenido markdown (cuerpo del post)
-const contentField = fields.markdownEditor({ label: 'Contenido' });
+const contentField = fields.document({
+  label: 'Contenido',
+  formatting: true,
+  dividers: true,
+  links: true,
+  images: true,
+});
 
 export default config({
   storage: isProduction
