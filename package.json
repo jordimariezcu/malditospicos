@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build && npx pagefind --site dist && node scripts/fix-vercel-runtime.mjs",
+    "build": "astro build && npx pagefind --site .vercel/output/static && node scripts/fix-vercel-runtime.mjs",
     "preview": "astro preview"
   },
   "dependencies": {
