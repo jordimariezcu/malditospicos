@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mockup Light — Malditos Picos</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800;900&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg:            #f0ede8;
+    --bg-secondary:  #e8e4de;
+    --surface:       #faf8f5;
+    --border:        #d8d3cb;
+    --border-light:  #e4e0d8;
+    --text:          #1a1916;
+    --text-secondary:#54514a;
+    --text-muted:    #8c8880;
+    --accent:        #163A63;
+    --accent-bright: #163A63;
+    --accent-dark:   #0e2843;
+    --accent-bg:     #dce6f0;
+    --header-bg:     #f0ede8;
+    --header-text:   #1a1916;
+    --font-display:  'Playfair Display', Georgia, serif;
+    --font-body:     'Inter', system-ui, sans-serif;
+    --radius:        4px;
+    --shadow-sm:     0 1px 3px rgba(0,0,0,.08);
+    --shadow:        0 4px 20px rgba(0,0,0,.10);
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  html { font-size: 16px; scroll-behavior: smooth; }
+  body {
+    font-family: var(--font-body);
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+  a { color: inherit; text-decoration: none; }
+  img { max-width: 100%; height: auto; display: block; }
+
+  /* ── NAVIGATION ───────────────────────────────────────────── */
+  .nav {
+    background: var(--header-bg);
+    border-bottom: 1px solid var(--border);
+    position: sticky; top: 0; z-index: 100;
+  }
+  .nav-inner {
+    max-width: 1200px; margin: 0 auto;
+    padding: 0 24px;
+    display: flex; align-items: center; justify-content: space-between;
+    height: 56px;
+  }
+  .nav-logo {
+    font-family: var(--font-display);
+    font-size: 1.3rem; font-weight: 900;
+    letter-spacing: -0.01em;
+    color: var(--text);
+  }
+  .nav-logo span { color: var(--accent-bright); }
+  .nav-links { display: flex; gap: 0; list-style: none; }
+  .nav-links a {
+    font-size: 0.75rem; font-weight: 600;
+    text-transform: uppercase; letter-spacing: 0.08em;
+    color: var(--text-secondary);
+    padding: 0 14px;
+    display: flex; align-items: center; height: 56px;
+    border-right: 1px solid var(--border-light);
+    transition: color .15s, background .15s;
+  }
+  .nav-links li:first-child a { border-left: 1px solid var(--border-light); }
+  .nav-links a:hover { color: var(--text); background: var(--bg-secondary); }
+
+  /* ── HERO ─────────────────────────────────────────────────── */
+  .hero {
+    border-bottom: 1px solid var(--border);
+    padding: 72px 24px 64px;
+    max-width: 1200px; margin: 0 auto;
+  }
+  .hero-label {
+    font-size: 0.7rem; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.12em;
+    color: var(--text-muted);
+    margin-bottom: 20px;
+  }
+  .hero-title {
+    font-family: var(--font-display);
+    font-size: clamp(3rem, 7vw, 5.5rem);
+    font-weight: 900;
+    line-height: 1.02; letter-spacing: -0.02em;
+    color: var(--text);
+    max-width: 800px; margin-bottom: 24px;
+  }
+  .hero-sub {
+    font-size: 1.1rem; color: var(--text-secondary);
+    max-width: 540px; line-height: 1.65;
+    margin-bottom: 36px;
+  }
+  .hero-actions { display: flex; gap: 12px; flex-wrap: wrap; }
+  .btn {
+    display: inline-flex; align-items: center; gap: 6px;
+    padding: 11px 22px;
+    font-family: var(--font-body);
+    font-size: 0.78rem; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.08em;
+    border-radius: var(--radius);
+    cursor: pointer;
+  }
+  .btn-primary {
+    background: #163A63; color: #fff;
+    border: 2px solid #163A63;
+    transition: background .2s, border-color .2s, transform .1s;
+  }
+  .btn-primary:hover { background: #0e2843; border-color: #0e2843; transform: translateY(-1px); }
+  .btn-outline {
+    background: transparent; color: #163A63;
+    border: 2px solid #163A63;
+    transition: background .2s, color .2s, transform .1s;
+  }
+  .btn-outline:hover { background: #163A63; color: #fff; transform: translateY(-1px); }
+
+  /* ── CONTAINER ────────────────────────────────────────────── */
+  .container { max-width: 1200px; margin: 0 auto; padding: 0 24px; }
+
+  /* ── SECTION LABEL ────────────────────────────────────────── */
+  .section-label {
+    font-size: 0.68rem; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.14em;
+    color: var(--text-muted);
+    padding-bottom: 12px;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 32px;
+  }
+
+  /* ── FEATURED GRID ────────────────────────────────────────── */
+  .featured {
+    padding: 64px 24px;
+    max-width: 1200px; margin: 0 auto;
+    border-bottom: 1px solid var(--border);
+  }
+  .featured-grid {
+    display: grid;
+    grid-template-columns: 1.6fr 1fr 1fr;
+    gap: 1px;
+    background: var(--border);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+  }
+  .featured-card {
+    background: var(--surface);
+    padding: 28px 24px;
+    display: flex; flex-direction: column;
+  }
+  .featured-card-num {
+    font-family: var(--font-display);
+    font-size: 0.7rem; font-weight: 700;
+    color: var(--text-muted); letter-spacing: 0.1em;
+    margin-bottom: 16px;
+  }
+  .featured-card-cat {
+    font-size: 0.65rem; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.12em;
+    color: var(--accent);
+    margin-bottom: 8px;
+  }
+  .featured-card h3 {
+    font-family: var(--font-display);
+    font-size: 1.4rem; font-weight: 700;
+    line-height: 1.2;
+    color: var(--text); margin-bottom: 10px;
+  }
+  .featured-card-main h3 { font-size: 1.9rem; }
+  .featured-card p {
+    font-size: 0.88rem; color: var(--text-secondary);
+    line-height: 1.6; flex: 1; margin-bottom: 20px;
+  }
+  .read-link {
+    font-size: 0.72rem; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.1em;
+    color: var(--text); border-bottom: 1px solid var(--border);
+    padding-bottom: 2px; align-self: flex-start;
+    transition: border-color .15s, color .15s;
+  }
+  .read-link:hover { color: var(--accent-bright); border-color: var(--accent-bright); }
+
+  /* ── ARTICLE LIST ─────────────────────────────────────────── */
+  .articles-section {
+    padding: 64px 24px;
+    max-width: 1200px; margin: 0 auto;
+    border-bottom: 1px solid var(--border);
+  }
+  .articles-cols {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0 48px;
+  }
+  .articles-col-label {
+    font-size: 0.68rem; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.14em;
+    color: var(--text-muted);
+    padding-bottom: 12px;
+    border-bottom: 2px solid var(--text);
+    margin-bottom: 0;
+  }
+  .article-item {
+    display: flex; align-items: baseline; gap: 16px;
+    padding: 18px 0;
+    border-bottom: 1px solid var(--border-light);
+    transition: background .15s;
+  }
+  .article-item:hover { padding-left: 4px; }
+  .article-num {
+    font-family: var(--font-display);
+    font-size: 0.7rem; font-weight: 700;
+    color: var(--text-muted); flex-shrink: 0;
+    width: 24px;
+  }
+  .article-body { flex: 1; }
+  .article-cat {
+    font-size: 0.62rem; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.1em;
+    color: var(--accent-bright); margin-bottom: 2px;
+  }
+  .article-title {
+    font-family: var(--font-display);
+    font-size: 1rem; font-weight: 700;
+    color: var(--text); line-height: 1.25;
+  }
+  .article-item:hover .article-title { color: var(--accent-bright); }
+
+  /* ── CATEGORIES STRIP ─────────────────────────────────────── */
+  .categories {
+    padding: 48px 24px;
+    max-width: 1200px; margin: 0 auto;
+    border-bottom: 1px solid var(--border);
+  }
+  .cat-grid {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 1px;
+    background: var(--border);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+  }
+  .cat-item {
+    background: var(--surface);
+    padding: 28px 16px;
+    text-align: center;
+    transition: background .15s;
+    cursor: pointer;
+  }
+  .cat-item:hover { background: var(--bg-secondary); }
+  .cat-icon {
+    font-size: 1.6rem; margin-bottom: 10px;
+  }
+  .cat-name {
+    font-family: var(--font-display);
+    font-size: 0.85rem; font-weight: 800;
+    text-transform: uppercase; letter-spacing: 0.04em;
+    color: var(--text);
+  }
+  .cat-count {
+    font-size: 0.68rem; color: var(--text-muted);
+    margin-top: 3px;
+  }
+
+  /* ── NEWSLETTER ───────────────────────────────────────────── */
+  .newsletter {
+    padding: 80px 24px;
+    max-width: 1200px; margin: 0 auto;
+    border-bottom: 1px solid var(--border);
+    display: grid; grid-template-columns: 1fr 1fr;
+    gap: 64px; align-items: center;
+  }
+  .newsletter h2 {
+    font-family: var(--font-display);
+    font-size: clamp(2rem, 4vw, 3rem);
+    font-weight: 800;
+    line-height: 1.05; color: var(--text); margin-bottom: 16px;
+  }
+  .newsletter p {
+    color: var(--text-secondary); font-size: 0.95rem; line-height: 1.7;
+  }
+  .nl-form { display: flex; flex-direction: column; gap: 12px; }
+  .nl-input {
+    padding: 13px 16px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    font-family: var(--font-body); font-size: 0.9rem;
+    color: var(--text); outline: none;
+    transition: border-color .15s;
+  }
+  .nl-input:focus { border-color: var(--text); }
+  .nl-input::placeholder { color: var(--text-muted); }
+
+  /* ── FOOTER ───────────────────────────────────────────────── */
+  .footer {
+    background: var(--text);
+    color: var(--bg);
+    padding: 40px 24px;
+  }
+  .footer-inner {
+    max-width: 1200px; margin: 0 auto;
+    display: flex; align-items: center;
+    justify-content: space-between; flex-wrap: wrap; gap: 16px;
+  }
+  .footer-logo {
+    font-family: var(--font-display);
+    font-size: 1.2rem; font-weight: 800;
+    text-transform: uppercase;
+  }
+  .footer-logo span { color: var(--accent-bright); }
+  .footer-links { display: flex; gap: 24px; list-style: none; flex-wrap: wrap; }
+  .footer-links a {
+    font-size: 0.72rem; font-weight: 600;
+    text-transform: uppercase; letter-spacing: 0.08em;
+    color: rgba(240,237,232,.5);
+    transition: color .15s;
+  }
+  .footer-links a:hover { color: var(--bg); }
+  .footer-copy {
+    font-size: 0.72rem; color: rgba(240,237,232,.4);
+    width: 100%; margin-top: 8px;
+  }
+
+  /* ── POST HEADER preview ──────────────────────────────────── */
+  .post-header {
+    padding: 64px 24px 48px;
+    max-width: 740px; margin: 0 auto;
+    border-bottom: 1px solid var(--border);
+  }
+  .post-header-meta {
+    display: flex; align-items: center; gap: 12px;
+    font-size: 0.7rem; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.1em;
+    color: var(--text-muted); margin-bottom: 20px;
+  }
+  .post-header-cat { color: var(--accent-bright); }
+  .post-header h1 {
+    font-family: var(--font-display);
+    font-size: clamp(2.2rem, 5vw, 3.8rem);
+    font-weight: 900;
+    line-height: 1.05; color: var(--text); margin-bottom: 20px;
+  }
+  .post-header-desc {
+    font-size: 1.1rem; color: var(--text-secondary);
+    line-height: 1.65;
+  }
+</style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav class="nav">
+  <div class="nav-inner">
+    <a href="#" class="nav-logo">Malditos<span>Picos</span></a>
+    <ul class="nav-links">
+      <li><a href="#">Gomas</a></li>
+      <li><a href="#">Maderas</a></li>
+      <li><a href="#">Configuraciones</a></li>
+      <li><a href="#">Técnica</a></li>
+      <li><a href="#">Jugadores</a></li>
+      <li><a href="#">Materiales</a></li>
+    </ul>
+  </div>
+</nav>
+
+<!-- HERO -->
+<div style="border-bottom: 1px solid var(--border);">
+<div class="hero">
+  <div class="hero-label">Blog de tenis de mesa · Desde 2025</div>
+  <h1 class="hero-title">Gomas, Maderas y Técnica</h1>
+  <p class="hero-sub">Todo lo que necesitas saber sobre el tenis de mesa. Reseñas honestas, guías técnicas y análisis de los mejores jugadores del mundo.</p>
+  <div class="hero-actions">
+    <a href="#" class="btn btn-primary">Empezar aquí</a>
+    <a href="#" class="btn btn-outline">Ver todas las gomas</a>
+    <a href="#" class="btn btn-outline">Ver todas las maderas</a>
+  </div>
+</div>
+</div>
+
+<!-- FEATURED -->
+<div class="featured">
+  <div class="section-label">Artículos destacados</div>
+  <div class="featured-grid">
+    <div class="featured-card featured-card-main">
+      <div class="featured-card-num">01</div>
+      <div class="featured-card-cat">Gomas</div>
+      <h3>Butterfly Tenergy 05: la referencia que todos conocen</h3>
+      <p>La goma más vendida del mundo tiene fama por algo. Analizamos si sigue mereciendo su precio y para quién tiene sentido.</p>
+      <a href="#" class="read-link">Leer artículo →</a>
+    </div>
+    <div class="featured-card">
+      <div class="featured-card-num">02</div>
+      <div class="featured-card-cat">Jugadores</div>
+      <h3>Fan Zhendong: un prodigio de la naturaleza</h3>
+      <p>El número 1 del mundo y su estilo brutal de juego.</p>
+      <a href="#" class="read-link">Leer artículo →</a>
+    </div>
+    <div class="featured-card">
+      <div class="featured-card-num">03</div>
+      <div class="featured-card-cat">Técnica</div>
+      <h3>Qué es el topspin y cómo se hace</h3>
+      <p>El golpe más importante del tenis de mesa moderno, explicado desde cero.</p>
+      <a href="#" class="read-link">Leer artículo →</a>
+    </div>
+  </div>
+</div>
+
+<!-- ARTICLE LIST -->
+<div class="articles-section">
+  <div class="articles-cols">
+    <!-- Columna 1 -->
+    <div>
+      <div class="articles-col-label">Últimas reseñas</div>
+      <div class="article-item">
+        <span class="article-num">01</span>
+        <div class="article-body">
+          <div class="article-cat">Gomas</div>
+          <div class="article-title">Joola Rhyzen Ice vs Rhyzen Fire</div>
+        </div>
+      </div>
+      <div class="article-item">
+        <span class="article-num">02</span>
+        <div class="article-body">
+          <div class="article-cat">Maderas</div>
+          <div class="article-title">Madera Off-Offensive Estándar: todo terreno</div>
+        </div>
+      </div>
+      <div class="article-item">
+        <span class="article-num">03</span>
+        <div class="article-body">
+          <div class="article-cat">Gomas</div>
+          <div class="article-title">Butterfly Dignics 05: ¿merece el precio?</div>
+        </div>
+      </div>
+      <div class="article-item">
+        <span class="article-num">04</span>
+        <div class="article-body">
+          <div class="article-cat">Configuraciones</div>
+          <div class="article-title">Pala ofensiva Timo Boll ALC + Tenergy 64</div>
+        </div>
+      </div>
+      <div class="article-item">
+        <span class="article-num">05</span>
+        <div class="article-body">
+          <div class="article-cat">Gomas</div>
+          <div class="article-title">Picos largos: Victas Curl P1V</div>
+        </div>
+      </div>
+    </div>
+    <!-- Columna 2 -->
+    <div>
+      <div class="articles-col-label">Guías y técnica</div>
+      <div class="article-item">
+        <span class="article-num">01</span>
+        <div class="article-body">
+          <div class="article-cat">Técnica</div>
+          <div class="article-title">Saque péndulo: la guía completa</div>
+        </div>
+      </div>
+      <div class="article-item">
+        <span class="article-num">02</span>
+        <div class="article-body">
+          <div class="article-cat">Guías</div>
+          <div class="article-title">Cómo elegir tu primera pala a medida</div>
+        </div>
+      </div>
+      <div class="article-item">
+        <span class="article-num">03</span>
+        <div class="article-body">
+          <div class="article-cat">Técnica</div>
+          <div class="article-title">El banana flick explicado paso a paso</div>
+        </div>
+      </div>
+      <div class="article-item">
+        <span class="article-num">04</span>
+        <div class="article-body">
+          <div class="article-cat">Guías</div>
+          <div class="article-title">Grosor de esponja: el detalle que cambia tu juego</div>
+        </div>
+      </div>
+      <div class="article-item">
+        <span class="article-num">05</span>
+        <div class="article-body">
+          <div class="article-cat">Jugadores</div>
+          <div class="article-title">Álvaro Robles: la joya española</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- CATEGORIES -->
+<div class="categories">
+  <div class="section-label">Explorar por categoría</div>
+  <div class="cat-grid">
+    <div class="cat-item">
+      <div class="cat-icon">🏓</div>
+      <div class="cat-name">Gomas</div>
+      <div class="cat-count">28 artículos</div>
+    </div>
+    <div class="cat-item">
+      <div class="cat-icon">🪵</div>
+      <div class="cat-name">Maderas</div>
+      <div class="cat-count">19 artículos</div>
+    </div>
+    <div class="cat-item">
+      <div class="cat-icon">⚙️</div>
+      <div class="cat-name">Palas</div>
+      <div class="cat-count">24 artículos</div>
+    </div>
+    <div class="cat-item">
+      <div class="cat-icon">🎯</div>
+      <div class="cat-name">Técnica</div>
+      <div class="cat-count">22 artículos</div>
+    </div>
+    <div class="cat-item">
+      <div class="cat-icon">🏆</div>
+      <div class="cat-name">Jugadores</div>
+      <div class="cat-count">30 artículos</div>
+    </div>
+    <div class="cat-item">
+      <div class="cat-icon">🛒</div>
+      <div class="cat-name">Materiales</div>
+      <div class="cat-count">14 artículos</div>
+    </div>
+  </div>
+</div>
+
+<!-- NEWSLETTER -->
+<div class="newsletter">
+  <div>
+    <div class="section-label">Newsletter</div>
+    <h2>Sin spam.<br>Solo tenis de mesa.</h2>
+    <p>Un correo cada vez que publicamos algo nuevo. Reseñas, guías y análisis de jugadores — directo a tu bandeja.</p>
+  </div>
+  <div class="nl-form">
+    <input class="nl-input" type="email" placeholder="tu@email.com">
+    <button class="btn btn-primary" style="justify-content: center;">Suscribirse</button>
+    <p style="font-size: 0.72rem; color: var(--text-muted); margin: 0;">Sin spam. Baja cuando quieras.</p>
+  </div>
+</div>
+
+<!-- POST HEADER PREVIEW -->
+<div style="background: var(--surface); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border); margin-top: 0;">
+  <div style="max-width: 1200px; margin: 0 auto; padding: 24px 24px 0; font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.12em; color: var(--text-muted);">
+    — Vista previa de artículo interior —
+  </div>
+  <div class="post-header">
+    <div class="post-header-meta">
+      <span class="post-header-cat">Gomas</span>
+      <span>·</span>
+      <span>13 mayo 2026</span>
+      <span>·</span>
+      <span>5 min lectura</span>
+    </div>
+    <h1>Butterfly Tenergy 05: la referencia que todos conocen</h1>
+    <p class="post-header-desc">La goma más vendida del mundo tiene fama por algo. Analizamos si sigue mereciendo su precio, para qué tipo de jugador encaja y qué alternativas existen si el presupuesto no llega.</p>
+  </div>
+</div>
+
+<!-- FOOTER -->
+<footer class="footer">
+  <div class="footer-inner">
+    <span class="footer-logo">Malditos<span>Picos</span></span>
+    <ul class="footer-links">
+      <li><a href="#">Sobre nosotros</a></li>
+      <li><a href="#">Sitemap</a></li>
+      <li><a href="#">Privacidad</a></li>
+      <li><a href="#">Contacto</a></li>
+    </ul>
+    <p class="footer-copy">© 2026 Malditos Picos · Blog de tenis de mesa</p>
+  </div>
+</footer>
+
+</body>
+</html>
