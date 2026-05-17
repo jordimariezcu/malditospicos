@@ -13,9 +13,7 @@ const allPosts = (await Promise.all(
 )).flat().filter(p => !p.data.draft)
   .sort((a,b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime());
 
-const heroPost  = allPosts[0];
-const featuredPosts = allPosts.slice(1, 4);   // big + 2 small
-const morePosts = allPosts.slice(4, 10);      // 3-col grid
+const recentPosts = allPosts.slice(0, 9);
 
 const categoryLabels: Record<string, string> = {
   gomas: 'Gomas', maderas: 'Maderas', palas: 'Palas', tecnica: 'Técnica',
@@ -31,34 +29,17 @@ const categories = [
   { slug: 'guias',      label: 'Guías'     },
   { slug: 'materiales', label: 'Materiales'},
 ];
-
-function fmtDate(d: string) {
-  return new Date(d).toLocaleDateString('es-ES', { day: 'numeric', month: 'long', year: 'numeric' });
-}
-function catBg(col: string) {
-  return (categoryLabels[col] || col).toUpperCase();
-}
 ---
 <BaseLayout>
 
   <!-- ── HERO ── -->
   <section class="hero">
-    <div class="hero-text">
-      <div class="hero-label">El blog de tenis de mesa en español</div>
-      <h1 class="hero-title">Tenis de mesa sin <span>filtros</span> comerciales</h1>
-      <p class="hero-subtitle">Reviews honestas de gomas, maderas y accesorios. Sin tiendas. Sin afiliados. Solo opinión de quien juega.</p>
-      <a href="/archivo/" class="btn-primary">Leer los últimos artículos</a>
+    <div class="container">
+      <div class="hero-label">El único blog editorial de tenis de mesa en español</div>
+      <h1 class="hero-title">Material, técnica<br/>y <span>mucho más</span></h1>
+      <p class="hero-subtitle">Reviews honestas de gomas, maderas y accesorios. Sin tiendas, sin afiliados. Solo opinión de quien juega.</p>
+      <a href="/archivo/" class="btn-primary">Ver todos los artículos</a>
     </div>
-    {heroPost && (
-      <div class="hero-image">
-        <div class="hero-image-bg"></div>
-        <div class="hero-image-word">PICOS</div>
-        <a href={`/${heroPost.collection}/${heroPost.slug}/`} class="hero-badge">
-          <div class="hero-badge-cat">{categoryLabels[heroPost.collection]}</div>
-          <div class="hero-badge-title">{heroPost.data.title}</div>
-        </a>
-      </div>
-    )}
   </section>
 
   <!-- ── CATEGORIES BAR ── -->
@@ -68,113 +49,45 @@ function catBg(col: string) {
     ))}
   </nav>
 
-  <!-- ── FEATURED ARTICLES ── -->
-  {featuredPosts.length > 0 && (
-    <section class="section">
+  <!-- ── ARTICLES ── -->
+  <section class="section">
+    <div class="container">
       <div class="section-header">
         <h2 class="section-title">Últimos <span>artículos</span></h2>
         <a href="/archivo/" class="section-link">Ver todos →</a>
       </div>
-
-      <div class="articles-grid-large">
-
-        {/* BIG CARD */}
-        {featuredPosts[0] && (() => {
-          const p = featuredPosts[0];
-          const col = p.collection as string;
-          const label = categoryLabels[col] || col;
-          const bg = catBg(col);
-          return (
-            <a href={`/${col}/${p.slug}/`} class="article-card article-card-big">
-              <div class="article-card-img">
-                <span class="article-cat-badge">{label}</span>
-                {p.data.image ? (
-                  <img src={p.data.image} alt={p.data.title} loading="eager" style="width:100%;height:300px;object-fit:cover;display:block;" />
-                ) : (
-                  <div class="card-editorial" style="height:300px;">
-                    <div class="card-editorial-bg-text">{bg}</div>
-                    <div class="card-editorial-cat-overlay">{label}</div>
-                    <div class="card-editorial-title-overlay">{p.data.title}</div>
-                  </div>
-                )}
-              </div>
-              <div class="article-card-body">
-                <h3 class="article-card-title">{p.data.title}</h3>
-                {p.data.description && <p class="article-card-excerpt">{p.data.description}</p>}
-                <div class="article-card-meta">{fmtDate(p.data.pubDate)} · {label}</div>
-              </div>
-            </a>
-          );
-        })()}
-
-        {/* 2 SMALLER CARDS */}
-        <div class="articles-col-small">
-          {featuredPosts.slice(1, 3).map((p) => {
-            const col = p.collection as string;
-            const label = categoryLabels[col] || col;
-            const bg = catBg(col);
-            return (
-              <a href={`/${col}/${p.slug}/`} class="article-card article-card-sm">
-                <div class="article-card-img">
-                  <span class="article-cat-badge">{label}</span>
-                  {p.data.image ? (
-                    <img src={p.data.image} alt={p.data.title} loading="lazy" style="width:100%;height:150px;object-fit:cover;display:block;" />
-                  ) : (
-                    <div class="card-editorial" style="height:150px;">
-                      <div class="card-editorial-bg-text">{bg}</div>
-                      <div class="card-editorial-cat-overlay">{label}</div>
-                      <div class="card-editorial-title-overlay">{p.data.title}</div>
-                    </div>
-                  )}
-                </div>
-                <div class="article-card-body">
-                  <div class="article-card-meta">{fmtDate(p.data.pubDate)}</div>
-                  <h3 class="article-card-title" style="font-size:14px;margin-top:4px;">{p.data.title}</h3>
-                </div>
-              </a>
-            );
-          })}
-        </div>
-
-      </div>
-    </section>
-  )}
-
-  <!-- ── PHILOSOPHY STRIP ── -->
-  <div class="philosophy">
-    <div class="philosophy-left">
-      <h2 class="philosophy-title">Las marcas que se toman en serio lo que <span>fabrican</span></h2>
-    </div>
-    <div class="philosophy-right">
-      <p class="philosophy-text">En Malditospicos nos sentimos más cómodos con <strong>las marcas que se toman en serio lo que fabrican</strong>. Las que trabajan con tradición, con detalle, con cariño. Las que en los grandes medios en español casi no aparecen. Eso es lo que cubrimos aquí.</p>
-    </div>
-  </div>
-
-  <!-- ── MORE ARTICLES (3-col) ── -->
-  {morePosts.length > 0 && (
-    <section class="section">
-      <div class="section-header">
-        <h2 class="section-title">Más <span>artículos</span></h2>
-        <a href="/archivo/" class="section-link">Ver todos →</a>
-      </div>
-      <div class="articles-grid-3">
-        {morePosts.map(post => (
+      <div class="posts-grid">
+        {recentPosts.map(post => (
           <PostCard post={post} collection={post.collection} />
         ))}
       </div>
-    </section>
-  )}
+    </div>
+  </section>
 
-  <!-- ── BRANDS STRIP ── -->
+  <!-- ── PHILOSOPHY ── -->
+  <div class="philosophy">
+    <div class="container">
+      <div class="philosophy-inner">
+        <p class="philosophy-text">En Malditospicos nos sentimos más cómodos con <strong>las marcas que se toman en serio lo que fabrican</strong>. Las que trabajan con tradición, con detalle, con cariño. Las que en los grandes medios en español casi no aparecen. Eso es lo que cubrimos aquí.</p>
+        <a href="/sobre-nosotros/" class="philosophy-link">Sobre el proyecto →</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── BRANDS ── -->
   <div class="brands-strip">
-    <div class="brands-label">Seguimos de cerca</div>
-    <div class="brands-list">
-      <span class="brand-name">Nittaku</span>
-      <span class="brand-name">Yasaka</span>
-      <span class="brand-name">Victas</span>
-      <span class="brand-name">Dr. Neubauer</span>
-      <span class="brand-name">Tibhar</span>
-      <span class="brand-name">Andro</span>
+    <div class="container">
+      <div class="brands-inner">
+        <span class="brands-label">Seguimos de cerca</span>
+        <div class="brands-list">
+          <span>Nittaku</span>
+          <span>Yasaka</span>
+          <span>Victas</span>
+          <span>Dr. Neubauer</span>
+          <span>Tibhar</span>
+          <span>Andro</span>
+        </div>
+      </div>
     </div>
   </div>
 
@@ -192,15 +105,8 @@ function catBg(col: string) {
 <style>
 /* ── HERO ── */
 .hero {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  min-height: 520px;
-}
-.hero-text {
-  padding: 80px 48px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
+  padding: 80px 0 72px;
+  border-bottom: 1px solid var(--border);
 }
 .hero-label {
   font-family: var(--font-display);
@@ -210,31 +116,43 @@ function catBg(col: string) {
   text-transform: uppercase;
   color: var(--accent);
   margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.hero-label::before {
+  content: '';
+  display: inline-block;
+  width: 24px;
+  height: 2px;
+  background: var(--accent);
+  border-radius: 2px;
+  flex-shrink: 0;
 }
 .hero-title {
   font-family: var(--font-display);
-  font-size: clamp(2.2rem, 4vw, 3.3rem);
+  font-size: clamp(2.8rem, 6vw, 5rem);
   font-weight: 900;
-  line-height: 1.08;
+  line-height: 1.0;
   letter-spacing: -0.03em;
-  margin-bottom: 20px;
   color: var(--text);
-  text-transform: none;
+  margin-bottom: 20px;
+  text-transform: uppercase;
 }
 .hero-title span { color: var(--accent); }
 .hero-subtitle {
-  font-size: 17px;
+  font-size: 1.05rem;
   color: var(--text-secondary);
-  line-height: 1.6;
+  line-height: 1.65;
+  max-width: 520px;
   margin-bottom: 32px;
-  max-width: 440px;
   font-weight: 300;
 }
 .btn-primary {
   display: inline-block;
   background: var(--text);
   color: #fff;
-  padding: 14px 28px;
+  padding: 13px 28px;
   font-family: var(--font-display);
   font-size: 13px;
   font-weight: 700;
@@ -244,60 +162,6 @@ function catBg(col: string) {
   transition: background 0.15s;
 }
 .btn-primary:hover { background: #000; }
-
-.hero-image {
-  background: var(--text);
-  position: relative;
-  overflow: hidden;
-  display: flex;
-  align-items: flex-end;
-  padding: 28px;
-}
-.hero-image-bg {
-  position: absolute;
-  inset: 0;
-  background: linear-gradient(135deg, #1f1f1f 60%, #2a2a2a 100%);
-}
-.hero-image-word {
-  position: absolute;
-  top: -20px;
-  right: -10px;
-  font-family: var(--font-display);
-  font-size: 160px;
-  font-weight: 900;
-  color: rgba(255,255,255,0.04);
-  line-height: 1;
-  letter-spacing: -6px;
-  text-transform: uppercase;
-  user-select: none;
-  pointer-events: none;
-}
-.hero-badge {
-  position: relative;
-  z-index: 2;
-  background: #fff;
-  padding: 14px 18px;
-  border-radius: var(--radius);
-  max-width: 280px;
-  transition: box-shadow 0.18s, transform 0.18s;
-}
-.hero-badge:hover { box-shadow: 0 8px 32px rgba(0,0,0,0.2); transform: translateY(-2px); }
-.hero-badge-cat {
-  font-family: var(--font-display);
-  font-size: 10px;
-  color: var(--accent);
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  margin-bottom: 6px;
-}
-.hero-badge-title {
-  font-family: var(--font-display);
-  font-size: 14px;
-  font-weight: 800;
-  color: var(--text);
-  line-height: 1.3;
-}
 
 /* ── CATEGORIES BAR ── */
 .categories-bar {
@@ -311,7 +175,7 @@ function catBg(col: string) {
 .cat-item {
   flex: 1;
   min-width: fit-content;
-  padding: 15px 18px;
+  padding: 13px 18px;
   text-align: center;
   font-family: var(--font-display);
   font-size: 12px;
@@ -327,25 +191,37 @@ function catBg(col: string) {
 .cat-item:hover { background: var(--accent); color: #fff; }
 
 /* ── SECTION ── */
-.section { padding: 56px 48px; }
+.section { padding: 56px 0; }
 .section-header {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
-  margin-bottom: 32px;
+  margin-bottom: 28px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--border);
+  position: relative;
+}
+.section-header::after {
+  content: '';
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+  width: 40px;
+  height: 2px;
+  background: var(--accent);
 }
 .section-title {
   font-family: var(--font-display);
-  font-size: 26px;
+  font-size: 1.5rem;
   font-weight: 900;
-  letter-spacing: -0.5px;
   color: var(--text);
   text-transform: none;
+  letter-spacing: -0.02em;
 }
 .section-title span { color: var(--accent); }
 .section-link {
   font-family: var(--font-display);
-  font-size: 12px;
+  font-size: 11px;
   font-weight: 700;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -354,177 +230,76 @@ function catBg(col: string) {
 }
 .section-link:hover { color: var(--accent-dark); }
 
-/* ── FEATURED GRID (2fr 1fr) ── */
-.articles-grid-large {
-  display: grid;
-  grid-template-columns: 2fr 1fr;
-  gap: 20px;
-}
-.articles-col-small {
-  display: flex;
-  flex-direction: column;
-  gap: 16px;
-}
-.article-card {
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  overflow: hidden;
-  transition: border-color 0.18s, box-shadow 0.18s, transform 0.18s;
-  display: block;
-  color: inherit;
-}
-.article-card:hover {
-  border-color: var(--accent);
-  box-shadow: var(--shadow);
-  transform: translateY(-2px);
-}
-.article-card-img { position: relative; overflow: hidden; }
-.article-cat-badge {
-  position: absolute;
-  top: 12px;
-  left: 12px;
-  background: var(--accent);
-  color: #fff;
-  font-family: var(--font-display);
-  font-size: 9px;
-  font-weight: 700;
-  letter-spacing: 1px;
-  text-transform: uppercase;
-  padding: 4px 8px;
-  border-radius: 2px;
-  z-index: 2;
-}
-
-/* Editorial placeholder (no image) */
-.card-editorial {
-  background: #1f1f1f;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
-  padding: 14px;
-  position: relative;
-  overflow: hidden;
-}
-.card-editorial-bg-text {
-  position: absolute;
-  top: -8px;
-  right: -8px;
-  font-family: var(--font-display);
-  font-size: 72px;
-  font-weight: 900;
-  color: rgba(255,255,255,0.055);
-  line-height: 1;
-  letter-spacing: -2px;
-  text-transform: uppercase;
-  text-align: right;
-  user-select: none;
-  pointer-events: none;
-}
-.card-editorial-cat-overlay {
-  font-family: var(--font-display);
-  font-size: 9px;
-  color: var(--accent);
-  font-weight: 700;
-  letter-spacing: 2px;
-  text-transform: uppercase;
-  margin-bottom: 5px;
-}
-.card-editorial-title-overlay {
-  font-family: var(--font-display);
-  font-size: 14px;
-  color: #fff;
-  font-weight: 700;
-  line-height: 1.3;
-}
-
-.article-card-body { padding: 18px; }
-.article-card-title {
-  font-family: var(--font-display);
-  font-size: 18px;
-  font-weight: 800;
-  line-height: 1.25;
-  margin-bottom: 8px;
-  color: var(--text);
-  transition: color 0.15s;
-}
-.article-card:hover .article-card-title { color: var(--accent); }
-.article-card-excerpt {
-  font-size: 14px;
-  color: var(--text-secondary);
-  line-height: 1.6;
-  margin-bottom: 10px;
-}
-.article-card-meta { font-size: 12px; color: #bbb; }
-
-/* ── PHILOSOPHY ── */
-.philosophy {
-  background: var(--text);
-  color: #fff;
-  padding: 72px 48px;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 80px;
-  align-items: center;
-}
-.philosophy-title {
-  font-family: var(--font-display);
-  font-size: clamp(1.8rem, 3vw, 2.6rem);
-  font-weight: 900;
-  line-height: 1.1;
-  letter-spacing: -0.02em;
-  color: #fff;
-  text-transform: none;
-}
-.philosophy-title span { color: var(--accent); }
-.philosophy-text {
-  font-size: 17px;
-  color: #999;
-  line-height: 1.85;
-}
-.philosophy-text strong { color: #fff; }
-
-/* ── 3-COL ARTICLES GRID ── */
-.articles-grid-3 {
+.posts-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 20px;
 }
 
-/* ── BRANDS STRIP ── */
-.brands-strip {
-  padding: 28px 48px;
+/* ── PHILOSOPHY ── */
+.philosophy {
+  background: var(--bg-secondary);
   border-top: 1px solid var(--border);
   border-bottom: 1px solid var(--border);
+  padding: 48px 0;
+}
+.philosophy-inner {
+  max-width: 680px;
+  border-left: 3px solid var(--accent);
+  padding-left: 28px;
+}
+.philosophy-text {
+  font-size: 1.1rem;
+  color: var(--text-secondary);
+  line-height: 1.8;
+  margin-bottom: 16px;
+}
+.philosophy-text strong { color: var(--text); font-weight: 700; }
+.philosophy-link {
+  font-family: var(--font-display);
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--accent);
+  transition: color 0.15s;
+}
+.philosophy-link:hover { color: var(--accent-dark); }
+
+/* ── BRANDS ── */
+.brands-strip {
+  padding: 24px 0;
+  border-bottom: 1px solid var(--border);
+}
+.brands-inner {
   display: flex;
   align-items: center;
-  gap: 40px;
-  overflow-x: auto;
-  scrollbar-width: none;
+  gap: 32px;
+  flex-wrap: wrap;
 }
-.brands-strip::-webkit-scrollbar { display: none; }
 .brands-label {
   font-family: var(--font-display);
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #ccc;
+  color: var(--text-muted);
   white-space: nowrap;
   flex-shrink: 0;
 }
 .brands-list {
   display: flex;
-  gap: 36px;
-  align-items: center;
+  gap: 28px;
   flex-wrap: wrap;
+  align-items: center;
 }
-.brand-name {
+.brands-list span {
   font-family: var(--font-display);
-  font-size: 14px;
-  font-weight: 900;
-  letter-spacing: 1px;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
   text-transform: uppercase;
-  color: #ccc;
+  color: var(--border);
 }
 
 /* ── NEWSLETTER ── */
@@ -538,26 +313,13 @@ function catBg(col: string) {
 }
 
 /* ── RESPONSIVE ── */
-@media (max-width: 1024px) {
-  .section { padding: 48px 32px; }
-  .philosophy { padding: 56px 32px; gap: 48px; }
-  .brands-strip { padding: 28px 32px; }
-}
 @media (max-width: 860px) {
-  .hero { grid-template-columns: 1fr; }
-  .hero-image { min-height: 280px; }
-  .hero-text { padding: 56px 32px; }
-  .articles-grid-large { grid-template-columns: 1fr; }
-  .philosophy { grid-template-columns: 1fr; gap: 32px; }
-  .articles-grid-3 { grid-template-columns: repeat(2, 1fr); }
+  .posts-grid { grid-template-columns: repeat(2, 1fr); }
+  .hero { padding: 56px 0 48px; }
 }
-@media (max-width: 600px) {
-  .section { padding: 40px 20px; }
-  .hero-text { padding: 40px 20px; }
-  .philosophy { padding: 48px 20px; }
-  .brands-strip { padding: 20px; }
-  .articles-grid-3 { grid-template-columns: 1fr; }
-  .hero-image { display: none; }
-  .categories-bar { flex-wrap: nowrap; }
+@media (max-width: 560px) {
+  .posts-grid { grid-template-columns: 1fr; }
+  .hero-title { font-size: 2.4rem; }
+  .brands-inner { gap: 16px; }
 }
 </style>
