@@ -81,7 +81,7 @@ const ogImage = image || defaultImage;
         <button class="search-btn" id="searchOpen" aria-label="Buscar">
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
         </button>
-        <a href="#newsletter" class="btn-suscribir">Suscribirme</a>
+        <a href="/#newsletter" class="btn-suscribir">Suscribirme</a>
         <button class="nav-toggle" aria-label="Menú" id="navToggle">
           <span></span><span></span><span></span>
         </button>
@@ -430,12 +430,19 @@ const ogImage = image || defaultImage;
     right: 0;
     background: #fff;
     border-bottom: 2px solid #d03f46;
-    padding: 16px 24px;
+    padding: 12px 20px 16px;
     flex-direction: column;
-    gap: 4px;
+    gap: 2px;
     z-index: 99;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.08);
   }
   .main-nav.open { display: flex; }
-  .main-nav a { padding: 10px 12px; font-size: 1rem; }
+  .main-nav a { padding: 11px 12px; font-size: 1rem; border-radius: var(--radius); }
+
+  /* Footer mobile */
+  .footer-inner { flex-direction: column; align-items: flex-start; gap: 20px; }
+  .footer-nav { gap: 12px; }
+  .footer-bottom-inner { flex-direction: column; align-items: flex-start; gap: 8px; }
+  .footer-legal { flex-wrap: wrap; gap: 12px; }
 }
 </style>
