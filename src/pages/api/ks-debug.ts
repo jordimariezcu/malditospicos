@@ -6,11 +6,14 @@ export const GET: APIRoute = async ({ url }) => {
   const clientSecret = process.env.KEYSTATIC_GITHUB_CLIENT_SECRET ?? '';
   const secret = process.env.KEYSTATIC_SECRET ?? '';
 
-  // Test token exchange with a fake code — error reveals if credentials are valid
+  // Use real code if GitHub redirected here (as oauth callback), otherwise use fake
+  const code = url.searchParams.get('code') || ('fake_debug_code_' + Date.now());
+  const isRealCode = !!url.searchParams.get('code');
+
   const tokenUrl = new URL('https://github.com/login/oauth/access_token');
   tokenUrl.searchParams.set('client_id', clientId);
   tokenUrl.searchParams.set('client_secret', clientSecret);
-  tokenUrl.searchParams.set('code', 'fake_debug_code_' + Date.now());
+  tokenUrl.searchParams.set('code', code);
 
   let tokenStatus = 0;
   let tokenData: unknown = null;
@@ -28,9 +31,9 @@ export const GET: APIRoute = async ({ url }) => {
     clientSecret_suffix: clientSecret.slice(-8),
     clientSecret_len: clientSecret.length,
     secret_set: secret.length > 0,
+    code_type: isRealCode ? 'REAL' : 'FAKE',
     token_http_status: tokenStatus,
-    github_error: (tokenData as any)?.error,
-    github_error_description: (tokenData as any)?.error_description,
+    full_github_response: tokenData,
   }, null, 2), {
     headers: { 'Content-Type': 'application/json' },
   });
