@@ -1,5 +1,8 @@
 ---
 import BaseLayout from './BaseLayout.astro';
+import NewsletterForm from '../components/NewsletterForm.astro';
+import { getCollection } from 'astro:content';
+
 const { post } = Astro.props;
 const { title, description, pubDate, updatedDate, category, tags, image,
         nationality, birthDate, worldRanking, brand, rating } = post.data;
@@ -11,12 +14,47 @@ const categoryLabels: Record<string, string> = {
   guias: 'Guías', jugadores: 'Jugadores', materiales: 'Materiales', recursos: 'Recursos'
 };
 
-// Extract player name: everything before the first comma (or full title if no comma)
 const playerName = title.includes(',') ? title.split(',')[0].trim() : title;
-
 const isJugador = category === 'jugadores';
 const isProduct = ['gomas', 'maderas', 'palas'].includes(category);
 
+// Read time
+const wordCount = post.body ? post.body.split(/\s+/).length : 0;
+const readTime = Math.max(1, Math.ceil(wordCount / 200));
+
+// Date
+const dateStr = pubDate
+  ? new Date(pubDate).toLocaleDateString('es-ES', { day: 'numeric', month: 'long', year: 'numeric' })
+  : '';
+
+// Stars
+function renderStars(r: number) {
+  const full = Math.floor(r);
+  const empty = 5 - full;
+  return '★'.repeat(full) + '☆'.repeat(empty);
+}
+function ratingLabel(r: number) {
+  if (r >= 4.5) return 'Excepcional';
+  if (r >= 4.0) return 'Muy buena';
+  if (r >= 3.5) return 'Buena';
+  if (r >= 3.0) return 'Correcta';
+  return 'Discreta';
+}
+
+// Hero bg text (brand or category label)
+const heroBgText = (brand || categoryLabels[category] || category).toUpperCase();
+
+// Related posts (same category, most recent first, max 3)
+let relatedPosts: any[] = [];
+try {
+  const all = await getCollection(category as any);
+  relatedPosts = all
+    .filter((p: any) => p.slug !== post.slug && !p.data.draft)
+    .sort((a: any, b: any) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime())
+    .slice(0, 3);
+} catch {}
+
+// Schema
 const schema = isJugador ? {
   "@context": "https://schema.org",
   "@type": "Person",
@@ -81,105 +119,470 @@ const breadcrumb = {
   <script type="application/ld+json" set:html={JSON.stringify(schema)} slot="head" />
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumb)} slot="head" />
 
-  <article class="post-wrapper" data-pagefind-body data-pagefind-meta={`category:${categoryLabels[category] || category}`}>
-    <div class="container">
-      <div class="post-header">
-        <div class="post-meta">
-          <a href={`/${category}/`} class="category-tag">{categoryLabels[category] || category}</a>
-          <time datetime={pubDate}>{new Date(pubDate).toLocaleDateString('es-ES', { year: 'numeric', month: 'long', day: 'numeric' })}</time>
-        </div>
-        <h1 class="post-title">{title}</h1>
-        {description && <p class="post-description">{description}</p>}
-      </div>
+  <!-- ARTICLE HEADER -->
+  <div class="article-header">
+    <div class="article-breadcrumb">
+      <a href="/" class="article-breadcrumb-parent">Inicio</a>
+      <span class="article-breadcrumb-sep">›</span>
+      <a href={`/${category}/`} class="article-cat">{categoryLabels[category] || category}</a>
+    </div>
+    <h1 class="article-title">{title}</h1>
+    <div class="article-meta">
+      <span class="article-meta-author">Jordi</span>
+      <span class="article-meta-sep"></span>
+      <time datetime={pubDate}>{dateStr}</time>
+      <span class="article-meta-sep"></span>
+      <span>{readTime} min de lectura</span>
+    </div>
+  </div>
 
-      <div class="post-body">
-        <div class="prose">
-          <slot />
-        </div>
+  <!-- HERO -->
+  <div class="article-hero-wrap">
+    {image ? (
+      <img src={imageUrl} alt={title} class="article-hero-img" loading="eager" />
+    ) : (
+      <div class="article-hero-placeholder">
+        <div class="article-hero-bg-text">{heroBgText}</div>
+        <div class="article-hero-overlay"></div>
       </div>
+    )}
+  </div>
+
+  <!-- ARTICLE LAYOUT: BODY + SIDEBAR -->
+  <div class="article-layout">
+
+    <!-- BODY -->
+    <article class="article-body prose" data-pagefind-body data-pagefind-meta={`category:${categoryLabels[category] || category}`}>
+      <slot />
 
       {tags && tags.length > 0 && (
-        <div class="post-tags">
-          {tags.map(tag => <span class="tag">{tag}</span>)}
+        <div class="article-tags">
+          {tags.map((tag: string) => <span class="tag">{tag}</span>)}
         </div>
       )}
+    </article>
 
-      <div class="post-footer">
-        <a href={`/${category}/`} class="back-link">← Volver a {categoryLabels[category] || category}</a>
+    <!-- SIDEBAR -->
+    <aside class="article-sidebar">
+      <div class="sidebar-sticky">
+
+        {rating && (
+          <div class="sidebar-card">
+            <div class="sidebar-card-title">Puntuación global</div>
+            <div class="sidebar-rating-big">
+              <div class="sidebar-rating-number">{rating.toFixed(1)}</div>
+              <div class="sidebar-rating-stars">{renderStars(rating)}</div>
+              <div class="sidebar-rating-label">{ratingLabel(rating)}</div>
+            </div>
+          </div>
+        )}
+
+        {(brand || isProduct || isJugador || nationality || worldRanking) && (
+          <div class="sidebar-card">
+            <div class="sidebar-card-title">
+              {isProduct ? 'Ficha técnica' : isJugador ? 'Datos del jugador' : 'Información'}
+            </div>
+            {brand && (
+              <div class="sidebar-spec-row">
+                <span class="sidebar-spec-label">Marca</span>
+                <span class="sidebar-spec-value">{brand}</span>
+              </div>
+            )}
+            <div class="sidebar-spec-row">
+              <span class="sidebar-spec-label">Categoría</span>
+              <span class="sidebar-spec-value">{categoryLabels[category] || category}</span>
+            </div>
+            {nationality && (
+              <div class="sidebar-spec-row">
+                <span class="sidebar-spec-label">País</span>
+                <span class="sidebar-spec-value">{nationality}</span>
+              </div>
+            )}
+            {worldRanking && (
+              <div class="sidebar-spec-row">
+                <span class="sidebar-spec-label">Ranking mundial</span>
+                <span class="sidebar-spec-value">#{worldRanking}</span>
+              </div>
+            )}
+            {birthDate && (
+              <div class="sidebar-spec-row">
+                <span class="sidebar-spec-label">Nacimiento</span>
+                <span class="sidebar-spec-value">
+                  {new Date(birthDate).toLocaleDateString('es-ES', { day: 'numeric', month: 'long', year: 'numeric' })}
+                </span>
+              </div>
+            )}
+          </div>
+        )}
+
+        <div class="sidebar-card sidebar-nav-card">
+          <a href={`/${category}/`} class="sidebar-back">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m15 18-6-6 6-6"/></svg>
+            Volver a {categoryLabels[category] || category}
+          </a>
+        </div>
+
+      </div>
+    </aside>
+
+  </div>
+
+  <!-- RELATED ARTICLES -->
+  {relatedPosts.length > 0 && (
+    <div class="related">
+      <div class="container">
+        <h2 class="related-title">Artículos <span>relacionados</span></h2>
+        <div class="related-grid">
+          {relatedPosts.map((rp: any) => {
+            const catLabel = categoryLabels[category] || category;
+            const catBg = catLabel.toUpperCase();
+            const rpDate = rp.data.pubDate
+              ? new Date(rp.data.pubDate).toLocaleDateString('es-ES', { day: 'numeric', month: 'long', year: 'numeric' })
+              : '';
+            return (
+              <a href={`/${category}/${rp.slug}/`} class="related-card">
+                <div class="card-editorial-sm">
+                  <div class="card-editorial-sm-bg">{catBg}</div>
+                  <div class="card-editorial-sm-cat">{catLabel}</div>
+                  <div class="card-editorial-sm-title">{rp.data.title}</div>
+                </div>
+                <div class="related-card-body">
+                  <div class="related-card-title">{rp.data.title}</div>
+                  <div class="related-card-meta">{rpDate} · {catLabel}</div>
+                </div>
+              </a>
+            );
+          })}
+        </div>
       </div>
     </div>
-  </article>
+  )}
+
+  <!-- NEWSLETTER -->
+  <section class="section-newsletter">
+    <div class="container">
+      <div class="newsletter-inner">
+        <NewsletterForm />
+      </div>
+    </div>
+  </section>
+
 </BaseLayout>
 
 <style>
-.post-wrapper { padding: 48px 0 80px; }
-.post-header {
-  max-width: var(--max-w-content);
-  margin: 0 auto 48px;
-  padding-bottom: 32px;
-  border-bottom: 1px solid var(--border);
+/* ── ARTICLE HEADER ── */
+.article-header {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 64px 24px 40px;
+  text-align: center;
 }
-.post-meta {
+.article-breadcrumb {
   display: flex;
   align-items: center;
-  gap: 12px;
-  margin-bottom: 16px;
-  font-size: 0.85rem;
-  color: var(--text-muted);
-}
-.category-tag {
-  background: var(--accent);
-  color: white;
-  padding: 4px 12px;
-  border-radius: var(--radius);
-  font-family: var(--font-display);
-  font-weight: 700;
-  font-size: 0.78rem;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  transition: 0.15s;
-}
-.category-tag:hover { background: var(--accent-bright); }
-.post-title {
-  font-size: clamp(1.8rem, 4vw, 2.8rem);
-  line-height: 1.15;
-  letter-spacing: -0.02em;
-  margin-bottom: 16px;
-}
-.post-description {
-  font-size: 1.1rem;
-  color: var(--text-secondary);
-  line-height: 1.6;
-}
-.post-body { max-width: var(--max-w-content); margin: 0 auto; }
-.post-tags {
-  max-width: var(--max-w-content);
-  margin: 48px auto 0;
-  display: flex;
-  flex-wrap: wrap;
+  justify-content: center;
   gap: 8px;
+  margin-bottom: 24px;
 }
-.tag {
-  font-size: 0.8rem;
-  padding: 4px 12px;
-  background: var(--bg-secondary);
-  border-radius: 20px;
-  color: var(--text-secondary);
+.article-breadcrumb-parent {
+  font-size: 12px;
+  color: #999;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
 }
-.post-footer {
-  max-width: var(--max-w-content);
-  margin: 40px auto 0;
+.article-breadcrumb-sep { font-size: 12px; color: #ccc; }
+.article-cat {
+  display: inline-block;
+  background: var(--accent);
+  color: #fff;
+  font-family: var(--font-display);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  padding: 5px 10px;
+  border-radius: 2px;
+  transition: background 0.15s;
+}
+.article-cat:hover { background: var(--accent-dark); }
+.article-title {
+  font-family: var(--font-display);
+  font-size: clamp(2rem, 5vw, 3rem);
+  font-weight: 900;
+  line-height: 1.05;
+  letter-spacing: -0.03em;
+  color: var(--text);
+  margin-bottom: 20px;
+  text-transform: none;
+}
+.article-meta {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  font-size: 13px;
+  color: #999;
+  flex-wrap: wrap;
+}
+.article-meta-sep {
+  width: 4px;
+  height: 4px;
+  background: #ddd;
+  border-radius: 50%;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.article-meta-author { color: var(--text); font-weight: 600; }
+
+/* ── HERO ── */
+.article-hero-wrap {
+  max-width: 960px;
+  margin: 0 auto;
+}
+.article-hero-img {
+  width: 100%;
+  height: 460px;
+  object-fit: cover;
+  display: block;
+}
+.article-hero-placeholder {
+  height: 460px;
+  background: var(--text);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+}
+.article-hero-bg-text {
+  font-family: var(--font-display);
+  font-size: clamp(120px, 18vw, 200px);
+  font-weight: 900;
+  color: rgba(255,255,255,0.04);
+  letter-spacing: -6px;
+  text-transform: uppercase;
+  line-height: 0.9;
+  position: absolute;
+  user-select: none;
+  pointer-events: none;
+  white-space: nowrap;
+}
+.article-hero-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 80px;
+  background: linear-gradient(transparent, #fff);
+}
+
+/* ── ARTICLE LAYOUT ── */
+.article-layout {
+  display: grid;
+  grid-template-columns: 1fr 280px;
+  gap: 64px;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 56px 24px 80px;
+}
+
+/* ── BODY ── */
+.article-body {
+  min-width: 0;
+}
+
+/* ── TAGS ── */
+.article-tags {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 40px;
   padding-top: 32px;
   border-top: 1px solid var(--border);
 }
-.back-link {
+.tag {
+  background: var(--bg-secondary);
+  color: var(--text-secondary);
+  font-size: 12px;
+  padding: 6px 12px;
+  border-radius: 20px;
+  transition: background 0.15s, color 0.15s;
+}
+.tag:hover { background: var(--text); color: #fff; }
+
+/* ── SIDEBAR ── */
+.sidebar-sticky {
+  position: sticky;
+  top: 88px;
+}
+.sidebar-card {
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 20px;
+  margin-bottom: 20px;
+  background: var(--bg);
+}
+.sidebar-card-title {
   font-family: var(--font-display);
-  font-size: 0.9rem;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #999;
+  margin-bottom: 16px;
+}
+.sidebar-spec-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 0;
+  border-bottom: 1px solid var(--border-light);
+  font-size: 13px;
+  gap: 8px;
+}
+.sidebar-spec-row:last-child { border-bottom: none; }
+.sidebar-spec-label { color: #999; flex-shrink: 0; }
+.sidebar-spec-value { font-weight: 700; color: var(--text); text-align: right; }
+
+.sidebar-rating-big { text-align: center; padding: 12px 0; }
+.sidebar-rating-number {
+  font-family: var(--font-display);
+  font-size: 56px;
+  font-weight: 900;
+  color: var(--text);
+  line-height: 1;
+}
+.sidebar-rating-stars { color: var(--accent); font-size: 20px; margin: 8px 0 4px; letter-spacing: 2px; }
+.sidebar-rating-label {
+  font-size: 11px;
+  color: #999;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.sidebar-nav-card { background: var(--bg-secondary); border-color: var(--border-light); }
+.sidebar-back {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--font-display);
+  font-size: 0.85rem;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.05em;
   color: var(--accent);
   transition: color 0.15s;
 }
-.back-link:hover { color: var(--accent-bright); }
+.sidebar-back:hover { color: var(--accent-dark); }
+
+/* ── RELATED ── */
+.related {
+  border-top: 1px solid var(--border);
+  padding: 56px 0;
+}
+.related-title {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 900;
+  margin-bottom: 28px;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  color: var(--text);
+}
+.related-title span { color: var(--accent); }
+.related-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+.related-card {
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+  transition: border-color 0.18s, box-shadow 0.18s, transform 0.18s;
+}
+.related-card:hover {
+  border-color: var(--accent);
+  box-shadow: var(--shadow);
+  transform: translateY(-2px);
+}
+.card-editorial-sm {
+  height: 140px;
+  background: var(--text);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 14px;
+  position: relative;
+  overflow: hidden;
+}
+.card-editorial-sm-bg {
+  position: absolute;
+  top: -8px;
+  right: -4px;
+  font-family: var(--font-display);
+  font-size: 56px;
+  font-weight: 900;
+  color: rgba(255,255,255,0.055);
+  line-height: 1;
+  text-transform: uppercase;
+  text-align: right;
+  user-select: none;
+  pointer-events: none;
+}
+.card-editorial-sm-cat {
+  font-family: var(--font-display);
+  font-size: 9px;
+  color: var(--accent);
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 4px;
+}
+.card-editorial-sm-title {
+  font-family: var(--font-display);
+  font-size: 13px;
+  color: #fff;
+  font-weight: 700;
+  line-height: 1.3;
+}
+.related-card-body { padding: 14px; }
+.related-card-title {
+  font-family: var(--font-display);
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--text);
+  line-height: 1.3;
+  margin-bottom: 6px;
+}
+.related-card-meta { font-size: 11px; color: #bbb; }
+
+/* ── NEWSLETTER ── */
+.section-newsletter {
+  background: linear-gradient(135deg, var(--accent) 0%, var(--accent-bright) 100%);
+  border-top: 3px solid var(--accent-dark);
+}
+.newsletter-inner {
+  padding: 56px 24px;
+  max-width: 560px;
+}
+
+/* ── RESPONSIVE ── */
+@media (max-width: 900px) {
+  .article-layout {
+    grid-template-columns: 1fr;
+    gap: 40px;
+    padding: 40px 24px 60px;
+  }
+  .sidebar-sticky { position: static; }
+  .related-grid { grid-template-columns: repeat(2, 1fr); }
+  .article-hero-img,
+  .article-hero-placeholder { height: 280px; }
+  .article-hero-bg-text { font-size: 100px; }
+}
+@media (max-width: 600px) {
+  .article-header { padding: 40px 16px 32px; }
+  .related-grid { grid-template-columns: 1fr; }
+  .article-layout { padding: 32px 16px 48px; }
+}
 </style>

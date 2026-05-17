@@ -1,15 +1,57 @@
 ---
-import Base from '../layouts/Base.astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
 ---
-<Base title="Página no encontrada">
-  <div class="container-narrow" style="padding: 6rem 1.5rem; text-align: center;">
-    <p style="font-size: 4rem; margin-bottom: 1rem;">🏓</p>
-    <h1 style="margin-bottom: 1rem;">Página no encontrada</h1>
-    <p style="color: var(--color-text-muted); margin-bottom: 2rem;">
-      Esta página no existe o ha cambiado de dirección.
-    </p>
-    <a href="/" style="display: inline-block; background: var(--color-accent); color: white; padding: 0.75rem 1.5rem; border-radius: var(--radius); font-weight: 500;">
-      Volver al inicio
-    </a>
+<BaseLayout title="Página no encontrada" description="Esta página no existe o ha cambiado de dirección.">
+  <div class="container not-found">
+    <div class="not-found-inner">
+      <div class="not-found-code">404</div>
+      <h1>Página no encontrada</h1>
+      <p>Esta página no existe o ha cambiado de dirección.</p>
+      <a href="/" class="btn-home">Volver al inicio</a>
+    </div>
   </div>
-</Base>
+</BaseLayout>
+
+<style>
+.not-found {
+  padding: 100px 24px;
+  text-align: center;
+}
+.not-found-inner {
+  max-width: 480px;
+  margin: 0 auto;
+}
+.not-found-code {
+  font-family: var(--font-display);
+  font-size: clamp(80px, 15vw, 140px);
+  font-weight: 900;
+  color: var(--border);
+  line-height: 1;
+  margin-bottom: 16px;
+  letter-spacing: -4px;
+}
+.not-found h1 {
+  font-size: clamp(1.4rem, 3vw, 2rem);
+  margin-bottom: 12px;
+  color: var(--text);
+}
+.not-found p {
+  color: var(--text-muted);
+  margin-bottom: 32px;
+  font-size: 1rem;
+}
+.btn-home {
+  display: inline-block;
+  background: var(--accent);
+  color: white;
+  padding: 12px 28px;
+  border-radius: var(--radius);
+  font-family: var(--font-display);
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  transition: background 0.15s;
+}
+.btn-home:hover { background: var(--accent-dark); }
+</style>

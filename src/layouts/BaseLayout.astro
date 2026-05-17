@@ -32,24 +32,19 @@ const ogImage = image || defaultImage;
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
 
-  <!-- Article specific -->
   {type === 'article' && pubDate && <meta property="article:published_time" content={pubDate} />}
   {type === 'article' && updatedDate && <meta property="article:modified_time" content={updatedDate} />}
   {type === 'article' && category && <meta property="article:section" content={category} />}
 
-  <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content={fullTitle} />
   <meta name="twitter:description" content={metaDesc} />
   <meta name="twitter:image" content={ogImage} />
 
-  <!-- Sitemap & RSS -->
   <link rel="sitemap" href="/sitemap-index.xml" />
 
-  <!-- Umami Analytics -->
   <script defer src="https://umami-production-c3fa.up.railway.app/script.js" data-website-id="afad68a9-3c93-4950-be19-5acc1a07d0f8"></script>
 
-  <!-- Schema: WebSite -->
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "WebSite",
@@ -64,11 +59,16 @@ const ogImage = image || defaultImage;
 <body>
   <header class="site-header" data-pagefind-ignore>
     <div class="container header-inner">
-      <a href="/" class="logo">
-        <span class="logo-main">Malditos</span>
-        <span class="logo-accent">Picos</span>
+      <a href="/" class="logo-link" aria-label="Malditos Picos — inicio">
+        <svg xmlns="http://www.w3.org/2000/svg" width="180" height="25" viewBox="0 0 271 37" role="img" aria-hidden="true">
+          <g transform="rotate(-45 18.5 18.5)"><ellipse cx="18.5" cy="11" rx="7" ry="8" fill="#1f1f1f"/><rect x="17" y="18" width="3" height="13" fill="#1f1f1f"/></g>
+          <g transform="rotate(45 18.5 18.5)"><ellipse cx="18.5" cy="11" rx="7" ry="8" fill="#d03f46"/><rect x="17" y="18" width="3" height="13" fill="#d03f46"/></g>
+          <path d="M5.52 0L1.61 0L1.61-17.09L5.14-17.09L10.99-3.72L9.50-3.72L15.34-17.09L18.84-17.09L18.84 0L14.90 0L14.88-10.27L15.79-10.01L11.64 0L8.78 0L4.56-10.01L5.52-10.27L5.52 0ZM30.22-13.46L24.41 0L19.90 0L27.89-17.09L31.44-17.09L39.46 0L35.02 0L29.23-13.46L30.22-13.46ZM35.45-3.53L23.59-3.53L25.34-6.91L33.72-6.91L35.45-3.53ZM52.18 0L40.44 0L40.44-17.09L44.95-17.09L44.95-3.65L52.18-3.65L52.18 0ZM61.32 0L54.34 0L54.34-17.09L61.32-17.09Q64.18-17.09 66.22-16.07Q68.26-15.05 69.35-13.14Q70.44-11.23 70.44-8.57Q70.44-5.88 69.36-3.96Q68.28-2.04 66.24-1.02Q64.20 0 61.32 0ZM58.85-13.49L58.85-3.60L61.01-3.60Q63.50-3.60 64.74-4.84Q65.98-6.07 65.98-8.57Q65.98-13.49 61.01-13.49L58.85-13.49ZM77.59 0L73.08 0L73.08-17.09L77.59-17.09L77.59 0ZM89.06 0L84.50 0L84.50-13.44L79.42-13.44L79.42-17.09L94.15-17.09L94.15-13.44L89.06-13.44L89.06 0ZM103.18 0.22Q100.54 0.22 98.60-0.86Q96.67-1.94 95.63-3.91Q94.58-5.88 94.58-8.57Q94.58-11.23 95.64-13.20Q96.70-15.17 98.62-16.24Q100.54-17.30 103.18-17.30Q105.82-17.30 107.72-16.24Q109.63-15.17 110.68-13.20Q111.72-11.23 111.72-8.57Q111.72-5.88 110.68-3.91Q109.63-1.94 107.72-0.86Q105.82 0.22 103.18 0.22ZM103.18-3.22Q105.05-3.22 106.16-4.56Q107.28-5.90 107.28-8.57Q107.28-11.21 106.16-12.54Q105.05-13.87 103.18-13.87Q101.30-13.87 100.20-12.55Q99.10-11.23 99.10-8.57Q99.10-5.88 100.20-4.55Q101.30-3.22 103.18-3.22ZM120.55 0.22Q119.28 0.22 118.01-0.01Q116.74-0.24 115.62-0.66Q114.50-1.08 113.71-1.66L115.13-4.85Q116.38-4.03 117.78-3.62Q119.18-3.22 120.60-3.22Q122.06-3.22 122.82-3.62Q123.58-4.03 123.58-4.73Q123.58-5.14 123.31-5.46Q123.05-5.78 122.33-6.06Q121.61-6.34 120.26-6.62Q118.42-6.98 117.20-7.48Q115.99-7.97 115.31-8.60Q114.62-9.24 114.35-10.03Q114.07-10.82 114.07-11.81Q114.07-13.37 114.96-14.62Q115.85-15.86 117.43-16.58Q119.02-17.30 121.13-17.30Q122.35-17.30 123.55-17.08Q124.75-16.85 125.77-16.43Q126.79-16.01 127.44-15.43L126.05-12.24Q124.90-13.06 123.65-13.46Q122.40-13.87 121.18-13.87Q119.95-13.87 119.21-13.40Q118.46-12.94 118.46-12.14Q118.46-11.76 118.72-11.45Q118.97-11.14 119.69-10.86Q120.41-10.58 121.87-10.27Q123.65-9.91 124.84-9.41Q126.02-8.90 126.71-8.27Q127.39-7.63 127.68-6.85Q127.97-6.07 127.97-5.14Q127.97-3.48 127.10-2.28Q126.24-1.08 124.58-0.43Q122.93 0.22 120.55 0.22Z" transform="translate(45 27)" fill="#1f1f1f"/>
+          <path d="M6.05 0L1.54 0L1.54-17.09L9.67-17.09Q12.65-17.09 14.23-15.67Q15.82-14.26 15.82-11.88Q15.82-9.50 14.21-8.09Q12.60-6.67 9.67-6.67L6.05-6.67L6.05 0ZM6.05-13.68L6.05-10.03L9.07-10.03Q10.39-10.03 11.00-10.50Q11.62-10.97 11.62-11.83Q11.62-12.74 11.02-13.21Q10.42-13.68 9.07-13.68L6.05-13.68ZM22.49 0L17.98 0L17.98-17.09L22.49-17.09L22.49 0ZM33.86 0.22Q31.18 0.22 29.21-0.88Q27.24-1.97 26.17-3.95Q25.10-5.93 25.10-8.57Q25.10-11.18 26.17-13.15Q27.24-15.12 29.21-16.21Q31.18-17.30 33.86-17.30Q35.54-17.30 37.12-16.80Q38.69-16.30 39.65-15.43L38.28-12.24Q37.18-13.03 36.12-13.39Q35.06-13.75 33.96-13.75Q31.92-13.75 30.80-12.46Q29.69-11.16 29.69-8.57Q29.69-5.98 30.80-4.66Q31.92-3.34 33.96-3.34Q35.06-3.34 36.12-3.70Q37.18-4.06 38.28-4.85L39.65-1.66Q38.69-0.79 37.12-0.29Q35.54 0.22 33.86 0.22ZM49.75 0.22Q47.11 0.22 45.18-0.86Q43.25-1.94 42.20-3.91Q41.16-5.88 41.16-8.57Q41.16-11.23 42.22-13.20Q43.27-15.17 45.19-16.24Q47.11-17.30 49.75-17.30Q52.39-17.30 54.30-16.24Q56.21-15.17 57.25-13.20Q58.30-11.23 58.30-8.57Q58.30-5.88 57.25-3.91Q56.21-1.94 54.30-0.86Q52.39 0.22 49.75 0.22ZM49.75-3.22Q51.62-3.22 52.74-4.56Q53.86-5.90 53.86-8.57Q53.86-11.21 52.74-12.54Q51.62-13.87 49.75-13.87Q47.88-13.87 46.78-12.55Q45.67-11.23 45.67-8.57Q45.67-5.88 46.78-4.55Q47.88-3.22 49.75-3.22ZM67.13 0.22Q65.86 0.22 64.58-0.01Q63.31-0.24 62.20-0.66Q61.08-1.08 60.29-1.66L61.70-4.85Q62.95-4.03 64.36-3.62Q65.76-3.22 67.18-3.22Q68.64-3.22 69.40-3.62Q70.15-4.03 70.15-4.73Q70.15-5.14 69.89-5.46Q69.62-5.78 68.90-6.06Q68.18-6.34 66.84-6.62Q64.99-6.98 63.78-7.48Q62.57-7.97 61.88-8.60Q61.20-9.24 60.92-10.03Q60.65-10.82 60.65-11.81Q60.65-13.37 61.54-14.62Q62.42-15.86 64.01-16.58Q65.59-17.30 67.70-17.30Q68.93-17.30 70.13-17.08Q71.33-16.85 72.35-16.43Q73.37-16.01 74.02-15.43L72.62-12.24Q71.47-13.06 70.22-13.46Q68.98-13.87 67.75-13.87Q66.53-13.87 65.78-13.40Q65.04-12.94 65.04-12.14Q65.04-11.76 65.29-11.45Q65.54-11.14 66.26-10.86Q66.98-10.58 68.45-10.27Q70.22-9.91 71.41-9.41Q72.60-8.90 73.28-8.27Q73.97-7.63 74.26-6.85Q74.54-6.07 74.54-5.14Q74.54-3.48 73.68-2.28Q72.82-1.08 71.16-0.43Q69.50 0.22 67.13 0.22Z" transform="translate(175.95 27)" fill="#d03f46"/>
+        </svg>
       </a>
-      <nav class="main-nav">
+
+      <nav class="main-nav" id="mainNav">
         <a href="/gomas/">Gomas</a>
         <a href="/maderas/">Maderas</a>
         <a href="/palas/">Palas</a>
@@ -76,10 +76,12 @@ const ogImage = image || defaultImage;
         <a href="/jugadores/">Jugadores</a>
         <a href="/guias/">Guías</a>
       </nav>
+
       <div class="header-actions">
-        <button class="search-btn" id="searchOpen" aria-label="Buscar en Malditos Picos">
-          <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+        <button class="search-btn" id="searchOpen" aria-label="Buscar">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
         </button>
+        <a href="#newsletter" class="btn-suscribir">Suscribirme</a>
         <button class="nav-toggle" aria-label="Menú" id="navToggle">
           <span></span><span></span><span></span>
         </button>
@@ -92,27 +94,44 @@ const ogImage = image || defaultImage;
   </main>
 
   <footer class="site-footer" data-pagefind-ignore>
-    <div class="container footer-inner">
-      <div class="footer-brand">
-        <a href="/" class="logo"><span class="logo-main">Malditos</span><span class="logo-accent">Picos</span></a>
-        <p>Todo sobre el tenis de mesa</p>
-      </div>
-      <nav class="footer-nav">
-        <a href="/gomas/">Gomas</a>
-        <a href="/maderas/">Maderas</a>
-        <a href="/palas/">Palas</a>
-        <a href="/tecnica/">Técnica</a>
-        <a href="/jugadores/">Jugadores</a>
-        <a href="/guias/">Guías</a>
-      </nav>
-      <div class="footer-owner">
-        <span>Dirigido por</span>
-        <a href="https://www.linkedin.com/in/jordi-mariezcurrena/" target="_blank" rel="noopener noreferrer" class="footer-linkedin">
-          <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 0 1-2.063-2.065 2.064 2.064 0 1 1 2.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
-          Jordi Mariezcurrena
+    <div class="footer-top">
+      <div class="container footer-inner">
+        <a href="/" class="logo-link" aria-label="Malditos Picos">
+          <svg xmlns="http://www.w3.org/2000/svg" width="150" height="20" viewBox="0 0 271 37" aria-hidden="true">
+            <g transform="rotate(-45 18.5 18.5)"><ellipse cx="18.5" cy="11" rx="7" ry="8" fill="#1f1f1f"/><rect x="17" y="18" width="3" height="13" fill="#1f1f1f"/></g>
+            <g transform="rotate(45 18.5 18.5)"><ellipse cx="18.5" cy="11" rx="7" ry="8" fill="#d03f46"/><rect x="17" y="18" width="3" height="13" fill="#d03f46"/></g>
+            <path d="M5.52 0L1.61 0L1.61-17.09L5.14-17.09L10.99-3.72L9.50-3.72L15.34-17.09L18.84-17.09L18.84 0L14.90 0L14.88-10.27L15.79-10.01L11.64 0L8.78 0L4.56-10.01L5.52-10.27L5.52 0ZM30.22-13.46L24.41 0L19.90 0L27.89-17.09L31.44-17.09L39.46 0L35.02 0L29.23-13.46L30.22-13.46ZM35.45-3.53L23.59-3.53L25.34-6.91L33.72-6.91L35.45-3.53ZM52.18 0L40.44 0L40.44-17.09L44.95-17.09L44.95-3.65L52.18-3.65L52.18 0ZM61.32 0L54.34 0L54.34-17.09L61.32-17.09Q64.18-17.09 66.22-16.07Q68.26-15.05 69.35-13.14Q70.44-11.23 70.44-8.57Q70.44-5.88 69.36-3.96Q68.28-2.04 66.24-1.02Q64.20 0 61.32 0ZM58.85-13.49L58.85-3.60L61.01-3.60Q63.50-3.60 64.74-4.84Q65.98-6.07 65.98-8.57Q65.98-13.49 61.01-13.49L58.85-13.49ZM77.59 0L73.08 0L73.08-17.09L77.59-17.09L77.59 0ZM89.06 0L84.50 0L84.50-13.44L79.42-13.44L79.42-17.09L94.15-17.09L94.15-13.44L89.06-13.44L89.06 0ZM103.18 0.22Q100.54 0.22 98.60-0.86Q96.67-1.94 95.63-3.91Q94.58-5.88 94.58-8.57Q94.58-11.23 95.64-13.20Q96.70-15.17 98.62-16.24Q100.54-17.30 103.18-17.30Q105.82-17.30 107.72-16.24Q109.63-15.17 110.68-13.20Q111.72-11.23 111.72-8.57Q111.72-5.88 110.68-3.91Q109.63-1.94 107.72-0.86Q105.82 0.22 103.18 0.22ZM103.18-3.22Q105.05-3.22 106.16-4.56Q107.28-5.90 107.28-8.57Q107.28-11.21 106.16-12.54Q105.05-13.87 103.18-13.87Q101.30-13.87 100.20-12.55Q99.10-11.23 99.10-8.57Q99.10-5.88 100.20-4.55Q101.30-3.22 103.18-3.22ZM120.55 0.22Q119.28 0.22 118.01-0.01Q116.74-0.24 115.62-0.66Q114.50-1.08 113.71-1.66L115.13-4.85Q116.38-4.03 117.78-3.62Q119.18-3.22 120.60-3.22Q122.06-3.22 122.82-3.62Q123.58-4.03 123.58-4.73Q123.58-5.14 123.31-5.46Q123.05-5.78 122.33-6.06Q121.61-6.34 120.26-6.62Q118.42-6.98 117.20-7.48Q115.99-7.97 115.31-8.60Q114.62-9.24 114.35-10.03Q114.07-10.82 114.07-11.81Q114.07-13.37 114.96-14.62Q115.85-15.86 117.43-16.58Q119.02-17.30 121.13-17.30Q122.35-17.30 123.55-17.08Q124.75-16.85 125.77-16.43Q126.79-16.01 127.44-15.43L126.05-12.24Q124.90-13.06 123.65-13.46Q122.40-13.87 121.18-13.87Q119.95-13.87 119.21-13.40Q118.46-12.94 118.46-12.14Q118.46-11.76 118.72-11.45Q118.97-11.14 119.69-10.86Q120.41-10.58 121.87-10.27Q123.65-9.91 124.84-9.41Q126.02-8.90 126.71-8.27Q127.39-7.63 127.68-6.85Q127.97-6.07 127.97-5.14Q127.97-3.48 127.10-2.28Q126.24-1.08 124.58-0.43Q122.93 0.22 120.55 0.22Z" transform="translate(45 27)" fill="#1f1f1f"/>
+            <path d="M6.05 0L1.54 0L1.54-17.09L9.67-17.09Q12.65-17.09 14.23-15.67Q15.82-14.26 15.82-11.88Q15.82-9.50 14.21-8.09Q12.60-6.67 9.67-6.67L6.05-6.67L6.05 0ZM6.05-13.68L6.05-10.03L9.07-10.03Q10.39-10.03 11.00-10.50Q11.62-10.97 11.62-11.83Q11.62-12.74 11.02-13.21Q10.42-13.68 9.07-13.68L6.05-13.68ZM22.49 0L17.98 0L17.98-17.09L22.49-17.09L22.49 0ZM33.86 0.22Q31.18 0.22 29.21-0.88Q27.24-1.97 26.17-3.95Q25.10-5.93 25.10-8.57Q25.10-11.18 26.17-13.15Q27.24-15.12 29.21-16.21Q31.18-17.30 33.86-17.30Q35.54-17.30 37.12-16.80Q38.69-16.30 39.65-15.43L38.28-12.24Q37.18-13.03 36.12-13.39Q35.06-13.75 33.96-13.75Q31.92-13.75 30.80-12.46Q29.69-11.16 29.69-8.57Q29.69-5.98 30.80-4.66Q31.92-3.34 33.96-3.34Q35.06-3.34 36.12-3.70Q37.18-4.06 38.28-4.85L39.65-1.66Q38.69-0.79 37.12-0.29Q35.54 0.22 33.86 0.22ZM49.75 0.22Q47.11 0.22 45.18-0.86Q43.25-1.94 42.20-3.91Q41.16-5.88 41.16-8.57Q41.16-11.23 42.22-13.20Q43.27-15.17 45.19-16.24Q47.11-17.30 49.75-17.30Q52.39-17.30 54.30-16.24Q56.21-15.17 57.25-13.20Q58.30-11.23 58.30-8.57Q58.30-5.88 57.25-3.91Q56.21-1.94 54.30-0.86Q52.39 0.22 49.75 0.22ZM49.75-3.22Q51.62-3.22 52.74-4.56Q53.86-5.90 53.86-8.57Q53.86-11.21 52.74-12.54Q51.62-13.87 49.75-13.87Q47.88-13.87 46.78-12.55Q45.67-11.23 45.67-8.57Q45.67-5.88 46.78-4.55Q47.88-3.22 49.75-3.22ZM67.13 0.22Q65.86 0.22 64.58-0.01Q63.31-0.24 62.20-0.66Q61.08-1.08 60.29-1.66L61.70-4.85Q62.95-4.03 64.36-3.62Q65.76-3.22 67.18-3.22Q68.64-3.22 69.40-3.62Q70.15-4.03 70.15-4.73Q70.15-5.14 69.89-5.46Q69.62-5.78 68.90-6.06Q68.18-6.34 66.84-6.62Q64.99-6.98 63.78-7.48Q62.57-7.97 61.88-8.60Q61.20-9.24 60.92-10.03Q60.65-10.82 60.65-11.81Q60.65-13.37 61.54-14.62Q62.42-15.86 64.01-16.58Q65.59-17.30 67.70-17.30Q68.93-17.30 70.13-17.08Q71.33-16.85 72.35-16.43Q73.37-16.01 74.02-15.43L72.62-12.24Q71.47-13.06 70.22-13.46Q68.98-13.87 67.75-13.87Q66.53-13.87 65.78-13.40Q65.04-12.94 65.04-12.14Q65.04-11.76 65.29-11.45Q65.54-11.14 66.26-10.86Q66.98-10.58 68.45-10.27Q70.22-9.91 71.41-9.41Q72.60-8.90 73.28-8.27Q73.97-7.63 74.26-6.85Q74.54-6.07 74.54-5.14Q74.54-3.48 73.68-2.28Q72.82-1.08 71.16-0.43Q69.50 0.22 67.13 0.22Z" transform="translate(175.95 27)" fill="#d03f46"/>
+          </svg>
         </a>
+        <nav class="footer-nav">
+          <a href="/gomas/">Gomas</a>
+          <a href="/maderas/">Maderas</a>
+          <a href="/palas/">Palas</a>
+          <a href="/tecnica/">Técnica</a>
+          <a href="/jugadores/">Jugadores</a>
+          <a href="/guias/">Guías</a>
+        </nav>
+        <div class="footer-social">
+          <a href="mailto:malditospicos@gmail.com" aria-label="Email">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
+          </a>
+          <a href="https://www.linkedin.com/in/jordi-mariezcurrena/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 0 1-2.063-2.065 2.064 2.064 0 1 1 2.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+          </a>
+        </div>
       </div>
-      <p class="footer-copy">© {new Date().getFullYear()} Malditos Picos · <a href="/sobre-nosotros/">Sobre nosotros</a> · <a href="/colaboraciones/">Colaboraciones</a> · <a href="/privacidad/">Privacidad</a> · <a href="/aviso-legal/">Aviso legal</a> · <a href="mailto:malditospicos@gmail.com">Contacto</a></p>
+    </div>
+    <div class="footer-bottom">
+      <div class="container footer-bottom-inner">
+        <span>© {new Date().getFullYear()} Malditospicos.com</span>
+        <div class="footer-legal">
+          <a href="/sobre-nosotros/">Sobre nosotros</a>
+          <a href="/colaboraciones/">Colaboraciones</a>
+          <a href="/privacidad/">Privacidad</a>
+          <a href="/aviso-legal/">Aviso legal</a>
+        </div>
+      </div>
     </div>
   </footer>
 
@@ -122,21 +141,19 @@ const ogImage = image || defaultImage;
       <div class="search-modal-header">
         <span class="search-modal-label">Buscar en Malditos Picos</span>
         <button class="search-modal-close" id="searchClose" aria-label="Cerrar búsqueda">
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 6 6 18M6 6l12 12"/></svg>
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18M6 6l12 12"/></svg>
         </button>
       </div>
       <div id="pagefind-search"></div>
-      <p class="search-hint">También puedes usar <kbd>Ctrl K</kbd> para abrir la búsqueda</p>
+      <p class="search-hint">También puedes usar <kbd>Ctrl K</kbd></p>
     </div>
   </dialog>
 
   <script>
-    // Nav toggle
     const toggle = document.getElementById('navToggle');
-    const nav = document.querySelector('.main-nav');
+    const nav = document.getElementById('mainNav');
     toggle?.addEventListener('click', () => nav?.classList.toggle('open'));
 
-    // Search modal
     const searchOpen = document.getElementById('searchOpen');
     const searchModal = document.getElementById('searchModal') as HTMLDialogElement | null;
     const searchClose = document.getElementById('searchClose');
@@ -196,9 +213,8 @@ const ogImage = image || defaultImage;
   position: sticky;
   top: 0;
   z-index: 100;
-  background: var(--header-bg);
-  border-bottom: 1px solid var(--border);
-  box-shadow: 0 1px 0 rgba(59,130,246,0.2), 0 4px 24px rgba(0,0,0,0.6);
+  background: #fff;
+  border-bottom: 1px solid #e8e8e8;
 }
 .header-inner {
   display: flex;
@@ -207,38 +223,29 @@ const ogImage = image || defaultImage;
   height: 64px;
   gap: 24px;
 }
-.logo {
-  font-family: var(--font-display);
-  font-size: 1.45rem;
-  font-weight: 800;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-  flex-shrink: 0;
-}
-.logo-main { color: #ffffff; }
-.logo-accent { color: var(--accent-bright); margin-left: 5px; }
+.logo-link { display: flex; align-items: center; flex-shrink: 0; }
+
 .main-nav {
   display: flex;
-  gap: 2px;
-  flex-wrap: wrap;
+  gap: 4px;
 }
 .main-nav a {
   font-family: var(--font-display);
-  font-size: 0.92rem;
-  font-weight: 600;
+  font-size: 0.88rem;
+  font-weight: 700;
   letter-spacing: 0.06em;
   text-transform: uppercase;
-  color: rgba(255,255,255,0.75);
-  padding: 6px 12px;
+  color: #555;
+  padding: 6px 10px;
   border-radius: var(--radius);
-  transition: all 0.15s;
+  transition: color 0.15s, background 0.15s;
 }
-.main-nav a:hover { color: #ffffff; background: rgba(255,255,255,0.1); }
+.main-nav a:hover { color: #1f1f1f; background: #f5f5f5; }
 
 .header-actions {
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 10px;
   flex-shrink: 0;
 }
 .search-btn {
@@ -247,14 +254,29 @@ const ogImage = image || defaultImage;
   justify-content: center;
   width: 34px;
   height: 34px;
-  background: rgba(255,255,255,0.08);
-  border: 1px solid rgba(255,255,255,0.18);
+  background: #f5f5f5;
+  border: 1px solid #e8e8e8;
   border-radius: var(--radius);
-  color: rgba(255,255,255,0.75);
+  color: #555;
   cursor: pointer;
   transition: all 0.15s;
 }
-.search-btn:hover { background: rgba(255,255,255,0.18); color: #fff; border-color: rgba(255,255,255,0.3); }
+.search-btn:hover { background: #eee; color: #1f1f1f; }
+
+.btn-suscribir {
+  background: #d03f46;
+  color: #fff;
+  padding: 9px 18px;
+  border-radius: var(--radius);
+  font-family: var(--font-display);
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  transition: background 0.15s;
+  white-space: nowrap;
+}
+.btn-suscribir:hover { background: #b83339; }
 
 .nav-toggle {
   display: none;
@@ -269,46 +291,68 @@ const ogImage = image || defaultImage;
   display: block;
   width: 22px;
   height: 2px;
-  background: #ffffff;
+  background: #1f1f1f;
   border-radius: 2px;
-  transition: 0.2s;
 }
-.site-footer {
-  margin-top: 80px;
-  background: var(--header-bg);
-  border-top: 1px solid var(--border);
-  box-shadow: 0 -1px 0 rgba(59,130,246,0.15);
-}
+
+/* Footer */
+.site-footer { margin-top: 0; }
+.footer-top { border-top: 2px solid #1f1f1f; padding: 32px 0; }
 .footer-inner {
-  padding: 48px 24px 32px;
   display: flex;
-  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
   gap: 24px;
-  align-items: center;
-  text-align: center;
+  flex-wrap: wrap;
 }
-.footer-brand p { font-size: 0.85rem; color: rgba(255,255,255,0.5); margin-top: 4px; }
-.footer-nav { display: flex; gap: 16px; flex-wrap: wrap; justify-content: center; }
-.footer-nav a { font-size: 0.82rem; font-family: var(--font-display); font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; color: rgba(255,255,255,0.65); }
-.footer-nav a:hover { color: #ffffff; }
-.footer-owner {
+.footer-nav {
   display: flex;
-  align-items: center;
-  gap: 8px;
-  font-size: 0.78rem;
-  color: rgba(255,255,255,0.4);
+  gap: 20px;
+  flex-wrap: wrap;
 }
-.footer-linkedin {
-  display: inline-flex;
-  align-items: center;
-  gap: 5px;
-  color: rgba(255,255,255,0.65);
+.footer-nav a {
+  font-family: var(--font-display);
+  font-size: 0.82rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #999;
   transition: color 0.15s;
 }
-.footer-linkedin:hover { color: white; }
-.footer-copy { font-size: 0.8rem; color: rgba(255,255,255,0.4); }
-.footer-copy a { color: rgba(255,255,255,0.65); }
-.footer-copy a:hover { color: #fff; }
+.footer-nav a:hover { color: #1f1f1f; }
+.footer-social {
+  display: flex;
+  gap: 12px;
+}
+.footer-social a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border: 1px solid #e8e8e8;
+  border-radius: var(--radius);
+  color: #999;
+  transition: all 0.15s;
+}
+.footer-social a:hover { border-color: #1f1f1f; color: #1f1f1f; }
+.footer-bottom {
+  border-top: 1px solid #e8e8e8;
+  padding: 16px 0;
+  background: #f8f8f8;
+}
+.footer-bottom-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 12px;
+  color: #bbb;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.footer-legal { display: flex; gap: 16px; }
+.footer-legal a { color: #bbb; transition: color 0.15s; }
+.footer-legal a:hover { color: #555; }
 
 /* Search modal */
 .search-modal {
@@ -317,23 +361,21 @@ const ogImage = image || defaultImage;
   left: 50%;
   transform: translateX(-50%);
   width: calc(100% - 32px);
-  max-width: 620px;
+  max-width: 600px;
   max-height: calc(100vh - 110px);
   overflow-y: auto;
   border: 1px solid var(--border);
   border-radius: 8px;
-  box-shadow: 0 24px 64px rgba(0,20,60,0.25);
+  box-shadow: 0 16px 48px rgba(0,0,0,0.15);
   padding: 0;
   background: var(--bg);
   z-index: 200;
 }
 .search-modal::backdrop {
-  background: rgba(0, 15, 40, 0.55);
-  backdrop-filter: blur(3px);
+  background: rgba(0,0,0,0.3);
+  backdrop-filter: blur(2px);
 }
-.search-modal-inner {
-  padding: 20px 24px 16px;
-}
+.search-modal-inner { padding: 20px 24px 16px; }
 .search-modal-header {
   display: flex;
   align-items: center;
@@ -342,7 +384,7 @@ const ogImage = image || defaultImage;
 }
 .search-modal-label {
   font-family: var(--font-display);
-  font-size: 0.8rem;
+  font-size: 0.78rem;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.1em;
@@ -379,20 +421,21 @@ const ogImage = image || defaultImage;
 
 @media (max-width: 768px) {
   .nav-toggle { display: flex; }
+  .btn-suscribir { display: none; }
   .main-nav {
     display: none;
     position: absolute;
-    top: 66px;
+    top: 65px;
     left: 0;
     right: 0;
-    background: var(--header-bg);
-    border-bottom: 2px solid var(--accent-bright);
+    background: #fff;
+    border-bottom: 2px solid #d03f46;
     padding: 16px 24px;
     flex-direction: column;
     gap: 4px;
+    z-index: 99;
   }
   .main-nav.open { display: flex; }
   .main-nav a { padding: 10px 12px; font-size: 1rem; }
-  .search-modal { top: 70px; }
 }
 </style>

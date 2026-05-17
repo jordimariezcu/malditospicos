@@ -1,33 +1,33 @@
-@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Barlow:wght@300;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800;900&family=Barlow:wght@300;400;500;600&display=swap');
 
 :root {
-  --bg: #080d18;
-  --bg-secondary: #101726;
-  --surface: #131d33;
-  --border: #1d2b45;
-  --border-light: #162038;
-  --text: #dde6f5;
-  --text-secondary: #7f9abf;
-  --text-muted: #6b85a8;
-  --accent: #2563eb;
-  --accent-bright: #3b82f6;
-  --accent-dark: #1d4ed8;
-  --accent-bg: #0f1e3d;
-  --header-bg: #050a14;
-  --header-text: #ffffff;
+  --bg: #ffffff;
+  --bg-secondary: #f8f8f8;
+  --surface: #f4f4f4;
+  --border: #e8e8e8;
+  --border-light: #f0f0f0;
+  --text: #1f1f1f;
+  --text-secondary: #555555;
+  --text-muted: #999999;
+  --accent: #d03f46;
+  --accent-bright: #d03f46;
+  --accent-dark: #b83339;
+  --accent-bg: #fff0f0;
+  --header-bg: #ffffff;
+  --header-text: #1f1f1f;
   --font-display: 'Barlow Condensed', 'Impact', sans-serif;
   --font-body: 'Barlow', system-ui, sans-serif;
   --max-w: 1200px;
   --max-w-content: 720px;
   --radius: 4px;
-  --shadow-sm: 0 1px 4px rgba(0,0,0,0.4);
-  --shadow: 0 4px 24px rgba(0,0,0,0.5);
+  --shadow-sm: 0 1px 4px rgba(0,0,0,0.08);
+  --shadow: 0 4px 24px rgba(0,0,0,0.1);
 
   /* Pagefind UI */
   --pagefind-ui-scale: 1;
-  --pagefind-ui-primary: var(--accent-bright);
+  --pagefind-ui-primary: var(--accent);
   --pagefind-ui-text: var(--text);
-  --pagefind-ui-background: var(--surface);
+  --pagefind-ui-background: var(--bg);
   --pagefind-ui-border: var(--border);
   --pagefind-ui-tag: var(--bg-secondary);
   --pagefind-ui-border-width: 1px;
@@ -54,9 +54,8 @@ img { max-width: 100%; height: auto; display: block; }
 h1, h2, h3, h4 {
   font-family: var(--font-display);
   line-height: 1.1;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.02em;
+  font-weight: 800;
+  letter-spacing: 0.01em;
   color: var(--text);
 }
 
@@ -66,26 +65,29 @@ p:last-child { margin-bottom: 0; }
 /* Prose styles for post content */
 .prose {
   font-size: 1.05rem;
-  line-height: 1.75;
-  color: var(--text);
+  line-height: 1.8;
+  color: var(--text-secondary);
 }
 .prose h2 {
-  font-size: 1.6rem;
+  font-size: 1.7rem;
   margin: 2.5em 0 0.8em;
-  color: var(--accent-bright);
+  color: var(--text);
+  text-transform: none;
+  letter-spacing: -0.02em;
 }
 .prose h3 {
-  font-size: 1.25rem;
+  font-size: 1.3rem;
   margin: 2em 0 0.6em;
   color: var(--text);
+  text-transform: none;
 }
-.prose p { margin-bottom: 1.4em; }
+.prose p { margin-bottom: 1.5em; color: #444; }
 .prose ul, .prose ol {
   padding-left: 1.5em;
   margin-bottom: 1.4em;
 }
-.prose li { margin-bottom: 0.4em; }
-.prose strong { font-weight: 600; color: var(--text); }
+.prose li { margin-bottom: 0.4em; color: #444; }
+.prose strong { font-weight: 700; color: var(--text); }
 .prose img {
   border-radius: var(--radius);
   margin: 2em auto;
@@ -99,38 +101,39 @@ p:last-child { margin-bottom: 0; }
   font-size: 0.95rem;
 }
 .prose th {
-  background: var(--accent);
+  background: var(--text);
   color: white;
   padding: 10px 14px;
   text-align: left;
-  font-weight: 600;
-  font-family: var(--font-body);
-  border-bottom: 2px solid var(--accent-dark);
+  font-weight: 700;
+  font-family: var(--font-display);
+  border-bottom: 2px solid var(--accent);
   text-transform: uppercase;
   font-size: 0.8rem;
   letter-spacing: 0.05em;
 }
 .prose td {
   padding: 10px 14px;
-  border-bottom: 1px solid var(--border-light);
+  border-bottom: 1px solid var(--border);
+  color: #444;
 }
 .prose tr:hover td { background: var(--bg-secondary); }
 .prose a {
-  color: var(--accent-bright);
+  color: var(--accent);
   text-decoration: underline;
-  text-decoration-color: var(--border);
+  text-decoration-color: rgba(208,63,70,0.3);
   text-underline-offset: 3px;
   transition: color 0.15s;
 }
-.prose a:hover { color: var(--accent-bright); text-decoration-color: var(--accent-bright); }
+.prose a:hover { color: var(--accent-dark); text-decoration-color: var(--accent); }
 .prose blockquote {
-  border-left: 4px solid var(--accent-bright);
-  padding: 1em 1.5em;
+  border-left: 3px solid var(--accent);
+  padding: 4px 24px;
   margin: 2em 0;
-  background: var(--accent-bg);
-  border-radius: 0 var(--radius) var(--radius) 0;
   font-style: italic;
-  color: var(--text-secondary);
+  color: var(--text);
+  font-size: 1.15em;
+  line-height: 1.6;
 }
 
 /* Responsive video embed */
@@ -152,9 +155,9 @@ p:last-child { margin-bottom: 0; }
   border: 0;
 }
 
-/* Focus visible — keyboard navigation */
+/* Focus visible */
 :focus-visible {
-  outline: 2px solid var(--accent-bright);
+  outline: 2px solid var(--accent);
   outline-offset: 3px;
   border-radius: var(--radius);
 }
