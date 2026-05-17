@@ -29,12 +29,10 @@ const productSchema = {
 };
 
 // Campo de contenido markdown (cuerpo del post)
-const contentField = fields.document({
+// Usamos markdoc con extension:'md' para leer los archivos .md existentes
+const contentField = fields.markdoc({
   label: 'Contenido',
-  formatting: true,
-  dividers: true,
-  links: true,
-  images: true,
+  extension: 'md',
 });
 
 export default config({
