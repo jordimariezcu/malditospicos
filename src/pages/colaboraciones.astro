@@ -87,12 +87,20 @@ import NewsletterForm from '../components/NewsletterForm.astro';
         <h2>¿Hablamos?</h2>
         <p>Cuéntanos tu marca y qué tipo de colaboración te interesa. Respondemos en menos de 48h.</p>
 
+        <div class="form-success" id="formSuccess" hidden>
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>
+          <div>
+            <strong>Mensaje enviado</strong>
+            <p>Te responderemos en menos de 48h.</p>
+          </div>
+        </div>
+
         <form
           class="contact-form"
-          action="https://formspree.io/f/FORM_ID"
+          id="contactForm"
+          action="https://formspree.io/f/xnjragwv"
           method="POST"
         >
-          <!-- Honeypot anti-spam -->
           <input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off" />
           <input type="hidden" name="_subject" value="Nueva consulta de colaboración — Malditos Picos" />
 
@@ -136,6 +144,40 @@ import NewsletterForm from '../components/NewsletterForm.astro';
 
   </div>
 </BaseLayout>
+
+<script>
+  const form = document.getElementById('contactForm') as HTMLFormElement | null;
+  const success = document.getElementById('formSuccess');
+  const submitBtn = form?.querySelector('button[type="submit"]') as HTMLButtonElement | null;
+
+  form?.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    if (!submitBtn) return;
+    submitBtn.disabled = true;
+    submitBtn.textContent = 'Enviando…';
+
+    try {
+      const res = await fetch('https://formspree.io/f/xnjragwv', {
+        method: 'POST',
+        body: new FormData(form),
+        headers: { Accept: 'application/json' },
+      });
+
+      if (res.ok) {
+        form.hidden = true;
+        if (success) success.hidden = false;
+      } else {
+        submitBtn.disabled = false;
+        submitBtn.textContent = 'Enviar consulta';
+        alert('Ha habido un error. Inténtalo de nuevo o escríbenos a malditospicos@gmail.com');
+      }
+    } catch {
+      submitBtn.disabled = false;
+      submitBtn.textContent = 'Enviar consulta';
+      alert('Sin conexión. Inténtalo de nuevo.');
+    }
+  });
+</script>
 
 <style>
 .collab-wrap { padding: 56px 0 80px; }
@@ -365,4 +407,18 @@ import NewsletterForm from '../components/NewsletterForm.astro';
   .form-row { grid-template-columns: 1fr; }
   .form-footer { flex-direction: column; align-items: flex-start; }
 }
+
+.form-success {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 20px 24px;
+  background: rgba(255,255,255,0.15);
+  border: 1px solid rgba(255,255,255,0.3);
+  border-radius: var(--radius);
+  color: white;
+}
+.form-success svg { flex-shrink: 0; color: #86efac; }
+.form-success strong { display: block; font-size: 1rem; margin-bottom: 2px; }
+.form-success p { font-size: 0.88rem; color: rgba(255,255,255,0.75); margin: 0; }
 </style>
