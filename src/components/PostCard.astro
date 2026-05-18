@@ -1,6 +1,7 @@
 ---
 const { post, collection } = Astro.props;
-const { title, description, pubDate, rating, image } = post.data;
+const { title, description, pubDate, rating, image, tags } = post.data;
+const tagsJson = JSON.stringify(tags ?? []);
 
 const categoryLabels: Record<string, string> = {
   gomas: 'Gomas', maderas: 'Maderas', palas: 'Palas', tecnica: 'Técnica',
@@ -15,7 +16,7 @@ function renderStars(r: number) {
   return '★'.repeat(Math.floor(r)) + '☆'.repeat(5 - Math.floor(r));
 }
 ---
-<a href={url} class="post-card">
+<a href={url} class="post-card" data-tags={tagsJson}>
   {image && (
     <div class="card-img-wrap">
       <img src={image} alt={title} class="card-img" loading="lazy" />
