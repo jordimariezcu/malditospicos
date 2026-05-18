@@ -41,14 +41,65 @@ function ratingLabel(r: number) {
   return 'Discreta';
 }
 
-// Related posts (same category, most recent first, max 3)
+// Related posts — cross-collection relevance scoring
+// Score = shared tags (×5) + title keyword overlap (×2) + same collection (×1)
+const STOPWORDS = new Set([
+  'de','del','la','el','los','las','una','uno','en','con','para','por','que','qué',
+  'es','un','su','tu','mi','y','o','a','al','como','más','pero','son','lo','se',
+  'si','ya','hay','muy','nos','les','me','te','le','no','ni','sin','entre','sobre',
+  'qué','cómo','cuál','cuáles','este','esta','estos','estas','ese','esa','esos',
+  'the','of','and','for','in','to','with',
+]);
+function titleKeywords(t: string): string[] {
+  return t.toLowerCase()
+    .split(/[\s\-\+\:\,\.\/\(\)\[\]\"\']+/)
+    .filter(w => w.length > 3 && !STOPWORDS.has(w));
+}
+
+const currentKeywords = titleKeywords(title);
+const currentTags: string[] = tags ?? [];
+
 let relatedPosts: any[] = [];
 try {
-  const all = await getCollection(category as any);
-  relatedPosts = all
-    .filter((p: any) => p.slug !== post.slug && !p.data.draft)
-    .sort((a: any, b: any) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime())
+  const collections = ['gomas','maderas','palas','tecnica','guias','jugadores','materiales','recursos'];
+  const allEntries = (await Promise.all(
+    collections.map(col => getCollection(col as any).then(entries =>
+      entries.map((e: any) => ({ ...e, _col: col }))
+    ))
+  )).flat();
+
+  const scored = allEntries
+    .filter((p: any) => !(p.slug === post.slug && p._col === category) && !p.data.draft)
+    .map((p: any) => {
+      let score = 0;
+      // Shared tags
+      const pTags: string[] = p.data.tags ?? [];
+      score += currentTags.filter(t => pTags.includes(t)).length * 5;
+      // Title keyword overlap
+      const pKw = titleKeywords(p.data.title ?? '');
+      score += currentKeywords.filter(w => pKw.includes(w)).length * 2;
+      // Small same-collection bonus for tie-breaking
+      if (p._col === category) score += 1;
+      return { ...p, _score: score };
+    })
+    .filter((p: any) => p._score > 0)
+    .sort((a: any, b: any) =>
+      b._score - a._score ||
+      new Date(b.data.pubDate ?? 0).getTime() - new Date(a.data.pubDate ?? 0).getTime()
+    )
     .slice(0, 3);
+
+  // Fallback: if no relevant results, take 3 most recent from same category
+  if (scored.length === 0) {
+    const same = allEntries
+      .filter((p: any) => p._col === category && p.slug !== post.slug && !p.data.draft)
+      .sort((a: any, b: any) => new Date(b.data.pubDate ?? 0).getTime() - new Date(a.data.pubDate ?? 0).getTime())
+      .slice(0, 3)
+      .map((p: any) => ({ ...p, _score: 0 }));
+    relatedPosts = same;
+  } else {
+    relatedPosts = scored;
+  }
 } catch {}
 
 // Schema
@@ -143,7 +194,9 @@ const breadcrumb = {
 
       {tags && tags.length > 0 && (
         <div class="article-tags">
-          {tags.map((tag: string) => <span class="tag">{tag}</span>)}
+          {tags.map((tag: string) => (
+            <a href={`/${category}/?tag=${encodeURIComponent(tag)}`} class="tag">{tag}</a>
+          ))}
         </div>
       )}
     </article>
@@ -220,21 +273,22 @@ const breadcrumb = {
         <h2 class="related-title">Artículos <span>relacionados</span></h2>
         <div class="related-grid">
           {relatedPosts.map((rp: any) => {
-            const catLabel = categoryLabels[category] || category;
-            const catBg = catLabel.toUpperCase();
+            const rpCol = rp._col ?? category;
+            const rpLabel = categoryLabels[rpCol] || rpCol;
+            const rpBg = rpLabel.toUpperCase();
             const rpDate = rp.data.pubDate
               ? new Date(rp.data.pubDate).toLocaleDateString('es-ES', { day: 'numeric', month: 'long', year: 'numeric' })
               : '';
             return (
-              <a href={`/${category}/${rp.slug}/`} class="related-card">
+              <a href={`/${rpCol}/${rp.slug}/`} class="related-card">
                 <div class="card-editorial-sm">
-                  <div class="card-editorial-sm-bg">{catBg}</div>
-                  <div class="card-editorial-sm-cat">{catLabel}</div>
+                  <div class="card-editorial-sm-bg">{rpBg}</div>
+                  <div class="card-editorial-sm-cat">{rpLabel}</div>
                   <div class="card-editorial-sm-title">{rp.data.title}</div>
                 </div>
                 <div class="related-card-body">
                   <div class="related-card-title">{rp.data.title}</div>
-                  <div class="related-card-meta">{rpDate} · {catLabel}</div>
+                  <div class="related-card-meta">{rpDate} · {rpLabel}</div>
                 </div>
               </a>
             );
@@ -346,11 +400,13 @@ const breadcrumb = {
   border-top: 1px solid var(--border);
 }
 .tag {
+  display: inline-block;
   background: var(--bg-secondary);
   color: var(--text-secondary);
   font-size: 12px;
   padding: 6px 12px;
   border-radius: 20px;
+  text-decoration: none;
   transition: background 0.15s, color 0.15s;
 }
 .tag:hover { background: var(--text); color: #fff; }
