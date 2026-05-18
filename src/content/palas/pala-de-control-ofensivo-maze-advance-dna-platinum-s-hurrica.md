@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Pala de control ofensivo: Maze Advance + DNA Platinum S + Hurricane III"
 description: "La combinación Maze Advance con DNA Platinum S y Hurricane III es una pala de tenis de mesa para jugar con control y ataque. Análisis completo a 175 euros."
 pubDate: "2025-02-15"
@@ -29,10 +29,10 @@ La goma DHS Hurricane III es muy utilizada por los jugadores que se orienten al 
 Sería lógico jugar con la DNA Platinum en el drive, lo que nos permite atacar con más velocidad, pero al tratarse en ambos casos de gomas que ofrecen un buen control, se podría hacer a la inversa, lo que también nos daría opción a contragolpes de revés.
 
 Algunos artículos que os pueden ayudar si no habéis entendido algo de lo que os he escrito:
-- [Qué son las gomas lisas]()
-- [Tipos de mango para tu pala]()
-- [Qué es la madera OFF]()
-- [Pala para un jugador de control]()
+- [Qué son las gomas lisas](/gomas/gomas-lisas-las-mas-habituales/)
+- [Tipos de mango para tu pala](/guias/tipos-de-mango-para-tu-pala-de-tenis-de-mesa/)
+- [Qué es la madera OFF](/maderas/madera-off-offensive-estandar/)
+- [Pala para un jugador de control](/guias/pala-para-jugador-de-control/)
 
   
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Pala económica Loki Kirin K2 + picos cortos + picos largos"
 description: "Pala molesta de tenis de mesa por solo 30 euros: Loki Kirin K2 con picos cortos y picos largos. La configuración más económica para complicar al rival."
 pubDate: "2026-01-06"
@@ -29,11 +29,11 @@ Me ha sorprendido muy positivamente la facilidad con la que podemos tirar todas 
 De momento me parece una pala muy divertida de jugar, y realmente cómoda. En poco rato me adapté fácilmente a las dos gomas. Y, si duda, lo que la vuelve una opción a tener en cuenta es la relación calidad precio. Una pala de este tipo por solo 30 euros, es un chollo. Ambas gomas están aprobadas por la ITTF, por lo que se puede competir con ellas.
 
 Algunos artículos que os pueden ayudar si no habéis entendido algo de lo que os he escrito:
-- [Qué son las gomas de picos cortos]()
-- [Qué son las gomas de picos largos]()
-- [Tipos de mango para tu pala]()
-- [Qué es una madera ALL]()
-- [Pala para molestar]()
+- [Qué son las gomas de picos cortos](/gomas/gomas-de-picos-cortos-una-ayuda-ofensiva/)
+- [Qué son las gomas de picos largos](/gomas/gomas-de-picos-largos-para-jugar-al-despiste/)
+- [Tipos de mango para tu pala](/guias/tipos-de-mango-para-tu-pala-de-tenis-de-mesa/)
+- [Qué es una madera ALL](/maderas/madera-all-allround-todo-terreno/)
+- [Pala para molestar](/guias/pala-para-estilo-de-juego-raro-al-despiste-disturbing-style/)
 
  ![Goma Meteor 845 de picos cortos](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHiNu1ZuQwGgrhVSMEK1A551efgS7PwGpJ2TFG1Qd3utkXxdtyX_EysC3HHFJRP9gZWfil19tONSMUHEM4BqtQ0aMCT4s3Firt4nkZibxAEiJUYpmFs29HXZMXW1wuuH19t83Y2lTviHT1oNR8VhNpedxwOBRC-ckxiCZE1MbJyf8c9TL9nDntw6N_xOFz/w251-h400/pala%20picos%20cortos%20Meteor%20845.jpeg)
 |  |

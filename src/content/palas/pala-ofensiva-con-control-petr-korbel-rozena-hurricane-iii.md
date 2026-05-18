@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Pala ofensiva con control: Petr Korbel + Rozena + Hurricane III"
 description: "La pala Petr Korbel con Rozena y Hurricane III es una opción ofensiva económica en tenis de mesa. Buena relación calidad-precio a unos 115 euros."
 pubDate: "2025-02-16"
@@ -30,9 +30,9 @@ Por lo tanto, nos queda una configuración de pala ofensiva, pero que todos sus 
  
 
 Algunos artículos que os pueden ayudar si no habéis entendido algo de lo que os he escrito:
-- [Qué son las gomas lisas]()
-- [Tipos de mango para tu pala]()
-- [Qué es la madera OFF]()
+- [Qué son las gomas lisas](/gomas/gomas-lisas-las-mas-habituales/)
+- [Tipos de mango para tu pala](/guias/tipos-de-mango-para-tu-pala-de-tenis-de-mesa/)
+- [Qué es la madera OFF](/maderas/madera-off-offensive-estandar/)
 - [Pala para un jugador de estilo atacante
 ]() 
 

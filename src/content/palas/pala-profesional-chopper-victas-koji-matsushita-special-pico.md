@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Pala profesional chopper: Victas Koji Matsushita Special + picos largos + Stiga DNA Dragon Power"
 description: "La Victas Koji Matsushita Special con picos largos es la pala chopper de tenis de mesa por excelencia. Analizamos esta configuración defensiva profesional."
 pubDate: "2025-08-29"
@@ -33,11 +33,11 @@ Una pala
 ideal para jugadores defensivos y choppers, bien equilibrada, con gran control, y con un drive con una buena catapulta y un imponente efecto.
 
 Algunos artículos que os pueden ayudar si no habéis entendido algo de lo que os he escrito:
-- [Qué son las gomas lisas]()
-- [Qué son las gomas de picos largos]()
-- [Tipos de mango para tu pala]()
-- [Qué es la madera DEF]()
-- [Pala para un jugador de estilo cortador (chopper moderno)]()
+- [Qué son las gomas lisas](/gomas/gomas-lisas-las-mas-habituales/)
+- [Qué son las gomas de picos largos](/gomas/gomas-de-picos-largos-para-jugar-al-despiste/)
+- [Tipos de mango para tu pala](/guias/tipos-de-mango-para-tu-pala-de-tenis-de-mesa/)
+- [Qué es la madera DEF](/maderas/madera-def-defensa/)
+- [Pala para un jugador de estilo cortador (chopper moderno)](/guias/pala-para-jugar-al-estilo-cortador-chopper-moderno/)
 
  
 

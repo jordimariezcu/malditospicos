@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Pala ofensiva: Butterfly Timo Boll ALC + Tenergy 64"
 description: "La Butterfly Timo Boll ALC con Tenergy 64 es una pala ofensiva de tenis de mesa de alto nivel. Muy rápida y con efecto brutal: análisis a 290 euros."
 pubDate: "2025-09-14"
@@ -31,9 +31,9 @@ el revés lleva gomas Butterfly Tenergy 64, las gomas más rápidas de esta fami
 En resumen: una combinación de madera y gomas para velocistas, para aquellos a los que les guste atacar a toda velocidad. Evidentemente, no es una pala recomendada para principiantes, puesto que no es fácil de controlar.
 
 Algunos artículos que os pueden ayudar si no habéis entendido algo de lo que os he escrito:
-- [Qué son las gomas lisas]()
-- [Tipos de mango para tu pala]()
-- [Qué es la madera OFF]()
+- [Qué son las gomas lisas](/gomas/gomas-lisas-las-mas-habituales/)
+- [Tipos de mango para tu pala](/guias/tipos-de-mango-para-tu-pala-de-tenis-de-mesa/)
+- [Qué es la madera OFF](/maderas/madera-off-offensive-estandar/)
 - [Pala para un jugador de estilo atacante
 ]() 
 

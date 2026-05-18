@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Pala \"para molestar\" al rival: Balsa Carbo x7 + picos cortos + antitop"
 description: "La Balsa Carbo X7 con picos cortos y antitop es la pala de tenis de mesa perfecta para complicar la vida al rival. Una combinación rara y muy efectiva."
 pubDate: "2025-08-05"
@@ -40,11 +40,11 @@ Es muy recomendable, cuando ya controlas bien las dos gomas, jugar aún más al 
 También se puede cambiar a medio punto, se ponen los picos al revés para poder atacar sin que se lo esperen.
 
 Algunos artículos que os pueden ayudar si no habéis entendido algo de lo que os he escrito:
-- [Gomas de picos cortos]()
-- [Gomas antitop]()
-- [Tipos de mango para tu pala]()
-- [Qué es la madera OFF]()
-- [Pala estilo raro o al despiste]()
+- [Gomas de picos cortos](/gomas/gomas-de-picos-cortos-una-ayuda-ofensiva/)
+- [Gomas antitop](/gomas/gomas-antitop-antispin/)
+- [Tipos de mango para tu pala](/guias/tipos-de-mango-para-tu-pala-de-tenis-de-mesa/)
+- [Qué es la madera OFF](/maderas/madera-off-offensive-estandar/)
+- [Pala estilo raro o al despiste](/guias/pala-para-estilo-de-juego-raro-al-despiste-disturbing-style/)
 
 ![Goma Der-Materialspezialist Firestorm Green](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpckpvq1rCjiJpmMrdeOISShQHcm2esysPEmHYscEVO6lmvYMR00RTdFZsY3uivlOFil8hVbepZ-yPLeFdTLwtidg4PzqJk-d42kknYic7bOz811NPX0P_w0lwMZp1cgZ8q9BeYx3dyPbMagBFlespYaRMLzaJU5dhyphenhyphenospd-eYChq3WzkM4hU3UtD7kO4p/w400-h300/Goma%20Der-Materialspezialist%20Firestorm%20Green.jpg)
 |  |

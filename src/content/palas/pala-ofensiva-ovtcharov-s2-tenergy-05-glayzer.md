@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Pala ofensiva: Ovtcharov S2 + Tenergy 05 + Glayzer"
 description: "La pala Ovtcharov S2 con Tenergy 05 y Glayzer combina velocidad y efecto en tenis de mesa. Una configuración ofensiva con gomas Butterfly de alto nivel."
 pubDate: "2026-01-01"
@@ -31,10 +31,10 @@ En este caso tiene también grosor máximo, de 2.1 mm. Es una goma más controla
 En resumen, tenemos una pala ofensiva, con ambas gomas con esponjas de grosor máximo, lo que nos confiere un juego muy rápido que hay que saber controlar. A cambio, podemos generar efectos estupendos, ideales para hacer saques como el típico Tomahawk que tanto nos gusta de Ovtcharov.
 
 Algunos artículos que os pueden ayudar si no habéis entendido algo de lo que os he escrito:
-- [Qué son las gomas lisas]()
-- [Tipos de mango para tu pala]()
-- [Qué es la madera OFF]()
-- [Pala para un jugador de estilo atacante]()
+- [Qué son las gomas lisas](/gomas/gomas-lisas-las-mas-habituales/)
+- [Tipos de mango para tu pala](/guias/tipos-de-mango-para-tu-pala-de-tenis-de-mesa/)
+- [Qué es la madera OFF](/maderas/madera-off-offensive-estandar/)
+- [Pala para un jugador de estilo atacante](/guias/pala-para-un-jugador-de-estilo-atacante/)
 
   ![Butterfly Glayzer](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjc47US9tkaA9lJo1uAudsQjPPfGmWeuxiwiSTPVefczc7IHJIaGv9CYmMFOqgkIkgcYOeZ78QKJiLluB4cNzrd2-3yEUfs1yz00_LSpdkrGZZ60IkV4EWzDbpNhNKCHlz4xVmDGXmlamSMGc1DKBxQ7innGvIORu3IJxOXAoMHo43_GQCQDIUh12JizWv/w400-h229/Goma%20Butterfly%20Glayzer.jpeg)
 |  |

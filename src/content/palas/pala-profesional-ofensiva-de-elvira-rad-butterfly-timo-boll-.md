@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Pala profesional ofensiva de Elvira Rad: Butterfly Timo Boll ALC + gomas Dignics 05"
 description: "Descubre la pala de Elvira Rad, medallista en el Campeonato de España de tenis de mesa. Timo Boll ALC con Dignics 05 para un juego ofensivo de élite."
 pubDate: "2025-08-13"
@@ -29,10 +29,10 @@ trata de una pala de alta gamma, propia de jugadoras profesionales como Elvira, 
  
 
 Algunos artículos que os pueden ayudar si no habéis entendido algo de lo que os he escrito:
-- [Qué son las gomas lisas]()
-- [Tipos de mango para tu pala]()
-- [Qué es la madera OFF]()
-- [Pala para un jugador de estilo atacante]()
+- [Qué son las gomas lisas](/gomas/gomas-lisas-las-mas-habituales/)
+- [Tipos de mango para tu pala](/guias/tipos-de-mango-para-tu-pala-de-tenis-de-mesa/)
+- [Qué es la madera OFF](/maderas/madera-off-offensive-estandar/)
+- [Pala para un jugador de estilo atacante](/guias/pala-para-un-jugador-de-estilo-atacante/)
 
  
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Hoja adhesiva de doble cara: la alternativa al pegamento"
 pubDate: "2025-04-01"
 updatedDate: "2025-08-09"
@@ -14,7 +14,7 @@ draft: false
 
 Todos los jugadores, cuando nos montamos la madera con las gomas, utilizamos pegamento especial para este tipo de materiales. Pero existe este producto, que veremos lo útil que nos puede resultar.
 
-Utilizas [gomas OX]() o [antitop]()?
+Utilizas [gomas OX](/gomas/que-es-una-goma-ox-y-para-que-sirve/) o [antitop](/gomas/gomas-antitop-antispin/)?
 En este caso, este artículo es para ti. Se trata de gomas con poca esponja o sin ella, que nos dan la ventaja de que le dan a la pelota muy poco impulso. De hecho, parece que más bien se "comen" la potencia que lleva la bola, y la dejan a corta distancia y muy floja.
 
 Si utilizas estas gomas será mejor que no utilices el pegamento normal, puesto que puede endurecer la goma y quitarle este plus de absorción de la velocidad. Por lo tanto, debes comprar una hoja adhesiva para cada goma.

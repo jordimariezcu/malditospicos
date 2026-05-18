@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Pala para molestar: Madera combi Wizard + Tenergy 05FX + picos largos Victas Curl P2V "
 description: "La Combi Wizard con Tenergy 05FX y picos largos es una pala de tenis de mesa para desorientar al rival. Mezcla de defensa y ataque por 170 euros."
 pubDate: "2025-09-07"
@@ -32,12 +32,12 @@ ideal "para molestar", puesto que en el revés les complicamos la vida a nuestro
 Con un plus más, siempre que jugamos con gomas tan distintas: en un momento dado puedes girar la pala y hacer lo contrario de lo que se esperan.
 
 Algunos artículos que os pueden ayudar si no habéis entendido algo de lo que os he escrito:
-- [Qué son las gomas lisas]()
-- [Qué son las gomas de picos largos]()
-- [Tipos de mango para tu pala]()
-- [Qué es la madera DEF]()
-- [Qué es una madera OFF-]()
-- [Pala para molestar]()
+- [Qué son las gomas lisas](/gomas/gomas-lisas-las-mas-habituales/)
+- [Qué son las gomas de picos largos](/gomas/gomas-de-picos-largos-para-jugar-al-despiste/)
+- [Tipos de mango para tu pala](/guias/tipos-de-mango-para-tu-pala-de-tenis-de-mesa/)
+- [Qué es la madera DEF](/maderas/madera-def-defensa/)
+- [Qué es una madera OFF-](/maderas/madera-off-offensive-menos/)
+- [Pala para molestar](/guias/pala-para-estilo-de-juego-raro-al-despiste-disturbing-style/)
 
  
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Pala para molestar: New Andrzej Grubba + Anti-speed + Pico largo"
 description: "La pala New Andrzej Grubba con Anti-speed y picos largos es un arma de tenis de mesa para golpes impredecibles. Configuración de estratega a 124 euros."
 pubDate: "2026-02-02"
@@ -42,11 +42,11 @@ La goma de revés te permite con simples gestos, ya sean planos o con ligeros mo
 A todo esto debemos sumarle la posibilidad de ir girando la pala, puesto que para el que la empuña no es un gran problema, puesto que ambas gomas pueden usarse de forma similar. Eso sí, cuidado porque la de pico largo OX amortigua mucho el golpe y hay que empujarla con algo más de energía.
 
 Algunos artículos que os pueden ayudar si no habéis entendido algo de lo que os he escrito:
-- [Qué son las gomas antitop]()
-- [Qué son las gomas de picos largos]()
-- [Tipos de mango para tu pala]()
-- [Qué es una madera ALL+]()
-- [Pala para molestar]()
+- [Qué son las gomas antitop](/gomas/gomas-antitop-antispin/)
+- [Qué son las gomas de picos largos](/gomas/gomas-de-picos-largos-para-jugar-al-despiste/)
+- [Tipos de mango para tu pala](/guias/tipos-de-mango-para-tu-pala-de-tenis-de-mesa/)
+- [Qué es una madera ALL+](/maderas/madera-all-allround-plus/)
+- [Pala para molestar](/guias/pala-para-estilo-de-juego-raro-al-despiste-disturbing-style/)
 
  
 

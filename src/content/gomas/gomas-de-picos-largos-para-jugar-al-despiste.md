@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Gomas de picos largos, para jugar al despiste"
 description: "Las gomas de picos largos invierten el efecto y generan devoluciones impredecibles. Descubre cómo usar este arma en tu juego de tenis de mesa."
 pubDate: "2025-09-22"
@@ -34,4 +34,4 @@ Desventajas:
 - Requieren mucha técnica para usarlas correctamente.
 - Devoluciones lentas, lo que da tiempo al rival para preparar el siguiente golpe.
 
-Para este tipo de gomas es muy útil utilizar, en lugar de pegamento, las [hojas adhesivas de doble cara.]()
+Para este tipo de gomas es muy útil utilizar, en lugar de pegamento, las [hojas adhesivas de doble cara.](/materiales/hoja-adhesiva-de-doble-cara-la-alternativa-al-pegamento/)

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Pala ofensiva: Hadraw VR + Rozena + Tenergy 80"
 description: "La pala ofensiva Hadraw VR con Rozena y Tenergy 80 está diseñada para atacar en tenis de mesa. Una configuración personal para los amantes del ataque."
 pubDate: "2025-08-07"
@@ -29,10 +29,10 @@ En el revés llevo la versión "barata", una Butterfly Rozena de 1,7 mm. Tambié
 Es una combinación que me parece muy proporcionada. Tiene un peso muy correcto y compensado. La única pega: la compré usada, y venía con mango ST (completamente recto). Me falla un poco, ya que con el sudor resbala. Hubiese preferido un mango cóncavo (FL), pero es lo que encontré.
 
 Algunos artículos que os pueden ayudar si no habéis entendido algo de lo que os he escrito:
-- [Qué son las gomas lisas]()
-- [Tipos de mango para tu pala]()
-- [Qué es la madera OFF]()
-- [Pala para un jugador de estilo atacante]()
+- [Qué son las gomas lisas](/gomas/gomas-lisas-las-mas-habituales/)
+- [Tipos de mango para tu pala](/guias/tipos-de-mango-para-tu-pala-de-tenis-de-mesa/)
+- [Qué es la madera OFF](/maderas/madera-off-offensive-estandar/)
+- [Pala para un jugador de estilo atacante](/guias/pala-para-un-jugador-de-estilo-atacante/)
 
  
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Pala ofensiva. Intentando controlar un bólido: Quattro Carbon + 729 FX + Hurricane III"
 description: "La Joola Quattro Carbon con gomas de control es un experimento en tenis de mesa: madera OFF+ con gomas lentas. ¿Se puede domar este bólido? Lo analizamos."
 pubDate: "2025-02-17"
@@ -26,7 +26,7 @@ En conjunto, nos quedaría una pala veloz como pocas, que se ha ajustado con gom
  
 
 Algunos artículos que os pueden ayudar si no habéis entendido algo de lo que os he escrito:
-- [Qué son las gomas lisas]()
-- [Tipos de mango para tu pala]()
-- [Qué es la madera OFF+]()
-- [Pala para un jugador de estilo atacante]() ![Pala ofensiva. Intentando controlar un bólido: Quattro Carbon + 729 FX + Hurricane III](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoN43e6U7KJyuYQU0RHAWvVfqNuEmvAARXhCvhcq5TZDB9U1Dak6UTmA7JkQCg9nUTve5FiZr7VuwI-k_z-aUsAsaujgrwhyBLcyqiqGTIH8eMObzlwMfW0isuPXkg4c0n6_WS4RnH5IH4D_OWAcITUdA4GisT9YAs1zyAnzOOyPonVA6y0uHMMZxCYNul/s320/DHS%20Hurricane%20III%20negra.jpg)
+- [Qué son las gomas lisas](/gomas/gomas-lisas-las-mas-habituales/)
+- [Tipos de mango para tu pala](/guias/tipos-de-mango-para-tu-pala-de-tenis-de-mesa/)
+- [Qué es la madera OFF+](/maderas/madera-off-offensive-plus/)
+- [Pala para un jugador de estilo atacante](/guias/pala-para-un-jugador-de-estilo-atacante/) ![Pala ofensiva. Intentando controlar un bólido: Quattro Carbon + 729 FX + Hurricane III](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoN43e6U7KJyuYQU0RHAWvVfqNuEmvAARXhCvhcq5TZDB9U1Dak6UTmA7JkQCg9nUTve5FiZr7VuwI-k_z-aUsAsaujgrwhyBLcyqiqGTIH8eMObzlwMfW0isuPXkg4c0n6_WS4RnH5IH4D_OWAcITUdA4GisT9YAs1zyAnzOOyPonVA6y0uHMMZxCYNul/s320/DHS%20Hurricane%20III%20negra.jpg)

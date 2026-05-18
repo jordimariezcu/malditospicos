@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Pala defensiva (chopper): Mattenet ALL + Tackiness chop + picos largos "
 description: "Pala chopper de tenis de mesa con Mattenet ALL, Tackiness Chop y picos largos. Una combinación defensiva muy completa por unos 110 euros."
 pubDate: "2026-02-01"
@@ -37,11 +37,11 @@ lo espera.
  
 
 Algunos artículos que os pueden ayudar si no habéis entendido algo de lo que os he escrito:
-- [Qué son las gomas lisas]()
-- [Qué son las gomas de picos largos]()
-- [Tipos de mango para tu pala]()
-- [Qué es la madera ALL+]()
-- [Pala para un jugador de estilo cortador (chopper moderno)]()
+- [Qué son las gomas lisas](/gomas/gomas-lisas-las-mas-habituales/)
+- [Qué son las gomas de picos largos](/gomas/gomas-de-picos-largos-para-jugar-al-despiste/)
+- [Tipos de mango para tu pala](/guias/tipos-de-mango-para-tu-pala-de-tenis-de-mesa/)
+- [Qué es la madera ALL+](/maderas/madera-all-allround-plus/)
+- [Pala para un jugador de estilo cortador (chopper moderno)](/guias/pala-para-jugar-al-estilo-cortador-chopper-moderno/)
 
 ![Goma Butterfly Tackiness CHOP](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU3TpMGKrRj2jGwEgihwEN-iHutf5S1UcchvbtZGEuVlrxLXPYhMPTroPa8a8o3vBR-LIWW4AJRKWEqpms_HVMtt0qRlZokWMS3borX85alHC3ObQrimiH4FxlkwL4W8bfe5FAI1BJmkYa2lSklKYbR14oEqWrJbUcoXyAL_0v1cQ2w1PA8VCQ0Yw-Ny5l/w242-h400/Butterfly%20Tackiness%20CHOP.jpg)
 |  |

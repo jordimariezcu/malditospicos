@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Pala de control, ligeramente ofensiva: Mattenet ALL+ con gomas Friendship 729 FX"
 description: "La Mattenet ALL+ con gomas Friendship 729 FX es una pala de control perfecta para aprender tenis de mesa con buen tacto. Montaje completo por 73 euros."
 pubDate: "2025-08-04"
@@ -27,10 +27,10 @@ Es una
 combinación muy recomendable para principiantes, puesto que son útiles para aprender a jugar con condiciones, y ya con el tiempo irás viendo si te quedas en palas de control, o prefieres pasar a configuraciones más ofensivas o más defensivas.
 
 Algunos artículos que os pueden ayudar si no habéis entendido algo de lo que os he escrito:
--  [Qué son las gomas lisas]()
-- [Tipos de mango para tu pala]()
-- [Qué es la madera ALL+]()
-- [Pala para un jugador de control]()
+-  [Qué son las gomas lisas](/gomas/gomas-lisas-las-mas-habituales/)
+- [Tipos de mango para tu pala](/guias/tipos-de-mango-para-tu-pala-de-tenis-de-mesa/)
+- [Qué es la madera ALL+](/maderas/madera-all-allround-plus/)
+- [Pala para un jugador de control](/guias/pala-para-jugador-de-control/)
 
  
 

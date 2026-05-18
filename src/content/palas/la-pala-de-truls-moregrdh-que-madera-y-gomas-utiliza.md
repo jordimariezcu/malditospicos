@@ -1,4 +1,4 @@
-﻿---
+---
 title: "La pala de Truls Möregårdh: qué madera y gomas utiliza"
 description: "Truls Möregårdh es uno de los jugadores más carismáticos del tenis de mesa actual. Descubre la pala Stiga y las gomas con las que sorprende al mundo."
 pubDate: "2025-10-11"
@@ -32,9 +32,9 @@ Se
 trata de una pala profesional, para jugadores ofensivos, que disfruten con la velocidad pero también con los efectos.
 
 Algunos artículos que os pueden ayudar si no habéis entendido algo de lo que os he escrito:
-- [Qué son las gomas lisas]()
-- [Tipos de mango para tu pala]()
-- [Qué es la madera OFF]()
+- [Qué son las gomas lisas](/gomas/gomas-lisas-las-mas-habituales/)
+- [Tipos de mango para tu pala](/guias/tipos-de-mango-para-tu-pala-de-tenis-de-mesa/)
+- [Qué es la madera OFF](/maderas/madera-off-offensive-estandar/)
 - [Pala para un jugador de estilo atacante
 ]() 
 

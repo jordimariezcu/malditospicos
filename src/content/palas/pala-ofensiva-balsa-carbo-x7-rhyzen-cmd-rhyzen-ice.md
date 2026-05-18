@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Pala ofensiva: Balsa carbo x7 + Rhyzen CMD + Rhyzen Ice"
 description: "La combinación Balsa Carbo X7 con gomas Rhyzen CMD y Rhyzen Ice es una pala ofensiva de tenis de mesa equilibrada y versátil. Análisis por 150 euros."
 pubDate: "2025-08-06"
@@ -30,9 +30,9 @@ En el revés lleva la Joola Rhyzen Ice, con una esponja relativamente suave que 
 En conjunto es una pala ofensiva pero con control, para aprender a jugar bien de forma ofensiva pero sin que la pelota se te descontrole.
 
 Algunos artículos que os pueden ayudar si no habéis entendido algo de lo que os he escrito:
-- [Qué son las gomas lisas]()
-- [Tipos de mango para tu pala]()
-- [Qué es la madera OFF]()
+- [Qué son las gomas lisas](/gomas/gomas-lisas-las-mas-habituales/)
+- [Tipos de mango para tu pala](/guias/tipos-de-mango-para-tu-pala-de-tenis-de-mesa/)
+- [Qué es la madera OFF](/maderas/madera-off-offensive-estandar/)
 - [Pala para un jugador de estilo atacante
 
 ]()![Goma Joola Rhyzen CMD azul](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLcr7nw3mIZkeI3vzfZ9kVoGEj8JqBkHZGVkI-8V1HT-wa4caO9_Th8Q4lA-QpCW7OXD3R60x5eeay1kQD4w3U2rXRGusPybrBElMUpGAcBP3zIsksFvq1ggk339jLa8e_lqhJ-WghyphenhyphenRil3m7YdsQF0qFfnbmuIdDamUoXaKerHBF0SleIS2DMxDZwr_Un/w400-h300/Goma%20JOOLA%20Rhyzen%20CMD%20(%20SUPERFICIE%20COLOR%20AZUL%20).jpg)

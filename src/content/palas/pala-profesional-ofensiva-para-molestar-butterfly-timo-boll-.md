@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Pala profesional ofensiva \"para molestar\": Butterfly Timo Boll ALC + picos cortos + picos medianos"
 description: "La pala de Svetlana Skobkina combina la Timo Boll ALC con picos cortos y medianos. Un arma de tenis de mesa para molestar al rival a nivel profesional."
 pubDate: "2025-08-11"
@@ -32,11 +32,11 @@ En resumen: se trata de una configuración de estilo ofensivo, pero pensada para
 Una herramienta que si se utiliza con pericia, puede dar grandes resultados, como salta a la vista.
 
 Algunos artículos que os pueden ayudar si no habéis entendido algo de lo que os he escrito:
-- [Gomas de picos cortos]()
-- [Gomas de picos medianos]()
-- [Tipos de mango para tu pala]()
-- [Qué es la madera OFF]()
-- [Pala estilo raro o al despiste]()
+- [Gomas de picos cortos](/gomas/gomas-de-picos-cortos-una-ayuda-ofensiva/)
+- [Gomas de picos medianos](/gomas/gomas-de-picos-medianos-mayor-control-y-despiste-del-rival/)
+- [Tipos de mango para tu pala](/guias/tipos-de-mango-para-tu-pala-de-tenis-de-mesa/)
+- [Qué es la madera OFF](/maderas/madera-off-offensive-estandar/)
+- [Pala estilo raro o al despiste](/guias/pala-para-estilo-de-juego-raro-al-despiste-disturbing-style/)
 
 ![Svetlana Skobkina](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirtYY6z-Zgq-TyhuokCvzP4O9IrTVXig1u_LNSRIcKmvjKZqFeSqY2y-2YncbiUg5OB8pU0oT8SmeJHYs4Ig1pZ_VLOIMmvh9oAmK3oVInP2soYN6VRryrcetfsZhYehfiN_Jf5ob_FY1Ovb84-XiSboJTEzwkS6tvpq1aVR1TJLO5Sr6f1FEMxxtQKx2O/w378-h400/Svetlana%20Skobkina.jpg)
 |  |

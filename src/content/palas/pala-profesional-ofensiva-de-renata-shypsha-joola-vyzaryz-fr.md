@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Pala profesional ofensiva de Renata Shypsha: Joola Vyzaryz Freeze HDR+ gomas Dynaryz ACC"
 description: "Descubre la pala de Renata Shypsha, joven promesa del tenis de mesa español. Joola Vyzaryz Freeze HDR con Dynaryz ACC para un ataque devastador."
 pubDate: "2025-08-16"
@@ -29,9 +29,9 @@ el revés lleva gomas Joola Dynaryz ACC, que ofrecen una gran velocidad y unos p
 Como podemos observar, se trata de una configuración de pala muy veloz, pero siempre aportando un buen control y precisión. 
 
 Algunos artículos que os pueden ayudar si no habéis entendido algo de lo que os he escrito:
-- [Qué son las gomas lisas]()
-- [Tipos de mango para tu pala]()
-- [Qué es la madera OFF]()
+- [Qué son las gomas lisas](/gomas/gomas-lisas-las-mas-habituales/)
+- [Tipos de mango para tu pala](/guias/tipos-de-mango-para-tu-pala-de-tenis-de-mesa/)
+- [Qué es la madera OFF](/maderas/madera-off-offensive-estandar/)
 - [Pala para un jugador de estilo atacante
 ]() ![Renata Shypsha](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcAN_4wu5PL6yvVqAtx4DanpStQG3NhkDm5T6S_SKSXNpsxwXATyG5ORgsHK3h5SgDQGxgSxjt6ESpsDy1FVVqZjkEsk_wvYCJMUKtaWR40YsEIQ5MrohCteUi7ON4S_cznFaywfXehGUUrKuzjrWk835W1dmzDSgNFsbxhRGHgCq5AfInEWeezOKrP3YF/w320-h400/renata%20shypsha.jpg)
 |  |

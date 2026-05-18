@@ -1,4 +1,4 @@
-﻿---
+---
 title: "La pala de Achanta Sharath Kamal: qué madera y gomas utiliza"
 description: "Descubre la pala de tenis de mesa de Achanta Sharath Kamal, el mejor jugador indio de la historia. Qué madera y gomas usa para competir al más alto nivel."
 pubDate: "2025-10-08"
@@ -30,10 +30,10 @@ Se
 trata de una pala profesional, para jugadores del estilo del gran Sharath Kamal.
 
 Algunos artículos que os pueden ayudar si no habéis entendido algo de lo que os he escrito:
-- [Qué son las gomas lisas]()
-- [Tipos de mango para tu pala]()
-- [Qué es la madera OFF]()
-- [Pala para un jugador de estilo atacante]()
+- [Qué son las gomas lisas](/gomas/gomas-lisas-las-mas-habituales/)
+- [Tipos de mango para tu pala](/guias/tipos-de-mango-para-tu-pala-de-tenis-de-mesa/)
+- [Qué es la madera OFF](/maderas/madera-off-offensive-estandar/)
+- [Pala para un jugador de estilo atacante](/guias/pala-para-un-jugador-de-estilo-atacante/)
 
  
 

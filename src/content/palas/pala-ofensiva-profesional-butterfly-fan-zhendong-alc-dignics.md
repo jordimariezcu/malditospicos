@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Pala ofensiva profesional: Butterfly Fan Zhendong ALC + Dignics 09C + Dignics 05"
 description: "La pala Fan Zhendong ALC con Dignics es la configuración de tenis de mesa más profesional de Butterfly. Potencia y efecto extremos por unos 340 euros."
 pubDate: "2025-08-09"
@@ -30,9 +30,9 @@ Se trata de una pala de un nivel superior, para buscar una juego ofensivo de gra
  
 
 Algunos artículos que os pueden ayudar si no habéis entendido algo de lo que os he escrito:
-- [Qué son las gomas lisas]()
-- [Tipos de mango para tu pala]()
-- [Qué es la madera OFF]()
+- [Qué son las gomas lisas](/gomas/gomas-lisas-las-mas-habituales/)
+- [Tipos de mango para tu pala](/guias/tipos-de-mango-para-tu-pala-de-tenis-de-mesa/)
+- [Qué es la madera OFF](/maderas/madera-off-offensive-estandar/)
 - [Pala para un jugador de estilo atacante
 ]() ![Goma Butterfly DIGNICS 05](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7D5PkyxxeH4xzpnFpS-ymuilZvOCVPH_woVPg-JFETHs3HNLzWE0jakhuqYVtkubHCcnC5jAAQIaAN7s1qGpZnPHglXEskAbrHphtvPArKBlKVUbXJ5bOzGFIG6D5KMKCp1b1LX66NmsrsmaTgxChiyWa8cJMD3U1skHkyFgtRowsubMRykxjBXXi_DIA/w273-h400/Goma%20Butterfly%20DIGNICS%2005.jpg)
 |  |

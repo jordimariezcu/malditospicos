@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Pala para molestar: Maze Performance + Rhyzen Ice + picos medianos"
 description: "La Maze Performance con Rhyzen Ice y picos medianos es una pala de tenis de mesa para molestar al rival. Una configuración personal probada en competición."
 pubDate: "2025-09-11"
@@ -32,11 +32,11 @@ Una
 ideal "para molestar", con un drive rápido y bien dirigido y un revés con múltiples opciones. Como todas las palas con picos, hay que aprovechar e ir girando de vez en cuando la pala, haciendo saques o golpes inesperados para el rival, pues le estás dando con la goma contraria a la que espera. 
 
 Algunos artículos que os pueden ayudar si no habéis entendido algo de lo que os he escrito:
-- [Qué son las gomas lisas]()
-- [Qué son las gomas de picos medianos]()
-- [Tipos de mango para tu pala]()
-- [Qué es una madera OFF]()
-- [Pala para molestar]()
+- [Qué son las gomas lisas](/gomas/gomas-lisas-las-mas-habituales/)
+- [Qué son las gomas de picos medianos](/gomas/gomas-de-picos-medianos-mayor-control-y-despiste-del-rival/)
+- [Tipos de mango para tu pala](/guias/tipos-de-mango-para-tu-pala-de-tenis-de-mesa/)
+- [Qué es una madera OFF](/maderas/madera-off-offensive-estandar/)
+- [Pala para molestar](/guias/pala-para-estilo-de-juego-raro-al-despiste-disturbing-style/)
 
 ![Goma Der-materialspezialist Power Pipes](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfx0t6wG4oiTSYxYIgBzpATJMhPgkpoTxFiDOMbd87WN1tnXLIaGk69igqXmFTYnp27tLyZkLvjb3cWtFJGlh9WpUzqJE5QQvayvYao8xXerLiYJbbuAqhbYsFzDdMbq7G4J5paeT9Q3_a5TIQOgoLYrLnYd8h1AecEJoQEyNaQKPVJOtApXUzoLxuiHQF/w239-h400/Goma%20der-materialspezialist%20Power%20Pipes.jpg)
 |  |

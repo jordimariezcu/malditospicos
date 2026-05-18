@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Cómo leer el efecto del saque"
 description: "Leer el efecto del saque es la clave para no cometer errores de recepción. Descubre cómo interpretar el movimiento de la pala y la rotación de la pelota antes de devolver."
 pubDate: "2025-03-24"
@@ -12,8 +12,8 @@ draft: false
 
 El saque es como un truco de magia: hay que fijarse bien. Observa cómo se mueve el brazo, cómo roza la pala la pelota y cómo gira ésta en el aire. 
 
-Un movimiento de abajo hacia arriba suele ser topspin, de arriba hacia abajo suele ser backspin. Si la muñeca va lateral, es sidespin. El bote y la reacción de la bola también te darán pistas. ¡Sé un detective del efecto! Te recomendamos ver los [distintos tipos de saques que hay](), para ir acostumbrándote a intuir qué hará la pelota.
+Un movimiento de abajo hacia arriba suele ser topspin, de arriba hacia abajo suele ser backspin. Si la muñeca va lateral, es sidespin. El bote y la reacción de la bola también te darán pistas. ¡Sé un detective del efecto! Te recomendamos ver los [distintos tipos de saques que hay](/tecnica/), para ir acostumbrándote a intuir qué hará la pelota.
 
 También, con el tiempo, detectarás el movimiento de la pelota (ver si se mueve mucho o poco el logo de la marca). Eso te dará pistas para detectar bolas planas, con poco efecto o con mucho efecto.
 
-Y un último secreto: el [chop block]() suele ser útil para recibir saques que no sabes exactamente cómo vienen.
+Y un último secreto: el [chop block](/tecnica/que-es-el-chop-block-y-como-se-hace/) suele ser útil para recibir saques que no sabes exactamente cómo vienen.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "GeblockTT - Tenis de mesa en Youtube"
 pubDate: "2026-01-09"
 updatedDate: "2026-03-07"
@@ -11,7 +11,7 @@ draft: false
 
 ![GeblockTT - Tenis de mesa en Youtube](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSQlKsO6KxZXqzEdB9oGiDFObteOcrylDcagidN5fr8zCtEvjEPsYKk0rSPTyUL0uYtKjjZldJNwwC92a4xFH8OT_ZeqCu6F2ysPnVXEcvgLWZKs_TVtFY4IV14XWISOm1TFKbjG0vGmezi_yRbJdiAjhviIalnS0opIpDtGUPNctwpT5jtXhhMWhXpQMy/w400-h241/GeblockTT%20-%20Table%20Tennis.jpg)
 
-Os recomiendo seguir en Youtube a [GeblockTT]() , una cuenta que nos ofrece 2 cosas que nos gustan mucho: 
+Os recomiendo seguir en Youtube a [GeblockTT](https://www.youtube.com/@GeblockTT) , una cuenta que nos ofrece 2 cosas que nos gustan mucho: 
 
 - Partidos de competición, donde podemos aprender gestos y movimientos
 

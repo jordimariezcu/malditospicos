@@ -1,4 +1,4 @@
-﻿---
+---
 title: "La pala de Simon Gauzy: qué madera y gomas utiliza"
 description: "Simon Gauzy fue número 8 del mundo en tenis de mesa. Descubre qué madera y gomas Andro usa este jugador francés para generar sus devastadores efectos."
 pubDate: "2025-10-09"
@@ -32,9 +32,9 @@ Se
 trata de una pala profesional, para jugadores ofensivos y con un buen dominio del impacto y de los efectos.
 
 Algunos artículos que os pueden ayudar si no habéis entendido algo de lo que os he escrito:
-- [Qué son las gomas lisas]()
-- [Tipos de mango para tu pala]()
-- [Qué es la madera OFF]()
+- [Qué son las gomas lisas](/gomas/gomas-lisas-las-mas-habituales/)
+- [Tipos de mango para tu pala](/guias/tipos-de-mango-para-tu-pala-de-tenis-de-mesa/)
+- [Qué es la madera OFF](/maderas/madera-off-offensive-estandar/)
 - [Pala para un jugador de estilo atacante
 ]() 
 

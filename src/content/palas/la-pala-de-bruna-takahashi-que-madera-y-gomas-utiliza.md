@@ -1,4 +1,4 @@
-﻿---
+---
 title: "La pala de Bruna Takahashi: qué madera y gomas utiliza"
 description: "Bruna Takahashi fue número 19 del mundo. Descubre la pala de tenis de mesa de la mejor jugadora brasileña de la historia y qué materiales Andro utiliza."
 pubDate: "2025-10-10"
@@ -33,9 +33,9 @@ Se
 trata de una pala profesional, para jugadores ofensivos y con un buen dominio del impacto y de los efectos.
 
 Algunos artículos que os pueden ayudar si no habéis entendido algo de lo que os he escrito:
-- [Qué son las gomas lisas]()
-- [Tipos de mango para tu pala]()
-- [Qué es la madera OFF]()
+- [Qué son las gomas lisas](/gomas/gomas-lisas-las-mas-habituales/)
+- [Tipos de mango para tu pala](/guias/tipos-de-mango-para-tu-pala-de-tenis-de-mesa/)
+- [Qué es la madera OFF](/maderas/madera-off-offensive-estandar/)
 - [Pala para un jugador de estilo atacante
 ]() 
 

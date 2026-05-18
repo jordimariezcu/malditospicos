@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Pala de control: Boll Mezzoforte + gomas Friendship 729 FX"
 description: "La pala Boll Mezzoforte con gomas Friendship 729 FX es ideal para iniciarse en el tenis de mesa con control. Un montaje equilibrado por unos 88 euros."
 pubDate: "2025-04-21"
@@ -35,10 +35,10 @@ Es una
 combinación ideal para empezar, muy balanceada, ligera, que ofrece un buen control y una velocidad mesurada, con el objetivo de afianzar la técnica poco a poco, y disfrutar del tenis de mesa sin complicaciones.
 
 Algunos artículos que os pueden ayudar si no habéis entendido algo de lo que os he escrito:
--  [Qué son las gomas lisas]()
-- [Tipos de mango para tu pala]()
-- [Qué es la madera ALL+]()
-- [Pala para un jugador de control]()
+-  [Qué son las gomas lisas](/gomas/gomas-lisas-las-mas-habituales/)
+- [Tipos de mango para tu pala](/guias/tipos-de-mango-para-tu-pala-de-tenis-de-mesa/)
+- [Qué es la madera ALL+](/maderas/madera-all-allround-plus/)
+- [Pala para un jugador de control](/guias/pala-para-jugador-de-control/)
 
  
 

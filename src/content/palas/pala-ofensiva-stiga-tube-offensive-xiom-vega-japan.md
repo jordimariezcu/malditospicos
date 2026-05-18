@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Pala ofensiva: Stiga Tube Offensive + Xiom Vega Japan"
 description: "La Stiga Tube Offensive con gomas Xiom Vega Japan es una pala ofensiva de tenis de mesa equilibrada. Analizamos esta combinación de 150 euros en detalle."
 pubDate: "2025-09-12"
@@ -28,9 +28,9 @@ el revés lleva gomas XIOM Vega Japan, gomas con una buena velocidad pero sin pe
 En conjunto, una pala para un jugador ofensivo pero que quiere poder controlar bien las rotaciones de la pelota y la ubicación de sus golpes.
 
 Algunos artículos que os pueden ayudar si no habéis entendido algo de lo que os he escrito:
-- [Qué son las gomas lisas]()
-- [Tipos de mango para tu pala]()
-- [Qué es la madera OFF]()
+- [Qué son las gomas lisas](/gomas/gomas-lisas-las-mas-habituales/)
+- [Tipos de mango para tu pala](/guias/tipos-de-mango-para-tu-pala-de-tenis-de-mesa/)
+- [Qué es la madera OFF](/maderas/madera-off-offensive-estandar/)
 - [Pala para un jugador de estilo atacante
 ]() 
 

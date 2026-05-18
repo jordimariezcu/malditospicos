@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Gomas antitop (antispin)"
 description: "Las gomas antitop o antispin neutralizan el efecto rival y devuelven bolas muertas. Descubre cómo funcionan y si son la elección correcta para tu pala."
 pubDate: "2025-07-17"
@@ -34,4 +34,4 @@ Desventajas:
 - Difíciles de usar en un juego ofensivo.
 - Las bolas suelen ser lentas y fáciles de atacar si el rival se adapta.
 
-Para este tipo de gomas es muy útil utilizar, en lugar de pegamento, las [hojas adhesivas de doble cara]().
+Para este tipo de gomas es muy útil utilizar, en lugar de pegamento, las [hojas adhesivas de doble cara](/materiales/hoja-adhesiva-de-doble-cara-la-alternativa-al-pegamento/).

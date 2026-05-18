@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Tipos de picos en las gomas de tenis de mesa: cortos, medianos y largos"
 description: "¿Picos cortos, medianos o largos? Analizamos los tipos de gomas de picos en tenis de mesa y cómo cada uno afecta a tu estilo de juego."
 pubDate: "2026-03-06"
@@ -21,7 +21,7 @@ Antes de entrar a examinar los picos según su longitud, debemos tener en cuenta
 
 Estas dos características van a condicionar mucho el juego de cada modelo de goma. En general, los cauchos duros son más veloces y generan menos efecto, y los cauchos blandos pueden dar más efecto y pueden ralentizar mejor el juego.
 
-Si la esponja es delgada, o incluso inexistente ([gomas OX]()), implica que la bola está poco tiempo en contacto con la pala, puesto que llega y golpea en la madera, saliendo de nuevo muy pronto. Esto consigue una velocidad baja y, en general, una mayor inversión del efecto. Si la esponja es gruesa, rebota más, puede generar más efecto y es útil para jugar con velocidad de forma ofensiva.
+Si la esponja es delgada, o incluso inexistente ([gomas OX](/gomas/que-es-una-goma-ox-y-para-que-sirve/)), implica que la bola está poco tiempo en contacto con la pala, puesto que llega y golpea en la madera, saliendo de nuevo muy pronto. Esto consigue una velocidad baja y, en general, una mayor inversión del efecto. Si la esponja es gruesa, rebota más, puede generar más efecto y es útil para jugar con velocidad de forma ofensiva.
 También existen esponjas de características muy diversas. Vale la pena informarse bien en cada caso. 
 
 **Rugosidad de los picos**
