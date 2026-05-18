@@ -1,9 +1,11 @@
-﻿---
-title: "Vallas de tenis de mesa"
-pubDate: "2025-02-28"
-updatedDate: "2025-08-13"
-category: "materiales"
-tags: ["Materiales"]
+---
+title: Vallas de tenis de mesa
+pubDate: '2025-02-28'
+updatedDate: '2025-08-13'
+category: materiales
+tags:
+- Materiales
+- Entrenamiento
 draft: false
 ---
 

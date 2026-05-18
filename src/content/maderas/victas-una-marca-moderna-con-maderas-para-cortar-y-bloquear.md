@@ -1,12 +1,15 @@
-﻿---
-title: "Victas, una marca moderna con maderas para cortar y bloquear"
-description: "Victas es la marca japonesa fundada por un campeón defensivo. Descubre sus maderas de tenis de mesa para cortadores y su moderna propuesta ofensiva."
-pubDate: "2025-02-11"
-updatedDate: "2025-08-11"
-category: "maderas"
-tags: ["Maderas"]
+---
+title: Victas, una marca moderna con maderas para cortar y bloquear
+description: Victas es la marca japonesa fundada por un campeón defensivo. Descubre
+  sus maderas de tenis de mesa para cortadores y su moderna propuesta ofensiva.
+pubDate: '2025-02-11'
+updatedDate: '2025-08-11'
+category: maderas
+tags:
+- Maderas
+- Victas
 draft: false
-brand: "Victas"
+brand: Victas
 rating: 4
 ---
 

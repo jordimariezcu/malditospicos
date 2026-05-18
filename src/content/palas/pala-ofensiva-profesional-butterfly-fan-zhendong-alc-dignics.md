@@ -1,12 +1,17 @@
 ---
-title: "Pala ofensiva profesional: Butterfly Fan Zhendong ALC + Dignics 09C + Dignics 05"
-description: "La pala Fan Zhendong ALC con Dignics es la configuración de tenis de mesa más profesional de Butterfly. Potencia y efecto extremos por unos 340 euros."
-pubDate: "2025-08-09"
-updatedDate: "2025-08-14"
-category: "palas"
-tags: ["Configuraciones de palas"]
+title: 'Pala ofensiva profesional: Butterfly Fan Zhendong ALC + Dignics 09C + Dignics
+  05'
+description: La pala Fan Zhendong ALC con Dignics es la configuración de tenis de
+  mesa más profesional de Butterfly. Potencia y efecto extremos por unos 340 euros.
+pubDate: '2025-08-09'
+updatedDate: '2025-08-14'
+category: palas
+tags:
+- Configuraciones de palas
+- Ofensivo
+- Butterfly
 draft: false
-brand: "Butterfly"
+brand: Butterfly
 rating: 5
 ---
 

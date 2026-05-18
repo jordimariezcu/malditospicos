@@ -1,12 +1,15 @@
 ---
-title: "Pala ofensiva: Korbel SK7 con dos gomas Dynaryz ACC"
-description: "La pala Korbel SK7 con dos Dynaryz ACC es una configuración ofensiva de tenis de mesa muy potente. Una opción para jugadores que atacan sin descanso."
-pubDate: "2025-08-05"
-updatedDate: "2025-08-14"
-category: "palas"
-tags: ["Configuraciones de palas"]
+title: 'Pala ofensiva: Korbel SK7 con dos gomas Dynaryz ACC'
+description: La pala Korbel SK7 con dos Dynaryz ACC es una configuración ofensiva
+  de tenis de mesa muy potente. Una opción para jugadores que atacan sin descanso.
+pubDate: '2025-08-05'
+updatedDate: '2025-08-14'
+category: palas
+tags:
+- Configuraciones de palas
+- Ofensivo
 draft: false
-brand: "Donic"
+brand: Donic
 rating: 4.5
 ---
 

@@ -1,12 +1,15 @@
 ---
-title: "Pala defensiva (chopper): Mattenet ALL + Tackiness chop + picos largos "
-description: "Pala chopper de tenis de mesa con Mattenet ALL, Tackiness Chop y picos largos. Una combinación defensiva muy completa por unos 110 euros."
-pubDate: "2026-02-01"
-updatedDate: "2026-03-07"
-category: "palas"
-tags: ["Configuraciones de palas"]
+title: 'Pala defensiva (chopper): Mattenet ALL + Tackiness chop + picos largos '
+description: Pala chopper de tenis de mesa con Mattenet ALL, Tackiness Chop y picos
+  largos. Una combinación defensiva muy completa por unos 110 euros.
+pubDate: '2026-02-01'
+updatedDate: '2026-03-07'
+category: palas
+tags:
+- Configuraciones de palas
+- Defensivo
 draft: false
-brand: "Donic"
+brand: Donic
 rating: 4
 ---
 

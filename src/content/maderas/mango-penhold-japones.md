@@ -1,10 +1,13 @@
-﻿---
-title: "Mango Penhold japonés"
-description: "El mango Penhold japonés añade una pieza acolchada para mayor estabilidad. Conoce sus ventajas y por qué es una opción muy valorada en el tenis de mesa."
-pubDate: "2025-05-23"
-updatedDate: "2025-08-09"
-category: "maderas"
-tags: ["Maderas"]
+---
+title: Mango Penhold japonés
+description: El mango Penhold japonés añade una pieza acolchada para mayor estabilidad.
+  Conoce sus ventajas y por qué es una opción muy valorada en el tenis de mesa.
+pubDate: '2025-05-23'
+updatedDate: '2025-08-09'
+category: maderas
+tags:
+- Maderas
+- Tipo de mango
 draft: false
 ---
 

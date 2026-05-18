@@ -1,13 +1,17 @@
-﻿---
-title: "Omar Assar, símbolo del tenis de mesa en el continente africano"
-description: "Omar Assar es el embajador del tenis de mesa africano y múltiple campeón continental. Descubre su potente golpe de derecha y cómo ha inspirado a toda una generación en África."
-pubDate: "2025-01-04"
-updatedDate: "2025-08-13"
-category: "jugadores"
-tags: ["Jugadores"]
+---
+title: Omar Assar, símbolo del tenis de mesa en el continente africano
+description: Omar Assar es el embajador del tenis de mesa africano y múltiple campeón
+  continental. Descubre su potente golpe de derecha y cómo ha inspirado a toda una
+  generación en África.
+pubDate: '2025-01-04'
+updatedDate: '2025-08-13'
+category: jugadores
+tags:
+- Jugadores
+- Egipto
 draft: false
-nationality: "Egipto"
-birthDate: "1993-02-21"
+nationality: Egipto
+birthDate: '1993-02-21'
 ---
 
 Omar Assar, nacido en 1991 en Egipto, es el mejor jugador africano de la última década junto a Quadri Aruna. 

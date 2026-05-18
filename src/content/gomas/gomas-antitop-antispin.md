@@ -1,10 +1,13 @@
 ---
-title: "Gomas antitop (antispin)"
-description: "Las gomas antitop o antispin neutralizan el efecto rival y devuelven bolas muertas. Descubre cómo funcionan y si son la elección correcta para tu pala."
-pubDate: "2025-07-17"
-updatedDate: "2025-08-09"
-category: "gomas"
-tags: ["Gomas"]
+title: Gomas antitop (antispin)
+description: Las gomas antitop o antispin neutralizan el efecto rival y devuelven
+  bolas muertas. Descubre cómo funcionan y si son la elección correcta para tu pala.
+pubDate: '2025-07-17'
+updatedDate: '2025-08-09'
+category: gomas
+tags:
+- Gomas
+- Antitop
 draft: false
 ---
 

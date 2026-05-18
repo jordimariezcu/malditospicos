@@ -1,9 +1,11 @@
-﻿---
-title: "Red y soportes para la mesa"
-pubDate: "2025-02-26"
-updatedDate: "2025-08-13"
-category: "materiales"
-tags: ["Materiales"]
+---
+title: Red y soportes para la mesa
+pubDate: '2025-02-26'
+updatedDate: '2025-08-13'
+category: materiales
+tags:
+- Materiales
+- Entrenamiento
 draft: false
 ---
 

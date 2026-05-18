@@ -1,13 +1,16 @@
-﻿---
-title: "Lin Shidong, un genio de la táctica"
-description: "Lin Shidong, número 1 del mundo con solo 20 años. Conoce el estilo, palmarés y claves tácticas del prodigio chino que está revolucionando el tenis de mesa."
-pubDate: "2025-01-01"
-updatedDate: "2025-08-13"
-category: "jugadores"
-tags: ["Jugadores"]
+---
+title: Lin Shidong, un genio de la táctica
+description: Lin Shidong, número 1 del mundo con solo 20 años. Conoce el estilo, palmarés
+  y claves tácticas del prodigio chino que está revolucionando el tenis de mesa.
+pubDate: '2025-01-01'
+updatedDate: '2025-08-13'
+category: jugadores
+tags:
+- Jugadores
+- China
 draft: false
-nationality: "China"
-birthDate: "2002-12-08"
+nationality: China
+birthDate: '2002-12-08'
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/LQ8wX20l2LQ?si=jDcP49y33zW6ihb9" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

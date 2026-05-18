@@ -1,12 +1,15 @@
-﻿---
-title: "Dr. Neubauer, especializados en palas defensivas y poco convencionales"
-description: "Dr. Neubauer fabrica maderas de tenis de mesa para estilos defensivos y disruptivos. Descubre por qué es la marca favorita de los jugadores con picos."
-pubDate: "2025-02-05"
-updatedDate: "2025-08-11"
-category: "maderas"
-tags: ["Maderas"]
+---
+title: Dr. Neubauer, especializados en palas defensivas y poco convencionales
+description: Dr. Neubauer fabrica maderas de tenis de mesa para estilos defensivos
+  y disruptivos. Descubre por qué es la marca favorita de los jugadores con picos.
+pubDate: '2025-02-05'
+updatedDate: '2025-08-11'
+category: maderas
+tags:
+- Maderas
+- Dr. Neubauer
 draft: false
-brand: "Dr. Neubauer"
+brand: Dr. Neubauer
 rating: 4
 ---
 

@@ -1,10 +1,17 @@
-﻿---
-title: "Push, flick o topspin: cómo elegir la mejor recepción"
-description: "Elegir entre push, flick o topspin en la recepción puede decidir el punto. Aprende cuándo usar cada golpe según el efecto del saque y cómo tomar la iniciativa desde el primer toque."
-pubDate: "2025-03-27"
-updatedDate: "2025-08-10"
-category: "tecnica"
-tags: ["Saques"]
+---
+title: 'Push, flick o topspin: cómo elegir la mejor recepción'
+description: Elegir entre push, flick o topspin en la recepción puede decidir el punto.
+  Aprende cuándo usar cada golpe según el efecto del saque y cómo tomar la iniciativa
+  desde el primer toque.
+pubDate: '2025-03-27'
+updatedDate: '2025-08-10'
+category: tecnica
+tags:
+- Saques
+- Topspin
+- Push
+- Flick
+- Recepción
 draft: false
 ---
 

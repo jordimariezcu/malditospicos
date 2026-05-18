@@ -1,13 +1,17 @@
-﻿---
-title: "Kuai Man, alta precisión"
-description: "Kuai Man es la nueva sensación del tenis de mesa chino. Descubre cómo esta joven campeona usa su revés activo y saques con efecto para dominar cerca de la mesa."
-pubDate: "2025-01-07"
-updatedDate: "2025-08-13"
-category: "jugadores"
-tags: ["Jugadores"]
+---
+title: Kuai Man, alta precisión
+description: Kuai Man es la nueva sensación del tenis de mesa chino. Descubre cómo
+  esta joven campeona usa su revés activo y saques con efecto para dominar cerca de
+  la mesa.
+pubDate: '2025-01-07'
+updatedDate: '2025-08-13'
+category: jugadores
+tags:
+- Jugadores
+- China
 draft: false
-nationality: "China"
-birthDate: "2004-10-07"
+nationality: China
+birthDate: '2004-10-07'
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/j-c8bNN8ZoE?si=gEfsd6Js2ILXRGyv" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

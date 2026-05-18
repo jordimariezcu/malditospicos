@@ -1,10 +1,13 @@
-﻿---
-title: "Pala para estilo de juego raro / al despiste (disturbing style)"
-description: "El disturbing style en tenis de mesa usa gomas de picos y antitop para desorientar al rival. Descubre qué tipo de pala necesitas para este estilo de juego."
-pubDate: "2025-05-14"
-updatedDate: "2025-08-08"
-category: "guias"
-tags: ["Como tiene que ser tu pala"]
+---
+title: Pala para estilo de juego raro / al despiste (disturbing style)
+description: El disturbing style en tenis de mesa usa gomas de picos y antitop para
+  desorientar al rival. Descubre qué tipo de pala necesitas para este estilo de juego.
+pubDate: '2025-05-14'
+updatedDate: '2025-08-08'
+category: guias
+tags:
+- Como tiene que ser tu pala
+- Estilo de juego
 draft: false
 ---
 

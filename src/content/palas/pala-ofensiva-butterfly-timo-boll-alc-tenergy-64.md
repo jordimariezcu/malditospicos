@@ -1,12 +1,16 @@
 ---
-title: "Pala ofensiva: Butterfly Timo Boll ALC + Tenergy 64"
-description: "La Butterfly Timo Boll ALC con Tenergy 64 es una pala ofensiva de tenis de mesa de alto nivel. Muy rápida y con efecto brutal: análisis a 290 euros."
-pubDate: "2025-09-14"
-updatedDate: "2025-09-14"
-category: "palas"
-tags: ["Configuraciones de palas"]
+title: 'Pala ofensiva: Butterfly Timo Boll ALC + Tenergy 64'
+description: 'La Butterfly Timo Boll ALC con Tenergy 64 es una pala ofensiva de tenis
+  de mesa de alto nivel. Muy rápida y con efecto brutal: análisis a 290 euros.'
+pubDate: '2025-09-14'
+updatedDate: '2025-09-14'
+category: palas
+tags:
+- Configuraciones de palas
+- Ofensivo
+- Butterfly
 draft: false
-brand: "Butterfly"
+brand: Butterfly
 rating: 4.5
 ---
 

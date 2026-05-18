@@ -1,12 +1,15 @@
-﻿---
-title: "Butterfly Rozena"
-description: "La Butterfly Rozena es la goma perfecta para quienes buscan control y facilidad en tenis de mesa. Analizamos sus características y precio."
-pubDate: "2026-03-13"
-updatedDate: "2026-03-29"
-category: "gomas"
-tags: ["Gomas"]
+---
+title: Butterfly Rozena
+description: La Butterfly Rozena es la goma perfecta para quienes buscan control y
+  facilidad en tenis de mesa. Analizamos sus características y precio.
+pubDate: '2026-03-13'
+updatedDate: '2026-03-29'
+category: gomas
+tags:
+- Gomas
+- Butterfly
 draft: false
-brand: "Butterfly"
+brand: Butterfly
 rating: 4
 ---
 

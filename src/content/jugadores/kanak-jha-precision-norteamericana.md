@@ -1,13 +1,17 @@
-﻿---
-title: "Kanak Jha, precisión norteamericana"
-description: "Kanak Jha es el referente del tenis de mesa en Estados Unidos. Descubre cómo este olímpico en tres ediciones ha llegado a la élite con su topspin preciso y saques variados."
-pubDate: "2025-03-10"
-updatedDate: "2025-08-10"
-category: "jugadores"
-tags: ["Jugadores"]
+---
+title: Kanak Jha, precisión norteamericana
+description: Kanak Jha es el referente del tenis de mesa en Estados Unidos. Descubre
+  cómo este olímpico en tres ediciones ha llegado a la élite con su topspin preciso
+  y saques variados.
+pubDate: '2025-03-10'
+updatedDate: '2025-08-10'
+category: jugadores
+tags:
+- Jugadores
+- Estados Unidos
 draft: false
-nationality: "Estados Unidos"
-birthDate: "1998-02-04"
+nationality: Estados Unidos
+birthDate: '1998-02-04'
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/2D9vUJ_iHM4?si=KDscdz-xLPYDHd14" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

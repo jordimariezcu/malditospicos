@@ -1,10 +1,14 @@
-﻿---
-title: "El bloqueo, en tenis de mesa"
-description: "El bloqueo es el golpe que te salva cuando el rival ataca con topspin. Aprende a ejecutarlo con precisión, a mantener la posición cerca de la mesa y a contrarrestar los ataques más potentes."
-pubDate: "2025-07-11"
-updatedDate: "2025-08-06"
-category: "tecnica"
-tags: ["Tipos de golpe"]
+---
+title: El bloqueo, en tenis de mesa
+description: El bloqueo es el golpe que te salva cuando el rival ataca con topspin.
+  Aprende a ejecutarlo con precisión, a mantener la posición cerca de la mesa y a
+  contrarrestar los ataques más potentes.
+pubDate: '2025-07-11'
+updatedDate: '2025-08-06'
+category: tecnica
+tags:
+- Tipos de golpe
+- Bloqueo
 draft: false
 ---
 

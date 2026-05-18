@@ -1,9 +1,12 @@
-﻿---
-title: "El misterioso mundo del booster: magia líquida para tus gomas"
-pubDate: "2025-02-20"
-updatedDate: "2025-08-12"
-category: "materiales"
-tags: ["Materiales", "Gomas"]
+---
+title: 'El misterioso mundo del booster: magia líquida para tus gomas'
+pubDate: '2025-02-20'
+updatedDate: '2025-08-12'
+category: materiales
+tags:
+- Materiales
+- Gomas
+- Mantenimiento
 draft: false
 ---
 

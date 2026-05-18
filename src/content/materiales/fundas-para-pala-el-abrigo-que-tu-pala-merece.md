@@ -1,9 +1,11 @@
-﻿---
-title: " Fundas para pala: el abrigo que tu pala merece"
-pubDate: "2025-04-08"
-updatedDate: "2025-08-09"
-category: "materiales"
-tags: ["Materiales"]
+---
+title: ' Fundas para pala: el abrigo que tu pala merece'
+pubDate: '2025-04-08'
+updatedDate: '2025-08-09'
+category: materiales
+tags:
+- Materiales
+- Accesorios
 draft: false
 ---
 

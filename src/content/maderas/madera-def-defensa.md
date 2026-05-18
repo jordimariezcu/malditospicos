@@ -1,10 +1,14 @@
-﻿---
-title: "Madera DEF – Defensa"
-description: "Las maderas DEF de tenis de mesa están diseñadas para cortadores y jugadores defensivos. Lentas, ligeras y con un control excepcional: todo lo que necesitas saber."
-pubDate: "2025-05-01"
-updatedDate: "2025-08-08"
-category: "maderas"
-tags: ["Maderas"]
+---
+title: Madera DEF – Defensa
+description: 'Las maderas DEF de tenis de mesa están diseñadas para cortadores y jugadores
+  defensivos. Lentas, ligeras y con un control excepcional: todo lo que necesitas
+  saber.'
+pubDate: '2025-05-01'
+updatedDate: '2025-08-08'
+category: maderas
+tags:
+- Maderas
+- Defensivo
 draft: false
 ---
 

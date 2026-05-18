@@ -1,13 +1,17 @@
-﻿---
-title: "Wang Manyu: paciencia, precisión y potencia"
-description: "Wang Manyu es campeona olímpica por equipos y una de las jugadoras más físicas del circuito. Descubre su juego ofensivo desde ambas alas y su extraordinaria fortaleza mental."
-pubDate: "2025-03-02"
-updatedDate: "2025-08-10"
-category: "jugadores"
-tags: ["Jugadores"]
+---
+title: 'Wang Manyu: paciencia, precisión y potencia'
+description: Wang Manyu es campeona olímpica por equipos y una de las jugadoras más
+  físicas del circuito. Descubre su juego ofensivo desde ambas alas y su extraordinaria
+  fortaleza mental.
+pubDate: '2025-03-02'
+updatedDate: '2025-08-10'
+category: jugadores
+tags:
+- Jugadores
+- China
 draft: false
-nationality: "China"
-birthDate: "1999-12-22"
+nationality: China
+birthDate: '1999-12-22'
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/h-jkdRbwXFA?si=-N-JG0oLgk4vbTTL" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

@@ -1,10 +1,13 @@
-﻿---
-title: "Pala para jugador de control"
-description: "El jugador de control en tenis de mesa prioriza la colocación y la paciencia. Descubre qué pala necesitas para desarrollar este estilo consistente y efectivo."
-pubDate: "2025-05-15"
-updatedDate: "2025-08-14"
-category: "guias"
-tags: ["Como tiene que ser tu pala"]
+---
+title: Pala para jugador de control
+description: El jugador de control en tenis de mesa prioriza la colocación y la paciencia.
+  Descubre qué pala necesitas para desarrollar este estilo consistente y efectivo.
+pubDate: '2025-05-15'
+updatedDate: '2025-08-14'
+category: guias
+tags:
+- Como tiene que ser tu pala
+- Estilo de juego
 draft: false
 ---
 

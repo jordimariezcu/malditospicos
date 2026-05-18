@@ -1,13 +1,18 @@
 ---
-title: "Panagiotis Gionis, el defentista griego"
-description: "Panagiotis Gionis es el defensor más conocido del circuito europeo actual. Griego, dentista de profesión y maestro de los picos largos, compitió en 6 Juegos Olímpicos."
-pubDate: "2026-05-14"
-updatedDate: "2026-05-14"
-category: "jugadores"
-tags: ["Jugadores", "Jugadores defensivos"]
+title: Panagiotis Gionis, el defentista griego
+description: Panagiotis Gionis es el defensor más conocido del circuito europeo actual.
+  Griego, dentista de profesión y maestro de los picos largos, compitió en 6 Juegos
+  Olímpicos.
+pubDate: '2026-05-14'
+updatedDate: '2026-05-14'
+category: jugadores
+tags:
+- Jugadores
+- Jugadores defensivos
+- Grecia
 draft: false
-nationality: "Grecia"
-birthDate: "1980-01-07"
+nationality: Grecia
+birthDate: '1980-01-07'
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/rYCwRacNwNg" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

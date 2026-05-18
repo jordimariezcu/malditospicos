@@ -1,9 +1,11 @@
 ---
-title: "Hoja adhesiva de doble cara: la alternativa al pegamento"
-pubDate: "2025-04-01"
-updatedDate: "2025-08-09"
-category: "materiales"
-tags: ["Materiales"]
+title: 'Hoja adhesiva de doble cara: la alternativa al pegamento'
+pubDate: '2025-04-01'
+updatedDate: '2025-08-09'
+category: materiales
+tags:
+- Materiales
+- Mantenimiento
 draft: false
 ---
 

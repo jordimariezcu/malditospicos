@@ -1,10 +1,13 @@
-﻿---
-title: "Errores comunes en la recepción de saques"
-description: "Recibir bien en tenis de mesa es un arte que muchos descuidan. Analizamos los errores más frecuentes en la recepción de saques y cómo corregirlos."
-pubDate: "2025-04-25"
-updatedDate: "2025-08-10"
-category: "guias"
-tags: ["Dudas básicas"]
+---
+title: Errores comunes en la recepción de saques
+description: Recibir bien en tenis de mesa es un arte que muchos descuidan. Analizamos
+  los errores más frecuentes en la recepción de saques y cómo corregirlos.
+pubDate: '2025-04-25'
+updatedDate: '2025-08-10'
+category: guias
+tags:
+- Dudas básicas
+- Saque
 draft: false
 ---
 

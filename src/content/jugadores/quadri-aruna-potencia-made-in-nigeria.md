@@ -1,13 +1,17 @@
-﻿---
-title: "Quadri Aruna, potencia made in Nigeria"
-description: "Quadri Aruna es el jugador africano que más alto ha llegado en el ranking mundial. Descubre su devastador golpe de derecha y cómo ha llegado al top 10 desde Nigeria."
-pubDate: "2025-03-11"
-updatedDate: "2025-08-10"
-category: "jugadores"
-tags: ["Jugadores"]
+---
+title: Quadri Aruna, potencia made in Nigeria
+description: Quadri Aruna es el jugador africano que más alto ha llegado en el ranking
+  mundial. Descubre su devastador golpe de derecha y cómo ha llegado al top 10 desde
+  Nigeria.
+pubDate: '2025-03-11'
+updatedDate: '2025-08-10'
+category: jugadores
+tags:
+- Jugadores
+- Nigeria
 draft: false
-nationality: "Nigeria"
-birthDate: "1991-08-28"
+nationality: Nigeria
+birthDate: '1991-08-28'
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/6hV_bEr8aZg?si=Le6Lk1jiwxsceAQm" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

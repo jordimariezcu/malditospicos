@@ -1,12 +1,15 @@
 ---
-title: "La pala de Truls Möregårdh: qué madera y gomas utiliza"
-description: "Truls Möregårdh es uno de los jugadores más carismáticos del tenis de mesa actual. Descubre la pala Stiga y las gomas con las que sorprende al mundo."
-pubDate: "2025-10-11"
-updatedDate: "2025-10-11"
-category: "palas"
-tags: ["Configuraciones de palas"]
+title: 'La pala de Truls Möregårdh: qué madera y gomas utiliza'
+description: Truls Möregårdh es uno de los jugadores más carismáticos del tenis de
+  mesa actual. Descubre la pala Stiga y las gomas con las que sorprende al mundo.
+pubDate: '2025-10-11'
+updatedDate: '2025-10-11'
+category: palas
+tags:
+- Configuraciones de palas
+- Pala de jugador
 draft: false
-brand: "Andro"
+brand: Andro
 rating: 4.5
 ---
 

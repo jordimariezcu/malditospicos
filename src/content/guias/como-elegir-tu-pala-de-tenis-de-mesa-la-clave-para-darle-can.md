@@ -1,10 +1,13 @@
 ---
-title: "Cómo elegir tu pala de tenis de mesa: la clave para darle caña a la pelota"
-description: "Elegir tu pala de tenis de mesa correctamente marca la diferencia. Te explicamos los factores clave: nivel, madera, gomas y estilo de juego para acertar."
-pubDate: "2025-07-27"
-updatedDate: "2025-08-08"
-category: "guias"
-tags: ["Dudas básicas"]
+title: 'Cómo elegir tu pala de tenis de mesa: la clave para darle caña a la pelota'
+description: 'Elegir tu pala de tenis de mesa correctamente marca la diferencia. Te
+  explicamos los factores clave: nivel, madera, gomas y estilo de juego para acertar.'
+pubDate: '2025-07-27'
+updatedDate: '2025-08-08'
+category: guias
+tags:
+- Dudas básicas
+- Guía de compra
 draft: false
 ---
 

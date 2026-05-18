@@ -1,9 +1,11 @@
-﻿---
-title: "El pegamento para las gomas: la unión más importante de tu pala"
-pubDate: "2025-04-02"
-updatedDate: "2025-08-09"
-category: "materiales"
-tags: ["Materiales"]
+---
+title: 'El pegamento para las gomas: la unión más importante de tu pala'
+pubDate: '2025-04-02'
+updatedDate: '2025-08-09'
+category: materiales
+tags:
+- Materiales
+- Mantenimiento
 draft: false
 ---
 

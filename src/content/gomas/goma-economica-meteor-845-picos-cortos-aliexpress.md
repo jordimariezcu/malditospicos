@@ -1,12 +1,16 @@
-﻿---
-title: "Goma económica Meteor 845 picos cortos- Aliexpress"
-description: "La Meteor 845 es una goma de picos cortos aprobada por la ITTF que puedes encontrar en Aliexpress por unos 10 euros. ¿Una ganga real o trampa?"
-pubDate: "2026-01-03"
-updatedDate: "2026-03-07"
-category: "gomas"
-tags: ["Gomas"]
+---
+title: Goma económica Meteor 845 picos cortos- Aliexpress
+description: La Meteor 845 es una goma de picos cortos aprobada por la ITTF que puedes
+  encontrar en Aliexpress por unos 10 euros. ¿Una ganga real o trampa?
+pubDate: '2026-01-03'
+updatedDate: '2026-03-07'
+category: gomas
+tags:
+- Gomas
+- Meteor
+- Picos cortos
 draft: false
-brand: "Meteor"
+brand: Meteor
 rating: 3.5
 ---
 

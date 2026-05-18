@@ -1,10 +1,14 @@
-﻿---
-title: "Saque lollipop"
-description: "El saque lollipop parece inofensivo pero esconde trampas con efecto. Aprende el gesto circular que lo define, sus variantes de efecto y por qué Alexis Lebrun lo ha llevado a la élite."
-pubDate: "2025-06-09"
-updatedDate: "2025-08-06"
-category: "tecnica"
-tags: ["Saques"]
+---
+title: Saque lollipop
+description: El saque lollipop parece inofensivo pero esconde trampas con efecto.
+  Aprende el gesto circular que lo define, sus variantes de efecto y por qué Alexis
+  Lebrun lo ha llevado a la élite.
+pubDate: '2025-06-09'
+updatedDate: '2025-08-06'
+category: tecnica
+tags:
+- Saques
+- Saque
 draft: false
 ---
 

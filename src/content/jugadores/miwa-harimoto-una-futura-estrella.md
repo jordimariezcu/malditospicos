@@ -1,13 +1,17 @@
-﻿---
-title: "Miwa Harimoto, una futura estrella"
-description: "Miwa Harimoto es la hermana menor de Tomokazu y ya hace temblar a rivales con mucha más experiencia. Descubre por qué se la considera la gran futura estrella del tenis de mesa."
-pubDate: "2025-01-09"
-updatedDate: "2025-08-13"
-category: "jugadores"
-tags: ["Jugadores"]
+---
+title: Miwa Harimoto, una futura estrella
+description: Miwa Harimoto es la hermana menor de Tomokazu y ya hace temblar a rivales
+  con mucha más experiencia. Descubre por qué se la considera la gran futura estrella
+  del tenis de mesa.
+pubDate: '2025-01-09'
+updatedDate: '2025-08-13'
+category: jugadores
+tags:
+- Jugadores
+- Japón
 draft: false
-nationality: "Japón"
-birthDate: "2004-05-28"
+nationality: Japón
+birthDate: '2004-05-28'
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/GmH4k9vhKeo?si=cH8FT5LmEgTaxh3L" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

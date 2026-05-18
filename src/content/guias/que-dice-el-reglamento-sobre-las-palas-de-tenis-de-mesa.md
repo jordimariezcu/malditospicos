@@ -1,10 +1,14 @@
-﻿---
-title: "¿Qué dice el reglamento sobre las palas de tenis de mesa?"
-description: "El reglamento de la ITTF controla materiales, gomas y colores de las palas de tenis de mesa. Descubre qué está permitido y qué no antes de tu próximo torneo."
-pubDate: "2025-07-26"
-updatedDate: "2025-08-06"
-category: "guias"
-tags: ["Reglamento"]
+---
+title: ¿Qué dice el reglamento sobre las palas de tenis de mesa?
+description: El reglamento de la ITTF controla materiales, gomas y colores de las
+  palas de tenis de mesa. Descubre qué está permitido y qué no antes de tu próximo
+  torneo.
+pubDate: '2025-07-26'
+updatedDate: '2025-08-06'
+category: guias
+tags:
+- Reglamento
+- Reglas
 draft: false
 ---
 

@@ -1,12 +1,16 @@
-﻿---
-title: "Butterfly Super Anti - Goma antispin"
-description: "La goma antispin Butterfly Super Anti neutraliza cualquier efecto rival. Descubre cómo esta arma defensiva puede complicarle la vida a tu oponente."
-pubDate: "2026-03-15"
-updatedDate: "2026-03-29"
-category: "gomas"
-tags: ["Gomas"]
+---
+title: Butterfly Super Anti - Goma antispin
+description: La goma antispin Butterfly Super Anti neutraliza cualquier efecto rival.
+  Descubre cómo esta arma defensiva puede complicarle la vida a tu oponente.
+pubDate: '2026-03-15'
+updatedDate: '2026-03-29'
+category: gomas
+tags:
+- Gomas
+- Butterfly
+- Antitop
 draft: false
-brand: "Butterfly"
+brand: Butterfly
 rating: 4
 ---
 

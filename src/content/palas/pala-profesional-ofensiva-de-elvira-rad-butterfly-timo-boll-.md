@@ -1,12 +1,17 @@
 ---
-title: "Pala profesional ofensiva de Elvira Rad: Butterfly Timo Boll ALC + gomas Dignics 05"
-description: "Descubre la pala de Elvira Rad, medallista en el Campeonato de España de tenis de mesa. Timo Boll ALC con Dignics 05 para un juego ofensivo de élite."
-pubDate: "2025-08-13"
-updatedDate: "2025-08-14"
-category: "palas"
-tags: ["Configuraciones de palas"]
+title: 'Pala profesional ofensiva de Elvira Rad: Butterfly Timo Boll ALC + gomas Dignics
+  05'
+description: Descubre la pala de Elvira Rad, medallista en el Campeonato de España
+  de tenis de mesa. Timo Boll ALC con Dignics 05 para un juego ofensivo de élite.
+pubDate: '2025-08-13'
+updatedDate: '2025-08-14'
+category: palas
+tags:
+- Configuraciones de palas
+- Ofensivo
+- Butterfly
 draft: false
-brand: "Butterfly"
+brand: Butterfly
 rating: 4.5
 ---
 

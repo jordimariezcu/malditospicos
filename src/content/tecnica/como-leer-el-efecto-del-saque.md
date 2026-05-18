@@ -1,10 +1,16 @@
 ---
-title: "Cómo leer el efecto del saque"
-description: "Leer el efecto del saque es la clave para no cometer errores de recepción. Descubre cómo interpretar el movimiento de la pala y la rotación de la pelota antes de devolver."
-pubDate: "2025-03-24"
-updatedDate: "2025-08-10"
-category: "tecnica"
-tags: ["Saques"]
+title: Cómo leer el efecto del saque
+description: Leer el efecto del saque es la clave para no cometer errores de recepción.
+  Descubre cómo interpretar el movimiento de la pala y la rotación de la pelota antes
+  de devolver.
+pubDate: '2025-03-24'
+updatedDate: '2025-08-10'
+category: tecnica
+tags:
+- Saques
+- Saque
+- Efecto
+- Recepción
 draft: false
 ---
 

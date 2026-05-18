@@ -1,9 +1,12 @@
-﻿---
-title: "Cestas para pelotas de tenis de mesa"
-pubDate: "2025-02-23"
-updatedDate: "2025-08-13"
-category: "materiales"
-tags: ["Materiales"]
+---
+title: Cestas para pelotas de tenis de mesa
+pubDate: '2025-02-23'
+updatedDate: '2025-08-13'
+category: materiales
+tags:
+- Materiales
+- Pelotas
+- Entrenamiento
 draft: false
 ---
 

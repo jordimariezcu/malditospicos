@@ -1,13 +1,18 @@
 ---
-title: "Sabine Winter, la alemana que cambió de juego"
-description: "Sabine Winter cambió su estilo radicalmente a finales de 2024 para jugar con antispin en el revés. El resultado: derrotas de jugadoras chinas de élite y una final de WTT con 32 años."
-pubDate: "2026-05-18"
-updatedDate: "2026-05-18"
-category: "jugadores"
-tags: ["Jugadores", "Jugadores defensivos"]
+title: Sabine Winter, la alemana que cambió de juego
+description: 'Sabine Winter cambió su estilo radicalmente a finales de 2024 para jugar
+  con antispin en el revés. El resultado: derrotas de jugadoras chinas de élite y
+  una final de WTT con 32 años.'
+pubDate: '2026-05-18'
+updatedDate: '2026-05-18'
+category: jugadores
+tags:
+- Jugadores
+- Jugadores defensivos
+- Alemania
 draft: false
-nationality: "Alemania"
-birthDate: "1992-09-27"
+nationality: Alemania
+birthDate: '1992-09-27'
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/mDwO7Yfbb0w" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

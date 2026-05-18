@@ -1,13 +1,18 @@
-﻿---
-title: "Chen Xingtong, estilo ofensivo con una buena adaptación a la rival"
-description: "Chen Xingtong ha sido número 3 del mundo. Descubre su estilo ofensivo, su capacidad para adaptarse a cualquier rival y cómo toma el control desde el primer golpe."
-pubDate: "2025-03-03"
-updatedDate: "2025-08-10"
-category: "jugadores"
-tags: ["Jugadores"]
+---
+title: Chen Xingtong, estilo ofensivo con una buena adaptación a la rival
+description: Chen Xingtong ha sido número 3 del mundo. Descubre su estilo ofensivo,
+  su capacidad para adaptarse a cualquier rival y cómo toma el control desde el primer
+  golpe.
+pubDate: '2025-03-03'
+updatedDate: '2025-08-10'
+category: jugadores
+tags:
+- Jugadores
+- China
+- Ofensivo
 draft: false
-nationality: "China"
-birthDate: "2000-02-27"
+nationality: China
+birthDate: '2000-02-27'
 ---
 
 Chen Xingtong es una jugadora china nacida en 1997 que ha llegado a ocupar el número tres del ranking mundial. 

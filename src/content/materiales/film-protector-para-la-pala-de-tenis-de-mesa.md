@@ -1,9 +1,11 @@
-﻿---
-title: "Film protector para la pala de tenis de mesa"
-pubDate: "2025-02-24"
-updatedDate: "2025-08-13"
-category: "materiales"
-tags: ["Materiales"]
+---
+title: Film protector para la pala de tenis de mesa
+pubDate: '2025-02-24'
+updatedDate: '2025-08-13'
+category: materiales
+tags:
+- Materiales
+- Accesorios
 draft: false
 ---
 

@@ -1,13 +1,17 @@
-﻿---
-title: "Patrick Franziska, nervios de acero"
-description: "Patrick Franziska es el pilar defensivo del equipo alemán de tenis de mesa. Descubre su potente topspin de derecha, su solidez en los momentos decisivos y su palmarés europeo."
-pubDate: "2025-01-24"
-updatedDate: "2025-08-14"
-category: "jugadores"
-tags: ["Jugadores"]
+---
+title: Patrick Franziska, nervios de acero
+description: Patrick Franziska es el pilar defensivo del equipo alemán de tenis de
+  mesa. Descubre su potente topspin de derecha, su solidez en los momentos decisivos
+  y su palmarés europeo.
+pubDate: '2025-01-24'
+updatedDate: '2025-08-14'
+category: jugadores
+tags:
+- Jugadores
+- Alemania
 draft: false
-nationality: "Alemania"
-birthDate: "1992-05-09"
+nationality: Alemania
+birthDate: '1992-05-09'
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/52R-xMUtTxw?si=IZlHMoowPHSC-ISd" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

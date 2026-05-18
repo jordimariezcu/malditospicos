@@ -1,13 +1,18 @@
 ---
-title: "Ni Xialian, la leyenda eterna de Luxemburgo"
-description: "Ni Xialian compitió en los Juegos Olímpicos de París 2024 con 61 años. Campeona del mundo en 1983, defensora con picos largos y uno de los casos más únicos de la historia del deporte."
-pubDate: "2026-05-16"
-updatedDate: "2026-05-16"
-category: "jugadores"
-tags: ["Jugadores", "Jugadores defensivos"]
+title: Ni Xialian, la leyenda eterna de Luxemburgo
+description: Ni Xialian compitió en los Juegos Olímpicos de París 2024 con 61 años.
+  Campeona del mundo en 1983, defensora con picos largos y uno de los casos más únicos
+  de la historia del deporte.
+pubDate: '2026-05-16'
+updatedDate: '2026-05-16'
+category: jugadores
+tags:
+- Jugadores
+- Jugadores defensivos
+- Luxemburgo
 draft: false
-nationality: "Luxemburgo"
-birthDate: "1963-07-04"
+nationality: Luxemburgo
+birthDate: '1963-07-04'
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/1JIKgoW31Ck" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

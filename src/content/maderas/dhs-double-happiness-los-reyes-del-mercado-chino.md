@@ -1,12 +1,15 @@
-﻿---
-title: "DHS (Double Happiness), los reyes del mercado chino"
-description: "DHS es la marca de tenis de mesa favorita de los campeones chinos. Analizamos sus maderas Hurricane y por qué dominan el circuito profesional."
-pubDate: "2025-02-03"
-updatedDate: "2025-08-11"
-category: "maderas"
-tags: ["Maderas"]
+---
+title: DHS (Double Happiness), los reyes del mercado chino
+description: DHS es la marca de tenis de mesa favorita de los campeones chinos. Analizamos
+  sus maderas Hurricane y por qué dominan el circuito profesional.
+pubDate: '2025-02-03'
+updatedDate: '2025-08-11'
+category: maderas
+tags:
+- Maderas
+- DHS
 draft: false
-brand: "DHS"
+brand: DHS
 rating: 4
 ---
 

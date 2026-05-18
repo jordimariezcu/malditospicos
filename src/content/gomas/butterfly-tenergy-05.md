@@ -1,12 +1,15 @@
-﻿---
-title: "Butterfly Tenergy 05"
-description: "La Butterfly Tenergy 05 es una de las gomas de tenis de mesa más icónicas del mundo. Analizamos su velocidad, efecto y si vale lo que cuesta."
-pubDate: "2026-03-12"
-updatedDate: "2026-03-29"
-category: "gomas"
-tags: ["Gomas"]
+---
+title: Butterfly Tenergy 05
+description: La Butterfly Tenergy 05 es una de las gomas de tenis de mesa más icónicas
+  del mundo. Analizamos su velocidad, efecto y si vale lo que cuesta.
+pubDate: '2026-03-12'
+updatedDate: '2026-03-29'
+category: gomas
+tags:
+- Gomas
+- Butterfly
 draft: false
-brand: "Butterfly"
+brand: Butterfly
 rating: 5
 ---
 

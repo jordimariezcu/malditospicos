@@ -1,12 +1,15 @@
-﻿---
-title: "Andro, ingeniería alemana en el tenis de mesa"
-description: "Andro es la marca alemana que combina precisión e innovación en sus maderas de tenis de mesa. Descubre sus líneas Timber y Treiber y por qué destaca."
-pubDate: "2025-02-02"
-updatedDate: "2025-08-11"
-category: "maderas"
-tags: ["Maderas"]
+---
+title: Andro, ingeniería alemana en el tenis de mesa
+description: Andro es la marca alemana que combina precisión e innovación en sus maderas
+  de tenis de mesa. Descubre sus líneas Timber y Treiber y por qué destaca.
+pubDate: '2025-02-02'
+updatedDate: '2025-08-11'
+category: maderas
+tags:
+- Maderas
+- Andro
 draft: false
-brand: "Andro"
+brand: Andro
 rating: 4
 ---
 

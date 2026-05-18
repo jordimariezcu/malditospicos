@@ -1,13 +1,17 @@
-﻿---
-title: "Timo Boll, uno de los mejores europeos de todos los tiempos"
-description: "Timo Boll es el jugador europeo con más títulos continentales y siete Juegos Olímpicos. Descubre por qué este zurdo alemán es el símbolo de la inteligencia táctica en la mesa."
-pubDate: "2025-07-03"
-updatedDate: "2025-08-10"
-category: "jugadores"
-tags: ["Jugadores"]
+---
+title: Timo Boll, uno de los mejores europeos de todos los tiempos
+description: Timo Boll es el jugador europeo con más títulos continentales y siete
+  Juegos Olímpicos. Descubre por qué este zurdo alemán es el símbolo de la inteligencia
+  táctica en la mesa.
+pubDate: '2025-07-03'
+updatedDate: '2025-08-10'
+category: jugadores
+tags:
+- Jugadores
+- Alemania
 draft: false
-nationality: "Alemania"
-birthDate: "1981-03-08"
+nationality: Alemania
+birthDate: '1981-03-08'
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/Xh_ncRWJfME?si=Sc8WN3V5ddKL0zOY" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

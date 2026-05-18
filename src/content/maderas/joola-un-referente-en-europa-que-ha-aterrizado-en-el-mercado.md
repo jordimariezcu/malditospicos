@@ -1,12 +1,15 @@
-﻿---
-title: "Joola, un referente en Europa que ha aterrizado en el mercado americano"
-description: "Joola lleva décadas como referente en tenis de mesa europeo y ahora conquista el mercado americano. Conoce sus maderas más destacadas y jugadores afines."
-pubDate: "2025-02-06"
-updatedDate: "2025-08-11"
-category: "maderas"
-tags: ["Maderas"]
+---
+title: Joola, un referente en Europa que ha aterrizado en el mercado americano
+description: Joola lleva décadas como referente en tenis de mesa europeo y ahora conquista
+  el mercado americano. Conoce sus maderas más destacadas y jugadores afines.
+pubDate: '2025-02-06'
+updatedDate: '2025-08-11'
+category: maderas
+tags:
+- Maderas
+- Joola
 draft: false
-brand: "Joola"
+brand: Joola
 rating: 4
 ---
 

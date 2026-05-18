@@ -1,13 +1,17 @@
-﻿---
-title: "Zhu Yuling, la voz de la experiencia"
-description: "Zhu Yuling fue número 1 del mundo en 2017 y campeona mundial por equipos. Descubre su juego corto impecable, su control del ritmo y por qué sigue siendo tan respetada en el circuito."
-pubDate: "2025-01-10"
-updatedDate: "2025-08-13"
-category: "jugadores"
-tags: ["Jugadores"]
+---
+title: Zhu Yuling, la voz de la experiencia
+description: Zhu Yuling fue número 1 del mundo en 2017 y campeona mundial por equipos.
+  Descubre su juego corto impecable, su control del ritmo y por qué sigue siendo tan
+  respetada en el circuito.
+pubDate: '2025-01-10'
+updatedDate: '2025-08-13'
+category: jugadores
+tags:
+- Jugadores
+- China
 draft: false
-nationality: "China"
-birthDate: "1996-10-26"
+nationality: China
+birthDate: '1996-10-26'
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/fUcu_8GGMRU?si=sSFh7kKfvi9jVV8k" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

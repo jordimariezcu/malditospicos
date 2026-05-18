@@ -1,12 +1,15 @@
 ---
-title: "Pala ofensiva: Balsa carbo x7 + Rhyzen CMD + Rhyzen Ice"
-description: "La combinación Balsa Carbo X7 con gomas Rhyzen CMD y Rhyzen Ice es una pala ofensiva de tenis de mesa equilibrada y versátil. Análisis por 150 euros."
-pubDate: "2025-08-06"
-updatedDate: "2025-08-14"
-category: "palas"
-tags: ["Configuraciones de palas"]
+title: 'Pala ofensiva: Balsa carbo x7 + Rhyzen CMD + Rhyzen Ice'
+description: La combinación Balsa Carbo X7 con gomas Rhyzen CMD y Rhyzen Ice es una
+  pala ofensiva de tenis de mesa equilibrada y versátil. Análisis por 150 euros.
+pubDate: '2025-08-06'
+updatedDate: '2025-08-14'
+category: palas
+tags:
+- Configuraciones de palas
+- Ofensivo
 draft: false
-brand: "Joola"
+brand: Joola
 rating: 4.5
 ---
 

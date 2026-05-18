@@ -1,12 +1,16 @@
 ---
-title: "Pala de control: Boll Mezzoforte + gomas Friendship 729 FX"
-description: "La pala Boll Mezzoforte con gomas Friendship 729 FX es ideal para iniciarse en el tenis de mesa con control. Un montaje equilibrado por unos 88 euros."
-pubDate: "2025-04-21"
-updatedDate: "2025-08-14"
-category: "palas"
-tags: ["Configuraciones de palas"]
+title: 'Pala de control: Boll Mezzoforte + gomas Friendship 729 FX'
+description: La pala Boll Mezzoforte con gomas Friendship 729 FX es ideal para iniciarse
+  en el tenis de mesa con control. Un montaje equilibrado por unos 88 euros.
+pubDate: '2025-04-21'
+updatedDate: '2025-08-14'
+category: palas
+tags:
+- Configuraciones de palas
+- Control
+- Friendship
 draft: false
-brand: "Butterfly"
+brand: Butterfly
 rating: 4
 ---
 

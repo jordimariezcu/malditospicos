@@ -1,13 +1,17 @@
-﻿---
-title: "Truls Möregårdh, la creatividad al poder"
-description: "Truls Möregårdh es el subcampeón mundial más creativo del circuito. Descubre cómo este sueco impredecible usa cambios de ritmo y golpes poco convencionales para descolocar a cualquiera."
-pubDate: "2025-01-03"
-updatedDate: "2025-08-13"
-category: "jugadores"
-tags: ["Jugadores"]
+---
+title: Truls Möregårdh, la creatividad al poder
+description: Truls Möregårdh es el subcampeón mundial más creativo del circuito. Descubre
+  cómo este sueco impredecible usa cambios de ritmo y golpes poco convencionales para
+  descolocar a cualquiera.
+pubDate: '2025-01-03'
+updatedDate: '2025-08-13'
+category: jugadores
+tags:
+- Jugadores
+- Suecia
 draft: false
-nationality: "Suecia"
-birthDate: "2000-06-16"
+nationality: Suecia
+birthDate: '2000-06-16'
 ---
 
 Truls Möregårdh, nacido en 2002 en Suecia, es uno de los jugadores más carismáticos y creativos del circuito internacional. 

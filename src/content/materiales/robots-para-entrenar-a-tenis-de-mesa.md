@@ -1,9 +1,11 @@
-﻿---
-title: "Robots para entrenar a tenis de mesa"
-pubDate: "2025-02-27"
-updatedDate: "2025-08-13"
-category: "materiales"
-tags: ["Materiales"]
+---
+title: Robots para entrenar a tenis de mesa
+pubDate: '2025-02-27'
+updatedDate: '2025-08-13'
+category: materiales
+tags:
+- Materiales
+- Robots
 draft: false
 ---
 

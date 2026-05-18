@@ -1,13 +1,18 @@
 ---
-title: "Joo Se Hyuk, el mejor defensor de la historia"
-description: "Joo Se Hyuk es el mayor referente del estilo defensivo moderno. Finalista del Mundial 2003 y top 5 del mundo, redefinió lo que un defensor podía conseguir en el tenis de mesa."
-pubDate: "2026-05-12"
-updatedDate: "2026-05-12"
-category: "jugadores"
-tags: ["Jugadores", "Jugadores defensivos"]
+title: Joo Se Hyuk, el mejor defensor de la historia
+description: Joo Se Hyuk es el mayor referente del estilo defensivo moderno. Finalista
+  del Mundial 2003 y top 5 del mundo, redefinió lo que un defensor podía conseguir
+  en el tenis de mesa.
+pubDate: '2026-05-12'
+updatedDate: '2026-05-12'
+category: jugadores
+tags:
+- Jugadores
+- Jugadores defensivos
+- Corea del Sur
 draft: false
-nationality: "Corea del Sur"
-birthDate: "1980-01-20"
+nationality: Corea del Sur
+birthDate: '1980-01-20'
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/5KRBwterPiI" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

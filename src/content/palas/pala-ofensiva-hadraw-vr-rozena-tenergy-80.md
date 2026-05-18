@@ -1,12 +1,15 @@
 ---
-title: "Pala ofensiva: Hadraw VR + Rozena + Tenergy 80"
-description: "La pala ofensiva Hadraw VR con Rozena y Tenergy 80 está diseñada para atacar en tenis de mesa. Una configuración personal para los amantes del ataque."
-pubDate: "2025-08-07"
-updatedDate: "2025-08-14"
-category: "palas"
-tags: ["Configuraciones de palas"]
+title: 'Pala ofensiva: Hadraw VR + Rozena + Tenergy 80'
+description: La pala ofensiva Hadraw VR con Rozena y Tenergy 80 está diseñada para
+  atacar en tenis de mesa. Una configuración personal para los amantes del ataque.
+pubDate: '2025-08-07'
+updatedDate: '2025-08-14'
+category: palas
+tags:
+- Configuraciones de palas
+- Ofensivo
 draft: false
-brand: "Andro"
+brand: Andro
 rating: 4.5
 ---
 

@@ -1,12 +1,15 @@
 ---
-title: "La pala de Simon Gauzy: qué madera y gomas utiliza"
-description: "Simon Gauzy fue número 8 del mundo en tenis de mesa. Descubre qué madera y gomas Andro usa este jugador francés para generar sus devastadores efectos."
-pubDate: "2025-10-09"
-updatedDate: "2026-02-21"
-category: "palas"
-tags: ["Configuraciones de palas"]
+title: 'La pala de Simon Gauzy: qué madera y gomas utiliza'
+description: Simon Gauzy fue número 8 del mundo en tenis de mesa. Descubre qué madera
+  y gomas Andro usa este jugador francés para generar sus devastadores efectos.
+pubDate: '2025-10-09'
+updatedDate: '2026-02-21'
+category: palas
+tags:
+- Configuraciones de palas
+- Pala de jugador
 draft: false
-brand: "Butterfly"
+brand: Butterfly
 rating: 4.5
 ---
 

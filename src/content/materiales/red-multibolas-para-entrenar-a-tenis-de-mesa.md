@@ -1,9 +1,11 @@
-﻿---
-title: "Red multibolas, para entrenar a tenis de mesa"
-pubDate: "2025-02-25"
-updatedDate: "2025-08-13"
-category: "materiales"
-tags: ["Materiales"]
+---
+title: Red multibolas, para entrenar a tenis de mesa
+pubDate: '2025-02-25'
+updatedDate: '2025-08-13'
+category: materiales
+tags:
+- Materiales
+- Entrenamiento
 draft: false
 ---
 

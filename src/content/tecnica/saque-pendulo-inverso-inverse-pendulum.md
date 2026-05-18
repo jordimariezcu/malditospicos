@@ -1,10 +1,14 @@
-﻿---
-title: "Saque péndulo inverso (inverse pendulum)"
-description: "El saque péndulo inverso genera sidespin en dirección contraria al péndulo clásico. Aprende cómo ejecutarlo cruzando el brazo, qué efecto provoca y cómo forzar devoluciones erróneas."
-pubDate: "2025-06-02"
-updatedDate: "2025-08-06"
-category: "tecnica"
-tags: ["Saques"]
+---
+title: Saque péndulo inverso (inverse pendulum)
+description: El saque péndulo inverso genera sidespin en dirección contraria al péndulo
+  clásico. Aprende cómo ejecutarlo cruzando el brazo, qué efecto provoca y cómo forzar
+  devoluciones erróneas.
+pubDate: '2025-06-02'
+updatedDate: '2025-08-06'
+category: tecnica
+tags:
+- Saques
+- Saque
 draft: false
 ---
 

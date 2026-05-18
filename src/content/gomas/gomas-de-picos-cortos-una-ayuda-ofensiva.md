@@ -1,10 +1,13 @@
-﻿---
-title: "Gomas de picos cortos, una ayuda ofensiva"
-description: "Las gomas de picos cortos reducen la sensibilidad al efecto y facilitan el ataque. Conoce sus ventajas para el juego ofensivo en tenis de mesa."
-pubDate: "2025-07-14"
-updatedDate: "2025-08-05"
-category: "gomas"
-tags: ["Gomas"]
+---
+title: Gomas de picos cortos, una ayuda ofensiva
+description: Las gomas de picos cortos reducen la sensibilidad al efecto y facilitan
+  el ataque. Conoce sus ventajas para el juego ofensivo en tenis de mesa.
+pubDate: '2025-07-14'
+updatedDate: '2025-08-05'
+category: gomas
+tags:
+- Gomas
+- Picos cortos
 draft: false
 ---
 

@@ -1,10 +1,14 @@
-﻿---
-title: "Saque plano"
-description: "El saque plano es la bola muerta que rompe el ritmo de cualquier rival. Aprende cuándo usar este saque sin efecto y cómo puede ser una trampa letal cuando el contrario espera siempre giro."
-pubDate: "2025-06-07"
-updatedDate: "2025-08-06"
-category: "tecnica"
-tags: ["Saques"]
+---
+title: Saque plano
+description: El saque plano es la bola muerta que rompe el ritmo de cualquier rival.
+  Aprende cuándo usar este saque sin efecto y cómo puede ser una trampa letal cuando
+  el contrario espera siempre giro.
+pubDate: '2025-06-07'
+updatedDate: '2025-08-06'
+category: tecnica
+tags:
+- Saques
+- Saque
 draft: false
 ---
 

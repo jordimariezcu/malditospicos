@@ -1,12 +1,15 @@
 ---
-title: "La pala de Bruna Takahashi: qué madera y gomas utiliza"
-description: "Bruna Takahashi fue número 19 del mundo. Descubre la pala de tenis de mesa de la mejor jugadora brasileña de la historia y qué materiales Andro utiliza."
-pubDate: "2025-10-10"
-updatedDate: "2025-10-11"
-category: "palas"
-tags: ["Configuraciones de palas"]
+title: 'La pala de Bruna Takahashi: qué madera y gomas utiliza'
+description: Bruna Takahashi fue número 19 del mundo. Descubre la pala de tenis de
+  mesa de la mejor jugadora brasileña de la historia y qué materiales Andro utiliza.
+pubDate: '2025-10-10'
+updatedDate: '2025-10-11'
+category: palas
+tags:
+- Configuraciones de palas
+- Pala de jugador
 draft: false
-brand: "Butterfly"
+brand: Butterfly
 rating: 4.5
 ---
 

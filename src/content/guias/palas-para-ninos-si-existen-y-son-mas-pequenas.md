@@ -1,10 +1,14 @@
-﻿---
-title: "Palas para niños: sí, existen… ¡y son más pequeñas!"
-description: "Las palas junior de tenis de mesa tienen empuñadura más pequeña para manos infantiles. Descubre por qué es importante que los niños usen una pala adaptada."
-pubDate: "2025-07-25"
-updatedDate: "2025-08-06"
-category: "guias"
-tags: ["Dudas básicas", "Maderas"]
+---
+title: 'Palas para niños: sí, existen… ¡y son más pequeñas!'
+description: Las palas junior de tenis de mesa tienen empuñadura más pequeña para
+  manos infantiles. Descubre por qué es importante que los niños usen una pala adaptada.
+pubDate: '2025-07-25'
+updatedDate: '2025-08-06'
+category: guias
+tags:
+- Dudas básicas
+- Maderas
+- Niños
 draft: false
 ---
 

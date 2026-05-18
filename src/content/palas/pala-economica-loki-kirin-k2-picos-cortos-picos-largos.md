@@ -1,12 +1,15 @@
 ---
-title: "Pala económica Loki Kirin K2 + picos cortos + picos largos"
-description: "Pala molesta de tenis de mesa por solo 30 euros: Loki Kirin K2 con picos cortos y picos largos. La configuración más económica para complicar al rival."
-pubDate: "2026-01-06"
-updatedDate: "2026-03-07"
-category: "palas"
-tags: ["Configuraciones de palas"]
+title: Pala económica Loki Kirin K2 + picos cortos + picos largos
+description: 'Pala molesta de tenis de mesa por solo 30 euros: Loki Kirin K2 con picos
+  cortos y picos largos. La configuración más económica para complicar al rival.'
+pubDate: '2026-01-06'
+updatedDate: '2026-03-07'
+category: palas
+tags:
+- Configuraciones de palas
+- Loki
 draft: false
-brand: "Loki"
+brand: Loki
 rating: 3.5
 ---
 

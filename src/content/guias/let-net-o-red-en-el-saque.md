@@ -1,10 +1,13 @@
-﻿---
-title: "Let, net o red, en el saque"
-description: "¿Qué pasa cuando la bola toca la red en el saque en tenis de mesa? El let permite repetir el saque sin penalización. Te explicamos la regla con detalle."
-pubDate: "2025-06-28"
-updatedDate: "2025-08-06"
-category: "guias"
-tags: ["Reglamento"]
+---
+title: Let, net o red, en el saque
+description: ¿Qué pasa cuando la bola toca la red en el saque en tenis de mesa? El
+  let permite repetir el saque sin penalización. Te explicamos la regla con detalle.
+pubDate: '2025-06-28'
+updatedDate: '2025-08-06'
+category: guias
+tags:
+- Reglamento
+- Saque
 draft: false
 ---
 

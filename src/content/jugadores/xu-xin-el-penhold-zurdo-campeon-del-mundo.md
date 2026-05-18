@@ -1,13 +1,18 @@
-﻿---
-title: "Xu Xin, el penhold zurdo campeón del mundo"
-description: "Xu Xin es el penhold zurdo más espectacular de la historia. Descubre sus topspins imposibles, su creatividad en la mesa y por qué ha sido varias veces número 1 del mundo."
-pubDate: "2025-07-10"
-updatedDate: "2025-08-10"
-category: "jugadores"
-tags: ["Jugadores"]
+---
+title: Xu Xin, el penhold zurdo campeón del mundo
+description: Xu Xin es el penhold zurdo más espectacular de la historia. Descubre
+  sus topspins imposibles, su creatividad en la mesa y por qué ha sido varias veces
+  número 1 del mundo.
+pubDate: '2025-07-10'
+updatedDate: '2025-08-10'
+category: jugadores
+tags:
+- Jugadores
+- China
+- Penhold
 draft: false
-nationality: "China"
-birthDate: "1990-01-26"
+nationality: China
+birthDate: '1990-01-26'
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/yaLrnXBOjkQ?si=lpolYQIAaN8IWBUw" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

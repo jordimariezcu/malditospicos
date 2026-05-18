@@ -1,12 +1,15 @@
-﻿---
-title: "Butterfly Tackiness Chop"
-description: "La Butterfly Tackiness Chop es la goma defensiva clásica para cortadores en tenis de mesa. Alta adherencia y control total en cada chop."
-pubDate: "2026-03-16"
-updatedDate: "2026-03-29"
-category: "gomas"
-tags: ["Gomas"]
+---
+title: Butterfly Tackiness Chop
+description: La Butterfly Tackiness Chop es la goma defensiva clásica para cortadores
+  en tenis de mesa. Alta adherencia y control total en cada chop.
+pubDate: '2026-03-16'
+updatedDate: '2026-03-29'
+category: gomas
+tags:
+- Gomas
+- Butterfly
 draft: false
-brand: "Butterfly"
+brand: Butterfly
 rating: 4
 ---
 

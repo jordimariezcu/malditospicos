@@ -1,10 +1,13 @@
-﻿---
-title: "Posición básica y movimientos de pies en tenis de mesa (footwork)"
-description: "El footwork en tenis de mesa es clave para llegar bien a cada bola. Aprende la posición básica y los movimientos de pies que usan los mejores jugadores."
-pubDate: "2025-03-25"
-updatedDate: "2025-08-10"
-category: "guias"
-tags: ["Dudas básicas"]
+---
+title: Posición básica y movimientos de pies en tenis de mesa (footwork)
+description: El footwork en tenis de mesa es clave para llegar bien a cada bola. Aprende
+  la posición básica y los movimientos de pies que usan los mejores jugadores.
+pubDate: '2025-03-25'
+updatedDate: '2025-08-10'
+category: guias
+tags:
+- Dudas básicas
+- Footwork
 draft: false
 ---
 

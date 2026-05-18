@@ -1,12 +1,15 @@
-﻿---
-title: "Nittaku, artesanía japonesa"
-description: "Nittaku fabrica maderas de tenis de mesa con técnicas inspiradas en instrumentos musicales. Conoce sus modelos Acoustic y Violin, puro lujo artesanal."
-pubDate: "2025-02-08"
-updatedDate: "2025-08-11"
-category: "maderas"
-tags: ["Maderas"]
+---
+title: Nittaku, artesanía japonesa
+description: Nittaku fabrica maderas de tenis de mesa con técnicas inspiradas en instrumentos
+  musicales. Conoce sus modelos Acoustic y Violin, puro lujo artesanal.
+pubDate: '2025-02-08'
+updatedDate: '2025-08-11'
+category: maderas
+tags:
+- Maderas
+- Nittaku
 draft: false
-brand: "Nittaku"
+brand: Nittaku
 rating: 4.5
 ---
 

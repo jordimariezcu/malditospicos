@@ -1,12 +1,16 @@
-﻿---
-title: "Goma de picos largos Der-materialspezialist FAKIR"
-description: "Analizamos la goma de picos largos FAKIR de Der-materialspezialist: colores vivos, efecto molesto y personalidad única. ¿La más chula del mercado?"
-pubDate: "2026-02-27"
-updatedDate: "2026-03-07"
-category: "gomas"
-tags: ["Gomas"]
+---
+title: Goma de picos largos Der-materialspezialist FAKIR
+description: 'Analizamos la goma de picos largos FAKIR de Der-materialspezialist:
+  colores vivos, efecto molesto y personalidad única. ¿La más chula del mercado?'
+pubDate: '2026-02-27'
+updatedDate: '2026-03-07'
+category: gomas
+tags:
+- Gomas
+- Der Materialspezialist
+- Picos largos
 draft: false
-brand: "Der Materialspezialist"
+brand: Der Materialspezialist
 rating: 4
 ---
 

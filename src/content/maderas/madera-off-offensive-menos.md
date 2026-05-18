@@ -1,10 +1,13 @@
-﻿---
-title: "Madera OFF- (Offensive menos)"
-description: "La madera OFF- equilibra ataque y control en tenis de mesa. Perfecta para jugadores ofensivos en formación que no quieren sacrificar la precisión."
-pubDate: "2025-05-04"
-updatedDate: "2025-08-08"
-category: "maderas"
-tags: ["Maderas"]
+---
+title: Madera OFF- (Offensive menos)
+description: La madera OFF- equilibra ataque y control en tenis de mesa. Perfecta
+  para jugadores ofensivos en formación que no quieren sacrificar la precisión.
+pubDate: '2025-05-04'
+updatedDate: '2025-08-08'
+category: maderas
+tags:
+- Maderas
+- Ofensivo
 draft: false
 ---
 

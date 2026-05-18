@@ -1,10 +1,14 @@
-﻿---
-title: "Saque tomahawk o leñador"
-description: "El saque tomahawk o leñador crea trayectorias curvas difíciles de leer. Aprende el gesto del hacha, qué sidespin genera y por qué Ovtcharov lo ha convertido en su arma más temida."
-pubDate: "2025-06-04"
-updatedDate: "2025-08-06"
-category: "tecnica"
-tags: ["Saques"]
+---
+title: Saque tomahawk o leñador
+description: El saque tomahawk o leñador crea trayectorias curvas difíciles de leer.
+  Aprende el gesto del hacha, qué sidespin genera y por qué Ovtcharov lo ha convertido
+  en su arma más temida.
+pubDate: '2025-06-04'
+updatedDate: '2025-08-06'
+category: tecnica
+tags:
+- Saques
+- Saque
 draft: false
 ---
 

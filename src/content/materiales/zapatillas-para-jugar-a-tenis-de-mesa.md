@@ -1,9 +1,11 @@
-﻿---
-title: "Zapatillas para jugar a tenis de mesa"
-pubDate: "2025-02-28"
-updatedDate: "2025-08-13"
-category: "materiales"
-tags: ["Materiales"]
+---
+title: Zapatillas para jugar a tenis de mesa
+pubDate: '2025-02-28'
+updatedDate: '2025-08-13'
+category: materiales
+tags:
+- Materiales
+- Zapatillas
 draft: false
 ---
 

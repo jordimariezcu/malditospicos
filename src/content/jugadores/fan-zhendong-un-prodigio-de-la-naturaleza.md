@@ -1,13 +1,17 @@
-﻿---
-title: "Fan Zhendong, un prodigio de la naturaleza"
-description: "Fan Zhendong es el campeón olímpico de París 2024 y el número 1 del mundo. Descubre su topspin devastador y por qué se le considera el jugador más completo de la historia."
-pubDate: "2025-07-06"
-updatedDate: "2025-08-10"
-category: "jugadores"
-tags: ["Jugadores"]
+---
+title: Fan Zhendong, un prodigio de la naturaleza
+description: Fan Zhendong es el campeón olímpico de París 2024 y el número 1 del mundo.
+  Descubre su topspin devastador y por qué se le considera el jugador más completo
+  de la historia.
+pubDate: '2025-07-06'
+updatedDate: '2025-08-10'
+category: jugadores
+tags:
+- Jugadores
+- China
 draft: false
-nationality: "China"
-birthDate: "1997-01-22"
+nationality: China
+birthDate: '1997-01-22'
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/hgEX27ABr9M?si=If5GhV-hXqMKsnE9" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

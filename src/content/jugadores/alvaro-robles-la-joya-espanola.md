@@ -1,13 +1,16 @@
-﻿---
-title: "Álvaro Robles, la joya española"
-description: "Álvaro Robles es el mejor especialista español en dobles. Descubre su juego técnico, su saque variado y cómo logró la plata mundial junto a Ovidiu Ionescu."
-pubDate: "2025-03-12"
-updatedDate: "2025-08-10"
-category: "jugadores"
-tags: ["Jugadores"]
+---
+title: Álvaro Robles, la joya española
+description: Álvaro Robles es el mejor especialista español en dobles. Descubre su
+  juego técnico, su saque variado y cómo logró la plata mundial junto a Ovidiu Ionescu.
+pubDate: '2025-03-12'
+updatedDate: '2025-08-10'
+category: jugadores
+tags:
+- Jugadores
+- España
 draft: false
-nationality: "España"
-birthDate: "1991-03-12"
+nationality: España
+birthDate: '1991-03-12'
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/I5cVpgpTYKQ?si=US2eu3TQ4hmbPt2g" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

@@ -1,12 +1,18 @@
 ---
-title: "Pala profesional chopper: Victas Koji Matsushita Special + picos largos + Stiga DNA Dragon Power"
-description: "La Victas Koji Matsushita Special con picos largos es la pala chopper de tenis de mesa por excelencia. Analizamos esta configuración defensiva profesional."
-pubDate: "2025-08-29"
-updatedDate: "2025-09-03"
-category: "palas"
-tags: ["Configuraciones de palas"]
+title: 'Pala profesional chopper: Victas Koji Matsushita Special + picos largos +
+  Stiga DNA Dragon Power'
+description: La Victas Koji Matsushita Special con picos largos es la pala chopper
+  de tenis de mesa por excelencia. Analizamos esta configuración defensiva profesional.
+pubDate: '2025-08-29'
+updatedDate: '2025-09-03'
+category: palas
+tags:
+- Configuraciones de palas
+- Defensivo
+- Stiga
+- Victas
 draft: false
-brand: "Victas"
+brand: Victas
 rating: 4.5
 ---
 

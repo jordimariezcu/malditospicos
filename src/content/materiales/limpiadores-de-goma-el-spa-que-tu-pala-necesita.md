@@ -1,9 +1,11 @@
-﻿---
-title: "Limpiadores de goma: el spa que tu pala necesita"
-pubDate: "2025-04-03"
-updatedDate: "2025-08-09"
-category: "materiales"
-tags: ["Materiales"]
+---
+title: 'Limpiadores de goma: el spa que tu pala necesita'
+pubDate: '2025-04-03'
+updatedDate: '2025-08-09'
+category: materiales
+tags:
+- Materiales
+- Mantenimiento
 draft: false
 ---
 

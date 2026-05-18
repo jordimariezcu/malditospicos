@@ -1,12 +1,15 @@
-﻿---
-title: "Butterfly, una marca puntera en el mundo del tenis de mesa"
-description: "Butterfly es la marca más reconocida del tenis de mesa mundial. Descubre su historia, tecnologías ALC y ZLC, y por qué sus palas son referencia global."
-pubDate: "2025-02-01"
-updatedDate: "2025-08-11"
-category: "maderas"
-tags: ["Maderas"]
+---
+title: Butterfly, una marca puntera en el mundo del tenis de mesa
+description: Butterfly es la marca más reconocida del tenis de mesa mundial. Descubre
+  su historia, tecnologías ALC y ZLC, y por qué sus palas son referencia global.
+pubDate: '2025-02-01'
+updatedDate: '2025-08-11'
+category: maderas
+tags:
+- Maderas
+- Butterfly
 draft: false
-brand: "Butterfly"
+brand: Butterfly
 rating: 5
 ---
 

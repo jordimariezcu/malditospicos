@@ -1,12 +1,16 @@
-﻿---
-title: "Goma de picos cortos: Der-Materialspezialist Firestorm Green Edition"
-description: "La Firestorm Green Edition es una goma de picos cortos muy ofensiva. Descubre qué la diferencia de la versión original y si encaja en tu pala."
-pubDate: "2026-02-25"
-updatedDate: "2026-03-07"
-category: "gomas"
-tags: ["Gomas"]
+---
+title: 'Goma de picos cortos: Der-Materialspezialist Firestorm Green Edition'
+description: La Firestorm Green Edition es una goma de picos cortos muy ofensiva.
+  Descubre qué la diferencia de la versión original y si encaja en tu pala.
+pubDate: '2026-02-25'
+updatedDate: '2026-03-07'
+category: gomas
+tags:
+- Gomas
+- Der Materialspezialist
+- Picos cortos
 draft: false
-brand: "Der Materialspezialist"
+brand: Der Materialspezialist
 rating: 4
 ---
 

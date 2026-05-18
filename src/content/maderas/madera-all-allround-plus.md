@@ -1,10 +1,13 @@
-﻿---
-title: "Madera ALL+ (Allround Plus)"
-description: "La madera ALL+ es el punto de equilibrio entre control y ataque en tenis de mesa. Descubre para qué perfil de jugador está pensada y qué modelos destacan."
-pubDate: "2025-05-03"
-updatedDate: "2025-08-08"
-category: "maderas"
-tags: ["Maderas"]
+---
+title: Madera ALL+ (Allround Plus)
+description: La madera ALL+ es el punto de equilibrio entre control y ataque en tenis
+  de mesa. Descubre para qué perfil de jugador está pensada y qué modelos destacan.
+pubDate: '2025-05-03'
+updatedDate: '2025-08-08'
+category: maderas
+tags:
+- Maderas
+- Allround
 draft: false
 ---
 

@@ -1,10 +1,14 @@
-﻿---
-title: "¿Qué es el revés en tenis de mesa?"
-description: "El revés es el golpe fundamental para cubrir toda la mesa. Aprende cómo ejecutarlo bien, por qué es la base del banana flick y el bloqueo, y cómo mejorarlo en tu juego."
-pubDate: "2025-07-28"
-updatedDate: "2025-08-06"
-category: "tecnica"
-tags: ["Tipos de golpe"]
+---
+title: ¿Qué es el revés en tenis de mesa?
+description: El revés es el golpe fundamental para cubrir toda la mesa. Aprende cómo
+  ejecutarlo bien, por qué es la base del banana flick y el bloqueo, y cómo mejorarlo
+  en tu juego.
+pubDate: '2025-07-28'
+updatedDate: '2025-08-06'
+category: tecnica
+tags:
+- Tipos de golpe
+- Revés
 draft: false
 ---
 

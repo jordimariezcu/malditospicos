@@ -1,9 +1,11 @@
-﻿---
-title: "Las cantoneras: el cinturón de seguridad de tu pala"
-pubDate: "2025-04-05"
-updatedDate: "2025-08-09"
-category: "materiales"
-tags: ["Materiales"]
+---
+title: 'Las cantoneras: el cinturón de seguridad de tu pala'
+pubDate: '2025-04-05'
+updatedDate: '2025-08-09'
+category: materiales
+tags:
+- Materiales
+- Accesorios
 draft: false
 ---
 

@@ -1,10 +1,13 @@
-﻿---
-title: "Pala para jugar al estilo cortador (chopper moderno)"
-description: "El chopper moderno en tenis de mesa combina cortes defensivos con ataques oportunistas. Descubre qué pala se adapta mejor a este estilo de juego tan especial."
-pubDate: "2025-05-11"
-updatedDate: "2025-08-08"
-category: "guias"
-tags: ["Como tiene que ser tu pala"]
+---
+title: Pala para jugar al estilo cortador (chopper moderno)
+description: El chopper moderno en tenis de mesa combina cortes defensivos con ataques
+  oportunistas. Descubre qué pala se adapta mejor a este estilo de juego tan especial.
+pubDate: '2025-05-11'
+updatedDate: '2025-08-08'
+category: guias
+tags:
+- Como tiene que ser tu pala
+- Estilo de juego
 draft: false
 ---
 

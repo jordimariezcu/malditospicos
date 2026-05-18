@@ -1,10 +1,13 @@
-﻿---
-title: "Mango anatómico (AN – Anatomic)"
-description: "El mango anatómico se adapta a la forma de la mano como un guante. Descubre por qué este tipo de empuñadura es tan cómoda en las palas de tenis de mesa."
-pubDate: "2025-05-21"
-updatedDate: "2025-08-09"
-category: "maderas"
-tags: ["Maderas"]
+---
+title: Mango anatómico (AN – Anatomic)
+description: El mango anatómico se adapta a la forma de la mano como un guante. Descubre
+  por qué este tipo de empuñadura es tan cómoda en las palas de tenis de mesa.
+pubDate: '2025-05-21'
+updatedDate: '2025-08-09'
+category: maderas
+tags:
+- Maderas
+- Tipo de mango
 draft: false
 ---
 

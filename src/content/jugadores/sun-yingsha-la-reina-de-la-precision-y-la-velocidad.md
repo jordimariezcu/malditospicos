@@ -1,13 +1,17 @@
-﻿---
-title: "Sun Yingsha, la reina de la precisión y la velocidad"
-description: "Sun Yingsha es la número 1 del mundo y campeona olímpica. Descubre su estilo ultragresivo, sus golpes de derecha aplastantes y por qué es tan difícil de batir en cualquier superficie."
-pubDate: "2025-03-01"
-updatedDate: "2025-08-10"
-category: "jugadores"
-tags: ["Jugadores"]
+---
+title: Sun Yingsha, la reina de la precisión y la velocidad
+description: Sun Yingsha es la número 1 del mundo y campeona olímpica. Descubre su
+  estilo ultragresivo, sus golpes de derecha aplastantes y por qué es tan difícil
+  de batir en cualquier superficie.
+pubDate: '2025-03-01'
+updatedDate: '2025-08-10'
+category: jugadores
+tags:
+- Jugadores
+- China
 draft: false
-nationality: "China"
-birthDate: "2000-11-04"
+nationality: China
+birthDate: '2000-11-04'
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/Rv0fdyvI0l8?si=n9zbSO4Gyj6F5tOA" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

@@ -1,10 +1,14 @@
-﻿---
-title: "Tipos de mango para tu pala de tenis de mesa"
-description: "Elegir el mango correcto para tu pala de tenis de mesa mejora tu comodidad y rendimiento. Analizamos los tipos FL, AN, ST, Penhold y cuál se adapta a ti."
-pubDate: "2025-08-03"
-updatedDate: "2025-08-06"
-category: "guias"
-tags: ["Dudas básicas", "Maderas"]
+---
+title: Tipos de mango para tu pala de tenis de mesa
+description: Elegir el mango correcto para tu pala de tenis de mesa mejora tu comodidad
+  y rendimiento. Analizamos los tipos FL, AN, ST, Penhold y cuál se adapta a ti.
+pubDate: '2025-08-03'
+updatedDate: '2025-08-06'
+category: guias
+tags:
+- Dudas básicas
+- Maderas
+- Tipo de mango
 draft: false
 ---
 

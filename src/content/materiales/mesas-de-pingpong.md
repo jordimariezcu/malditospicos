@@ -1,9 +1,11 @@
-﻿---
-title: "Mesas de pingpong"
-pubDate: "2025-02-22"
-updatedDate: "2025-08-13"
-category: "materiales"
-tags: ["Materiales"]
+---
+title: Mesas de pingpong
+pubDate: '2025-02-22'
+updatedDate: '2025-08-13'
+category: materiales
+tags:
+- Materiales
+- Mesa
 draft: false
 ---
 

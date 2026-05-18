@@ -1,10 +1,13 @@
-﻿---
-title: "Pala para jugar al estilo defensivo clásico (puro)"
-description: "El estilo defensivo clásico en tenis de mesa busca el error del rival con control total. Descubre qué pala necesitas para dominar el juego desde la defensa."
-pubDate: "2025-05-13"
-updatedDate: "2025-08-08"
-category: "guias"
-tags: ["Como tiene que ser tu pala"]
+---
+title: Pala para jugar al estilo defensivo clásico (puro)
+description: El estilo defensivo clásico en tenis de mesa busca el error del rival
+  con control total. Descubre qué pala necesitas para dominar el juego desde la defensa.
+pubDate: '2025-05-13'
+updatedDate: '2025-08-08'
+category: guias
+tags:
+- Como tiene que ser tu pala
+- Estilo de juego
 draft: false
 ---
 

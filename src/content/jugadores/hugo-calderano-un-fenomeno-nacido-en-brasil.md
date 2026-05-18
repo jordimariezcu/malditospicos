@@ -1,13 +1,17 @@
-﻿---
-title: "Hugo Calderano, un fenómeno nacido en Brasil"
-description: "Hugo Calderano es el mejor jugador de tenis de mesa que ha dado América. Descubre cómo llegó al top 3 mundial y conquistó la Copa del Mundo con un juego brillante."
-pubDate: "2024-12-31"
-updatedDate: "2025-08-13"
-category: "jugadores"
-tags: ["Jugadores"]
+---
+title: Hugo Calderano, un fenómeno nacido en Brasil
+description: Hugo Calderano es el mejor jugador de tenis de mesa que ha dado América.
+  Descubre cómo llegó al top 3 mundial y conquistó la Copa del Mundo con un juego
+  brillante.
+pubDate: '2024-12-31'
+updatedDate: '2025-08-13'
+category: jugadores
+tags:
+- Jugadores
+- Brasil
 draft: false
-nationality: "Brasil"
-birthDate: "1996-12-22"
+nationality: Brasil
+birthDate: '1996-12-22'
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/aXYtez5OSIs?si=rkwc1Y2xXzfH3BtN" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

@@ -1,10 +1,14 @@
-﻿---
-title: "¿Qué es el backspin?"
-description: "El backspin o efecto cortado es uno de los recursos más usados en tenis de mesa. Aprende cómo se genera, qué hace la pelota al botar y cuándo usarlo para complicarle la vida al rival."
-pubDate: "2025-07-31"
-updatedDate: "2025-08-06"
-category: "tecnica"
-tags: ["Tipos de golpe"]
+---
+title: ¿Qué es el backspin?
+description: El backspin o efecto cortado es uno de los recursos más usados en tenis
+  de mesa. Aprende cómo se genera, qué hace la pelota al botar y cuándo usarlo para
+  complicarle la vida al rival.
+pubDate: '2025-07-31'
+updatedDate: '2025-08-06'
+category: tecnica
+tags:
+- Tipos de golpe
+- Backspin
 draft: false
 ---
 

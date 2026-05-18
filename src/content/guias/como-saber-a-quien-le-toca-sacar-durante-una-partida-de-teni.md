@@ -1,10 +1,13 @@
-﻿---
-title: "¿Cómo saber a quién le toca sacar durante una partida de tenis de mesa?"
-description: "¿No sabes a quién le toca sacar en tenis de mesa? Con una sencilla operación matemática lo calculas en segundos. Te explicamos el truco con ejemplos."
-pubDate: "2025-08-07"
-updatedDate: "2025-08-13"
-category: "guias"
-tags: ["Dudas básicas"]
+---
+title: ¿Cómo saber a quién le toca sacar durante una partida de tenis de mesa?
+description: ¿No sabes a quién le toca sacar en tenis de mesa? Con una sencilla operación
+  matemática lo calculas en segundos. Te explicamos el truco con ejemplos.
+pubDate: '2025-08-07'
+updatedDate: '2025-08-13'
+category: guias
+tags:
+- Dudas básicas
+- Guía de compra
 draft: false
 ---
 

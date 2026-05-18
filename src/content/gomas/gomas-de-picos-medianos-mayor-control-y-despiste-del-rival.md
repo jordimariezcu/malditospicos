@@ -1,10 +1,13 @@
-﻿---
-title: "Gomas de picos medianos, mayor control y despiste del rival"
-description: "Las gomas de picos medianos combinan control y perturbación. Descubre cómo este tipo de goma puede añadir variedad a tu juego de tenis de mesa."
-pubDate: "2025-07-15"
-updatedDate: "2025-08-05"
-category: "gomas"
-tags: ["Gomas"]
+---
+title: Gomas de picos medianos, mayor control y despiste del rival
+description: Las gomas de picos medianos combinan control y perturbación. Descubre
+  cómo este tipo de goma puede añadir variedad a tu juego de tenis de mesa.
+pubDate: '2025-07-15'
+updatedDate: '2025-08-05'
+category: gomas
+tags:
+- Gomas
+- Picos medianos
 draft: false
 ---
 

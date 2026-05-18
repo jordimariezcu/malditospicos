@@ -1,9 +1,11 @@
-﻿---
-title: "Tipos de pelota en tenis de mesa: más que simples bolitas blancas"
-pubDate: "2025-04-07"
-updatedDate: "2025-08-09"
-category: "materiales"
-tags: ["Materiales"]
+---
+title: 'Tipos de pelota en tenis de mesa: más que simples bolitas blancas'
+pubDate: '2025-04-07'
+updatedDate: '2025-08-09'
+category: materiales
+tags:
+- Materiales
+- Pelotas
 draft: false
 ---
 

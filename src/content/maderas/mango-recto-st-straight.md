@@ -1,10 +1,13 @@
-﻿---
-title: "Mango recto (ST – Straight)"
-description: "El mango recto ST facilita girar la pala con rapidez en tenis de mesa. Descubre por qué es preferido por jugadores con estrategias mixtas o defensivas."
-pubDate: "2025-05-19"
-updatedDate: "2025-08-09"
-category: "maderas"
-tags: ["Maderas"]
+---
+title: Mango recto (ST – Straight)
+description: El mango recto ST facilita girar la pala con rapidez en tenis de mesa.
+  Descubre por qué es preferido por jugadores con estrategias mixtas o defensivas.
+pubDate: '2025-05-19'
+updatedDate: '2025-08-09'
+category: maderas
+tags:
+- Maderas
+- Tipo de mango
 draft: false
 ---
 

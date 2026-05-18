@@ -1,13 +1,16 @@
-﻿---
-title: "Wang Chuqin, un jugador realmente completo"
-description: "Wang Chuqin, número 1 del mundo en tenis de mesa. Descubre su estilo de juego zurdo, sus puntos fuertes, palmarés y qué lo hace tan peligroso en la élite."
-pubDate: "2025-01-02"
-updatedDate: "2025-08-13"
-category: "jugadores"
-tags: ["Jugadores"]
+---
+title: Wang Chuqin, un jugador realmente completo
+description: Wang Chuqin, número 1 del mundo en tenis de mesa. Descubre su estilo
+  de juego zurdo, sus puntos fuertes, palmarés y qué lo hace tan peligroso en la élite.
+pubDate: '2025-01-02'
+updatedDate: '2025-08-13'
+category: jugadores
+tags:
+- Jugadores
+- China
 draft: false
-nationality: "China"
-birthDate: "2001-05-08"
+nationality: China
+birthDate: '2001-05-08'
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/fPHMFdlIAF4?si=31xiCHjF-mmt36z0" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

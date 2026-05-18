@@ -1,13 +1,18 @@
-﻿---
-title: "Wang Yidi, gran potencia de ataque"
-description: "Wang Yidi combina ataque potente con una sólida defensa y regularidad envidiable. Descubre cómo esta jugadora china se adapta a cualquier rival y mantiene el nivel todo el partido."
-pubDate: "2025-01-08"
-updatedDate: "2025-08-13"
-category: "jugadores"
-tags: ["Jugadores"]
+---
+title: Wang Yidi, gran potencia de ataque
+description: Wang Yidi combina ataque potente con una sólida defensa y regularidad
+  envidiable. Descubre cómo esta jugadora china se adapta a cualquier rival y mantiene
+  el nivel todo el partido.
+pubDate: '2025-01-08'
+updatedDate: '2025-08-13'
+category: jugadores
+tags:
+- Jugadores
+- China
+- Ofensivo
 draft: false
-nationality: "China"
-birthDate: "1997-03-28"
+nationality: China
+birthDate: '1997-03-28'
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/dnxXSNQcO9Y?si=j-uNCJJpdgLzKeDP" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

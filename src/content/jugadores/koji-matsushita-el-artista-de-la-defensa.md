@@ -1,13 +1,19 @@
 ---
-title: "Koji Matsushita, el artista de la defensa"
-description: "Koji Matsushita es la referencia del juego defensivo clásico japonés. Domina los picos, el antispin y tiene una técnica de pies que pocos jugadores del mundo han igualado."
-pubDate: "2026-05-10"
-updatedDate: "2026-05-10"
-category: "jugadores"
-tags: ["Jugadores", "Jugadores defensivos"]
+title: Koji Matsushita, el artista de la defensa
+description: Koji Matsushita es la referencia del juego defensivo clásico japonés.
+  Domina los picos, el antispin y tiene una técnica de pies que pocos jugadores del
+  mundo han igualado.
+pubDate: '2026-05-10'
+updatedDate: '2026-05-10'
+category: jugadores
+tags:
+- Jugadores
+- Jugadores defensivos
+- Japón
+- Defensivo
 draft: false
-nationality: "Japón"
-birthDate: "1967-08-28"
+nationality: Japón
+birthDate: '1967-08-28'
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/TCoNLRM3tiU" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

@@ -1,10 +1,14 @@
-﻿---
-title: "¿Qué es el strawberry flick en tenis de mesa?"
-description: "El strawberry flick es la variante creativa del banana flick. Aprende en qué se diferencia, cómo abrirla muñeca hacia fuera y por qué es tan efectivo para cambiar el ángulo de ataque."
-pubDate: "2025-07-12"
-updatedDate: "2025-08-06"
-category: "tecnica"
-tags: ["Tipos de golpe"]
+---
+title: ¿Qué es el strawberry flick en tenis de mesa?
+description: El strawberry flick es la variante creativa del banana flick. Aprende
+  en qué se diferencia, cómo abrirla muñeca hacia fuera y por qué es tan efectivo
+  para cambiar el ángulo de ataque.
+pubDate: '2025-07-12'
+updatedDate: '2025-08-06'
+category: tecnica
+tags:
+- Tipos de golpe
+- Flick
 draft: false
 ---
 

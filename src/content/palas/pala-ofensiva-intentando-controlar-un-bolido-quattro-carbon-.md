@@ -1,12 +1,17 @@
 ---
-title: "Pala ofensiva. Intentando controlar un bólido: Quattro Carbon + 729 FX + Hurricane III"
-description: "La Joola Quattro Carbon con gomas de control es un experimento en tenis de mesa: madera OFF+ con gomas lentas. ¿Se puede domar este bólido? Lo analizamos."
-pubDate: "2025-02-17"
-updatedDate: "2025-08-14"
-category: "palas"
-tags: ["Configuraciones de palas"]
+title: 'Pala ofensiva. Intentando controlar un bólido: Quattro Carbon + 729 FX + Hurricane
+  III'
+description: 'La Joola Quattro Carbon con gomas de control es un experimento en tenis
+  de mesa: madera OFF+ con gomas lentas. ¿Se puede domar este bólido? Lo analizamos.'
+pubDate: '2025-02-17'
+updatedDate: '2025-08-14'
+category: palas
+tags:
+- Configuraciones de palas
+- Ofensivo
+- Control
 draft: false
-brand: "Tibhar"
+brand: Tibhar
 rating: 4
 ---
 

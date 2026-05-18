@@ -1,10 +1,13 @@
-﻿---
-title: "Madera OFF+ (Offensive Plus)"
-description: "La madera OFF+ es la más rápida y potente del tenis de mesa. Solo para jugadores de alto nivel que buscan máxima velocidad con capas de carbono."
-pubDate: "2025-05-06"
-updatedDate: "2025-08-08"
-category: "maderas"
-tags: ["Maderas"]
+---
+title: Madera OFF+ (Offensive Plus)
+description: La madera OFF+ es la más rápida y potente del tenis de mesa. Solo para
+  jugadores de alto nivel que buscan máxima velocidad con capas de carbono.
+pubDate: '2025-05-06'
+updatedDate: '2025-08-08'
+category: maderas
+tags:
+- Maderas
+- Ofensivo
 draft: false
 ---
 
