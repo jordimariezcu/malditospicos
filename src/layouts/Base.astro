@@ -58,7 +58,9 @@ const currentPath = Astro.url.pathname;
   <meta name="twitter:image" content={new URL(image, Astro.site)} />
 
   <!-- Favicon -->
-  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="icon" href="/favicon.ico" type="image/x-icon" sizes="32x32" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
