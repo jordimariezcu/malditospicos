@@ -18,7 +18,7 @@ draft: false
 | --- |
 | Material necesario |
 
-Una de las dudas habituales es cómo se hace para montar tu pala. Tenemos una madera que, si no hacemos nada raro, nos durará muchos años, pero las gomas tienen un gran desgaste y se deben cambiar cada varios meses.
+Una de las dudas habituales es cómo se hace para montar tu pala. Si aún no tienes claro qué madera o gomas usar, primero echa un vistazo a [cómo elegir tu pala de tenis de mesa](/guias/como-elegir-tu-pala-de-tenis-de-mesa-la-clave-para-darle-cana-a-la-pelota/). Tenemos una madera que, si no hacemos nada raro, nos durará muchos años, pero las gomas tienen un gran desgaste y se deben cambiar cada varios meses.
 
 Hoy os explicaremos como montar vuestra pala. En este caso, es una pala para molestar. Utilizo una madera que ya tiene unos años, y le pongo una goma rápida en el drive y unos picos medianos en el revés**. **
 
@@ -80,3 +80,5 @@ Ahora, si queremos dejarlo bien chulo, solo nos faltará ponerle la cinta canton
 Habréis visto que los profesionales no llevan cantonera, esto es porque en cada campeonato renuevan las gomas, por lo que las cambian tan a menudo que ya no ponen esta cinta. 
 
 Con esto ya tenéis una pala con gomas nuevas, ¡a punto para disfrutarla!
+
+Y si todavía dudas entre hacerte tu pala a medida o comprarla ya montada, aquí tienes la respuesta: [¿Me hago la pala a medida o la compro ya montada?](/guias/mi-primera-pala-me-la-hago-a-medida-o-la-compro-ya-montada/)

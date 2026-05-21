@@ -13,7 +13,7 @@ draft: false
 En el tenis de mesa, expresiones como "cho" o "cho-lei" son gritos habituales que hacen los jugadores después de ganar un punto, especialmente en partidos intensos. No son palabras con un significado lingüístico concreto, sino expresiones de ánimo, euforia o motivación personal.
 
 "Cho" probablemente deriva del chino mandarín “hǎo”, que significa "bueno" o "bien", y se pronuncia de forma similar a "hao", aunque en el uso deportivo ha evolucionado fonéticamente.
-Muchos jugadores chinos y de otros países asiáticos lo popularizaron, y ahora lo usan jugadores de todo el mundo, adaptándolo como un grito propio.
+Muchos jugadores chinos y de otros países asiáticos lo popularizaron, y ahora lo usan jugadores de todo el mundo, adaptándolo como un grito propio. Un buen ejemplo es [Tomokazu Harimoto](/jugadores/tomokazu-harimoto-talento-japones/), conocido precisamente por su energético “Cho!” después de cada punto importante.
 
 "Cho-lei" puede ser una variación personal o de equipo, añadiendo más fuerza o energía al grito. A veces tiene un componente ritual o psicológico para reforzar la concentración.
 

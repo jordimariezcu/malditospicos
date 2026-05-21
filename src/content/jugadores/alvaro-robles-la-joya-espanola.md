@@ -20,3 +20,5 @@ birthDate: '1991-03-12'
 Ha logrado importantes resultados internacionales, entre ellos la medalla de plata en dobles masculinos en el Campeonato del Mundo de 2019 junto al rumano Ovidiu Ionescu. 
 
 Especialista en dobles, aunque también compite en individual, Robles se caracteriza por un juego técnico, muy táctico y con gran control. Su saque es preciso y variado, y sabe aprovecharlo para construir el punto con paciencia. Su experiencia en ligas europeas le ha permitido enfrentarse y ganar a jugadores de élite mundial.
+
+Si quieres imitar el estilo técnico de Robles, empieza por aquí: [Cómo elegir tu pala de tenis de mesa](/guias/como-elegir-tu-pala-de-tenis-de-mesa-la-clave-para-darle-cana-a-la-pelota/) | [Ma Long, uno de los mejores de la historia](/jugadores/ma-long-uno-de-los-mejores-de-la-historia/)

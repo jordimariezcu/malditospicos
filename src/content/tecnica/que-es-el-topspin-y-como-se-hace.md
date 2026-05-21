@@ -25,3 +25,5 @@ Al botar, la pelota salta más y se acelera, dificultando la devolución del riv
 ¿Cómo se usa en tenis de mesa?
 En ping-pong, el topspin es uno de los golpes ofensivos más comunes. Se usa tanto con la derecha (drive) como con el revés, y es esencial en el juego moderno. Requiere una buena técnica para combinar velocidad, control y efecto.
 En tenis de mesa, se utiliza para presionar al adversario, obligarlo a levantar la pelota o cometer errores.
+
+Si quieres dominar el topspin con la pala adecuada, aquí te explicamos [cómo elegir tu pala según tu estilo de juego](/guias/como-elegir-tu-pala-de-tenis-de-mesa-la-clave-para-darle-cana-a-la-pelota/). Y si te preguntas cuándo usar topspin, push o flick en la recepción, también lo analizamos: [Push, flick o topspin: cómo elegir la mejor recepción](/tecnica/push-flick-o-topspin-como-elegir-la-mejor-recepcion/).

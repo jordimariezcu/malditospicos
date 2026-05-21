@@ -19,4 +19,6 @@ Tomokazu Harimoto, nacido en 2003 en Japón, es uno de los talentos más precoce
 
 Con apenas 14 años ganó un torneo del World Tour y se convirtió en el jugador más joven en hacerlo. Desde entonces ha acumulado títulos y finales, consolidándose como uno de los mejores del mundo. 
 
-Harimoto destaca por su intensidad, su rapidez de piernas y su capacidad para atacar tanto de derecha como de revés con la misma agresividad. Es conocido también por su famoso grito “Cho!” tras cada punto importante, una muestra de la pasión con la que vive cada partido.
+Harimoto destaca por su intensidad, su rapidez de piernas y su capacidad para atacar tanto de derecha como de revés con la misma agresividad. Es conocido también por su famoso grito [“Cho!”](/guias/que-significa-cho-chole-o-cho-lei-en-el-tenis-de-mesa/) tras cada punto importante, una muestra de la pasión con la que vive cada partido.
+
+Su hermana menor [Miwa Harimoto](/jugadores/miwa-harimoto-una-futura-estrella/) sigue sus pasos y ya es considerada una de las grandes promesas del tenis de mesa femenino.

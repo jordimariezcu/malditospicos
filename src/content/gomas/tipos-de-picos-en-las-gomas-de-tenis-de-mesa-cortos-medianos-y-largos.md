@@ -63,6 +63,8 @@ Especialmente
  los recomiendo para jugar contra otros jugadores de picos, puesto que 
 sus efectos raros y cosas imprevisibles no nos van a afectar.  
 
+→ Artículo detallado: [Gomas de picos cortos, una ayuda ofensiva](/gomas/gomas-de-picos-cortos-una-ayuda-ofensiva/)
+
 ![Picos medianos](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV2aMlEvlJ7REAC-P1VjDDocyrCWZKDfPQxZsytBPytFknDCOdrW3G7ZQYgYbNOMtdZyZ7T7oiM92AKyeBFXojZiIwBP1vHkeTs5u5sOYqqOfbCgAFzcIcgRX7XcMrjmRn9aYaWmsgUohUGy-5OAgSotBXTo5FT6b6LUGS2aK9L6V4UY-ig9Ta0zMflyz0/w400-h285/der-materialspezialist%20Power%20Pipes%20-%20picos%20medianos.jpeg)
 |  |
 | --- |
@@ -92,6 +94,8 @@ Al
 para jugar en el drive, corrigiendo evidentemente nuestros gestos y 
 adaptándolos a cada modelo de goma. 
 
+→ Artículo detallado: [Gomas de picos medianos, mayor control y despiste del rival](/gomas/gomas-de-picos-medianos-mayor-control-y-despiste-del-rival/)
+
  ![Picos largos](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkNEJufCxRyTFXxwX2EOooUVmEVgEk8MdQmaPFcXlBw9cC2ZPZoOk0r6MhkIdfwCGBQzqXGR8-LNZ3g7cGBL9L3vcFDtT28jEQWUXzvZTNa5tDkSDqVJ2ui60yZ0bGEAz9cFdj-wKJhuYEji2F5e0TO0jBnuq1Khyphenhyphen4OC3Na1OlRnBFQPiLPdXXZnY0GoFR/w400-h290/der-materialspezialist%20FAKIR%20-%20picos%20largos%20OX.jpeg)
 |  |
 | --- |
@@ -113,3 +117,7 @@ Picos largos con poca fricción:
 - Ideales para juego cerca de la mesa. 
 
 En general podemos decir que se trata de picos más bien defensivos, puesto que su velocidad acostumbra a ser baja. En cambio, son los que generan efectos incómodos, pueden ofrecernos un juego lento en cuanto queramos, y serán los adecuados si nos gusta alejarnos de la mesa y hacer de chopper, o quedarnos pegados e incomodar al rival (dependiendo de cada modelo).
+
+→ Artículo detallado: [Gomas de picos largos, para jugar al despiste](/gomas/gomas-de-picos-largos-para-jugar-al-despiste/)
+
+Si quieres saber más sobre los [detalles técnicos de los picos](/gomas/detalles-importantes-en-los-picos-alineacion-densidad-altura-grosor-textura-de-superficie-y-dureza/) (alineación, densidad, altura, grosor...), tenemos un análisis en profundidad.

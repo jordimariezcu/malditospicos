@@ -17,6 +17,8 @@ birthDate: '1988-01-20'
 
 Ma Long es considerado por muchos como el mejor jugador de tenis de mesa de todos los tiempos. Campeón olímpico individual en Río 2016 y Tokio 2020, además de múltiples veces campeón mundial y ganador de la Copa del Mundo, Ma Long ha dominado el circuito durante más de una década.
 
-Su estilo de juego es el equilibrio perfecto entre potencia y precisión. Posee uno de los mejores topspin de derecha de la historia, un revés muy seguro y un servicio extremadamente variado. Además, su lectura de juego y su frialdad bajo presión le han permitido vencer en innumerables finales de alto nivel.
+Su estilo de juego es el equilibrio perfecto entre potencia y precisión. Posee uno de los mejores [topspin](/tecnica/que-es-el-topspin-y-como-se-hace/) de derecha de la historia, un revés muy seguro y un servicio extremadamente variado. Además, su lectura de juego y su frialdad bajo presión le han permitido vencer en innumerables finales de alto nivel.
 
 Más allá de sus resultados, Ma Long es respetado por su disciplina, humildad y profesionalidad. Su legado no solo se mide en títulos, sino en la inspiración que ha dado a varias generaciones de jugadores.
+
+Otros grandes talentos del circuito: [Tomokazu Harimoto, el talento japonés](/jugadores/tomokazu-harimoto-talento-japones/) | [Álvaro Robles, la joya española](/jugadores/alvaro-robles-la-joya-espanola/)

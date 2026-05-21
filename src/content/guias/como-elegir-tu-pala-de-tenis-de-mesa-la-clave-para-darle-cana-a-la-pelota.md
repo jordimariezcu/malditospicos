@@ -24,6 +24,8 @@ Las palas con capas de carbono son más rápidas y rígidas, ideales para jugado
 3. Gomas: el toque final
 Las gomas determinan mucho tu juego. Hay de todo: para efecto, para velocidad, para control. Para principiantes, gomas con buen control y efecto moderado ayudan a aprender la técnica. Y recuerda, el color importa: un lado negro y otro rojo (o de colores aprobados) para que no haya trampas.
 
+Si te interesa el juego perturbador con picos, no te pierdas nuestra guía sobre [los tipos de picos en las gomas](/gomas/tipos-de-picos-en-las-gomas-de-tenis-de-mesa-cortos-medianos-y-largos/): cortos, medianos y largos.
+
 4. La empuñadura también importa
 Hay varios tipos: shakehand (como dar la mano), penhold (como coger un bolígrafo) y variantes. Elige la que te sea más cómoda y natural. Y si tienes manos pequeñas, busca palas con empuñadura más corta o junior.
 
@@ -36,3 +38,5 @@ Las palas más caras no siempre son las mejores para ti. Prioriza el confort y e
 En resumen, elegir una pala es como elegir un compañero de baile: tiene que encajar contigo para que el juego fluya. Así que tómate tu tiempo, prueba y elige la que te haga brillar en la mesa.
 
 Te hemos preparado una sección que te ayudará a configurar tu pala: [Cómo tiene que ser tu pala](/palas/configuraciones-de-palas-de-tenis-de-mesa-por-precios/)
+
+Una vez hayas decidido qué madera y gomas quieres, aprende [¿cómo montar tu propia pala paso a paso](/guias/como-montar-tu-propia-pala-de-tenis-de-mesa/).
