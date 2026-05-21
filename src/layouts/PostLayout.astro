@@ -334,6 +334,10 @@ const breadcrumb = {
   margin-bottom: 24px;
 }
 .article-breadcrumb-parent {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  padding: 0 4px;
   font-size: 12px;
   color: #999;
   text-transform: uppercase;
@@ -341,7 +345,9 @@ const breadcrumb = {
 }
 .article-breadcrumb-sep { font-size: 12px; color: #ccc; }
 .article-cat {
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
   background: var(--accent);
   color: #fff;
   font-family: var(--font-display);
@@ -409,11 +415,13 @@ const breadcrumb = {
   border-top: 1px solid var(--border);
 }
 .tag {
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
   background: var(--bg-secondary);
   color: var(--text-secondary);
   font-size: 12px;
-  padding: 6px 12px;
+  padding: 6px 14px;
   border-radius: 20px;
   text-decoration: none;
   transition: background 0.15s, color 0.15s;
