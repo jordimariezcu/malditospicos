@@ -1,13 +1,15 @@
 ---
 import '../styles/global.css';
 import Analytics from '@vercel/analytics/astro';
-const { title, description, image, type = 'website', pubDate, updatedDate, category } = Astro.props;
+const { title, description, image, type = 'website', pubDate, updatedDate, category, noindex = false } = Astro.props;
 const siteTitle = 'Malditos Picos';
 const siteDesc = 'Todo sobre el tenis de mesa: gomas, maderas, palas y técnica.';
-const fullTitle = title ? `${title} · ${siteTitle}` : siteTitle;
+const fullTitle = title
+  ? `${title} · ${siteTitle}`
+  : `${siteTitle} — Gomas, Maderas y Técnica de Tenis de Mesa`;
 const metaDesc = description || siteDesc;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
-const defaultImage = new URL('/og-default.svg', Astro.site).href;
+const defaultImage = new URL('/og-default.png', Astro.site).href;
 const ogImage = image || defaultImage;
 ---
 <!DOCTYPE html>
@@ -20,6 +22,7 @@ const ogImage = image || defaultImage;
   <link rel="alternate" type="application/rss+xml" title="Malditos Picos" href="/rss.xml" />
   <title>{fullTitle}</title>
   <meta name="description" content={metaDesc} />
+  <meta name="robots" content={noindex ? 'noindex, follow' : 'index, follow'} />
   <link rel="canonical" href={canonicalURL} />
 
   <!-- Open Graph -->
@@ -236,7 +239,10 @@ const ogImage = image || defaultImage;
   letter-spacing: 0.06em;
   text-transform: uppercase;
   color: #555;
-  padding: 6px 10px;
+  padding: 12px 10px;
+  min-height: 44px;
+  display: flex;
+  align-items: center;
   border-radius: var(--radius);
   transition: color 0.15s, background 0.15s;
 }
@@ -252,8 +258,8 @@ const ogImage = image || defaultImage;
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 34px;
-  height: 34px;
+  width: 44px;
+  height: 44px;
   background: #f5f5f5;
   border: 1px solid #e8e8e8;
   border-radius: var(--radius);
@@ -281,11 +287,15 @@ const ogImage = image || defaultImage;
 .nav-toggle {
   display: none;
   flex-direction: column;
+  align-items: center;
+  justify-content: center;
   gap: 5px;
   background: none;
   border: none;
   cursor: pointer;
-  padding: 4px;
+  padding: 12px 8px;
+  min-width: 44px;
+  min-height: 44px;
 }
 .nav-toggle span {
   display: block;
@@ -328,8 +338,8 @@ const ogImage = image || defaultImage;
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 32px;
-  height: 32px;
+  width: 44px;
+  height: 44px;
   border: 1px solid #e8e8e8;
   border-radius: var(--radius);
   color: #999;

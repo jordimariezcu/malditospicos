@@ -1,5 +1,32 @@
 {
+  "trailingSlash": true,
+
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "Content-Security-Policy",
+          "value": "default-src 'self'; script-src 'self' 'unsafe-inline' https://umami-production-c3fa.up.railway.app https://assets.mailerlite.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' https: data:; connect-src 'self' https://umami-production-c3fa.up.railway.app https://assets.mailerlite.com; form-action 'self' https://assets.mailerlite.com; frame-ancestors 'none';"
+        },
+        { "key": "X-Frame-Options",           "value": "DENY" },
+        { "key": "X-Content-Type-Options",    "value": "nosniff" },
+        { "key": "Referrer-Policy",           "value": "strict-origin-when-cross-origin" },
+        { "key": "Permissions-Policy",        "value": "camera=(), microphone=(), geolocation=(), payment=(), usb=()" },
+        { "key": "Strict-Transport-Security", "value": "max-age=63072000; includeSubDomains" }
+      ]
+    }
+  ],
+
   "redirects": [
+    {
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "malditospicos.com" }],
+      "destination": "https://www.malditospicos.com/:path*",
+      "permanent": true
+    },
+    { "source": "/sitemap.xml", "destination": "/sitemap-index.xml", "permanent": true },
+
     { "source": "/colaboraciones",           "destination": "/colaboraciones/",   "permanent": false },
     { "source": "/p/sobre-nosotros.html",         "destination": "/sobre-nosotros/", "permanent": true },
     { "source": "/p/sobre-nosotros",              "destination": "/sobre-nosotros/", "permanent": true },

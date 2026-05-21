@@ -1,3 +1,26 @@
 User-agent: *
 Allow: /
 Sitemap: https://www.malditospicos.com/sitemap-index.xml
+
+# ── AI training crawlers — opted out ──────────────────────────────────────────
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+# ── AI search/retrieval crawlers — allowed for citations ──────────────────────
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
