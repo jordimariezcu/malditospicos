@@ -120,16 +120,24 @@ const schema = isJugador ? {
   "name": title,
   "url": canonicalURL,
   "description": description || '',
+  "reviewBody": description || '',
   "datePublished": pubDate,
   "dateModified": updatedDate || pubDate,
-  "author": { "@type": "Organization", "name": "Malditos Picos" },
+  "author": { "@type": "Organization", "name": "Malditos Picos", "url": "https://www.malditospicos.com" },
+  "publisher": { "@type": "Organization", "name": "Malditos Picos", "url": "https://www.malditospicos.com" },
   "inLanguage": "es",
   "itemReviewed": {
     "@type": "Product",
     "name": title,
     ...(brand && { "brand": { "@type": "Brand", "name": brand } }),
     ...(description && { "description": description }),
-    ...(imageUrl && { "image": imageUrl }),
+    ...(imageUrl && { "image": { "@type": "ImageObject", "url": imageUrl } }),
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock",
+      "offerCount": "1"
+    },
   },
   ...(rating && {
     "reviewRating": {
@@ -146,11 +154,12 @@ const schema = isJugador ? {
   "description": description || '',
   "datePublished": pubDate,
   "dateModified": updatedDate || pubDate,
-  "author": { "@type": "Organization", "name": "Malditos Picos" },
+  "author": { "@type": "Organization", "name": "Malditos Picos", "url": "https://www.malditospicos.com" },
   "publisher": { "@type": "Organization", "name": "Malditos Picos", "url": "https://www.malditospicos.com" },
   "inLanguage": "es",
   "articleSection": categoryLabels[category] || category,
-  ...(imageUrl && { "image": imageUrl }),
+  ...(imageUrl && { "image": { "@type": "ImageObject", "url": imageUrl, "width": 1200, "height": 630 } }),
+  "mainEntityOfPage": { "@type": "WebPage", "@id": canonicalURL },
 };
 
 const breadcrumb = {

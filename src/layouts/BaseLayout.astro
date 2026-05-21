@@ -19,6 +19,8 @@ const ogImage = image || defaultImage;
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800;900&family=Barlow:wght@300;400;500;600&display=swap" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800;900&family=Barlow:wght@300;400;500;600&display=swap" />
   <link rel="alternate" type="application/rss+xml" title="Malditos Picos" href="/rss.xml" />
   <title>{fullTitle}</title>
   <meta name="description" content={metaDesc} />
@@ -54,7 +56,35 @@ const ogImage = image || defaultImage;
     "name": siteTitle,
     "url": "https://www.malditospicos.com",
     "description": siteDesc,
-    "inLanguage": "es"
+    "inLanguage": "es",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": { "@type": "EntryPoint", "urlTemplate": "https://www.malditospicos.com/?q={search_term_string}" },
+      "query-input": "required name=search_term_string"
+    }
+  })} />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": siteTitle,
+    "url": "https://www.malditospicos.com",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.malditospicos.com/og-default.png",
+      "width": 1200,
+      "height": 630
+    },
+    "description": siteDesc,
+    "inLanguage": "es",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "email": "malditospicos@gmail.com",
+      "contactType": "customer service",
+      "availableLanguage": "Spanish"
+    },
+    "sameAs": [
+      "https://www.linkedin.com/in/jordi-mariezcurrena/"
+    ]
   })} />
 
   <slot name="head" />
