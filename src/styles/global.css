@@ -1,4 +1,24 @@
-/* Google Fonts loaded via <link> in BaseLayout.astro for better LCP performance */
+/* Google Fonts loaded via <link> in BaseLayout.astro for better LCP (display=optional, no CLS) */
+
+/* Fallback font metric overrides — minimise layout shift when Barlow loads */
+@font-face {
+  font-family: 'Barlow';
+  src: local('Arial');
+  font-weight: 100 900;
+  size-adjust: 103%;
+  ascent-override: 96%;
+  descent-override: 24%;
+  line-gap-override: 0%;
+}
+@font-face {
+  font-family: 'Barlow Condensed';
+  src: local('Arial Narrow'), local('Impact');
+  font-weight: 100 900;
+  size-adjust: 92%;
+  ascent-override: 100%;
+  descent-override: 22%;
+  line-gap-override: 0%;
+}
 
 :root {
   --bg: #ffffff;

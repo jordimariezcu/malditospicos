@@ -1,5 +1,8 @@
 User-agent: *
 Allow: /
+Disallow: /keystatic/
+Disallow: /pagefind/
+Disallow: /api/
 Sitemap: https://www.malditospicos.com/sitemap-index.xml
 
 # ── AI training crawlers — opted out ──────────────────────────────────────────
