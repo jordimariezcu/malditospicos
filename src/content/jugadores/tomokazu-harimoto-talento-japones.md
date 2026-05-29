@@ -1,9 +1,9 @@
 ---
-title: Tomokazu Harimoto, talento japonés
+title: "Tomokazu Harimoto: el prodigio japonés del tenis de mesa"
 description: Tomokazu Harimoto fue el jugador más joven en ganar un World Tour. Descubre
   su intensidad, su ataque simétrico de ambas alas y el mítico grito Cho! que le define.
 pubDate: '2025-01-05'
-updatedDate: '2025-08-13'
+updatedDate: '2026-05-29'
 category: jugadores
 tags:
 - Jugadores
@@ -11,6 +11,8 @@ tags:
 draft: false
 nationality: Japón
 birthDate: '2003-07-27'
+sameAs:
+  - 'https://en.wikipedia.org/wiki/Tomokazu_Harimoto'
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/5-ZbPt5MpoU?si=fZ6_rznKowmbojAm" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

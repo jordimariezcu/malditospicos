@@ -1,10 +1,10 @@
 ---
-title: Jan-Ove Waldner, el Mozart del tenis de mesa
+title: "Jan-Ove Waldner: bicén mundial y Mozart del tenis de mesa"
 description: Jan-Ove Waldner es la leyenda sueca venerada en todo el mundo. Descubre
   por qué su precisión, elegancia e inteligencia táctica lo convirtieron en el mejor
   de todos los tiempos.
 pubDate: '2025-07-09'
-updatedDate: '2025-08-10'
+updatedDate: '2026-05-29'
 category: jugadores
 tags:
 - Jugadores
@@ -12,6 +12,8 @@ tags:
 draft: false
 nationality: Suecia
 birthDate: '1965-10-03'
+sameAs:
+  - 'https://en.wikipedia.org/wiki/Jan-Ove_Waldner'
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/BK9E6UoAotI?si=XFZI46QYQzAY_hjt" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

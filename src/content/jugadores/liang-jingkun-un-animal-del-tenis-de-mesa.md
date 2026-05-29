@@ -4,7 +4,7 @@ description: Liang Jingkun es potencia pura en la mesa. Descubre cómo su golpe 
   derecha devastador y su físico imponente lo han convertido en un rival temido en
   los grandes torneos chinos.
 pubDate: '2025-01-06'
-updatedDate: '2025-08-13'
+updatedDate: '2026-05-29'
 category: jugadores
 tags:
 - Jugadores
@@ -12,6 +12,8 @@ tags:
 draft: false
 nationality: China
 birthDate: '1997-06-11'
+sameAs:
+  - 'https://en.wikipedia.org/wiki/Liang_Jingkun'
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/Hkwwa6mA3m0?si=p7cnc87xE6ImiS5-" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

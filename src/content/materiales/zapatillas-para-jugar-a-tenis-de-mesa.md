@@ -1,7 +1,7 @@
 ---
-title: Zapatillas para jugar a tenis de mesa
+title: "Zapatillas de tenis de mesa: guía para elegir las mejores"
 pubDate: '2025-02-28'
-updatedDate: '2025-08-13'
+updatedDate: '2026-05-29'
 category: materiales
 tags:
 - Materiales

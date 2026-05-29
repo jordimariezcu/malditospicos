@@ -1,7 +1,7 @@
 ﻿---
-title: "Adam Bobrow, el showman del tenis de mesa"
+title: "Adam Bobrow: el showman más famoso del ping pong mundial"
 pubDate: "2025-01-15"
-updatedDate: "2025-08-14"
+updatedDate: '2026-05-29'
 category: "recursos"
 tags: ["Tenis de mesa en Youtube"]
 draft: false
