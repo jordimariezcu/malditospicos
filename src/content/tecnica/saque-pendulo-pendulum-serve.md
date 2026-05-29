@@ -1,5 +1,5 @@
 ---
-title: Saque péndulo (pendulum serve)
+title: "Saque de péndulo: cómo ejecutarlo y qué efectos genera"
 description: El saque de péndulo es el más temido del tenis de mesa. Aprende cómo
   ejecutarlo, qué efectos genera y cómo sacarle el máximo partido para ganar puntos
   directos.
