@@ -5,7 +5,7 @@ import { getCollection } from 'astro:content';
 
 const { post } = Astro.props;
 const { title, description, pubDate, updatedDate, category, tags, image,
-        nationality, birthDate, worldRanking, brand, rating } = post.data;
+        nationality, birthDate, worldRanking, sameAs, brand, rating } = post.data;
 const imageUrl = image ? new URL(image, Astro.site).href : undefined;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site).href;
 
@@ -109,11 +109,14 @@ const schema = isJugador ? {
   "name": playerName,
   "url": canonicalURL,
   "description": description || '',
+  "jobTitle": "Jugador de tenis de mesa profesional",
+  "knowsAbout": "Tenis de mesa",
   "inLanguage": "es",
   ...(nationality && { "nationality": { "@type": "Country", "name": nationality } }),
   ...(birthDate && { "birthDate": birthDate }),
   ...(worldRanking && { "identifier": { "@type": "PropertyValue", "name": "World Ranking", "value": worldRanking } }),
   ...(imageUrl && { "image": imageUrl }),
+  ...(sameAs && sameAs.length > 0 && { "sameAs": sameAs }),
 } : isProduct ? {
   "@context": "https://schema.org",
   "@type": "Review",
@@ -154,7 +157,7 @@ const schema = isJugador ? {
   "description": description || '',
   "datePublished": pubDate,
   "dateModified": updatedDate || pubDate,
-  "author": { "@type": "Organization", "name": "Malditos Picos", "url": "https://www.malditospicos.com" },
+  "author": { "@type": "Person", "name": "Jordi", "url": "https://www.malditospicos.com/sobre-nosotros/" },
   "publisher": { "@type": "Organization", "name": "Malditos Picos", "url": "https://www.malditospicos.com" },
   "inLanguage": "es",
   "articleSection": categoryLabels[category] || category,

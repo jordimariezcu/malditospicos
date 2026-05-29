@@ -1,10 +1,10 @@
 ---
-title: Ma Lin, el Dios del penhold
+title: "Ma Lin: triple campeón olímpico y maestro del penhold"
 description: Ma Lin es el único jugador en ganar el oro olímpico en individual, dobles
   y equipos. Descubre cómo su penhold y su reverse backhand revolucionaron el tenis
   de mesa moderno.
 pubDate: '2025-07-08'
-updatedDate: '2025-08-10'
+updatedDate: '2026-05-29'
 category: jugadores
 tags:
 - Jugadores
@@ -13,6 +13,8 @@ tags:
 draft: false
 nationality: China
 birthDate: '1980-01-10'
+sameAs:
+  - 'https://en.wikipedia.org/wiki/Ma_Lin_(table_tennis)'
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/qwa_QJD4UcU?si=RbkOCCT2Fsb8e9fK" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

@@ -13,6 +13,7 @@ const postSchema = z.object({
   nationality: z.string().optional(),
   birthDate: z.string().optional(),
   worldRanking: z.number().optional(),
+  sameAs: z.array(z.string()).optional(),
   // Gomas / Maderas / Palas
   brand: z.string().optional(),
   rating: z.number().min(1).max(5).optional(),

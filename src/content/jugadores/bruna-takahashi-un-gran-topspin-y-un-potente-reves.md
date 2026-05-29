@@ -1,10 +1,10 @@
 ---
-title: Bruna Takahashi, un gran topspin y un potente revés
+title: "Bruna Takahashi: top 20 mundial y referente latinoamericano"
 description: Bruna Takahashi es la primera brasileña en el top 20 mundial. Conoce
   su topspin devastador, su potente revés y cómo ha revolucionado el tenis de mesa
   en Latinoamérica.
 pubDate: '2025-03-05'
-updatedDate: '2025-08-10'
+updatedDate: '2026-05-29'
 category: jugadores
 tags:
 - Jugadores
@@ -12,6 +12,8 @@ tags:
 draft: false
 nationality: Brasil
 birthDate: '2000-07-21'
+sameAs:
+  - 'https://en.wikipedia.org/wiki/Bruna_Takahashi'
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/ARg0FSKXkzc?si=-3hOmDT6wewOeo0k" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

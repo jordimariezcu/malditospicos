@@ -3,7 +3,7 @@ title: "Fan Zhendong: el mejor jugador de tenis de mesa del mundo"
 description: "Campéón olímpico en París 2024 y n.º 1 del mundo. Estilo de juego, pala y gomas
   de Fan Zhendong, el jugador más completo de la historia del tenis de mesa."
 pubDate: '2025-07-06'
-updatedDate: '2025-08-10'
+updatedDate: '2026-05-29'
 category: jugadores
 tags:
 - Jugadores
@@ -11,6 +11,8 @@ tags:
 draft: false
 nationality: China
 birthDate: '1997-01-22'
+sameAs:
+  - 'https://en.wikipedia.org/wiki/Fan_Zhendong'
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/hgEX27ABr9M?si=If5GhV-hXqMKsnE9" frameborder="0" allowfullscreen loading="lazy"></iframe></div>

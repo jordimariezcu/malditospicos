@@ -3,7 +3,7 @@ title: "Ma Long: el GOAT del tenis de mesa"
 description: "Ma Long es el jugador más laureado de la historia: 5 campeonatos mundiales
   y 2 oros olímpicos. Su estilo, su pala y por qué es el GOAT del tenis de mesa."
 pubDate: '2025-07-07'
-updatedDate: '2025-08-10'
+updatedDate: '2026-05-29'
 category: jugadores
 tags:
 - Jugadores
@@ -11,6 +11,8 @@ tags:
 draft: false
 nationality: China
 birthDate: '1988-01-20'
+sameAs:
+  - 'https://en.wikipedia.org/wiki/Ma_Long'
 ---
 
 <div class="video-embed"><iframe src="https://youtube.com/embed/36zx34BlQF8?si=Cb-dYF6mar085VLP" frameborder="0" allowfullscreen loading="lazy"></iframe></div>
