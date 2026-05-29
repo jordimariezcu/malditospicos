@@ -1,6 +1,6 @@
 ﻿---
-title: "¿Pala o raqueta? La eterna duda del tenis de mesa"
-description: "¿Pala o raqueta en tenis de mesa? Aunque son sinónimos, cada término tiene su contexto. Te contamos la diferencia con humor y resolvemos la eterna duda."
+title: "¿Pala o raqueta de tenis de mesa? Todo lo que necesitas saber"
+description: "¿Pala o raqueta de tenis de mesa? Son lo mismo, pero cada país usa un término. Resolvemos la duda y te explicamos cuándo usar cada palabra."
 pubDate: "2025-07-20"
 updatedDate: "2025-08-06"
 category: "guias"
