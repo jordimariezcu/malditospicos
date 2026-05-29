@@ -1,5 +1,6 @@
 ---
 title: 'El pegamento para las gomas: la unión más importante de tu pala'
+description: "GuÃ­a de pegamento para gomas de tenis de mesa: quÃ© usar, cÃ³mo aplicarlo correctamente y por quÃ© es crucial para que tu pala rinda bien."
 pubDate: '2025-04-02'
 updatedDate: '2025-08-09'
 category: materiales

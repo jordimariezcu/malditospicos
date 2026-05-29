@@ -1,6 +1,7 @@
 ﻿---
 title: "Craig Bryant - The table tennis service guy"
-pubDate: "2025-01-13"
+pdescription: "Craig Bryant, el experto en saques de tenis de mesa. AnÃ¡lisis de su canal y por quÃ© sus tutoriales son esenciales para entender el servicio moderno."
+ubDate: "2025-01-13"
 updatedDate: "2025-08-14"
 category: "recursos"
 tags: ["Tenis de mesa en Youtube"]

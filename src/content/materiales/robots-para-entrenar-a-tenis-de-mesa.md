@@ -1,5 +1,6 @@
 ---
 title: Robots para entrenar a tenis de mesa
+description: "Robots de tenis de mesa: cÃ³mo te ayudan a mejorar solos, quÃ© funciones buscar y los modelos mÃ¡s recomendados segÃºn presupuesto."
 pubDate: '2025-02-27'
 updatedDate: '2025-08-13'
 category: materiales

@@ -1,6 +1,7 @@
 ﻿---
 title: "Adam Bobrow: el showman más famoso del ping pong mundial"
-pubDate: "2025-01-15"
+pdescription: "Adam Bobrow es el embajador global del ping pong. Conoce su canal, su estilo de juego espectacular y por quÃ© se ha convertido en el showman del tenis de mesa."
+ubDate: "2025-01-15"
 updatedDate: '2026-05-29'
 category: "recursos"
 tags: ["Tenis de mesa en Youtube"]

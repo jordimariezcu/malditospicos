@@ -1,5 +1,6 @@
 ---
 title: 'El misterioso mundo del booster: magia líquida para tus gomas'
+description: "El booster en tenis de mesa: quÃ© es, cÃ³mo funciona y si realmente merece la pena aplicarlo en tus gomas para mejorar su velocidad y efecto."
 pubDate: '2025-02-20'
 updatedDate: '2025-08-12'
 category: materiales

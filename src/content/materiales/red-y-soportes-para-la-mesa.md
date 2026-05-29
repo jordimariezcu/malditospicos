@@ -1,5 +1,6 @@
 ---
 title: Red y soportes para la mesa
+description: "Redes y soportes para mesa de ping pong: tipos de sujeciÃ³n, calidad de red y cuÃ¡les ofrecen mejor relaciÃ³n calidad-precio."
 pubDate: '2025-02-26'
 updatedDate: '2025-08-13'
 category: materiales

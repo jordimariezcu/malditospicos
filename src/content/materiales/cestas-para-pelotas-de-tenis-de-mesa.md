@@ -1,5 +1,6 @@
 ---
 title: Cestas para pelotas de tenis de mesa
+description: "GuÃ­a de cestas para pelotas de tenis de mesa: tipos, capacidad y cuÃ¡les son las mÃ¡s prÃ¡cticas para entrenar sin perder tiempo recogiendo pelotas."
 pubDate: '2025-02-23'
 updatedDate: '2025-08-13'
 category: materiales

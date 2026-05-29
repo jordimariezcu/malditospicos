@@ -1,5 +1,6 @@
 ---
 title: "GeblockTT - Tenis de mesa en Youtube"
+description: "GeBockTT en YouTube: canal de tenis de mesa con anÃ¡lisis tÃ©cnicos en alemÃ¡n de primer nivel para mejorar la tÃ©cnica y entender el material."
 pubDate: "2026-01-09"
 updatedDate: "2026-03-07"
 category: "recursos"

@@ -1,5 +1,6 @@
 ---
 title: ' Fundas para pala: el abrigo que tu pala merece'
+description: "Fundas para pala de tenis de mesa: tipos, materiales y cÃ³mo proteger tu pala entre sesiones para prolongar la vida de tus gomas."
 pubDate: '2025-04-08'
 updatedDate: '2025-08-09'
 category: materiales

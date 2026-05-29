@@ -1,5 +1,6 @@
 ---
 title: Vallas de tenis de mesa
+description: "Vallas de tenis de mesa: para quÃ© sirven en el entrenamiento, tipos disponibles y cuÃ¡les son las mÃ¡s prÃ¡cticas."
 pubDate: '2025-02-28'
 updatedDate: '2025-08-13'
 category: materiales

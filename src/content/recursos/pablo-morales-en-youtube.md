@@ -1,5 +1,6 @@
 ---
 title: "Pablo Morales en Youtube"
+description: "Pablo Morales en YouTube: el referente en espaÃ±ol para aprender tenis de mesa desde cero hasta nivel avanzado con tutoriales claros y dinÃ¡micos."
 pubDate: "2026-01-07"
 updatedDate: "2026-03-07"
 category: "recursos"

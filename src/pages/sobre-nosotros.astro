@@ -1,10 +1,26 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+
+const personSchema = {
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Jordi Mariezcurrena",
+  "url": "https://www.malditospicos.com/sobre-nosotros/",
+  "sameAs": ["https://www.linkedin.com/in/jordi-mariezcurrena/"],
+  "jobTitle": "Editor y fundador",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Malditos Picos",
+    "url": "https://www.malditospicos.com"
+  },
+  "knowsAbout": ["Tenis de mesa", "Gomas de tenis de mesa", "Maderas de tenis de mesa"]
+};
 ---
 <BaseLayout
   title="Sobre nosotros"
   description="Somos Malditos Picos, un blog español dedicado al tenis de mesa: análisis de gomas, maderas, palas y técnica para jugadores de todos los niveles."
 >
+  <script type="application/ld+json" set:html={JSON.stringify(personSchema)} slot="head" />
   <div class="container about-wrap">
     <div class="about-header">
       <h1>Sobre nosotros</h1>

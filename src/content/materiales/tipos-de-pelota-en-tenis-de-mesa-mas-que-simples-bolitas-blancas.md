@@ -1,5 +1,6 @@
 ---
 title: 'Tipos de pelota en tenis de mesa: más que simples bolitas blancas'
+description: "Tipos de pelota de tenis de mesa: diferencias entre estrellas de calidad, plÃ¡stico vs celuloide y cuÃ¡l elegir segÃºn tu nivel de juego."
 pubDate: '2025-04-07'
 updatedDate: '2025-08-09'
 category: materiales

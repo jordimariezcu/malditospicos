@@ -1,5 +1,6 @@
 ---
 title: "TT is you - Tenis de mesa en Youtube"
+description: "TT is You en YouTube: contenido de tenis de mesa en espaÃ±ol con anÃ¡lisis tÃ¡cticos, tÃ©cnicos y cobertura del circuito mundial."
 pubDate: "2026-01-08"
 updatedDate: "2026-03-07"
 category: "recursos"

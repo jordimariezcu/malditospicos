@@ -1,6 +1,7 @@
 ﻿---
 title: "Over grip: una ayuda para evitar que te resbale la pala con el sudor"
-pubDate: "2025-02-21"
+pdescription: "El over-grip para palas de tenis de mesa: cÃ³mo mejora el agarre con las manos sudadas, quÃ© materiales existen y si vale la pena usarlo."
+ubDate: "2025-02-21"
 updatedDate: "2025-08-13"
 category: "materiales"
 tags: ["Materiales"]

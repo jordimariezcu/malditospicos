@@ -1,6 +1,7 @@
 ﻿---
 title: "Pongfinity, porque el tenis de mesa puede ser divertido"
-pubDate: "2025-01-17"
+pdescription: "Pongfinity en YouTube: el canal que demuestra que el tenis de mesa puede ser espectacular y divertido con trucos, retos y golpes imposibles."
+ubDate: "2025-01-17"
 updatedDate: "2025-08-14"
 category: "recursos"
 tags: ["Tenis de mesa en Youtube"]

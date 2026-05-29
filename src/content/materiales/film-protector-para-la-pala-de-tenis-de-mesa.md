@@ -1,5 +1,6 @@
 ---
 title: Film protector para la pala de tenis de mesa
+description: "El film protector para tu pala de tenis de mesa: para quÃ© sirve, cuÃ¡ndo usarlo y cÃ³mo mantiene tus gomas en buen estado entre partidas."
 pubDate: '2025-02-24'
 updatedDate: '2025-08-13'
 category: materiales

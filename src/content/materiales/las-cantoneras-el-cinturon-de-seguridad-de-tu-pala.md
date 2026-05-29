@@ -1,5 +1,6 @@
 ---
 title: 'Las cantoneras: el cinturón de seguridad de tu pala'
+description: "Las cantoneras de tenis de mesa: para quÃ© protegen los bordes de tu pala, tipos disponibles y si realmente necesitas una."
 pubDate: '2025-04-05'
 updatedDate: '2025-08-09'
 category: materiales

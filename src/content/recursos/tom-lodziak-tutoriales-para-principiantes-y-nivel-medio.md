@@ -1,6 +1,7 @@
 ﻿---
 title: "Tom Lodziak - Tutoriales para principiantes y nivel medio"
-pubDate: "2025-01-14"
+pdescription: "Tom Lodziak en YouTube: tutoriales de tenis de mesa en inglÃ©s para principiantes y nivel medio, perfectos para aprender tÃ©cnica paso a paso."
+ubDate: "2025-01-14"
 updatedDate: "2025-08-14"
 category: "recursos"
 tags: ["Tenis de mesa en Youtube"]

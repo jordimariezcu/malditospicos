@@ -1,6 +1,7 @@
 ﻿---
 title: "Table Tennis Daily"
-pubDate: "2025-01-16"
+pdescription: "Table Tennis Daily: el canal de YouTube esencial para seguir el circuito mundial de tenis de mesa con anÃ¡lisis, highlights y entrevistas en inglÃ©s."
+ubDate: "2025-01-16"
 updatedDate: "2025-08-14"
 category: "recursos"
 tags: ["Tenis de mesa en Youtube"]

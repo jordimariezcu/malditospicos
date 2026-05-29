@@ -1,5 +1,6 @@
 ---
 title: 'Hoja adhesiva de doble cara: la alternativa al pegamento'
+description: "La hoja adhesiva de doble cara como alternativa al pegamento para montar gomas: ventajas, desventajas y cuÃ¡ndo es la mejor opciÃ³n."
 pubDate: '2025-04-01'
 updatedDate: '2025-08-09'
 category: materiales

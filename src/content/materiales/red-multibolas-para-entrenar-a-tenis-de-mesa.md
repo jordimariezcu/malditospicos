@@ -1,5 +1,6 @@
 ---
 title: Red multibolas, para entrenar a tenis de mesa
+description: "Redes multibolas para tenis de mesa: cÃ³mo facilitan el entrenamiento, capacidad, materiales y los modelos mÃ¡s recomendados."
 pubDate: '2025-02-25'
 updatedDate: '2025-08-13'
 category: materiales

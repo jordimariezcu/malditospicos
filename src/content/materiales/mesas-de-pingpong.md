@@ -1,5 +1,6 @@
 ---
 title: Mesas de pingpong
+description: "GuÃ­a de mesas de ping pong: diferencias entre modelos de interior y exterior, materiales, medidas reglamentarias y quÃ© tener en cuenta antes de comprar."
 pubDate: '2025-02-22'
 updatedDate: '2025-08-13'
 category: materiales

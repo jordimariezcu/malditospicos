@@ -1,5 +1,6 @@
 ---
 title: "Zapatillas de tenis de mesa: guía para elegir las mejores"
+description: "Las mejores zapatillas para tenis de mesa: quÃ© caracterÃ­sticas buscar, diferencias con las de otros deportes y recomendaciones por presupuesto."
 pubDate: '2025-02-28'
 updatedDate: '2026-05-29'
 category: materiales
