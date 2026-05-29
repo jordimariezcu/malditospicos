@@ -1,8 +1,7 @@
 ---
-title: Fan Zhendong, un prodigio de la naturaleza
-description: Fan Zhendong es el campeón olímpico de París 2024 y el número 1 del mundo.
-  Descubre su topspin devastador y por qué se le considera el jugador más completo
-  de la historia.
+title: "Fan Zhendong: el mejor jugador de tenis de mesa del mundo"
+description: "Campéón olímpico en París 2024 y n.º 1 del mundo. Estilo de juego, pala y gomas
+  de Fan Zhendong, el jugador más completo de la historia del tenis de mesa."
 pubDate: '2025-07-06'
 updatedDate: '2025-08-10'
 category: jugadores
