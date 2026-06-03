@@ -7,7 +7,7 @@
       "headers": [
         {
           "key": "Content-Security-Policy",
-          "value": "default-src 'self'; script-src 'self' 'unsafe-inline' https://umami-production-c3fa.up.railway.app https://assets.mailerlite.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' https: data:; connect-src 'self' https://umami-production-c3fa.up.railway.app https://assets.mailerlite.com; form-action 'self' https://assets.mailerlite.com; frame-ancestors 'none';"
+          "value": "default-src 'self'; script-src 'self' 'unsafe-inline' https://umami-production-c3fa.up.railway.app https://assets.mailerlite.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' https: data:; connect-src 'self' https://umami-production-c3fa.up.railway.app https://assets.mailerlite.com; frame-src https://www.youtube.com https://youtube.com https://www.youtube-nocookie.com; form-action 'self' https://assets.mailerlite.com; frame-ancestors 'none';"
         },
         { "key": "X-Frame-Options",           "value": "DENY" },
         { "key": "X-Content-Type-Options",    "value": "nosniff" },
