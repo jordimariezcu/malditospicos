@@ -1,7 +1,7 @@
 ﻿---
 title: "World Table Tennis - WTT"
-pdescription: "World Table Tennis (WTT): todo sobre la organizaciÃ³n que rige el circuito profesional de tenis de mesa, sus torneos y cÃ³mo seguirla."
-ubDate: "2025-01-12"
+description: "World Table Tennis (WTT) es el canal oficial del circuito profesional de tenis de mesa. Partídos completos, resúmenes y cobertura de los mejores torneos del mundo."
+pubDate: "2025-01-12"
 updatedDate: "2025-08-14"
 category: "recursos"
 tags: ["Tenis de mesa en Youtube"]

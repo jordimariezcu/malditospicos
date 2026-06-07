@@ -1,9 +1,8 @@
 ---
-title: Goma lisa Loki RXTON 5
-description: La goma lisa Loki RXTON 5 cuesta unos 10 euros en Aliexpress. Analizamos
-  si esta económica goma de tenis de mesa da el nivel que promete.
+title: "Goma lisa Loki RXTON 5: análisis de una goma económica de AliExpress"
+description: "La Loki RXTON 5 es una goma lisa de tenis de mesa por menos de 10€ en AliExpress. Analizamos si da el nivel que promete para jugadores de iniciación."
 pubDate: '2026-03-10'
-updatedDate: '2026-03-29'
+updatedDate: '2026-06-07'
 category: gomas
 tags:
 - Gomas

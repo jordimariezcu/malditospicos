@@ -1,7 +1,7 @@
 ---
-title: Push (corte o toque corto/largo)
+title: "El push en tenis de mesa: toque corto y largo explicados"
 pubDate: '2025-06-30'
-updatedDate: '2025-08-06'
+updatedDate: '2026-06-07'
 category: tecnica
 tags:
 - Tipos de golpe

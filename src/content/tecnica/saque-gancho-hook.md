@@ -1,10 +1,10 @@
 ---
-title: Saque gancho (hook)
+title: "Saque gancho (hook) en tenis de mesa: ángulo exterior y efecto lateral"
 description: El saque gancho o hook sorprende por su ángulo exterior y su fuerte efecto
   lateral. Aprende cómo ejecutarlo, qué trayectoria curva genera y cuándo usarlo para
   abrir el juego.
 pubDate: '2025-06-03'
-updatedDate: '2025-08-06'
+updatedDate: '2026-06-07'
 category: tecnica
 tags:
 - Saques
