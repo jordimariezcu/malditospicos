@@ -44,7 +44,7 @@ export async function GET(context: APIContext) {
             width="1200"
             height="630"
           />
-          <author>malditospicos@gmail.com (Jordi — Malditos Picos)</author>
+          <author>malditospicos@gmail.com (Malditos Picos)</author>
           <category>${post.collection}</category>
         `.trim(),
       };
@@ -52,7 +52,7 @@ export async function GET(context: APIContext) {
     customData: `
       <language>es</language>
       <copyright>Malditos Picos ${new Date().getFullYear()}</copyright>
-      <managingEditor>malditospicos@gmail.com (Jordi — Malditos Picos)</managingEditor>
+      <managingEditor>malditospicos@gmail.com (Malditos Picos)</managingEditor>
       <image>
         <url>${defaultImage}</url>
         <title>Malditos Picos</title>
